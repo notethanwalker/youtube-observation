@@ -11,16 +11,14 @@ from pathlib import Path
 
 def run(cmd, *, capture=False):
     print('+', ' '.join(map(str, cmd)), flush=True)
-    p = subprocess.run(cmd, text=True, stdout=subprocess.PIPE if capture else None,
-                       stderr=subprocess.PIPE if capture else None)
-    if p.returncode != 0:
-        if capture:
-            if p.stdout:
-                print(p.stdout, flush=True)
-            if p.stderr:
-                print(p.stderr, flush=True)
-        raise subprocess.CalledProcessError(p.returncode, cmd, p.stdout, p.stderr)
-    return p.stdout if capture else None
+    if capture:
+        p = subprocess.run(cmd, check=False, text=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        if p.returncode != 0:
+            print(p.stdout, flush=True)
+            print(p.stderr, flush=True)
+            raise subprocess.CalledProcessError(p.returncode, cmd, p.stdout, p.stderr)
+        return p.stdout
+    subprocess.run(cmd, check=True)
 
 
 def safe_name(text: str) -> str:
@@ -29,24 +27,27 @@ def safe_name(text: str) -> str:
     return text[:100] or 'video'
 
 
-def ytdlp_base(client: str | None = None):
+def ytdlp_base(client: str | None, cookies_file: str | None):
     cmd = ['yt-dlp', '--no-warnings']
+    if cookies_file:
+        cmd += ['--cookies', cookies_file]
     if client:
         cmd += ['--extractor-args', f'youtube:player_client={client}']
     return cmd
 
 
-def probe_metadata(url: str):
+def probe_metadata(url: str, cookies_file: str | None):
     clients = [None, 'web_embedded', 'android_vr', 'tv_downgraded', 'ios']
     last = None
     for client in clients:
+        label = client or 'default'
+        print(f'Attempting metadata with client={label}', flush=True)
         try:
-            print(f'Attempting metadata with client={client or "default"}', flush=True)
-            out = run(ytdlp_base(client) + ['--dump-single-json', '--skip-download', url], capture=True)
+            out = run(ytdlp_base(client, cookies_file) + ['--dump-single-json', '--skip-download', url], capture=True)
             return json.loads(out), client
-        except subprocess.CalledProcessError as e:
+        except Exception as e:
             last = e
-            print(f'Metadata attempt failed for client={client or "default"}', flush=True)
+            print(f'Metadata attempt failed for client={label}', flush=True)
     raise last or RuntimeError('All metadata strategies failed')
 
 
@@ -56,6 +57,7 @@ def main():
     p.add_argument('--preset', choices=['standard', 'motion'], default='motion')
     p.add_argument('--max-height', type=int, choices=[360, 480, 720, 1080], default=1080)
     p.add_argument('--output', default='observation_output')
+    p.add_argument('--cookies-file', default=None)
     args = p.parse_args()
 
     for binary in ('yt-dlp', 'ffmpeg', 'ffprobe'):
@@ -65,7 +67,7 @@ def main():
     root = Path(args.output).resolve()
     root.mkdir(parents=True, exist_ok=True)
 
-    metadata, client = probe_metadata(args.url)
+    metadata, client = probe_metadata(args.url, args.cookies_file)
     vid = str(metadata.get('id', 'video'))
     title = safe_name(str(metadata.get('title', vid)))
     pack = root / f'{vid}-{title}'
@@ -81,24 +83,15 @@ def main():
     (meta / 'info.json').write_text(json.dumps(metadata, indent=2, ensure_ascii=False), encoding='utf-8')
 
     fmt = f'bv*[height<={args.max_height}]+ba/b[height<={args.max_height}]/best'
-    download_cmd = ytdlp_base(client) + [
-        args.url, '-f', fmt,
+    cmd = ytdlp_base(client, args.cookies_file) + [
+        args.url,
+        '-f', fmt,
         '--merge-output-format', 'mp4',
         '-o', str(source / 'source.%(ext)s'),
         '--write-subs', '--write-auto-subs', '--sub-langs', 'all,-live_chat',
         '--convert-subs', 'vtt', '--write-info-json', '--no-overwrites',
     ]
-    try:
-        run(download_cmd)
-    except subprocess.CalledProcessError:
-        # Last-resort broader client rotation. Useful when one client returns metadata
-        # but its media URLs are blocked on a datacenter IP.
-        run([
-            'yt-dlp', '--extractor-args',
-            'youtube:player_client=web_embedded,android_vr,tv_downgraded,ios',
-            args.url, '-f', fmt, '--merge-output-format', 'mp4',
-            '-o', str(source / 'source.%(ext)s'), '--write-info-json', '--no-overwrites'
-        ])
+    run(cmd)
 
     videos = sorted(p for p in source.iterdir() if p.suffix.lower() in {'.mp4', '.mkv', '.webm', '.mov'})
     if not videos:
@@ -123,20 +116,26 @@ def main():
     else:
         clip_seconds, sample_fps = 120, 0.5
 
-    run(['ffmpeg', '-hide_banner', '-loglevel', 'warning', '-y', '-i', str(video),
-         '-vn', '-c:a', 'aac', '-b:a', '128k', str(audio / 'audio.m4a')])
+    run([
+        'ffmpeg', '-hide_banner', '-loglevel', 'warning', '-y', '-i', str(video),
+        '-vn', '-c:a', 'aac', '-b:a', '128k', str(audio / 'audio.m4a')
+    ])
 
-    run(['ffmpeg', '-hide_banner', '-loglevel', 'warning', '-y', '-i', str(video),
-         '-vf', "scale=-2:'min(720,ih)'", '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '24',
-         '-c:a', 'aac', '-b:a', '128k',
-         '-force_key_frames', f'expr:gte(t,n_forced*{clip_seconds})',
-         '-f', 'segment', '-segment_time', str(clip_seconds), '-reset_timestamps', '1',
-         str(clips / 'clip_%04d.mp4')])
+    run([
+        'ffmpeg', '-hide_banner', '-loglevel', 'warning', '-y', '-i', str(video),
+        '-vf', "scale=-2:'min(720,ih)'", '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '24',
+        '-c:a', 'aac', '-b:a', '128k',
+        '-force_key_frames', f'expr:gte(t,n_forced*{clip_seconds})',
+        '-f', 'segment', '-segment_time', str(clip_seconds), '-reset_timestamps', '1',
+        str(clips / 'clip_%04d.mp4')
+    ])
 
     tile_count = 16
-    vf = (f'fps={sample_fps},scale=480:-2,'
-          "drawtext=text='%{pts\\:hms}':x=8:y=h-th-8:fontsize=20:fontcolor=white:box=1:boxcolor=black@0.65,"
-          f'tile=4x4:nb_frames={tile_count}:padding=2:margin=2')
+    vf = (
+        f'fps={sample_fps},scale=480:-2,'
+        "drawtext=text='%{pts\\:hms}':x=8:y=h-th-8:fontsize=20:fontcolor=white:box=1:boxcolor=black@0.65,"
+        f'tile=4x4:nb_frames={tile_count}:padding=2:margin=2'
+    )
     try:
         run(['ffmpeg', '-hide_banner', '-loglevel', 'warning', '-y', '-i', str(video), '-vf', vf,
              '-q:v', '3', str(sheets / 'sheet_%04d.jpg')])
@@ -152,16 +151,17 @@ def main():
         'duration_seconds': duration,
         'preset': args.preset,
         'max_height': args.max_height,
-        'player_client': client or 'default',
         'clip_seconds': clip_seconds,
         'contact_sheet_fps': sample_fps,
         'source_file': str(video.relative_to(pack)),
+        'authenticated': bool(args.cookies_file),
     }
     (pack / 'MANIFEST.json').write_text(json.dumps(manifest, indent=2), encoding='utf-8')
     (pack / 'README.txt').write_text(
         f"Title: {metadata.get('title')}\nDuration: {duration:.1f}s\nPreset: {args.preset}\n"
         f"Source: {video.name}\nClips: {clip_seconds}s each\nContact sheets: {sample_fps} sampled fps\n",
-        encoding='utf-8')
+        encoding='utf-8'
+    )
     print(f'PACK_PATH={pack}')
 
 
