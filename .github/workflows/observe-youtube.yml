@@ -95,14 +95,35 @@ jobs:
           yt-dlp --version
           ffmpeg -version | head -n 1
 
+      - name: Prepare YouTube cookies
+        id: cookies
+        shell: bash
+        env:
+          YOUTUBE_COOKIES_B64: ${{ secrets.YOUTUBE_COOKIES_B64 }}
+        run: |
+          if [ -n "$YOUTUBE_COOKIES_B64" ]; then
+            printf '%s' "$YOUTUBE_COOKIES_B64" | base64 --decode > youtube_cookies.txt
+            chmod 600 youtube_cookies.txt
+            echo "arg=--cookies-file youtube_cookies.txt" >> "$GITHUB_OUTPUT"
+            echo "YouTube cookies secret detected."
+          else
+            echo "arg=" >> "$GITHUB_OUTPUT"
+            echo "No YouTube cookies secret configured; using anonymous extraction."
+          fi
+
       - name: Build observation pack
         shell: bash
         run: |
+          COOKIE_ARGS=()
+          if [ -f youtube_cookies.txt ]; then
+            COOKIE_ARGS=(--cookies-file youtube_cookies.txt)
+          fi
           python3 scripts/ingest.py \
             "${{ steps.request.outputs.url }}" \
             --preset "${{ steps.request.outputs.preset }}" \
             --max-height "${{ steps.request.outputs.height }}" \
-            --output observation_output
+            --output observation_output \
+            "${COOKIE_ARGS[@]}"
 
       - name: Summarize output
         if: success()
