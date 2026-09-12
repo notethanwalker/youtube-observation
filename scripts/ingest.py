@@ -1,0 +1,137 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import argparse
+import json
+import re
+import shutil
+import subprocess
+from pathlib import Path
+
+
+def run(cmd, *, capture=False):
+    print('+', ' '.join(map(str, cmd)), flush=True)
+    if capture:
+        return subprocess.run(cmd, check=True, text=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE).stdout
+    subprocess.run(cmd, check=True)
+
+
+def safe_name(text: str) -> str:
+    text = re.sub(r'[<>:"/\\|?*\x00-\x1f]', '_', text)
+    text = re.sub(r'\s+', ' ', text).strip(' .')
+    return text[:100] or 'video'
+
+
+def main():
+    p = argparse.ArgumentParser()
+    p.add_argument('url')
+    p.add_argument('--preset', choices=['standard', 'motion'], default='motion')
+    p.add_argument('--max-height', type=int, choices=[360, 480, 720, 1080], default=1080)
+    p.add_argument('--output', default='observation_output')
+    args = p.parse_args()
+
+    for binary in ('yt-dlp', 'ffmpeg', 'ffprobe'):
+        if not shutil.which(binary):
+            raise SystemExit(f'Missing required binary: {binary}')
+
+    root = Path(args.output).resolve()
+    root.mkdir(parents=True, exist_ok=True)
+
+    metadata = json.loads(run(['yt-dlp', '--dump-single-json', '--skip-download', args.url], capture=True))
+    vid = str(metadata.get('id', 'video'))
+    title = safe_name(str(metadata.get('title', vid)))
+    pack = root / f'{vid}-{title}'
+    source = pack / 'source'
+    clips = pack / 'clips'
+    sheets = pack / 'contact_sheets'
+    audio = pack / 'audio'
+    captions = pack / 'captions'
+    meta = pack / 'metadata'
+    for d in (source, clips, sheets, audio, captions, meta):
+        d.mkdir(parents=True, exist_ok=True)
+
+    (meta / 'info.json').write_text(json.dumps(metadata, indent=2, ensure_ascii=False), encoding='utf-8')
+
+    fmt = f'bv*[height<={args.max_height}]+ba/b[height<={args.max_height}]/best'
+    run([
+        'yt-dlp', args.url,
+        '-f', fmt,
+        '--merge-output-format', 'mp4',
+        '-o', str(source / 'source.%(ext)s'),
+        '--write-subs', '--write-auto-subs', '--sub-langs', 'all,-live_chat',
+        '--convert-subs', 'vtt', '--write-info-json', '--no-overwrites',
+    ])
+
+    videos = sorted(p for p in source.iterdir() if p.suffix.lower() in {'.mp4', '.mkv', '.webm', '.mov'})
+    if not videos:
+        raise SystemExit('No source video produced.')
+    video = videos[0]
+
+    for f in list(source.iterdir()):
+        if f == video:
+            continue
+        if f.suffix.lower() in {'.vtt', '.srt', '.ass'}:
+            shutil.move(str(f), captions / f.name)
+        elif f.name.endswith('.info.json'):
+            shutil.move(str(f), meta / 'yt-dlp.info.json')
+
+    duration = float(run([
+        'ffprobe', '-v', 'error', '-show_entries', 'format=duration',
+        '-of', 'default=noprint_wrappers=1:nokey=1', str(video)
+    ], capture=True).strip())
+
+    if args.preset == 'motion':
+        clip_seconds, sample_fps = 60, 2.0
+    else:
+        clip_seconds, sample_fps = 120, 0.5
+
+    run([
+        'ffmpeg', '-hide_banner', '-loglevel', 'warning', '-y', '-i', str(video),
+        '-vn', '-c:a', 'aac', '-b:a', '128k', str(audio / 'audio.m4a')
+    ])
+
+    run([
+        'ffmpeg', '-hide_banner', '-loglevel', 'warning', '-y', '-i', str(video),
+        '-vf', "scale=-2:'min(720,ih)'", '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '24',
+        '-c:a', 'aac', '-b:a', '128k',
+        '-force_key_frames', f'expr:gte(t,n_forced*{clip_seconds})',
+        '-f', 'segment', '-segment_time', str(clip_seconds), '-reset_timestamps', '1',
+        str(clips / 'clip_%04d.mp4')
+    ])
+
+    tile_count = 16
+    vf = (
+        f'fps={sample_fps},scale=480:-2,'
+        "drawtext=text='%{pts\\:hms}':x=8:y=h-th-8:fontsize=20:fontcolor=white:box=1:boxcolor=black@0.65,"
+        f'tile=4x4:nb_frames={tile_count}:padding=2:margin=2'
+    )
+    try:
+        run(['ffmpeg', '-hide_banner', '-loglevel', 'warning', '-y', '-i', str(video), '-vf', vf,
+             '-q:v', '3', str(sheets / 'sheet_%04d.jpg')])
+    except subprocess.CalledProcessError:
+        vf = f'fps={sample_fps},scale=480:-2,tile=4x4:nb_frames={tile_count}:padding=2:margin=2'
+        run(['ffmpeg', '-hide_banner', '-loglevel', 'warning', '-y', '-i', str(video), '-vf', vf,
+             '-q:v', '3', str(sheets / 'sheet_%04d.jpg')])
+
+    manifest = {
+        'url': args.url,
+        'video_id': vid,
+        'title': metadata.get('title'),
+        'duration_seconds': duration,
+        'preset': args.preset,
+        'max_height': args.max_height,
+        'clip_seconds': clip_seconds,
+        'contact_sheet_fps': sample_fps,
+        'source_file': str(video.relative_to(pack)),
+    }
+    (pack / 'MANIFEST.json').write_text(json.dumps(manifest, indent=2), encoding='utf-8')
+    (pack / 'README.txt').write_text(
+        f"Title: {metadata.get('title')}\nDuration: {duration:.1f}s\nPreset: {args.preset}\n"
+        f"Source: {video.name}\nClips: {clip_seconds}s each\nContact sheets: {sample_fps} sampled fps\n",
+        encoding='utf-8'
+    )
+    print(f'PACK_PATH={pack}')
+
+
+if __name__ == '__main__':
+    main()
