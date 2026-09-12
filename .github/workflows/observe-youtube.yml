@@ -25,12 +25,13 @@ on:
           - '720'
           - '480'
           - '360'
-  issues:
-    types: [opened]
+  push:
+    branches: [main]
+    paths:
+      - 'requests/current.json'
 
 permissions:
   contents: read
-  issues: read
 
 concurrency:
   group: youtube-observation-${{ github.run_id }}
@@ -38,11 +39,6 @@ concurrency:
 
 jobs:
   observe:
-    if: >-
-      github.event_name == 'workflow_dispatch' ||
-      (github.event_name == 'issues' &&
-       github.event.issue.user.login == github.repository_owner &&
-       startsWith(github.event.issue.title, 'OBSERVE'))
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
@@ -60,7 +56,7 @@ jobs:
           DISPATCH_HEIGHT: ${{ inputs.max_height }}
         run: |
           python3 - <<'PY'
-          import json, os, re
+          import json, os
           from pathlib import Path
 
           if os.environ['EVENT_NAME'] == 'workflow_dispatch':
@@ -68,17 +64,13 @@ jobs:
               preset = os.environ.get('DISPATCH_PRESET', 'motion').strip() or 'motion'
               height = os.environ.get('DISPATCH_HEIGHT', '1080').strip() or '1080'
           else:
-              event = json.loads(Path(os.environ['GITHUB_EVENT_PATH']).read_text(encoding='utf-8'))
-              body = event.get('issue', {}).get('body') or ''
-              match = re.search(r'https?://(?:www\.)?(?:youtube\.com/[^\s]+|youtu\.be/[^\s]+)', body, re.I)
-              if not match:
-                  raise SystemExit('No YouTube URL found in owner OBSERVE issue body.')
-              url = match.group(0).rstrip(').,]>}')
-              pm = re.search(r'(?im)^\s*preset\s*:\s*(motion|standard)\s*$', body)
-              hm = re.search(r'(?im)^\s*height\s*:\s*(360|480|720|1080)\s*$', body)
-              preset = pm.group(1).lower() if pm else 'motion'
-              height = hm.group(1) if hm else '1080'
+              request = json.loads(Path('requests/current.json').read_text(encoding='utf-8'))
+              url = str(request.get('url', '')).strip()
+              preset = str(request.get('preset', 'motion')).strip().lower() or 'motion'
+              height = str(request.get('max_height', '1080')).strip() or '1080'
 
+          if not (url.startswith('https://youtu.be/') or 'youtube.com/' in url):
+              raise SystemExit('Request does not contain a supported YouTube URL.')
           if preset not in {'motion', 'standard'}:
               raise SystemExit(f'Invalid preset: {preset}')
           if height not in {'360', '480', '720', '1080'}:
