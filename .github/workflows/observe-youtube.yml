@@ -1,0 +1,135 @@
+name: Observe YouTube
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: YouTube URL
+        required: true
+        type: string
+      preset:
+        description: Analysis preset
+        required: true
+        default: motion
+        type: choice
+        options:
+          - motion
+          - standard
+      max_height:
+        description: Maximum source height
+        required: true
+        default: '1080'
+        type: choice
+        options:
+          - '1080'
+          - '720'
+          - '480'
+          - '360'
+  issues:
+    types: [opened]
+
+permissions:
+  contents: read
+  issues: read
+
+concurrency:
+  group: youtube-observation-${{ github.run_id }}
+  cancel-in-progress: false
+
+jobs:
+  observe:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'issues' &&
+       github.event.issue.user.login == github.repository_owner &&
+       startsWith(github.event.issue.title, 'OBSERVE'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Resolve request
+        id: request
+        shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          DISPATCH_URL: ${{ inputs.url }}
+          DISPATCH_PRESET: ${{ inputs.preset }}
+          DISPATCH_HEIGHT: ${{ inputs.max_height }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re
+          from pathlib import Path
+
+          if os.environ['EVENT_NAME'] == 'workflow_dispatch':
+              url = os.environ.get('DISPATCH_URL', '').strip()
+              preset = os.environ.get('DISPATCH_PRESET', 'motion').strip() or 'motion'
+              height = os.environ.get('DISPATCH_HEIGHT', '1080').strip() or '1080'
+          else:
+              event = json.loads(Path(os.environ['GITHUB_EVENT_PATH']).read_text(encoding='utf-8'))
+              body = event.get('issue', {}).get('body') or ''
+              match = re.search(r'https?://(?:www\.)?(?:youtube\.com/[^\s]+|youtu\.be/[^\s]+)', body, re.I)
+              if not match:
+                  raise SystemExit('No YouTube URL found in owner OBSERVE issue body.')
+              url = match.group(0).rstrip(').,]>}')
+              pm = re.search(r'(?im)^\s*preset\s*:\s*(motion|standard)\s*$', body)
+              hm = re.search(r'(?im)^\s*height\s*:\s*(360|480|720|1080)\s*$', body)
+              preset = pm.group(1).lower() if pm else 'motion'
+              height = hm.group(1) if hm else '1080'
+
+          if preset not in {'motion', 'standard'}:
+              raise SystemExit(f'Invalid preset: {preset}')
+          if height not in {'360', '480', '720', '1080'}:
+              raise SystemExit(f'Invalid height: {height}')
+
+          out = Path(os.environ['GITHUB_OUTPUT'])
+          with out.open('a', encoding='utf-8') as f:
+              f.write(f'url={url}\n')
+              f.write(f'preset={preset}\n')
+              f.write(f'height={height}\n')
+          print(f'URL: {url}')
+          print(f'Preset: {preset}')
+          print(f'Max height: {height}')
+          PY
+
+      - name: Install media tools
+        shell: bash
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+          python3 -m pip install --upgrade pip yt-dlp
+          yt-dlp --version
+          ffmpeg -version | head -n 1
+
+      - name: Build observation pack
+        shell: bash
+        run: |
+          python3 scripts/ingest.py \
+            "${{ steps.request.outputs.url }}" \
+            --preset "${{ steps.request.outputs.preset }}" \
+            --max-height "${{ steps.request.outputs.height }}" \
+            --output observation_output
+
+      - name: Summarize output
+        if: success()
+        shell: bash
+        run: |
+          echo '## YouTube Observation' >> "$GITHUB_STEP_SUMMARY"
+          echo '' >> "$GITHUB_STEP_SUMMARY"
+          echo "Preset: ${{ steps.request.outputs.preset }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "Max height: ${{ steps.request.outputs.height }}" >> "$GITHUB_STEP_SUMMARY"
+          echo '' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Generated files:' >> "$GITHUB_STEP_SUMMARY"
+          find observation_output -type f -printf '%p (%k KB)\n' | sort | sed 's/^/- /' >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload observation artifact
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: youtube-observation-${{ github.run_id }}
+          path: observation_output/
+          retention-days: 7
+          if-no-files-found: error
+          compression-level: 0
