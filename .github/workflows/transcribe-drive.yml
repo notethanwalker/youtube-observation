@@ -36,7 +36,7 @@ jobs:
       - name: Transcribe narration
         run: |
           mkdir -p transcript
-          whisper audio.wav --model base.en --language en --task transcribe --fp16 False --output_dir transcript --output_format all
+          whisper audio.wav --model tiny.en --language en --task transcribe --fp16 False --output_dir transcript --output_format all
       - name: Upload transcript
         uses: actions/upload-artifact@v4
         with:
