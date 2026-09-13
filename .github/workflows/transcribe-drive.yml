@@ -1,0 +1,46 @@
+name: Transcribe Drive Video
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'requests/transcribe.json'
+
+permissions:
+  contents: read
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install transcription tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+          python3 -m pip install --upgrade pip
+          python3 -m pip install gdown openai-whisper
+      - name: Download and extract audio
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          req=json.loads(Path('requests/transcribe.json').read_text())
+          drive_id=req['drive_id']
+          Path('drive_id.txt').write_text(drive_id)
+          PY
+          DRIVE_ID=$(cat drive_id.txt)
+          gdown --id "$DRIVE_ID" -O input.mkv
+          ffmpeg -hide_banner -loglevel error -i input.mkv -vn -ac 1 -ar 16000 -c:a pcm_s16le audio.wav
+      - name: Transcribe narration
+        run: |
+          mkdir -p transcript
+          whisper audio.wav --model base.en --language en --task transcribe --fp16 False --output_dir transcript --output_format all
+      - name: Upload transcript
+        uses: actions/upload-artifact@v4
+        with:
+          name: drive-video-transcript-${{ github.run_id }}
+          path: transcript/
+          retention-days: 3
+          if-no-files-found: error
