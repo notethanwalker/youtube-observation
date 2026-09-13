@@ -31,7 +31,7 @@ jobs:
           Path('drive_id.txt').write_text(drive_id)
           PY
           DRIVE_ID=$(cat drive_id.txt)
-          gdown --id "$DRIVE_ID" -O input.mkv
+          gdown "$DRIVE_ID" -O input.mkv
           ffmpeg -hide_banner -loglevel error -i input.mkv -vn -ac 1 -ar 16000 -c:a pcm_s16le audio.wav
       - name: Transcribe narration
         run: |
