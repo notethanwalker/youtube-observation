@@ -11,7 +11,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-          set -e
-          curl -sS -D /tmp/headers 'https://api.firestorage.ai/dev/file/shares/8LrW-NVUGC2d/files?maxResults=1000' -o /tmp/body
-          cat /tmp/headers
-          cat /tmp/body
+          set +e
+          S='8LrW-NVUGC2d'; F='01a09da8e31573158292fc4b1b594487'; B='https://api.firestorage.ai/dev/file'
+          for U in \
+            "$B/shares/$S/files/$F/download" \
+            "$B/shares/$S/files/$F/download-url" \
+            "$B/shares/$S/files/$F" \
+            "$B/files/$F/download" \
+            "$B/download/$F"; do
+            echo "=== $U ==="
+            curl -sS -L -o /tmp/out -w 'STATUS=%{http_code} TYPE=%{content_type} SIZE=%{size_download} URL=%{url_effective}\n' --max-time 15 "$U"
+            head -c 300 /tmp/out | strings | head -4
+          done
