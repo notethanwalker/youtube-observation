@@ -11,15 +11,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-          set +e
-          S='8LrW-NVUGC2d'; F='01a09da8e31573158292fc4b1b594487'; B='https://api.firestorage.ai/dev/file'
-          for U in \
-            "$B/shares/$S/files/$F/download" \
-            "$B/shares/$S/files/$F/download-url" \
-            "$B/shares/$S/files/$F" \
-            "$B/files/$F/download" \
-            "$B/download/$F"; do
-            echo "=== $U ==="
-            curl -sS -L -o /tmp/out -w 'STATUS=%{http_code} TYPE=%{content_type} SIZE=%{size_download} URL=%{url_effective}\n' --max-time 15 "$U"
-            head -c 300 /tmp/out | strings | head -4
-          done
+          python3 -m pip install -q selenium
+          python3 - <<'PY'
+          import json,time
+          from selenium import webdriver
+          from selenium.webdriver.common.by import By
+          from selenium.webdriver.support.ui import WebDriverWait
+          from selenium.webdriver.support import expected_conditions as EC
+          opts=webdriver.ChromeOptions(); opts.add_argument('--headless=new'); opts.add_argument('--no-sandbox'); opts.add_argument('--disable-dev-shm-usage'); opts.add_argument('--window-size=1440,1200')
+          opts.set_capability('goog:loggingPrefs', {'performance':'ALL'})
+          d=webdriver.Chrome(options=opts)
+          try:
+            d.get('https://firestorage.ai/ja/f/8LrW-NVUGC2d')
+            b=WebDriverWait(d,25).until(EC.presence_of_element_located((By.XPATH,"//button[contains(., 'ダウンロード') or contains(., 'Download')]")))
+            d.execute_script("arguments[0].scrollIntoView({block:'center'}); arguments[0].click();",b)
+            time.sleep(8)
+            seen=set()
+            for entry in d.get_log('performance'):
+              msg=json.loads(entry['message'])['message']
+              if msg['method']!='Network.requestWillBeSent': continue
+              u=msg['params']['request']['url']
+              if u in seen: continue
+              seen.add(u)
+              if any(k in u.lower() for k in ['firestorage','amazonaws','cloudfront','download','presign','signed']): print(u)
+          finally: d.quit()
+          PY
