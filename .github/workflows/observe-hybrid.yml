@@ -40,33 +40,26 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Find installed Python
+      - name: Install portable capture tools
         shell: powershell
         run: |
-          $candidates = @()
-          $candidates += Get-ChildItem 'C:\Program Files' -Filter python.exe -Recurse -ErrorAction SilentlyContinue
-          $candidates += Get-ChildItem 'C:\Users' -Filter python.exe -Recurse -ErrorAction SilentlyContinue | Where-Object { $_.FullName -match 'AppData\\Local\\Programs\\Python' }
-          $python = $candidates | Sort-Object FullName -Descending | Select-Object -First 1
-          if (-not $python) { throw 'No installed Python executable found on this PC.' }
-          $pythonDir = Split-Path $python.FullName -Parent
-          Write-Host ('Using Python: ' + $python.FullName)
-          $pythonDir | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
+          $toolDir = Join-Path $env:RUNNER_TEMP "youtube-observation-tools"
+          if (Test-Path $toolDir) { Remove-Item $toolDir -Recurse -Force }
+          New-Item -ItemType Directory -Path $toolDir | Out-Null
 
-      - name: Install capture tools
-        shell: powershell
-        run: |
-          python -m pip install --upgrade pip yt-dlp
+          $yt = Join-Path $toolDir "yt-dlp.exe"
+          Invoke-WebRequest -Uri "https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe" -OutFile $yt
 
-          $zip = Join-Path $env:RUNNER_TEMP "rclone.zip"
-          $dir = Join-Path $env:RUNNER_TEMP "rclone"
-          if (Test-Path $dir) { Remove-Item $dir -Recurse -Force }
+          $zip = Join-Path $toolDir "rclone.zip"
+          $rcloneExtract = Join-Path $toolDir "rclone"
           Invoke-WebRequest -Uri "https://downloads.rclone.org/rclone-current-windows-amd64.zip" -OutFile $zip
-          Expand-Archive -Path $zip -DestinationPath $dir -Force
-          $exe = Get-ChildItem $dir -Filter rclone.exe -Recurse | Select-Object -First 1
-          if (-not $exe) { throw "rclone.exe not found after extraction" }
-          $rcloneDir = Split-Path $exe.FullName -Parent
-          $rcloneDir | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
+          Expand-Archive -Path $zip -DestinationPath $rcloneExtract -Force
 
+          $rclone = Get-ChildItem $rcloneExtract -Filter rclone.exe -Recurse | Select-Object -First 1
+          if (-not $rclone) { throw "rclone.exe not found after extraction" }
+
+          "YT_DLP_EXE=$yt" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+          "RCLONE_EXE=$($rclone.FullName)" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
       - name: Resolve request
         id: request
         shell: powershell
@@ -114,36 +107,50 @@ jobs:
       - name: Verify capture tools
         shell: powershell
         run: |
-          python --version
-          yt-dlp --version
-          rclone version | Select-Object -First 1
-          rclone lsf youtube-drive: --max-depth 1 | Out-Null
-
+          & $env:YT_DLP_EXE --version
+          & $env:RCLONE_EXE version | Select-Object -First 1
+          & $env:RCLONE_EXE lsf youtube-drive: --max-depth 1 | Out-Null
+          if ($LASTEXITCODE -ne 0) { throw "Google Drive remote verification failed" }
       - name: Stream YouTube directly to Google Drive
         id: capture
         shell: powershell
         run: |
-          $args = @(
-            "scripts\stream_to_drive.py",
-            "${{ steps.request.outputs.url }}",
-            "--remote", "youtube-drive:",
-            "--max-height", "${{ steps.request.outputs.height }}",
-            "--cookies-file", $env:YOUTUBE_COOKIE_FILE
-          )
+          $url = "${{ steps.request.outputs.url }}"
+          $height = "${{ steps.request.outputs.height }}"
+          $format = "b[height<=$height]/b"
 
-          $out = & python @args
-          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+          $metaJson = & $env:YT_DLP_EXE --no-warnings --cookies $env:YOUTUBE_COOKIE_FILE -f $format --dump-single-json --skip-download $url
+          if ($LASTEXITCODE -ne 0 -or -not $metaJson) { throw "yt-dlp metadata extraction failed" }
 
-          $resultLine = $out | Where-Object { $_ -like "RESULT_JSON=*" } | Select-Object -Last 1
-          if (-not $resultLine) { throw "No RESULT_JSON returned by stream_to_drive.py" }
+          $meta = ($metaJson -join [Environment]::NewLine) | ConvertFrom-Json
+          $videoId = [string]$meta.id
+          $title = [string]$meta.title
+          $ext = [string]$meta.ext
+          if (-not $ext) { $ext = "mp4" }
 
-          $j = ($resultLine.Substring("RESULT_JSON=".Length) | ConvertFrom-Json)
-          "video_id=$($j.video_id)" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
-          "title=$($j.title)" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
-          "ext=$($j.ext)" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
-          "remote_path=$($j.remote_path)" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
-          "source_url=$($j.source_url)" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          $safeTitle = $title -replace '[<>:"/\\|?*]', '_'
+          $safeTitle = ($safeTitle -replace '\s+', ' ').Trim().TrimEnd('.')
+          if ($safeTitle.Length -gt 100) { $safeTitle = $safeTitle.Substring(0,100).Trim() }
+          if (-not $safeTitle) { $safeTitle = $videoId }
+          $remotePath = "$videoId - $safeTitle.$ext"
 
+          Write-Host "Streaming directly to Google Drive: $remotePath"
+
+          $cmdFile = Join-Path $env:RUNNER_TEMP "stream-youtube.cmd"
+          $line = ('"{0}" --no-warnings --cookies "{1}" -f "{2}" -o - "{3}" ^| "{4}" rcat "youtube-drive:{5}" --stats 15s --stats-one-line --drive-chunk-size 32M' -f $env:YT_DLP_EXE,$env:YOUTUBE_COOKIE_FILE,$format,$url,$env:RCLONE_EXE,$remotePath)
+          [System.IO.File]::WriteAllText($cmdFile, "@echo off`r`n$line`r`nexit /b %ERRORLEVEL%`r`n")
+
+          & cmd.exe /d /c $cmdFile
+          if ($LASTEXITCODE -ne 0) { throw "Direct YouTube-to-Drive stream failed with exit code $LASTEXITCODE" }
+
+          $size = & $env:RCLONE_EXE size "youtube-drive:$remotePath" --json | ConvertFrom-Json
+          if (-not $size -or [int64]$size.bytes -le 0) { throw "Uploaded Drive object is missing or empty" }
+
+          "video_id=$videoId" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          "title=$title" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          "ext=$ext" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          "remote_path=$remotePath" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          "source_url=$url" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
       - name: Remove temporary capture credentials
         if: always()
         shell: powershell
