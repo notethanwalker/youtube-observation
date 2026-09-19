@@ -42,7 +42,7 @@ jobs:
 
       - name: Resolve request
         id: request
-        shell: pwsh
+        shell: powershell
         run: |
           if ("${{ github.event_name }}" -eq "workflow_dispatch") {
             $url = "${{ inputs.url }}"
@@ -56,35 +56,73 @@ jobs:
             $height = [string]$r.max_height
             if (-not $height -or $height -eq "1080") { $height = "720" }
           }
-          "url=$url" >> $env:GITHUB_OUTPUT
-          "preset=$preset" >> $env:GITHUB_OUTPUT
-          "height=$height" >> $env:GITHUB_OUTPUT
+          "url=$url" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          "preset=$preset" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          "height=$height" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+
+      - name: Restore capture credentials
+        shell: powershell
+        env:
+          YOUTUBE_COOKIES_B64: ${{ secrets.YOUTUBE_COOKIES_B64 }}
+          RCLONE_CONFIG_B64: ${{ secrets.RCLONE_CONFIG_B64 }}
+        run: |
+          if (-not $env:YOUTUBE_COOKIES_B64) { throw "YOUTUBE_COOKIES_B64 secret is missing" }
+          if (-not $env:RCLONE_CONFIG_B64) { throw "RCLONE_CONFIG_B64 secret is missing" }
+
+          $cookiePath = Join-Path $env:RUNNER_TEMP "youtube_cookies.txt"
+          $rclonePath = Join-Path $env:RUNNER_TEMP "rclone.conf"
+
+          [System.IO.File]::WriteAllBytes(
+            $cookiePath,
+            [Convert]::FromBase64String($env:YOUTUBE_COOKIES_B64)
+          )
+          [System.IO.File]::WriteAllBytes(
+            $rclonePath,
+            [Convert]::FromBase64String($env:RCLONE_CONFIG_B64)
+          )
+
+          "YOUTUBE_COOKIE_FILE=$cookiePath" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+          "RCLONE_CONFIG=$rclonePath" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+
+      - name: Verify capture tools
+        shell: powershell
+        run: |
+          python --version
+          yt-dlp --version
+          rclone version | Select-Object -First 1
+          rclone lsf youtube-drive: --max-depth 1 | Out-Null
 
       - name: Stream YouTube directly to Google Drive
         id: capture
-        shell: pwsh
+        shell: powershell
         run: |
-          $cookie = Join-Path $env:USERPROFILE "Downloads\youtube_cookies.txt"
           $args = @(
             "scripts\stream_to_drive.py",
             "${{ steps.request.outputs.url }}",
             "--remote", "youtube-drive:",
-            "--browser", "firefox",
-            "--max-height", "${{ steps.request.outputs.height }}"
+            "--max-height", "${{ steps.request.outputs.height }}",
+            "--cookies-file", $env:YOUTUBE_COOKIE_FILE
           )
-          if (Test-Path $cookie) {
-            $args += @("--cookies-file", $cookie)
-          }
+
           $out = & python @args
           if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+
           $resultLine = $out | Where-Object { $_ -like "RESULT_JSON=*" } | Select-Object -Last 1
           if (-not $resultLine) { throw "No RESULT_JSON returned by stream_to_drive.py" }
+
           $j = ($resultLine.Substring("RESULT_JSON=".Length) | ConvertFrom-Json)
-          "video_id=$($j.video_id)" >> $env:GITHUB_OUTPUT
-          "title=$($j.title)" >> $env:GITHUB_OUTPUT
-          "ext=$($j.ext)" >> $env:GITHUB_OUTPUT
-          "remote_path=$($j.remote_path)" >> $env:GITHUB_OUTPUT
-          "source_url=$($j.source_url)" >> $env:GITHUB_OUTPUT
+          "video_id=$($j.video_id)" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          "title=$($j.title)" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          "ext=$($j.ext)" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          "remote_path=$($j.remote_path)" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          "source_url=$($j.source_url)" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+
+      - name: Remove temporary capture credentials
+        if: always()
+        shell: powershell
+        run: |
+          Remove-Item $env:YOUTUBE_COOKIE_FILE -Force -ErrorAction SilentlyContinue
+          Remove-Item $env:RCLONE_CONFIG -Force -ErrorAction SilentlyContinue
 
   process:
     needs: capture
