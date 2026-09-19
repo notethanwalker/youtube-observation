@@ -117,13 +117,16 @@ jobs:
         run: |
           $url = "${{ steps.request.outputs.url }}"
           $height = "${{ steps.request.outputs.height }}"
-          $format = "b[height<=$height]/b"
+          $format = "bv*[height<=$height]/b[height<=$height]/best"
 
           $attempts = @(
             @{ Name = 'cookies-default'; Cookies = $true; Client = $null },
+            @{ Name = 'cookies-web-safari'; Cookies = $true; Client = 'web_safari' },
             @{ Name = 'cookies-web-embedded'; Cookies = $true; Client = 'web_embedded' },
             @{ Name = 'anonymous-default'; Cookies = $false; Client = $null },
-            @{ Name = 'anonymous-web-embedded'; Cookies = $false; Client = 'web_embedded' }
+            @{ Name = 'anonymous-web-safari'; Cookies = $false; Client = 'web_safari' },
+            @{ Name = 'anonymous-web-embedded'; Cookies = $false; Client = 'web_embedded' },
+            @{ Name = 'anonymous-android-vr'; Cookies = $false; Client = 'android_vr' }
           )
 
           $meta = $null
@@ -134,7 +137,7 @@ jobs:
             $args = @('--no-warnings')
             if ($a.Cookies) { $args += @('--cookies', $env:YOUTUBE_COOKIE_FILE) }
             if ($a.Client) { $args += @('--extractor-args', ('youtube:player_client=' + $a.Client)) }
-            $args += @('-f', $format, '--dump-single-json', '--skip-download', $url)
+            $args += @('--dump-single-json', '--skip-download', '--ignore-no-formats-error', $url)
 
             $metaJson = & $env:YT_DLP_EXE @args
             if ($LASTEXITCODE -eq 0 -and $metaJson) {
