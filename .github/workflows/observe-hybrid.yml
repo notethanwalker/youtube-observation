@@ -170,7 +170,11 @@ jobs:
           foreach ($a in $attempts) {
             Write-Host ('Download attempt: ' + $a.Name)
 
-            & $env:RCLONE_EXE deletefile ("youtube-drive:" + $remotePath) 2>$null
+            $oldEap = $ErrorActionPreference
+            $ErrorActionPreference = 'Continue'
+            & $env:RCLONE_EXE deletefile ("youtube-drive:" + $remotePath) *> $null
+            $ErrorActionPreference = $oldEap
+            $global:LASTEXITCODE = 0
 
             $ytArgs = @('--no-warnings')
             if ($a.Cookies) { $ytArgs += @('--cookies', $env:YOUTUBE_COOKIE_FILE) }
@@ -207,7 +211,11 @@ jobs:
           }
 
           if (-not $uploaded) {
-            & $env:RCLONE_EXE deletefile ("youtube-drive:" + $remotePath) 2>$null
+            $oldEap = $ErrorActionPreference
+            $ErrorActionPreference = 'Continue'
+            & $env:RCLONE_EXE deletefile ("youtube-drive:" + $remotePath) *> $null
+            $ErrorActionPreference = $oldEap
+            $global:LASTEXITCODE = 0
             throw 'All YouTube download strategies failed or produced empty files'
           }
 
