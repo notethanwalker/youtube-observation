@@ -50,20 +50,34 @@ def main():
     else:
         clip_seconds, sample_fps = 120, 0.5
 
-    run([
-        "ffmpeg", "-hide_banner", "-loglevel", "warning", "-y", "-i", str(video),
-        "-vn", "-c:a", "aac", "-b:a", "128k", str(audio / "audio.m4a")
-    ])
+    audio_streams = run([
+        "ffprobe", "-v", "error", "-select_streams", "a",
+        "-show_entries", "stream=index",
+        "-of", "csv=p=0", str(video)
+    ], capture=True).strip()
+    has_audio = bool(audio_streams)
 
-    run([
+    if has_audio:
+        run([
+            "ffmpeg", "-hide_banner", "-loglevel", "warning", "-y", "-i", str(video),
+            "-vn", "-c:a", "aac", "-b:a", "128k", str(audio / "audio.m4a")
+        ])
+
+    clip_cmd = [
         "ffmpeg", "-hide_banner", "-loglevel", "warning", "-y", "-i", str(video),
         "-vf", "scale=-2:'min(720,ih)'",
         "-c:v", "libx264", "-preset", "veryfast", "-crf", "24",
-        "-c:a", "aac", "-b:a", "128k",
+    ]
+    if has_audio:
+        clip_cmd += ["-c:a", "aac", "-b:a", "128k"]
+    else:
+        clip_cmd += ["-an"]
+    clip_cmd += [
         "-force_key_frames", f"expr:gte(t,n_forced*{clip_seconds})",
         "-f", "segment", "-segment_time", str(clip_seconds), "-reset_timestamps", "1",
         str(clips / "clip_%04d.mp4")
-    ])
+    ]
+    run(clip_cmd)
 
     tile_count = 16
     vf = (
@@ -95,6 +109,7 @@ def main():
         "clip_seconds": clip_seconds,
         "contact_sheet_fps": sample_fps,
         "source_file_name": video.name,
+        "has_audio": has_audio,
     }
     (root / "MANIFEST.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
     (meta / "source.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
