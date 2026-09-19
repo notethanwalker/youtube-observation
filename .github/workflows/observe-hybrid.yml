@@ -40,6 +40,26 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install capture tools
+        shell: powershell
+        run: |
+          python -m pip install --upgrade pip yt-dlp
+
+          $zip = Join-Path $env:RUNNER_TEMP "rclone.zip"
+          $dir = Join-Path $env:RUNNER_TEMP "rclone"
+          if (Test-Path $dir) { Remove-Item $dir -Recurse -Force }
+          Invoke-WebRequest -Uri "https://downloads.rclone.org/rclone-current-windows-amd64.zip" -OutFile $zip
+          Expand-Archive -Path $zip -DestinationPath $dir -Force
+          $exe = Get-ChildItem $dir -Filter rclone.exe -Recurse | Select-Object -First 1
+          if (-not $exe) { throw "rclone.exe not found after extraction" }
+          $rcloneDir = Split-Path $exe.FullName -Parent
+          $rcloneDir | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
+
       - name: Resolve request
         id: request
         shell: powershell
