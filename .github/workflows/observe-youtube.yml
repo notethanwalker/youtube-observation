@@ -25,10 +25,6 @@ on:
           - '720'
           - '480'
           - '360'
-  push:
-    branches: [main]
-    paths:
-      - 'requests/current.json'
 
 permissions:
   contents: read
