@@ -195,8 +195,10 @@ jobs:
 
             & cmd.exe /d /c $cmdFile
 
-            $sizeJson = & $env:RCLONE_EXE size ("youtube-drive:" + $remotePath) --json 2>$null
-            if ($LASTEXITCODE -eq 0 -and $sizeJson) {
+            $sizeCmd = ('"' + $env:RCLONE_EXE + '" size "youtube-drive:' + $remotePath + '" --json 2>nul')
+            $sizeJson = & cmd.exe /d /c $sizeCmd
+            $sizeExit = $LASTEXITCODE
+            if ($sizeExit -eq 0 -and $sizeJson) {
               try {
                 $size = $sizeJson | ConvertFrom-Json
                 if ($size -and [int64]$size.bytes -gt 0) {
