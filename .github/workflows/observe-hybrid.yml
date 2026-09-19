@@ -119,14 +119,41 @@ jobs:
           $height = "${{ steps.request.outputs.height }}"
           $format = "b[height<=$height]/b"
 
-          $metaJson = & $env:YT_DLP_EXE --no-warnings --cookies $env:YOUTUBE_COOKIE_FILE -f $format --dump-single-json --skip-download $url
-          if ($LASTEXITCODE -ne 0 -or -not $metaJson) { throw "yt-dlp metadata extraction failed" }
+          $attempts = @(
+            @{ Name = 'cookies-default'; Cookies = $true; Client = $null },
+            @{ Name = 'cookies-web-embedded'; Cookies = $true; Client = 'web_embedded' },
+            @{ Name = 'anonymous-default'; Cookies = $false; Client = $null },
+            @{ Name = 'anonymous-web-embedded'; Cookies = $false; Client = 'web_embedded' }
+          )
 
-          $meta = ($metaJson -join [Environment]::NewLine) | ConvertFrom-Json
+          $meta = $null
+          $chosen = $null
+
+          foreach ($a in $attempts) {
+            Write-Host ('Metadata attempt: ' + $a.Name)
+            $args = @('--no-warnings')
+            if ($a.Cookies) { $args += @('--cookies', $env:YOUTUBE_COOKIE_FILE) }
+            if ($a.Client) { $args += @('--extractor-args', ('youtube:player_client=' + $a.Client)) }
+            $args += @('-f', $format, '--dump-single-json', '--skip-download', $url)
+
+            $metaJson = & $env:YT_DLP_EXE @args
+            if ($LASTEXITCODE -eq 0 -and $metaJson) {
+              try {
+                $meta = ($metaJson -join [Environment]::NewLine) | ConvertFrom-Json
+                $chosen = $a
+                break
+              } catch {
+                Write-Host ('JSON parse failed for ' + $a.Name)
+              }
+            }
+          }
+
+          if (-not $meta -or -not $chosen) { throw 'All yt-dlp metadata strategies failed' }
+
           $videoId = [string]$meta.id
           $title = [string]$meta.title
           $ext = [string]$meta.ext
-          if (-not $ext) { $ext = "mp4" }
+          if (-not $ext) { $ext = 'mp4' }
 
           $safeTitle = $title -replace '[<>:"/\\|?*]', '_'
           $safeTitle = ($safeTitle -replace '\s+', ' ').Trim().TrimEnd('.')
@@ -134,23 +161,38 @@ jobs:
           if (-not $safeTitle) { $safeTitle = $videoId }
           $remotePath = "$videoId - $safeTitle.$ext"
 
-          Write-Host "Streaming directly to Google Drive: $remotePath"
+          Write-Host ('Chosen extraction strategy: ' + $chosen.Name)
+          Write-Host ('Streaming directly to Google Drive: ' + $remotePath)
 
-          $cmdFile = Join-Path $env:RUNNER_TEMP "stream-youtube.cmd"
-          $line = ('"{0}" --no-warnings --cookies "{1}" -f "{2}" -o - "{3}" ^| "{4}" rcat "youtube-drive:{5}" --stats 15s --stats-one-line --drive-chunk-size 32M' -f $env:YT_DLP_EXE,$env:YOUTUBE_COOKIE_FILE,$format,$url,$env:RCLONE_EXE,$remotePath)
+          $ytArgs = @('--no-warnings')
+          if ($chosen.Cookies) { $ytArgs += @('--cookies', $env:YOUTUBE_COOKIE_FILE) }
+          if ($chosen.Client) { $ytArgs += @('--extractor-args', ('youtube:player_client=' + $chosen.Client)) }
+          $ytArgs += @('-f', $format, '-o', '-', $url)
+
+          $quoted = @()
+          foreach ($arg in $ytArgs) {
+            $escaped = $arg -replace '"', '""'
+            $quoted += ('"' + $escaped + '"')
+          }
+          $ytCommand = ('"' + $env:YT_DLP_EXE + '" ' + ($quoted -join ' '))
+          $rcCommand = ('"' + $env:RCLONE_EXE + '" rcat "youtube-drive:' + $remotePath + '" --stats 15s --stats-one-line --drive-chunk-size 32M')
+
+          $cmdFile = Join-Path $env:RUNNER_TEMP 'stream-youtube.cmd'
+          $line = $ytCommand + ' | ' + $rcCommand
           [System.IO.File]::WriteAllText($cmdFile, "@echo off`r`n$line`r`nexit /b %ERRORLEVEL%`r`n")
 
           & cmd.exe /d /c $cmdFile
-          if ($LASTEXITCODE -ne 0) { throw "Direct YouTube-to-Drive stream failed with exit code $LASTEXITCODE" }
+          if ($LASTEXITCODE -ne 0) { throw ('Direct YouTube-to-Drive stream failed with exit code ' + $LASTEXITCODE) }
 
-          $size = & $env:RCLONE_EXE size "youtube-drive:$remotePath" --json | ConvertFrom-Json
-          if (-not $size -or [int64]$size.bytes -le 0) { throw "Uploaded Drive object is missing or empty" }
+          $size = & $env:RCLONE_EXE size ("youtube-drive:" + $remotePath) --json | ConvertFrom-Json
+          if (-not $size -or [int64]$size.bytes -le 0) { throw 'Uploaded Drive object is missing or empty' }
 
           "video_id=$videoId" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
           "title=$title" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
           "ext=$ext" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
           "remote_path=$remotePath" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
           "source_url=$url" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+
       - name: Remove temporary capture credentials
         if: always()
         shell: powershell
