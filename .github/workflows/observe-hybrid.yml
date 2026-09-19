@@ -40,10 +40,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+      - name: Find installed Python
+        shell: powershell
+        run: |
+          $candidates = @()
+          $candidates += Get-ChildItem 'C:\Program Files' -Filter python.exe -Recurse -ErrorAction SilentlyContinue
+          $candidates += Get-ChildItem 'C:\Users' -Filter python.exe -Recurse -ErrorAction SilentlyContinue | Where-Object { $_.FullName -match 'AppData\\Local\\Programs\\Python' }
+          $python = $candidates | Sort-Object FullName -Descending | Select-Object -First 1
+          if (-not $python) { throw 'No installed Python executable found on this PC.' }
+          $pythonDir = Split-Path $python.FullName -Parent
+          Write-Host ('Using Python: ' + $python.FullName)
+          $pythonDir | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
 
       - name: Install capture tools
         shell: powershell
@@ -141,8 +148,12 @@ jobs:
         if: always()
         shell: powershell
         run: |
-          Remove-Item $env:YOUTUBE_COOKIE_FILE -Force -ErrorAction SilentlyContinue
-          Remove-Item $env:RCLONE_CONFIG -Force -ErrorAction SilentlyContinue
+          if ($env:YOUTUBE_COOKIE_FILE) {
+            Remove-Item $env:YOUTUBE_COOKIE_FILE -Force -ErrorAction SilentlyContinue
+          }
+          if ($env:RCLONE_CONFIG) {
+            Remove-Item $env:RCLONE_CONFIG -Force -ErrorAction SilentlyContinue
+          }
 
   process:
     needs: capture
