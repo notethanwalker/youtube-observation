@@ -37,10 +37,6 @@ def ytdlp_base(client: str | None, cookies_file: str | None):
 
 
 def client_candidates(cookies_file: str | None):
-    # Authenticated YouTube sessions are most reliable with the normal web
-    # client and web_embedded. Avoid tv_downgraded/android_vr/ios when cookies
-    # are present because those clients frequently reject account cookies or
-    # expose unusable formats.
     if cookies_file:
         return [None, 'web_embedded']
     return [None, 'web_embedded', 'android_vr', 'ios']
@@ -61,15 +57,11 @@ def write_format_diagnostic(url: str, cookies_file: str | None, client: str | No
 def probe_metadata(url: str, cookies_file: str | None, diagnostics_dir: Path):
     last = None
     diagnostics_dir.mkdir(parents=True, exist_ok=True)
-
     for client in client_candidates(cookies_file):
         label = client or 'default'
         print(f'Attempting metadata with client={label}', flush=True)
         cmd = ytdlp_base(client, cookies_file) + [
-            '--dump-single-json',
-            '--skip-download',
-            '--ignore-no-formats-error',
-            url,
+            '--dump-single-json', '--skip-download', '--ignore-no-formats-error', url
         ]
         try:
             result = run(cmd, capture=True)
@@ -77,20 +69,46 @@ def probe_metadata(url: str, cookies_file: str | None, diagnostics_dir: Path):
             formats = metadata.get('formats') or []
             print(f'Metadata succeeded with client={label}; formats={len(formats)}', flush=True)
             if not formats:
-                write_format_diagnostic(
-                    url, cookies_file, client,
-                    diagnostics_dir / f'formats-{label}.txt'
-                )
-            return metadata, client
+                write_format_diagnostic(url, cookies_file, client, diagnostics_dir / f'formats-{label}.txt')
+            return metadata
         except Exception as e:
             last = e
             print(f'Metadata attempt failed for client={label}: {e}', flush=True)
+            write_format_diagnostic(url, cookies_file, client, diagnostics_dir / f'formats-{label}.txt')
+    raise last or RuntimeError('All metadata strategies failed')
+
+
+def try_download(url: str, cookies_file: str | None, max_height: int, source: Path, diagnostics_dir: Path):
+    fmt = f'bv*[height<={max_height}]+ba/b[height<={max_height}]/best'
+    last = None
+    for client in client_candidates(cookies_file):
+        label = client or 'default'
+        print(f'Attempting download with client={label}', flush=True)
+        cmd = ytdlp_base(client, cookies_file) + [
+            url, '-f', fmt,
+            '--merge-output-format', 'mp4',
+            '-o', str(source / 'source.%(ext)s'),
+            '--write-subs', '--write-auto-subs', '--sub-langs', 'all,-live_chat',
+            '--convert-subs', 'vtt', '--write-info-json', '--no-overwrites',
+        ]
+        try:
+            run(cmd)
+            print(f'Download succeeded with client={label}', flush=True)
+            return client
+        except subprocess.CalledProcessError as e:
+            last = e
+            print(f'Download failed with client={label}; capturing format diagnostic.', flush=True)
             write_format_diagnostic(
                 url, cookies_file, client,
-                diagnostics_dir / f'formats-{label}.txt'
+                diagnostics_dir / f'formats-download-failure-{label}.txt'
             )
-
-    raise last or RuntimeError('All metadata strategies failed')
+            for p in source.glob('source.*'):
+                if p.is_file():
+                    try:
+                        p.unlink()
+                    except OSError:
+                        pass
+    raise last or RuntimeError('All download strategies failed')
 
 
 def main():
@@ -109,8 +127,9 @@ def main():
     root = Path(args.output).resolve()
     root.mkdir(parents=True, exist_ok=True)
     diagnostics = root / '_diagnostics'
+    diagnostics.mkdir(parents=True, exist_ok=True)
 
-    metadata, client = probe_metadata(args.url, args.cookies_file, diagnostics)
+    metadata = probe_metadata(args.url, args.cookies_file, diagnostics)
     vid = str(metadata.get('id', 'video'))
     title = safe_name(str(metadata.get('title', vid)))
     pack = root / f'{vid}-{title}'
@@ -124,30 +143,12 @@ def main():
         d.mkdir(parents=True, exist_ok=True)
 
     (meta / 'info.json').write_text(
-        json.dumps(metadata, indent=2, ensure_ascii=False),
-        encoding='utf-8'
+        json.dumps(metadata, indent=2, ensure_ascii=False), encoding='utf-8'
     )
 
-    fmt = f'bv*[height<={args.max_height}]+ba/b[height<={args.max_height}]/best'
-    cmd = ytdlp_base(client, args.cookies_file) + [
-        args.url,
-        '-f', fmt,
-        '--merge-output-format', 'mp4',
-        '-o', str(source / 'source.%(ext)s'),
-        '--write-subs', '--write-auto-subs', '--sub-langs', 'all,-live_chat',
-        '--convert-subs', 'vtt', '--write-info-json', '--no-overwrites',
-    ]
-
-    try:
-        run(cmd)
-    except subprocess.CalledProcessError:
-        label = client or 'default'
-        print('Download failed; capturing available-format diagnostic before exiting.', flush=True)
-        write_format_diagnostic(
-            args.url, args.cookies_file, client,
-            diagnostics / f'formats-download-failure-{label}.txt'
-        )
-        raise
+    client = try_download(
+        args.url, args.cookies_file, args.max_height, source, diagnostics
+    )
 
     videos = sorted(
         p for p in source.iterdir()
