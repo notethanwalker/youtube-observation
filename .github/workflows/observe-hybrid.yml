@@ -1,0 +1,134 @@
+name: Observe YouTube Hybrid
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: YouTube URL
+        required: true
+        type: string
+      preset:
+        description: Analysis preset
+        required: true
+        default: motion
+        type: choice
+        options: [motion, standard]
+      max_height:
+        description: Maximum streamed source height
+        required: true
+        default: '720'
+        type: choice
+        options: ['720', '480', '360']
+  push:
+    branches: [main]
+    paths:
+      - 'requests/current.json'
+
+permissions:
+  contents: read
+
+jobs:
+  capture:
+    runs-on: [self-hosted, Windows, X64]
+    outputs:
+      video_id: ${{ steps.capture.outputs.video_id }}
+      title: ${{ steps.capture.outputs.title }}
+      ext: ${{ steps.capture.outputs.ext }}
+      remote_path: ${{ steps.capture.outputs.remote_path }}
+      source_url: ${{ steps.capture.outputs.source_url }}
+      preset: ${{ steps.request.outputs.preset }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve request
+        id: request
+        shell: pwsh
+        run: |
+          if ("${{ github.event_name }}" -eq "workflow_dispatch") {
+            $url = "${{ inputs.url }}"
+            $preset = "${{ inputs.preset }}"
+            $height = "${{ inputs.max_height }}"
+          } else {
+            $r = Get-Content requests/current.json -Raw | ConvertFrom-Json
+            $url = [string]$r.url
+            $preset = [string]$r.preset
+            if (-not $preset) { $preset = "motion" }
+            $height = [string]$r.max_height
+            if (-not $height -or $height -eq "1080") { $height = "720" }
+          }
+          "url=$url" >> $env:GITHUB_OUTPUT
+          "preset=$preset" >> $env:GITHUB_OUTPUT
+          "height=$height" >> $env:GITHUB_OUTPUT
+
+      - name: Stream YouTube directly to Google Drive
+        id: capture
+        shell: pwsh
+        run: |
+          $cookie = Join-Path $env:USERPROFILE "Downloads\youtube_cookies.txt"
+          $args = @(
+            "scripts\stream_to_drive.py",
+            "${{ steps.request.outputs.url }}",
+            "--remote", "youtube-drive:",
+            "--browser", "firefox",
+            "--max-height", "${{ steps.request.outputs.height }}"
+          )
+          if (Test-Path $cookie) {
+            $args += @("--cookies-file", $cookie)
+          }
+          $out = & python @args
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+          $resultLine = $out | Where-Object { $_ -like "RESULT_JSON=*" } | Select-Object -Last 1
+          if (-not $resultLine) { throw "No RESULT_JSON returned by stream_to_drive.py" }
+          $j = ($resultLine.Substring("RESULT_JSON=".Length) | ConvertFrom-Json)
+          "video_id=$($j.video_id)" >> $env:GITHUB_OUTPUT
+          "title=$($j.title)" >> $env:GITHUB_OUTPUT
+          "ext=$($j.ext)" >> $env:GITHUB_OUTPUT
+          "remote_path=$($j.remote_path)" >> $env:GITHUB_OUTPUT
+          "source_url=$($j.source_url)" >> $env:GITHUB_OUTPUT
+
+  process:
+    needs: capture
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install processing tools
+        shell: bash
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg rclone
+          python3 --version
+          ffmpeg -version | head -n1
+          rclone version | head -n1
+
+      - name: Restore Google Drive config
+        shell: bash
+        env:
+          RCLONE_CONFIG_B64: ${{ secrets.RCLONE_CONFIG_B64 }}
+        run: |
+          test -n "$RCLONE_CONFIG_B64"
+          mkdir -p "$HOME/.config/rclone"
+          printf '%s' "$RCLONE_CONFIG_B64" | base64 --decode > "$HOME/.config/rclone/rclone.conf"
+          chmod 600 "$HOME/.config/rclone/rclone.conf"
+          rclone lsf youtube-drive: --max-depth 1 >/dev/null
+
+      - name: Download persistent source from Drive
+        shell: bash
+        run: |
+          mkdir -p source
+          rclone copyto             "youtube-drive:${{ needs.capture.outputs.remote_path }}"             "source/source.${{ needs.capture.outputs.ext }}"             --stats 15s --stats-one-line
+
+      - name: Build observation pack
+        shell: bash
+        run: |
+          python3 scripts/process_file.py             "source/source.${{ needs.capture.outputs.ext }}"             --output observation_output             --preset "${{ needs.capture.outputs.preset }}"             --source-url "${{ needs.capture.outputs.source_url }}"             --remote-path "${{ needs.capture.outputs.remote_path }}"             --title "${{ needs.capture.outputs.title }}"             --video-id "${{ needs.capture.outputs.video_id }}"
+
+      - name: Upload observation artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: youtube-observation-${{ needs.capture.outputs.video_id }}-${{ github.run_id }}
+          path: observation_output/
+          retention-days: 7
+          compression-level: 0
+          if-no-files-found: error
