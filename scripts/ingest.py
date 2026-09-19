@@ -9,16 +9,16 @@ import subprocess
 from pathlib import Path
 
 
-def run(cmd, *, capture=False):
+def run(cmd, *, capture=False, check=True):
     print('+', ' '.join(map(str, cmd)), flush=True)
     if capture:
         p = subprocess.run(cmd, check=False, text=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        if p.returncode != 0:
+        if check and p.returncode != 0:
             print(p.stdout, flush=True)
             print(p.stderr, flush=True)
             raise subprocess.CalledProcessError(p.returncode, cmd, p.stdout, p.stderr)
-        return p.stdout
-    subprocess.run(cmd, check=True)
+        return p
+    return subprocess.run(cmd, check=check)
 
 
 def safe_name(text: str) -> str:
@@ -36,18 +36,60 @@ def ytdlp_base(client: str | None, cookies_file: str | None):
     return cmd
 
 
-def probe_metadata(url: str, cookies_file: str | None):
-    clients = [None, 'web_embedded', 'android_vr', 'tv_downgraded', 'ios']
+def client_candidates(cookies_file: str | None):
+    # Authenticated YouTube sessions are most reliable with the normal web
+    # client and web_embedded. Avoid tv_downgraded/android_vr/ios when cookies
+    # are present because those clients frequently reject account cookies or
+    # expose unusable formats.
+    if cookies_file:
+        return [None, 'web_embedded']
+    return [None, 'web_embedded', 'android_vr', 'ios']
+
+
+def write_format_diagnostic(url: str, cookies_file: str | None, client: str | None, path: Path):
+    result = run(
+        ytdlp_base(client, cookies_file) + ['--list-formats', url],
+        capture=True,
+        check=False,
+    )
+    text = (result.stdout or '') + '\n--- STDERR ---\n' + (result.stderr or '')
+    path.write_text(text, encoding='utf-8', errors='replace')
+    print(f'Format diagnostic written to {path}', flush=True)
+    return result.returncode
+
+
+def probe_metadata(url: str, cookies_file: str | None, diagnostics_dir: Path):
     last = None
-    for client in clients:
+    diagnostics_dir.mkdir(parents=True, exist_ok=True)
+
+    for client in client_candidates(cookies_file):
         label = client or 'default'
         print(f'Attempting metadata with client={label}', flush=True)
+        cmd = ytdlp_base(client, cookies_file) + [
+            '--dump-single-json',
+            '--skip-download',
+            '--ignore-no-formats-error',
+            url,
+        ]
         try:
-            out = run(ytdlp_base(client, cookies_file) + ['--dump-single-json', '--skip-download', url], capture=True)
-            return json.loads(out), client
+            result = run(cmd, capture=True)
+            metadata = json.loads(result.stdout)
+            formats = metadata.get('formats') or []
+            print(f'Metadata succeeded with client={label}; formats={len(formats)}', flush=True)
+            if not formats:
+                write_format_diagnostic(
+                    url, cookies_file, client,
+                    diagnostics_dir / f'formats-{label}.txt'
+                )
+            return metadata, client
         except Exception as e:
             last = e
-            print(f'Metadata attempt failed for client={label}', flush=True)
+            print(f'Metadata attempt failed for client={label}: {e}', flush=True)
+            write_format_diagnostic(
+                url, cookies_file, client,
+                diagnostics_dir / f'formats-{label}.txt'
+            )
+
     raise last or RuntimeError('All metadata strategies failed')
 
 
@@ -66,8 +108,9 @@ def main():
 
     root = Path(args.output).resolve()
     root.mkdir(parents=True, exist_ok=True)
+    diagnostics = root / '_diagnostics'
 
-    metadata, client = probe_metadata(args.url, args.cookies_file)
+    metadata, client = probe_metadata(args.url, args.cookies_file, diagnostics)
     vid = str(metadata.get('id', 'video'))
     title = safe_name(str(metadata.get('title', vid)))
     pack = root / f'{vid}-{title}'
@@ -80,7 +123,10 @@ def main():
     for d in (source, clips, sheets, audio, captions, meta):
         d.mkdir(parents=True, exist_ok=True)
 
-    (meta / 'info.json').write_text(json.dumps(metadata, indent=2, ensure_ascii=False), encoding='utf-8')
+    (meta / 'info.json').write_text(
+        json.dumps(metadata, indent=2, ensure_ascii=False),
+        encoding='utf-8'
+    )
 
     fmt = f'bv*[height<={args.max_height}]+ba/b[height<={args.max_height}]/best'
     cmd = ytdlp_base(client, args.cookies_file) + [
@@ -91,9 +137,22 @@ def main():
         '--write-subs', '--write-auto-subs', '--sub-langs', 'all,-live_chat',
         '--convert-subs', 'vtt', '--write-info-json', '--no-overwrites',
     ]
-    run(cmd)
 
-    videos = sorted(p for p in source.iterdir() if p.suffix.lower() in {'.mp4', '.mkv', '.webm', '.mov'})
+    try:
+        run(cmd)
+    except subprocess.CalledProcessError:
+        label = client or 'default'
+        print('Download failed; capturing available-format diagnostic before exiting.', flush=True)
+        write_format_diagnostic(
+            args.url, args.cookies_file, client,
+            diagnostics / f'formats-download-failure-{label}.txt'
+        )
+        raise
+
+    videos = sorted(
+        p for p in source.iterdir()
+        if p.suffix.lower() in {'.mp4', '.mkv', '.webm', '.mov'}
+    )
     if not videos:
         raise SystemExit('No source video produced.')
     video = videos[0]
@@ -109,7 +168,7 @@ def main():
     duration = float(run([
         'ffprobe', '-v', 'error', '-show_entries', 'format=duration',
         '-of', 'default=noprint_wrappers=1:nokey=1', str(video)
-    ], capture=True).strip())
+    ], capture=True).stdout.strip())
 
     if args.preset == 'motion':
         clip_seconds, sample_fps = 60, 2.0
@@ -137,12 +196,18 @@ def main():
         f'tile=4x4:nb_frames={tile_count}:padding=2:margin=2'
     )
     try:
-        run(['ffmpeg', '-hide_banner', '-loglevel', 'warning', '-y', '-i', str(video), '-vf', vf,
-             '-q:v', '3', str(sheets / 'sheet_%04d.jpg')])
+        run([
+            'ffmpeg', '-hide_banner', '-loglevel', 'warning', '-y',
+            '-i', str(video), '-vf', vf, '-q:v', '3',
+            str(sheets / 'sheet_%04d.jpg')
+        ])
     except subprocess.CalledProcessError:
         vf = f'fps={sample_fps},scale=480:-2,tile=4x4:nb_frames={tile_count}:padding=2:margin=2'
-        run(['ffmpeg', '-hide_banner', '-loglevel', 'warning', '-y', '-i', str(video), '-vf', vf,
-             '-q:v', '3', str(sheets / 'sheet_%04d.jpg')])
+        run([
+            'ffmpeg', '-hide_banner', '-loglevel', 'warning', '-y',
+            '-i', str(video), '-vf', vf, '-q:v', '3',
+            str(sheets / 'sheet_%04d.jpg')
+        ])
 
     manifest = {
         'url': args.url,
@@ -155,11 +220,15 @@ def main():
         'contact_sheet_fps': sample_fps,
         'source_file': str(video.relative_to(pack)),
         'authenticated': bool(args.cookies_file),
+        'youtube_client': client or 'default',
     }
-    (pack / 'MANIFEST.json').write_text(json.dumps(manifest, indent=2), encoding='utf-8')
+    (pack / 'MANIFEST.json').write_text(
+        json.dumps(manifest, indent=2), encoding='utf-8'
+    )
     (pack / 'README.txt').write_text(
         f"Title: {metadata.get('title')}\nDuration: {duration:.1f}s\nPreset: {args.preset}\n"
-        f"Source: {video.name}\nClips: {clip_seconds}s each\nContact sheets: {sample_fps} sampled fps\n",
+        f"Source: {video.name}\nClips: {clip_seconds}s each\nContact sheets: {sample_fps} sampled fps\n"
+        f"YouTube client: {client or 'default'}\n",
         encoding='utf-8'
     )
     print(f'PACK_PATH={pack}')
