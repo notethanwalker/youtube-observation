@@ -164,31 +164,55 @@ jobs:
           if (-not $safeTitle) { $safeTitle = $videoId }
           $remotePath = "$videoId - $safeTitle.$ext"
 
-          Write-Host ('Chosen extraction strategy: ' + $chosen.Name)
-          Write-Host ('Streaming directly to Google Drive: ' + $remotePath)
+          $uploaded = $false
+          $downloadStrategy = $null
 
-          $ytArgs = @('--no-warnings')
-          if ($chosen.Cookies) { $ytArgs += @('--cookies', $env:YOUTUBE_COOKIE_FILE) }
-          if ($chosen.Client) { $ytArgs += @('--extractor-args', ('youtube:player_client=' + $chosen.Client)) }
-          $ytArgs += @('-f', $format, '-o', '-', $url)
+          foreach ($a in $attempts) {
+            Write-Host ('Download attempt: ' + $a.Name)
 
-          $quoted = @()
-          foreach ($arg in $ytArgs) {
-            $escaped = $arg -replace '"', '""'
-            $quoted += ('"' + $escaped + '"')
+            & $env:RCLONE_EXE deletefile ("youtube-drive:" + $remotePath) 2>$null
+
+            $ytArgs = @('--no-warnings')
+            if ($a.Cookies) { $ytArgs += @('--cookies', $env:YOUTUBE_COOKIE_FILE) }
+            if ($a.Client) { $ytArgs += @('--extractor-args', ('youtube:player_client=' + $a.Client)) }
+            $ytArgs += @('-f', $format, '-o', '-', $url)
+
+            $quoted = @()
+            foreach ($arg in $ytArgs) {
+              $escaped = $arg -replace '"', '""'
+              $quoted += ('"' + $escaped + '"')
+            }
+
+            $ytCommand = ('"' + $env:YT_DLP_EXE + '" ' + ($quoted -join ' '))
+            $rcCommand = ('"' + $env:RCLONE_EXE + '" rcat "youtube-drive:' + $remotePath + '" --stats 15s --stats-one-line --drive-chunk-size 32M')
+            $cmdFile = Join-Path $env:RUNNER_TEMP ('stream-youtube-' + $a.Name + '.cmd')
+            $line = $ytCommand + ' | ' + $rcCommand
+            [System.IO.File]::WriteAllText($cmdFile, "@echo off`r`n$line`r`nexit /b %ERRORLEVEL%`r`n")
+
+            & cmd.exe /d /c $cmdFile
+
+            $sizeJson = & $env:RCLONE_EXE size ("youtube-drive:" + $remotePath) --json 2>$null
+            if ($LASTEXITCODE -eq 0 -and $sizeJson) {
+              try {
+                $size = $sizeJson | ConvertFrom-Json
+                if ($size -and [int64]$size.bytes -gt 0) {
+                  $uploaded = $true
+                  $downloadStrategy = $a.Name
+                  break
+                }
+              } catch {}
+            }
+
+            Write-Host ('Download attempt produced no usable object: ' + $a.Name)
           }
-          $ytCommand = ('"' + $env:YT_DLP_EXE + '" ' + ($quoted -join ' '))
-          $rcCommand = ('"' + $env:RCLONE_EXE + '" rcat "youtube-drive:' + $remotePath + '" --stats 15s --stats-one-line --drive-chunk-size 32M')
 
-          $cmdFile = Join-Path $env:RUNNER_TEMP 'stream-youtube.cmd'
-          $line = $ytCommand + ' | ' + $rcCommand
-          [System.IO.File]::WriteAllText($cmdFile, "@echo off`r`n$line`r`nexit /b %ERRORLEVEL%`r`n")
+          if (-not $uploaded) {
+            & $env:RCLONE_EXE deletefile ("youtube-drive:" + $remotePath) 2>$null
+            throw 'All YouTube download strategies failed or produced empty files'
+          }
 
-          & cmd.exe /d /c $cmdFile
-          if ($LASTEXITCODE -ne 0) { throw ('Direct YouTube-to-Drive stream failed with exit code ' + $LASTEXITCODE) }
-
-          $size = & $env:RCLONE_EXE size ("youtube-drive:" + $remotePath) --json | ConvertFrom-Json
-          if (-not $size -or [int64]$size.bytes -le 0) { throw 'Uploaded Drive object is missing or empty' }
+          Write-Host ('Successful download strategy: ' + $downloadStrategy)
+          Write-Host ('Persistent source: youtube-drive:' + $remotePath)
 
           "video_id=$videoId" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
           "title=$title" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
