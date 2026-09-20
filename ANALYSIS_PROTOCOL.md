@@ -125,3 +125,151 @@ When footage appears to be training-room rolling, explicitly analyze both:
 2. what the athlete appears to be choosing under the actual training context.
 
 The difference between those two is itself analytically important.
+
+
+## 15. Full visual-verification protocol
+Identity tracking is a prerequisite to technical analysis, not a parallel task. The following checks are mandatory.
+
+### 15.1 Establish a canonical target reference
+Before analyzing technique:
+- save at least one full-frame reference where the target is unambiguous;
+- record distinctive visual cues such as sleeve length, shirt/rashguard pattern, shorts/pants, hair, body proportions, and any user-provided location in frame;
+- record the expected opponent for that segment when known;
+- prefer several cues rather than relying on one feature alone.
+
+A user-provided in-video anchor or external reference should remain the canonical reference for the entire analysis.
+
+### 15.2 Track the person, not the most prominent pair
+- Never assume the foreground, center, largest, or most visually salient pair contains the target.
+- Before analyzing a new section, confirm that the target athlete is actually present in that pair.
+- If another pair becomes more prominent while the target moves toward the edge or background, continue tracking the target rather than switching attention.
+- If the target cannot be resolved confidently, stop attribution until the target is found again.
+
+### 15.3 Preserve full-frame context
+- Identity and continuity checks must use the uncropped frame.
+- Cropping is permitted only after the target and opponent have been verified in the full frame.
+- Do not use a crop to decide who the athlete is.
+- Keep enough surrounding context to determine which pair is being followed and whether another nearby pair could be confused with them.
+
+### 15.4 Check identity before every major exchange
+Immediately before attributing a major action—submission, sweep, pass, takedown, reversal, back take, dominant pin, or prolonged defensive sequence:
+- re-check the full frame;
+- confirm target clothing/body cues;
+- confirm opponent cues;
+- confirm which athlete is top/bottom, standing/seated, or otherwise occupying the relevant orientation;
+- then proceed to dense technical inspection.
+
+Do not assume that an identity verified 30–60 seconds earlier remains sufficient through a complex scramble.
+
+### 15.5 Re-check after every reversal, inversion, roll, or rotational scramble
+Fast grappling can preserve the same pair while swapping which athlete is on top or which side of the frame they occupy.
+After any:
+- inversion;
+- granby/rolling escape;
+- sweep;
+- reversal;
+- rolling submission sequence;
+- scramble around turtle;
+- rotational takedown;
+- off-camera transition;
+re-confirm both:
+1. which athlete is the target; and
+2. the target's current positional role/orientation.
+
+A correct pair identification is not enough if the two athletes have been swapped mentally.
+
+### 15.6 Sleeve-length / clothing-role check when available
+When two athletes wear similar colors, use structural clothing differences as high-priority cues.
+Examples include:
+- short sleeves vs long sleeves;
+- rashguard panel pattern;
+- shorts vs spats;
+- distinctive logos/stripes;
+- shoe/sock/knee-pad differences where visible.
+
+If the user has specified a cue such as “short sleeves” or “purple lower half with gold/black/white upper half,” explicitly verify it again after ambiguous scrambles.
+
+### 15.7 Cut detection and re-lock
+Edited videos require a new identity lock after every visible cut, camera jump, angle change, replay, title card, or discontinuity.
+After a cut:
+- do not carry spatial assumptions across the edit;
+- find the target again from canonical visual cues;
+- find the expected opponent again;
+- confirm the pair before resuming technique attribution.
+
+### 15.8 Occlusion and off-camera handling
+If the target:
+- leaves frame;
+- is hidden behind another pair/person;
+- is only partially visible;
+- becomes too small to distinguish;
+- or is obscured during a decisive transition;
+mark the identity track as interrupted.
+
+Do not infer the outcome through the gap unless the post-occlusion re-entry makes the sequence unambiguous. When necessary, mark the technique or role swap as unresolved.
+
+### 15.9 Pair continuity plus individual continuity
+Use two simultaneous tracks:
+- target identity;
+- target-opponent pairing.
+
+The expected opponent is a secondary constraint, not a substitute for target verification.
+Reject a visual candidate if either:
+- the target cues do not match; or
+- the opponent/pairing is inconsistent with the known round.
+
+### 15.10 Spatial continuity is supporting evidence only
+Frame-to-frame movement and prior location can help track the athlete, but spatial continuity must not override contradictory visual cues.
+A nearby athlete after a scramble or cut is not automatically the same person.
+
+### 15.11 Orientation ledger for complex exchanges
+For ambiguous or important sequences, maintain a simple mental/explicit ledger:
+- timestamp;
+- target side/location in frame;
+- target clothing cue;
+- opponent cue;
+- target role: top/bottom/standing/turtle/back;
+- confidence.
+
+Update the ledger after every major positional swap.
+This prevents the specific failure mode where the correct pair is followed but the athletes are mentally reversed.
+
+### 15.12 Dense verification around taps and resets
+A reset, disengagement, or apparent tap is not proof of who submitted whom.
+For every apparent finish:
+- verify target identity before the attack;
+- verify target identity during the finishing mechanics;
+- verify who taps/releases/resets;
+- trace the finishing sequence backward if needed.
+
+Never infer the submitter solely from who appears dominant in the final still frame.
+
+### 15.13 Confidence threshold for attribution
+Use three identity-confidence levels:
+- High: target and opponent are both clearly verified and continuity is intact.
+- Moderate: target likely verified, but one cue or transition is partially obscured.
+- Low: identity, pairing, or top/bottom role is uncertain.
+
+Only make definitive technical attribution at high confidence.
+At moderate confidence, qualify the attribution.
+At low confidence, do not assign the action to the target.
+
+### 15.14 Do not repair identity gaps with technical plausibility
+Never reason:
+“this looks like something the target would do, therefore it must be the target.”
+Technique style, skill level, body language, or expected strategy cannot substitute for visual identity evidence.
+
+### 15.15 Correct visual attribution before interpreting intent
+Intent analysis is downstream of identity.
+Do not infer that the target is relaxed, conserving energy, allowing a position, or struggling until the athlete in that sequence has been visually verified.
+
+### 15.16 Mandatory final consistency pass
+Before delivering the final analysis:
+- revisit every section containing a major claim;
+- confirm the correct pair;
+- confirm the target is not confused with the opponent;
+- confirm top/bottom orientation after scrambles;
+- confirm that no other foreground pair was accidentally analyzed;
+- downgrade or remove any section that fails the check.
+
+Visual attribution errors take priority over preserving a previously written interpretation.
