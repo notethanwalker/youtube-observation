@@ -1,6 +1,15 @@
 {
-  "url": "https://www.youtube.com/watch?v=hVdl5_ct-u4",
+  "url": "https://www.youtube.com/watch?v=LY4LunEz9Ko",
   "preset": "motion",
   "max_height": 720,
-  "request_nonce": "2026-09-19T19:09:30-05:00"
+  "request_nonce": "2026-09-19T20:15:00-05:00",
+  "identity": {
+    "anchor_seconds": [
+      14
+    ],
+    "description": "Target is the user's friend. At 0:14 he is center frame wearing a short-sleeved yellow shirt with green accent lines around the shoulders. Track this same person continuously across edits/cuts; re-verify identity after every cut before attributing techniques."
+  },
+  "analysis_context": {
+    "note": "Target has many opponents throughout the session and is intentionally conserving strength / not going 100% in every round. Do not interpret reduced explosiveness or permissive positions as inability without sequence evidence."
+  }
 }
