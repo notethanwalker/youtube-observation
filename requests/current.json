@@ -1,13 +1,13 @@
 {
-  "url": "https://www.youtube.com/watch?v=h8fL4hOWP2c",
+  "url": "https://www.youtube.com/watch?v=jbMkwsyv7Dk",
   "preset": "motion",
   "max_height": 720,
-  "request_nonce": "2026-09-19T23:40:00-05:00",
+  "request_nonce": "2026-09-20T00:05:00-05:00",
   "identity": {
     "anchor_seconds": [],
-    "description": "Target is the user's friend. He wears a complex multicolor rashguard/shirt: purple on the bottom half, with gold/black/white on the top half. His opponent wears a black shirt and black shorts. Use full-frame continuity and re-verify after any cut before attributing techniques."
+    "description": "Target is the user. Same outfit as prior self-analysis video: short-sleeved black shirt and dark shorts. Additional cue: medium-length brown hair. Opponent wears a blue T-shirt. Track both people continuously in full frame; re-verify target and top/bottom orientation after every scramble, inversion, reversal, occlusion, cut, or camera discontinuity."
   },
   "analysis_context": {
-    "note": "Practice-round analysis. Apply the standing training-footage protocol: infer intent before criticism, account for effort asymmetry and pacing, prioritize specific mechanics, and do not invent obscured details."
+    "note": "Apply full standing grappling-analysis protocol, especially visual verification, intent inference, effort asymmetry, and specific mechanical analysis. Do not infer identity from prominence or technical style. Do not invent obscured grips or mechanics."
   }
 }
