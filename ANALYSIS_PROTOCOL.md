@@ -63,3 +63,65 @@ For each meaningful exchange, identify:
 
 ## 10. Uncertainty rule
 When identity or technique confidence is insufficient, do not attribute the action to the target. Mark it as uncertain and continue from the next verified checkpoint.
+
+
+## 11. Infer training intention before grading decisions
+Training footage must not be interpreted like competition footage by default.
+For each round or major phase, consider whether the target appears to be:
+- conserving energy across many rounds;
+- deliberately allowing a partner to work;
+- experimenting with a specific position or technique;
+- avoiding strength or explosiveness because of a skill/size disparity;
+- protecting an injured partner;
+- choosing not to pursue an available finish;
+- fatigued;
+- rolling playfully or at reduced intensity;
+- deliberately entering bad positions to practice escapes or counters.
+
+Use observable evidence such as pace, breathing, facial expression, repeated voluntary concessions, disparity in effort, speed changes at decisive moments, and whether the target repeatedly escapes without urgency. Treat inferred intention as probabilistic, not certain.
+
+Do not call an omitted action a technical mistake merely because a higher-percentage competition action existed. First ask whether the athlete plausibly chose not to take it.
+
+## 12. Prioritize specific mechanics over generic descriptions
+General positional summaries are not enough when the footage supports more detail.
+For important exchanges, inspect and report specific mechanics where visible, including:
+- exact hand and wrist placement;
+- elbow position and inside/outside control;
+- head position;
+- shoulder pressure and crossface direction;
+- hip angle and weight distribution;
+- knee line and foot position;
+- frame location and frame quality;
+- underhook/overhook depth;
+- hook placement;
+- grip transitions;
+- posting hand/foot;
+- direction of force;
+- timing of weight transfer;
+- which control point prevents or enables the next transition.
+
+If a detail is partially obscured but reasonably inferable, label it explicitly as likely/may be happening. Never invent precise mechanics that are not visible.
+
+## 13. Evaluate skill from effort asymmetry, not only outcomes
+Training footage can reveal elite skill even when the athlete is not aggressively scoring or submitting.
+When estimating level, consider:
+- how relaxed the athlete remains under pressure;
+- whether the opponent is visibly working harder;
+- whether the athlete can repeatedly allow progress without becoming structurally compromised;
+- efficiency of movement;
+- absence of unnecessary muscular effort;
+- speed and precision only when needed;
+- ability to recover or reverse without panic;
+- breadth of technically sound options across phases;
+- how often the athlete appears to be controlling the difficulty of the exchange.
+
+Do not underrate high-level grapplers simply because the footage lacks competitive urgency or because they permit positions that they could probably prevent.
+
+## 14. Distinguish training-room footage from competition footage
+Do not assume competition incentives in ordinary sparring.
+Training may prioritize experimentation, partner safety, pacing, positional learning, entertainment, or selective practice over maximizing score/submission probability.
+When footage appears to be training-room rolling, explicitly analyze both:
+1. what would likely be optimal under competition incentives; and
+2. what the athlete appears to be choosing under the actual training context.
+
+The difference between those two is itself analytically important.
