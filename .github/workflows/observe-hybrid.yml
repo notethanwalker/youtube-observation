@@ -277,7 +277,14 @@ jobs:
       - name: Build observation pack
         shell: bash
         run: |
-          python3 scripts/process_file.py             "source/source.${{ needs.capture.outputs.ext }}"             --output observation_output             --preset "${{ needs.capture.outputs.preset }}"             --source-url "${{ needs.capture.outputs.source_url }}"             --remote-path "${{ needs.capture.outputs.remote_path }}"             --title "${{ needs.capture.outputs.title }}"             --video-id "${{ needs.capture.outputs.video_id }}"
+          REQ_ARG=""
+          if [[ "${{ github.event_name }}" != "workflow_dispatch" && -f requests/current.json ]]; then
+            REQ_ARG="--request-json requests/current.json"
+          fi
+
+          python3 scripts/process_file.py             "source/source.${{ needs.capture.outputs.ext }}"             --output observation_output             --preset "${{ needs.capture.outputs.preset }}"             --source-url "${{ needs.capture.outputs.source_url }}"             --remote-path "${{ needs.capture.outputs.remote_path }}"             --title "${{ needs.capture.outputs.title }}"             --video-id "${{ needs.capture.outputs.video_id }}"             $REQ_ARG
+
+          cp ANALYSIS_PROTOCOL.md observation_output/metadata/ANALYSIS_PROTOCOL.md
 
       - name: Upload observation artifact
         uses: actions/upload-artifact@v4
