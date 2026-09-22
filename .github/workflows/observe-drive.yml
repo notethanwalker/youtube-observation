@@ -1,0 +1,76 @@
+name: Observe Google Drive
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'requests/drive-current.json'
+  workflow_dispatch:
+    inputs:
+      url:
+        description: Google Drive file URL
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  observe-drive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve request
+        id: request
+        shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          DISPATCH_URL: ${{ inputs.url }}
+        run: |
+          python3 - <<'PY'
+          import json, os
+          from pathlib import Path
+          if os.environ.get("EVENT_NAME") == "workflow_dispatch":
+              url = os.environ.get("DISPATCH_URL", "").strip()
+              req = {"url": url, "preset": "motion"}
+          else:
+              req = json.loads(Path("requests/drive-current.json").read_text())
+              url = str(req["url"]).strip()
+          if "drive.google.com/file/d/" not in url:
+              raise SystemExit("Expected a Google Drive file URL")
+          Path("resolved_request.json").write_text(json.dumps(req, indent=2))
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"url={url}\n")
+          PY
+
+      - name: Install processing tools
+        shell: bash
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+          python3 -m pip install --upgrade gdown
+
+      - name: Download Drive source
+        shell: bash
+        run: |
+          mkdir -p source
+          gdown --fuzzy "${{ steps.request.outputs.url }}" -O source/source.mp4
+          test -s source/source.mp4
+          ls -lh source/source.mp4
+
+      - name: Build observation pack
+        shell: bash
+        run: |
+          python3 scripts/process_file.py             source/source.mp4             --output observation_output             --preset motion             --source-url "${{ steps.request.outputs.url }}"             --title "Drive grappling footage"             --video-id "drive-1K-a-RwQglo1aWocCriKQtQl7xHOm8YJ-"             --request-json resolved_request.json
+          cp ANALYSIS_PROTOCOL.md observation_output/metadata/ANALYSIS_PROTOCOL.md
+
+      - name: Upload observation artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: drive-observation-${{ github.run_id }}
+          path: observation_output/
+          retention-days: 7
+          compression-level: 0
+          if-no-files-found: error
