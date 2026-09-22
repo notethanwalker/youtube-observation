@@ -50,16 +50,7 @@ jobs:
           $yt = Join-Path $toolDir "yt-dlp.exe"
           Invoke-WebRequest -Uri "https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe" -OutFile $yt
 
-          $zip = Join-Path $toolDir "rclone.zip"
-          $rcloneExtract = Join-Path $toolDir "rclone"
-          Invoke-WebRequest -Uri "https://downloads.rclone.org/rclone-current-windows-amd64.zip" -OutFile $zip
-          Expand-Archive -Path $zip -DestinationPath $rcloneExtract -Force
-
-          $rclone = Get-ChildItem $rcloneExtract -Filter rclone.exe -Recurse | Select-Object -First 1
-          if (-not $rclone) { throw "rclone.exe not found after extraction" }
-
           "YT_DLP_EXE=$yt" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
-          "RCLONE_EXE=$($rclone.FullName)" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
       - name: Resolve request
         id: request
         shell: powershell
@@ -76,41 +67,46 @@ jobs:
             $height = [string]$r.max_height
             if (-not $height -or $height -eq "1080") { $height = "720" }
           }
+          $url = $url.Trim()
+          $preset = $preset.Trim().ToLowerInvariant()
+          $height = $height.Trim()
+
+          if (-not ($url -match '^https?://(www\.)?(youtube\.com|youtu\.be)/')) {
+            throw "Request does not contain a supported YouTube URL"
+          }
+          if ($preset -notin @('motion', 'standard')) {
+            throw "Invalid preset: $preset"
+          }
+          if ($height -notin @('360', '480', '720')) {
+            throw "Invalid height: $height"
+          }
+
           "url=$url" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
           "preset=$preset" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
           "height=$height" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
 
-      - name: Restore capture credentials
+      - name: Restore optional YouTube cookies
         shell: powershell
         env:
           YOUTUBE_COOKIES_B64: ${{ secrets.YOUTUBE_COOKIES_B64 }}
-          RCLONE_CONFIG_B64: ${{ secrets.RCLONE_CONFIG_B64 }}
         run: |
-          if (-not $env:YOUTUBE_COOKIES_B64) { throw "YOUTUBE_COOKIES_B64 secret is missing" }
-          if (-not $env:RCLONE_CONFIG_B64) { throw "RCLONE_CONFIG_B64 secret is missing" }
-
-          $cookiePath = Join-Path $env:RUNNER_TEMP "youtube_cookies.txt"
-          $rclonePath = Join-Path $env:RUNNER_TEMP "rclone.conf"
-
-          [System.IO.File]::WriteAllBytes(
-            $cookiePath,
-            [Convert]::FromBase64String($env:YOUTUBE_COOKIES_B64)
-          )
-          [System.IO.File]::WriteAllBytes(
-            $rclonePath,
-            [Convert]::FromBase64String($env:RCLONE_CONFIG_B64)
-          )
-
-          "YOUTUBE_COOKIE_FILE=$cookiePath" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
-          "RCLONE_CONFIG=$rclonePath" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+          if ($env:YOUTUBE_COOKIES_B64) {
+            $cookiePath = Join-Path $env:RUNNER_TEMP "youtube_cookies.txt"
+            [System.IO.File]::WriteAllBytes(
+              $cookiePath,
+              [Convert]::FromBase64String($env:YOUTUBE_COOKIES_B64)
+            )
+            "YOUTUBE_COOKIE_FILE=$cookiePath" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+            Write-Host "YouTube cookies restored."
+          } else {
+            Write-Host "No YouTube cookies configured; anonymous strategies remain available."
+          }
 
       - name: Verify capture tools
         shell: powershell
         run: |
           & $env:YT_DLP_EXE --version
-          & $env:RCLONE_EXE version | Select-Object -First 1
-          & $env:RCLONE_EXE lsf youtube-drive: --max-depth 1 | Out-Null
-          if ($LASTEXITCODE -ne 0) { throw "Google Drive remote verification failed" }
+          if ($LASTEXITCODE -ne 0) { throw "yt-dlp verification failed" }
       - name: Download YouTube to temporary source
         id: capture
         shell: powershell
@@ -201,9 +197,6 @@ jobs:
         run: |
           if ($env:YOUTUBE_COOKIE_FILE) {
             Remove-Item $env:YOUTUBE_COOKIE_FILE -Force -ErrorAction SilentlyContinue
-          }
-          if ($env:RCLONE_CONFIG) {
-            Remove-Item $env:RCLONE_CONFIG -Force -ErrorAction SilentlyContinue
           }
           if ($env:SOURCE_FILE) {
             Remove-Item $env:SOURCE_FILE -Force -ErrorAction SilentlyContinue
