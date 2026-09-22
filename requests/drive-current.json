@@ -1,0 +1,13 @@
+{
+  "url": "https://drive.google.com/file/d/1K-a-RwQglo1aWocCriKQtQl7xHOm8YJ-/view?usp=drivesdk",
+  "preset": "motion",
+  "identity": {
+    "anchor_seconds": [
+      10
+    ],
+    "description": "Target is the user, wearing black. User starts on bottom near center frame around 0:10. Multiple opponents appear. Re-verify target identity after every opponent change, exit/re-entry, occlusion, overlap, scramble, inversion, reversal, or camera discontinuity. Do not infer identity from prominence, position, or technical style."
+  },
+  "analysis_context": {
+    "note": "Perform complete detailed jiu-jitsu analysis with move-specific naming only when visually supported. Track each sequence from entry through endpoint, including grips, frames, head/hip/leg position, inside position, weight transfer, transitions, sweeps, passes, submissions, defensive layers, positional continuity, scramble decisions, pressure/control, and causal earlier decisions. Separate observable fact from inference and explicitly mark unresolved moments."
+  }
+}
