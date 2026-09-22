@@ -9,5 +9,6 @@
   },
   "analysis_context": {
     "note": "Perform complete detailed jiu-jitsu analysis with move-specific naming only when visually supported. Track each sequence from entry through endpoint, including grips, frames, head/hip/leg position, inside position, weight transfer, transitions, sweeps, passes, submissions, defensive layers, positional continuity, scramble decisions, pressure/control, and causal earlier decisions. Separate observable fact from inference and explicitly mark unresolved moments."
-  }
+  },
+  "request_nonce": "2026-09-22T08:31:00-05:00"
 }
