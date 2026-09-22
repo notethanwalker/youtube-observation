@@ -1,13 +1,15 @@
 {
-  "url": "https://www.youtube.com/watch?v=jbMkwsyv7Dk",
+  "url": "https://youtu.be/Hqd-_oncTlc?is=8_tjr0SWwZbO_MjU",
   "preset": "motion",
   "max_height": 720,
-  "request_nonce": "2026-09-20T00:05:00-05:00",
+  "request_nonce": "2026-09-22T07:36:00-05:00",
   "identity": {
-    "anchor_seconds": [],
-    "description": "Target is the user. Same outfit as prior self-analysis video: short-sleeved black shirt and dark shorts. Additional cue: medium-length brown hair. Opponent wears a blue T-shirt. Track both people continuously in full frame; re-verify target and top/bottom orientation after every scramble, inversion, reversal, occlusion, cut, or camera discontinuity."
+    "anchor_seconds": [
+      10
+    ],
+    "description": "Target is the user. Target wears black and begins on bottom near center frame around 0:10. Track the target continuously in full frame and re-verify identity and top/bottom orientation after every scramble, inversion, reversal, occlusion, overlap, exit/re-entry, cut, or camera discontinuity. Do not infer identity from prominence or technical style."
   },
   "analysis_context": {
-    "note": "Apply full standing grappling-analysis protocol, especially visual verification, intent inference, effort asymmetry, and specific mechanical analysis. Do not infer identity from prominence or technical style. Do not invent obscured grips or mechanics."
+    "note": "Apply the established jiu-jitsu analysis protocol: identity-first tracking, dense visual checks around exchanges, observable fact separated from inference, specific named techniques only when visually supported, follow sequences from entry through endpoint, and account for training intent, effort asymmetry, deliberate concession of first-line defenses, and positional continuity."
   }
 }
