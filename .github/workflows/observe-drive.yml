@@ -56,7 +56,16 @@ jobs:
         shell: bash
         run: |
           mkdir -p source
-          gdown --fuzzy "${{ steps.request.outputs.url }}" -O source/source.mp4
+          FILE_ID=$(python3 - <<'PY'
+          import re
+          url = """${{ steps.request.outputs.url }}"""
+          m = re.search(r'/file/d/([^/]+)', url)
+          if not m:
+              raise SystemExit("Could not extract Drive file ID")
+          print(m.group(1))
+          PY
+          )
+          gdown "$FILE_ID" -O source/source.mp4
           test -s source/source.mp4
           ls -lh source/source.mp4
 
