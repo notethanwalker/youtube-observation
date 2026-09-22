@@ -1,0 +1,72 @@
+name: Compact Drive Review
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'requests/drive-compact.json'
+
+permissions:
+  contents: read
+
+jobs:
+  compact:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install tools
+        shell: bash
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+          python3 -m pip install --upgrade gdown
+
+      - name: Resolve request
+        id: req
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json, os, re
+          from pathlib import Path
+          req = json.loads(Path("requests/drive-compact.json").read_text())
+          url = str(req["url"]).strip()
+          m = re.search(r'/file/d/([^/]+)', url)
+          if not m:
+              raise SystemExit("Could not extract Drive file ID")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"id={m.group(1)}\n")
+              f.write(f"url={url}\n")
+          Path("resolved_request.json").write_text(json.dumps(req, indent=2))
+          PY
+
+      - name: Download source
+        shell: bash
+        run: |
+          mkdir -p source
+          gdown "${{ steps.req.outputs.id }}" -O source/source.mov
+          test -s source/source.mov
+
+      - name: Build compact review pack
+        shell: bash
+        run: |
+          mkdir -p review/contact_sheets review/context review/anchor review/metadata
+          DURATION=$(ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 source/source.mov)
+          printf '{"duration_seconds":%s,"source_url":"%s"}\n' "$DURATION" "${{ steps.req.outputs.url }}" > review/MANIFEST.json
+          cp resolved_request.json review/metadata/request.json
+
+          ffmpeg -hide_banner -loglevel warning -y -ss 10 -i source/source.mov -frames:v 1 -vf "scale=960:-2" -q:v 3 review/anchor/anchor_010s.jpg
+
+          ffmpeg -hide_banner -loglevel warning -y -i source/source.mov             -vf "fps=1/5,scale=640:-2,drawtext=text='%{pts\\:hms}':x=8:y=h-th-8:fontsize=20:fontcolor=white:box=1:boxcolor=black@0.65"             -q:v 5 review/context/context_%05d.jpg
+
+          ffmpeg -hide_banner -loglevel warning -y -i source/source.mov             -vf "fps=1,scale=320:-2,drawtext=text='%{pts\\:hms}':x=6:y=h-th-6:fontsize=16:fontcolor=white:box=1:boxcolor=black@0.65,tile=5x5:nb_frames=25:padding=2:margin=2"             -q:v 5 review/contact_sheets/sheet_%05d.jpg
+
+      - name: Upload compact artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: drive-compact-${{ github.run_id }}
+          path: review/
+          retention-days: 7
+          compression-level: 6
+          if-no-files-found: error
