@@ -1,0 +1,1813 @@
+{
+  "schema_version": 1,
+  "pass": 3,
+  "status": "complete_audited",
+  "method": "deterministic transcript-boundary and transparent lexical triage scoring; no gameplay/claim analysis",
+  "score_scale": "0-100; intended for relative corpus triage, not calibrated probabilities or quality grades",
+  "summary": {
+    "videos": 54,
+    "segments": 292,
+    "duration_seconds": 52413,
+    "topic_counts": {
+      "coaching_learning": 15,
+      "player_decisions_mechanics": 33,
+      "macro_space_tempo": 112,
+      "fight_execution_review": 79,
+      "mixed_other": 1,
+      "composition_matchups": 32,
+      "pro_team_analysis": 8,
+      "game_design_meta": 7,
+      "career_community_personal": 5
+    },
+    "mode_counts": {
+      "mixed_discussion": 70,
+      "analytical_explanation": 179,
+      "short_analysis_or_highlight": 5,
+      "collaborative_discussion": 10,
+      "match_commentary": 23,
+      "promotion_housekeeping": 1,
+      "personal_editorial": 4
+    }
+  },
+  "videos": [
+    {
+      "video_id": "_pv_dhja-4w",
+      "title": "You're Never Going to Learn",
+      "upload_date": "2026-09-29",
+      "duration_seconds": 709,
+      "segment_count": 4,
+      "average_seriousness": 67.5,
+      "average_information_density": 47.6,
+      "average_strategic_relevance": 75.1,
+      "average_transcript_confidence": 84.0,
+      "average_visual_review_priority": 62.5,
+      "primary_topics": [
+        [
+          "coaching_learning",
+          3
+        ],
+        [
+          "player_decisions_mechanics",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "mixed_discussion",
+          3
+        ],
+        [
+          "analytical_explanation",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "N5fHwbNE-SQ",
+      "title": "Dallas Fuel is Bringing NA Back (Ft. Cjay)",
+      "upload_date": "2026-09-05",
+      "duration_seconds": 1133,
+      "segment_count": 5,
+      "average_seriousness": 66.2,
+      "average_information_density": 54.6,
+      "average_strategic_relevance": 84.6,
+      "average_transcript_confidence": 83.6,
+      "average_visual_review_priority": 59.2,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          5
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          4
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "KLwLiiYYewQ",
+      "title": "DON'T hold the choke?",
+      "upload_date": "2026-07-08",
+      "duration_seconds": 53,
+      "segment_count": 1,
+      "average_seriousness": 65.0,
+      "average_information_density": 50.0,
+      "average_strategic_relevance": 87.0,
+      "average_transcript_confidence": 80.0,
+      "average_visual_review_priority": 74.0,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "short_analysis_or_highlight",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "prUv2eNrGD0",
+      "title": "The 5 Levels of Sojourn: Diamond to Pro (Ft. PGE)",
+      "upload_date": "2026-06-08",
+      "duration_seconds": 1889,
+      "segment_count": 10,
+      "average_seriousness": 64.9,
+      "average_information_density": 54.0,
+      "average_strategic_relevance": 83.5,
+      "average_transcript_confidence": 82.5,
+      "average_visual_review_priority": 62.8,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          4
+        ],
+        [
+          "player_decisions_mechanics",
+          3
+        ],
+        [
+          "macro_space_tempo",
+          3
+        ]
+      ],
+      "content_modes": [
+        [
+          "collaborative_discussion",
+          10
+        ]
+      ]
+    },
+    {
+      "video_id": "pQcjwEjo6us",
+      "title": "Can SSG Stay Alive for More Than 5 Seconds?",
+      "upload_date": "2026-05-22",
+      "duration_seconds": 29,
+      "segment_count": 1,
+      "average_seriousness": 60.0,
+      "average_information_density": 36.0,
+      "average_strategic_relevance": 87.0,
+      "average_transcript_confidence": 82.0,
+      "average_visual_review_priority": 61.0,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "short_analysis_or_highlight",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "GjlM3r948EI",
+      "title": "Nico Reads Junbin Like a Book",
+      "upload_date": "2026-05-06",
+      "duration_seconds": 22,
+      "segment_count": 1,
+      "average_seriousness": 60.0,
+      "average_information_density": 30.0,
+      "average_strategic_relevance": 45.0,
+      "average_transcript_confidence": 72.0,
+      "average_visual_review_priority": 51.0,
+      "primary_topics": [
+        [
+          "mixed_other",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "short_analysis_or_highlight",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "ijlmDdVIdtk",
+      "title": "The New Dallas Fuel Can't Stop Winning",
+      "upload_date": "2026-04-27",
+      "duration_seconds": 924,
+      "segment_count": 5,
+      "average_seriousness": 66.9,
+      "average_information_density": 56.3,
+      "average_strategic_relevance": 81.3,
+      "average_transcript_confidence": 81.6,
+      "average_visual_review_priority": 64.7,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          2
+        ],
+        [
+          "composition_matchups",
+          1
+        ],
+        [
+          "pro_team_analysis",
+          1
+        ],
+        [
+          "fight_execution_review",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          4
+        ],
+        [
+          "match_commentary",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "AtmKIdmLLQ8",
+      "title": "At Least We Won ONE Match",
+      "upload_date": "2026-04-17",
+      "duration_seconds": 935,
+      "segment_count": 6,
+      "average_seriousness": 65.0,
+      "average_information_density": 52.8,
+      "average_strategic_relevance": 85.9,
+      "average_transcript_confidence": 83.3,
+      "average_visual_review_priority": 67.7,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          4
+        ],
+        [
+          "fight_execution_review",
+          2
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          3
+        ],
+        [
+          "mixed_discussion",
+          2
+        ],
+        [
+          "match_commentary",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "mXrTyliwJTI",
+      "title": "HE HID FOR 14 SECONDS??",
+      "upload_date": "2026-04-16",
+      "duration_seconds": 60,
+      "segment_count": 1,
+      "average_seriousness": 66.0,
+      "average_information_density": 41.0,
+      "average_strategic_relevance": 83.0,
+      "average_transcript_confidence": 84.0,
+      "average_visual_review_priority": 72.0,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "short_analysis_or_highlight",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "GKkzCd9cvUg",
+      "title": "Ult Economy Might Be Real",
+      "upload_date": "2026-04-09",
+      "duration_seconds": 872,
+      "segment_count": 5,
+      "average_seriousness": 65.4,
+      "average_information_density": 54.6,
+      "average_strategic_relevance": 85.7,
+      "average_transcript_confidence": 83.1,
+      "average_visual_review_priority": 66.1,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          4
+        ],
+        [
+          "fight_execution_review",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          5
+        ]
+      ]
+    },
+    {
+      "video_id": "KlcWDgdXrZk",
+      "title": "Playing Second: The Mind Control Warfare of Team Falcons",
+      "upload_date": "2026-03-08",
+      "duration_seconds": 844,
+      "segment_count": 5,
+      "average_seriousness": 69.1,
+      "average_information_density": 64.1,
+      "average_strategic_relevance": 83.8,
+      "average_transcript_confidence": 84.1,
+      "average_visual_review_priority": 65.3,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          3
+        ],
+        [
+          "pro_team_analysis",
+          1
+        ],
+        [
+          "fight_execution_review",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          4
+        ],
+        [
+          "match_commentary",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "x2jNJeKiMUU",
+      "title": "The Biggest Season In Overwatch History",
+      "upload_date": "2026-02-08",
+      "duration_seconds": 1245,
+      "segment_count": 6,
+      "average_seriousness": 62.7,
+      "average_information_density": 49.6,
+      "average_strategic_relevance": 74.6,
+      "average_transcript_confidence": 82.6,
+      "average_visual_review_priority": 54.7,
+      "primary_topics": [
+        [
+          "player_decisions_mechanics",
+          5
+        ],
+        [
+          "game_design_meta",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "mixed_discussion",
+          4
+        ],
+        [
+          "analytical_explanation",
+          1
+        ],
+        [
+          "match_commentary",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "UC8D2vBDf_0",
+      "title": "2026 Announcement",
+      "upload_date": "2026-02-02",
+      "duration_seconds": 311,
+      "segment_count": 2,
+      "average_seriousness": 64.0,
+      "average_information_density": 51.1,
+      "average_strategic_relevance": 29.0,
+      "average_transcript_confidence": 80.4,
+      "average_visual_review_priority": 14.2,
+      "primary_topics": [
+        [
+          "career_community_personal",
+          2
+        ]
+      ],
+      "content_modes": [
+        [
+          "promotion_housekeeping",
+          1
+        ],
+        [
+          "personal_editorial",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "Hl-nV1aF1yE",
+      "title": "Back Up to Go Forward",
+      "upload_date": "2026-01-26",
+      "duration_seconds": 728,
+      "segment_count": 5,
+      "average_seriousness": 70.2,
+      "average_information_density": 56.8,
+      "average_strategic_relevance": 85.4,
+      "average_transcript_confidence": 82.8,
+      "average_visual_review_priority": 72.0,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          4
+        ],
+        [
+          "fight_execution_review",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          5
+        ]
+      ]
+    },
+    {
+      "video_id": "FjoWkH6Sl1k",
+      "title": "How Good is the New Tier 2?",
+      "upload_date": "2026-01-21",
+      "duration_seconds": 1088,
+      "segment_count": 6,
+      "average_seriousness": 66.0,
+      "average_information_density": 54.8,
+      "average_strategic_relevance": 84.2,
+      "average_transcript_confidence": 83.4,
+      "average_visual_review_priority": 68.7,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          3
+        ],
+        [
+          "macro_space_tempo",
+          2
+        ],
+        [
+          "composition_matchups",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          5
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "aHwWbiUE4KQ",
+      "title": "Ultimate Economy Does Not Matter",
+      "upload_date": "2026-01-08",
+      "duration_seconds": 584,
+      "segment_count": 3,
+      "average_seriousness": 75.6,
+      "average_information_density": 71.9,
+      "average_strategic_relevance": 86.2,
+      "average_transcript_confidence": 83.7,
+      "average_visual_review_priority": 65.1,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          3
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          3
+        ]
+      ]
+    },
+    {
+      "video_id": "iLX7uqsC1jE",
+      "title": "The Best Questions of 2025",
+      "upload_date": "2026-01-02",
+      "duration_seconds": 1268,
+      "segment_count": 7,
+      "average_seriousness": 64.4,
+      "average_information_density": 50.4,
+      "average_strategic_relevance": 75.2,
+      "average_transcript_confidence": 82.7,
+      "average_visual_review_priority": 53.8,
+      "primary_topics": [
+        [
+          "coaching_learning",
+          3
+        ],
+        [
+          "player_decisions_mechanics",
+          2
+        ],
+        [
+          "composition_matchups",
+          1
+        ],
+        [
+          "game_design_meta",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          4
+        ],
+        [
+          "mixed_discussion",
+          3
+        ]
+      ]
+    },
+    {
+      "video_id": "jSCHyAWoUjc",
+      "title": "Rokit Makes Vendetta Look Broken",
+      "upload_date": "2025-12-21",
+      "duration_seconds": 977,
+      "segment_count": 5,
+      "average_seriousness": 66.5,
+      "average_information_density": 55.0,
+      "average_strategic_relevance": 85.0,
+      "average_transcript_confidence": 83.2,
+      "average_visual_review_priority": 68.7,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          3
+        ],
+        [
+          "fight_execution_review",
+          2
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          4
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "M8393UkZxjY",
+      "title": "Why Does Team Liquid Evaporate on Stage",
+      "upload_date": "2025-12-19",
+      "duration_seconds": 1529,
+      "segment_count": 8,
+      "average_seriousness": 70.2,
+      "average_information_density": 59.6,
+      "average_strategic_relevance": 84.8,
+      "average_transcript_confidence": 83.6,
+      "average_visual_review_priority": 66.9,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          5
+        ],
+        [
+          "fight_execution_review",
+          2
+        ],
+        [
+          "composition_matchups",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          8
+        ]
+      ]
+    },
+    {
+      "video_id": "t1dnez3yuZ4",
+      "title": "Dva is Broken, so Why Aren't We Winning?",
+      "upload_date": "2025-12-14",
+      "duration_seconds": 1004,
+      "segment_count": 5,
+      "average_seriousness": 63.6,
+      "average_information_density": 50.7,
+      "average_strategic_relevance": 76.7,
+      "average_transcript_confidence": 82.9,
+      "average_visual_review_priority": 56.0,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          2
+        ],
+        [
+          "career_community_personal",
+          1
+        ],
+        [
+          "composition_matchups",
+          1
+        ],
+        [
+          "macro_space_tempo",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "mixed_discussion",
+          3
+        ],
+        [
+          "personal_editorial",
+          1
+        ],
+        [
+          "analytical_explanation",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "Y4ORvoqZ1P0",
+      "title": "How Far Has NA Fallen",
+      "upload_date": "2025-12-11",
+      "duration_seconds": 1051,
+      "segment_count": 5,
+      "average_seriousness": 63.9,
+      "average_information_density": 51.4,
+      "average_strategic_relevance": 82.5,
+      "average_transcript_confidence": 82.6,
+      "average_visual_review_priority": 62.1,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          3
+        ],
+        [
+          "composition_matchups",
+          2
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          4
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "sqtmsbHxrLE",
+      "title": "Symm is NOT Meta... Twisted Minds are Just Better",
+      "upload_date": "2025-12-08",
+      "duration_seconds": 1025,
+      "segment_count": 6,
+      "average_seriousness": 67.7,
+      "average_information_density": 58.3,
+      "average_strategic_relevance": 78.8,
+      "average_transcript_confidence": 82.6,
+      "average_visual_review_priority": 65.2,
+      "primary_topics": [
+        [
+          "composition_matchups",
+          2
+        ],
+        [
+          "coaching_learning",
+          1
+        ],
+        [
+          "game_design_meta",
+          1
+        ],
+        [
+          "fight_execution_review",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          5
+        ],
+        [
+          "match_commentary",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "LSrm0ocaS1Q",
+      "title": "The Secret Rules to Pro Aim",
+      "upload_date": "2025-11-15",
+      "duration_seconds": 1027,
+      "segment_count": 6,
+      "average_seriousness": 63.4,
+      "average_information_density": 41.3,
+      "average_strategic_relevance": 78.4,
+      "average_transcript_confidence": 82.9,
+      "average_visual_review_priority": 67.7,
+      "primary_topics": [
+        [
+          "player_decisions_mechanics",
+          6
+        ]
+      ],
+      "content_modes": [
+        [
+          "mixed_discussion",
+          5
+        ],
+        [
+          "analytical_explanation",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "AcAxvnAEYpg",
+      "title": "How Are Old OWL Players Still So Good?",
+      "upload_date": "2025-11-06",
+      "duration_seconds": 879,
+      "segment_count": 5,
+      "average_seriousness": 64.9,
+      "average_information_density": 54.2,
+      "average_strategic_relevance": 82.8,
+      "average_transcript_confidence": 83.2,
+      "average_visual_review_priority": 66.4,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          4
+        ],
+        [
+          "pro_team_analysis",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          3
+        ],
+        [
+          "match_commentary",
+          1
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "1OvQ5PAK0w0",
+      "title": "Why Good Players Make Stupid Mistakes",
+      "upload_date": "2025-11-03",
+      "duration_seconds": 1168,
+      "segment_count": 7,
+      "average_seriousness": 66.3,
+      "average_information_density": 51.0,
+      "average_strategic_relevance": 82.3,
+      "average_transcript_confidence": 82.7,
+      "average_visual_review_priority": 68.9,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          3
+        ],
+        [
+          "player_decisions_mechanics",
+          2
+        ],
+        [
+          "macro_space_tempo",
+          1
+        ],
+        [
+          "composition_matchups",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          4
+        ],
+        [
+          "mixed_discussion",
+          3
+        ]
+      ]
+    },
+    {
+      "video_id": "2X_yEWyNms0",
+      "title": "How I Would Fix Overwatch (As A Former Pro)",
+      "upload_date": "2025-09-23",
+      "duration_seconds": 617,
+      "segment_count": 3,
+      "average_seriousness": 64.1,
+      "average_information_density": 55.2,
+      "average_strategic_relevance": 58.6,
+      "average_transcript_confidence": 82.9,
+      "average_visual_review_priority": 59.3,
+      "primary_topics": [
+        [
+          "game_design_meta",
+          3
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          2
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "TOaKp3Z44ho",
+      "title": "THEY COULDN'T SURVIVE IN THE WEST... SO THEY RAN TO KOREA.",
+      "upload_date": "2025-09-15",
+      "duration_seconds": 944,
+      "segment_count": 5,
+      "average_seriousness": 64.3,
+      "average_information_density": 51.7,
+      "average_strategic_relevance": 83.5,
+      "average_transcript_confidence": 82.7,
+      "average_visual_review_priority": 65.6,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          2
+        ],
+        [
+          "fight_execution_review",
+          2
+        ],
+        [
+          "player_decisions_mechanics",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "match_commentary",
+          2
+        ],
+        [
+          "analytical_explanation",
+          2
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "ln2t2rl1KYw",
+      "title": "How to Enter the Pocket",
+      "upload_date": "2025-09-10",
+      "duration_seconds": 1366,
+      "segment_count": 7,
+      "average_seriousness": 68.2,
+      "average_information_density": 55.7,
+      "average_strategic_relevance": 82.7,
+      "average_transcript_confidence": 82.4,
+      "average_visual_review_priority": 69.7,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          3
+        ],
+        [
+          "macro_space_tempo",
+          3
+        ],
+        [
+          "coaching_learning",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          6
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "aNBstKtsPms",
+      "title": "Australians CAN Coach? (Joybait)",
+      "upload_date": "2025-09-04",
+      "duration_seconds": 946,
+      "segment_count": 5,
+      "average_seriousness": 66.9,
+      "average_information_density": 56.5,
+      "average_strategic_relevance": 83.4,
+      "average_transcript_confidence": 80.4,
+      "average_visual_review_priority": 66.0,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          4
+        ],
+        [
+          "macro_space_tempo",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          3
+        ],
+        [
+          "mixed_discussion",
+          2
+        ]
+      ]
+    },
+    {
+      "video_id": "1UNctVbRS3M",
+      "title": "How To Win Without Doing Damage",
+      "upload_date": "2025-08-31",
+      "duration_seconds": 1493,
+      "segment_count": 8,
+      "average_seriousness": 69.0,
+      "average_information_density": 58.3,
+      "average_strategic_relevance": 84.0,
+      "average_transcript_confidence": 81.3,
+      "average_visual_review_priority": 70.1,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          3
+        ],
+        [
+          "fight_execution_review",
+          2
+        ],
+        [
+          "composition_matchups",
+          2
+        ],
+        [
+          "player_decisions_mechanics",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          7
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "vu4KmVKp2f0",
+      "title": "How Do You Beat Symmetra Cheese Comps?",
+      "upload_date": "2025-08-10",
+      "duration_seconds": 721,
+      "segment_count": 4,
+      "average_seriousness": 68.3,
+      "average_information_density": 60.5,
+      "average_strategic_relevance": 82.9,
+      "average_transcript_confidence": 83.3,
+      "average_visual_review_priority": 63.0,
+      "primary_topics": [
+        [
+          "composition_matchups",
+          2
+        ],
+        [
+          "macro_space_tempo",
+          1
+        ],
+        [
+          "pro_team_analysis",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "match_commentary",
+          2
+        ],
+        [
+          "analytical_explanation",
+          2
+        ]
+      ]
+    },
+    {
+      "video_id": "x5ej22cA7G0",
+      "title": "I HATE Coaching.",
+      "upload_date": "2025-07-14",
+      "duration_seconds": 828,
+      "segment_count": 5,
+      "average_seriousness": 68.8,
+      "average_information_density": 55.3,
+      "average_strategic_relevance": 75.2,
+      "average_transcript_confidence": 81.4,
+      "average_visual_review_priority": 61.6,
+      "primary_topics": [
+        [
+          "coaching_learning",
+          5
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          4
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "xabIcyolpJA",
+      "title": "How to Make Plays Like the Best Freja (Kronik)",
+      "upload_date": "2025-07-11",
+      "duration_seconds": 576,
+      "segment_count": 3,
+      "average_seriousness": 67.0,
+      "average_information_density": 52.3,
+      "average_strategic_relevance": 83.8,
+      "average_transcript_confidence": 83.4,
+      "average_visual_review_priority": 62.3,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          2
+        ],
+        [
+          "macro_space_tempo",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          2
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "E1bYy6OE_OQ",
+      "title": "How to SEE Overwatch Like GEEKAY Esports",
+      "upload_date": "2025-07-02",
+      "duration_seconds": 506,
+      "segment_count": 3,
+      "average_seriousness": 70.0,
+      "average_information_density": 57.8,
+      "average_strategic_relevance": 67.5,
+      "average_transcript_confidence": 82.6,
+      "average_visual_review_priority": 53.2,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          2
+        ],
+        [
+          "career_community_personal",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          2
+        ],
+        [
+          "personal_editorial",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "SJdCkYn6Is0",
+      "title": "Donghak Theory: How to Carry With no Help",
+      "upload_date": "2025-06-20",
+      "duration_seconds": 603,
+      "segment_count": 3,
+      "average_seriousness": 69.3,
+      "average_information_density": 59.4,
+      "average_strategic_relevance": 83.6,
+      "average_transcript_confidence": 83.7,
+      "average_visual_review_priority": 62.7,
+      "primary_topics": [
+        [
+          "player_decisions_mechanics",
+          1
+        ],
+        [
+          "fight_execution_review",
+          1
+        ],
+        [
+          "macro_space_tempo",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          3
+        ]
+      ]
+    },
+    {
+      "video_id": "LpxT2dykNK0",
+      "title": "Lock Eyes and Fight",
+      "upload_date": "2025-06-12",
+      "duration_seconds": 524,
+      "segment_count": 3,
+      "average_seriousness": 70.1,
+      "average_information_density": 64.8,
+      "average_strategic_relevance": 88.3,
+      "average_transcript_confidence": 83.2,
+      "average_visual_review_priority": 69.9,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          3
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          3
+        ]
+      ]
+    },
+    {
+      "video_id": "GIY_4hD9_M8",
+      "title": "How T1 Beat the Best Overwatch Team in the World",
+      "upload_date": "2025-06-04",
+      "duration_seconds": 3218,
+      "segment_count": 18,
+      "average_seriousness": 67.1,
+      "average_information_density": 56.6,
+      "average_strategic_relevance": 83.9,
+      "average_transcript_confidence": 82.6,
+      "average_visual_review_priority": 68.8,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          6
+        ],
+        [
+          "fight_execution_review",
+          6
+        ],
+        [
+          "composition_matchups",
+          5
+        ],
+        [
+          "pro_team_analysis",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          15
+        ],
+        [
+          "match_commentary",
+          2
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "n-t2m7R_Gho",
+      "title": "The Gang Watches Geekay vs Liquid (NA OWCS)",
+      "upload_date": "2025-06-02",
+      "duration_seconds": 1288,
+      "segment_count": 7,
+      "average_seriousness": 62.3,
+      "average_information_density": 51.8,
+      "average_strategic_relevance": 81.3,
+      "average_transcript_confidence": 82.0,
+      "average_visual_review_priority": 57.9,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          4
+        ],
+        [
+          "pro_team_analysis",
+          2
+        ],
+        [
+          "fight_execution_review",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "match_commentary",
+          7
+        ]
+      ]
+    },
+    {
+      "video_id": "MYW1ztAeDQc",
+      "title": "Why do Dives Always Kill You",
+      "upload_date": "2025-04-30",
+      "duration_seconds": 929,
+      "segment_count": 5,
+      "average_seriousness": 70.2,
+      "average_information_density": 63.6,
+      "average_strategic_relevance": 86.0,
+      "average_transcript_confidence": 82.8,
+      "average_visual_review_priority": 71.2,
+      "primary_topics": [
+        [
+          "composition_matchups",
+          4
+        ],
+        [
+          "macro_space_tempo",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          5
+        ]
+      ]
+    },
+    {
+      "video_id": "vNp9kRvOjKA",
+      "title": "You're Not Trying That Hard",
+      "upload_date": "2025-04-23",
+      "duration_seconds": 656,
+      "segment_count": 3,
+      "average_seriousness": 67.2,
+      "average_information_density": 48.6,
+      "average_strategic_relevance": 60.8,
+      "average_transcript_confidence": 83.1,
+      "average_visual_review_priority": 47.9,
+      "primary_topics": [
+        [
+          "coaching_learning",
+          2
+        ],
+        [
+          "career_community_personal",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "personal_editorial",
+          1
+        ],
+        [
+          "mixed_discussion",
+          1
+        ],
+        [
+          "analytical_explanation",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "cXnFhS2l47g",
+      "title": "How the Best NA OWCS Team Got Their Revenge",
+      "upload_date": "2025-03-28",
+      "duration_seconds": 1557,
+      "segment_count": 9,
+      "average_seriousness": 68.8,
+      "average_information_density": 59.7,
+      "average_strategic_relevance": 86.8,
+      "average_transcript_confidence": 82.6,
+      "average_visual_review_priority": 70.2,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          8
+        ],
+        [
+          "fight_execution_review",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          8
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "GYBpp0KM5-Q",
+      "title": "Why Hero Bans Don't Work Against Crazy Raccoon (Overwatch SOOP Cup)",
+      "upload_date": "2025-01-06",
+      "duration_seconds": 1017,
+      "segment_count": 6,
+      "average_seriousness": 65.5,
+      "average_information_density": 54.0,
+      "average_strategic_relevance": 79.6,
+      "average_transcript_confidence": 81.7,
+      "average_visual_review_priority": 65.8,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          2
+        ],
+        [
+          "game_design_meta",
+          1
+        ],
+        [
+          "composition_matchups",
+          1
+        ],
+        [
+          "player_decisions_mechanics",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          4
+        ],
+        [
+          "mixed_discussion",
+          2
+        ]
+      ]
+    },
+    {
+      "video_id": "p609brPyPzg",
+      "title": "How to Play Overwatch's Wolverine Copy (Hazard)",
+      "upload_date": "2024-12-16",
+      "duration_seconds": 1041,
+      "segment_count": 6,
+      "average_seriousness": 65.2,
+      "average_information_density": 53.4,
+      "average_strategic_relevance": 84.9,
+      "average_transcript_confidence": 79.3,
+      "average_visual_review_priority": 69.7,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          6
+        ]
+      ],
+      "content_modes": [
+        [
+          "mixed_discussion",
+          3
+        ],
+        [
+          "analytical_explanation",
+          3
+        ]
+      ]
+    },
+    {
+      "video_id": "QvMsOy1wFr4",
+      "title": "How NRG Won (And Lost) Overwatch Rock Paper Scissors",
+      "upload_date": "2024-12-08",
+      "duration_seconds": 1934,
+      "segment_count": 10,
+      "average_seriousness": 66.3,
+      "average_information_density": 56.2,
+      "average_strategic_relevance": 84.9,
+      "average_transcript_confidence": 82.1,
+      "average_visual_review_priority": 68.5,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          5
+        ],
+        [
+          "fight_execution_review",
+          3
+        ],
+        [
+          "composition_matchups",
+          2
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          8
+        ],
+        [
+          "match_commentary",
+          2
+        ]
+      ]
+    },
+    {
+      "video_id": "STbH6hH8emk",
+      "title": "Are you Smart Enough to Play Echo?",
+      "upload_date": "2024-12-04",
+      "duration_seconds": 1064,
+      "segment_count": 6,
+      "average_seriousness": 65.9,
+      "average_information_density": 50.0,
+      "average_strategic_relevance": 82.3,
+      "average_transcript_confidence": 80.3,
+      "average_visual_review_priority": 65.0,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          6
+        ]
+      ],
+      "content_modes": [
+        [
+          "mixed_discussion",
+          3
+        ],
+        [
+          "analytical_explanation",
+          3
+        ]
+      ]
+    },
+    {
+      "video_id": "XhcF5IzJDq4",
+      "title": "Why are you Such an Unlucky Brig Player?",
+      "upload_date": "2024-12-02",
+      "duration_seconds": 1182,
+      "segment_count": 7,
+      "average_seriousness": 65.2,
+      "average_information_density": 47.8,
+      "average_strategic_relevance": 80.6,
+      "average_transcript_confidence": 82.5,
+      "average_visual_review_priority": 65.2,
+      "primary_topics": [
+        [
+          "fight_execution_review",
+          4
+        ],
+        [
+          "player_decisions_mechanics",
+          3
+        ]
+      ],
+      "content_modes": [
+        [
+          "mixed_discussion",
+          5
+        ],
+        [
+          "analytical_explanation",
+          2
+        ]
+      ]
+    },
+    {
+      "video_id": "K6Ayz-NHVe4",
+      "title": "How Korea Solved Overwatch",
+      "upload_date": "2024-11-23",
+      "duration_seconds": 1182,
+      "segment_count": 6,
+      "average_seriousness": 63.2,
+      "average_information_density": 49.2,
+      "average_strategic_relevance": 81.9,
+      "average_transcript_confidence": 82.5,
+      "average_visual_review_priority": 69.2,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          3
+        ],
+        [
+          "fight_execution_review",
+          2
+        ],
+        [
+          "pro_team_analysis",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "match_commentary",
+          2
+        ],
+        [
+          "analytical_explanation",
+          2
+        ],
+        [
+          "mixed_discussion",
+          2
+        ]
+      ]
+    },
+    {
+      "video_id": "V-Y0hBOI1yY",
+      "title": "Why You Suck at the Easiest Tank",
+      "upload_date": "2024-11-20",
+      "duration_seconds": 952,
+      "segment_count": 5,
+      "average_seriousness": 64.3,
+      "average_information_density": 51.4,
+      "average_strategic_relevance": 81.4,
+      "average_transcript_confidence": 81.6,
+      "average_visual_review_priority": 68.2,
+      "primary_topics": [
+        [
+          "player_decisions_mechanics",
+          2
+        ],
+        [
+          "fight_execution_review",
+          2
+        ],
+        [
+          "composition_matchups",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "mixed_discussion",
+          3
+        ],
+        [
+          "analytical_explanation",
+          2
+        ]
+      ]
+    },
+    {
+      "video_id": "nddeTxFzT6Q",
+      "title": "How to Play the Easiest Role in Overwatch (Hitscan)",
+      "upload_date": "2024-11-19",
+      "duration_seconds": 1152,
+      "segment_count": 6,
+      "average_seriousness": 66.8,
+      "average_information_density": 56.3,
+      "average_strategic_relevance": 82.2,
+      "average_transcript_confidence": 83.2,
+      "average_visual_review_priority": 69.5,
+      "primary_topics": [
+        [
+          "player_decisions_mechanics",
+          3
+        ],
+        [
+          "fight_execution_review",
+          2
+        ],
+        [
+          "macro_space_tempo",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          6
+        ]
+      ]
+    },
+    {
+      "video_id": "pMPwEwNEiQA",
+      "title": "What You're Missing on Genji",
+      "upload_date": "2024-11-14",
+      "duration_seconds": 1208,
+      "segment_count": 7,
+      "average_seriousness": 64.2,
+      "average_information_density": 48.4,
+      "average_strategic_relevance": 83.1,
+      "average_transcript_confidence": 82.3,
+      "average_visual_review_priority": 70.2,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          3
+        ],
+        [
+          "fight_execution_review",
+          2
+        ],
+        [
+          "player_decisions_mechanics",
+          2
+        ]
+      ],
+      "content_modes": [
+        [
+          "mixed_discussion",
+          6
+        ],
+        [
+          "analytical_explanation",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "XXrcVGWBmo4",
+      "title": "Do This to be a Top 5 Brig in NA #overwatch2 #gaming #overwatchclips #ow2",
+      "upload_date": "2024-11-13",
+      "duration_seconds": 58,
+      "segment_count": 1,
+      "average_seriousness": 59.0,
+      "average_information_density": 42.0,
+      "average_strategic_relevance": 83.0,
+      "average_transcript_confidence": 85.0,
+      "average_visual_review_priority": 67.0,
+      "primary_topics": [
+        [
+          "composition_matchups",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "short_analysis_or_highlight",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "z9n-JNB52rk",
+      "title": "Get off the Corner",
+      "upload_date": "2024-11-11",
+      "duration_seconds": 933,
+      "segment_count": 6,
+      "average_seriousness": 65.2,
+      "average_information_density": 52.5,
+      "average_strategic_relevance": 84.8,
+      "average_transcript_confidence": 80.6,
+      "average_visual_review_priority": 69.7,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          4
+        ],
+        [
+          "composition_matchups",
+          1
+        ],
+        [
+          "fight_execution_review",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "mixed_discussion",
+          4
+        ],
+        [
+          "analytical_explanation",
+          2
+        ]
+      ]
+    },
+    {
+      "video_id": "c92ESPjlveI",
+      "title": "What are turns?",
+      "upload_date": "2023-11-28",
+      "duration_seconds": 998,
+      "segment_count": 5,
+      "average_seriousness": 71.4,
+      "average_information_density": 63.3,
+      "average_strategic_relevance": 86.9,
+      "average_transcript_confidence": 82.1,
+      "average_visual_review_priority": 65.3,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          5
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          4
+        ],
+        [
+          "mixed_discussion",
+          1
+        ]
+      ]
+    },
+    {
+      "video_id": "JM50b3IU6-c",
+      "title": "How to Play Split Comps in Overwatch (Toronto vs Washington)",
+      "upload_date": "2023-10-27",
+      "duration_seconds": 1566,
+      "segment_count": 10,
+      "average_seriousness": 66.9,
+      "average_information_density": 54.6,
+      "average_strategic_relevance": 85.8,
+      "average_transcript_confidence": 82.4,
+      "average_visual_review_priority": 69.4,
+      "primary_topics": [
+        [
+          "macro_space_tempo",
+          6
+        ],
+        [
+          "composition_matchups",
+          3
+        ],
+        [
+          "fight_execution_review",
+          1
+        ]
+      ],
+      "content_modes": [
+        [
+          "analytical_explanation",
+          8
+        ],
+        [
+          "mixed_discussion",
+          2
+        ]
+      ]
+    }
+  ],
+  "completed_at": "2026-10-01T22:31:00Z",
+  "audit": {
+    "method": "Reviewed corpus distributions, every per-video aggregate, top visual-priority results, lowest-seriousness results, and representative low/quartile/median/high-density excerpts. Revised pro-team vocabulary and spoken-filler penalties after first draft.",
+    "review_tiers": {
+      "C": 82,
+      "A": 38,
+      "B": 166,
+      "D": 6
+    },
+    "structural_checks": "292 unique segment IDs; all 54 videos covered; time-ordered event partitions with no duplicated caption events; ASR display intervals may overlap section boundaries by a few seconds; no sections over 265 seconds; sub-70-second sections are the five Shorts only."
+  }
+}
