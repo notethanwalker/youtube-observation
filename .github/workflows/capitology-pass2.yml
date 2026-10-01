@@ -1,0 +1,58 @@
+name: Capitology Pass 2 Captions
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'requests/capitology-pass2.json'
+
+permissions:
+  contents: read
+
+jobs:
+  captions:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install current yt-dlp
+        run: python3 -m pip install --upgrade --pre "yt-dlp[default]"
+      - name: Prepare optional YouTube cookies
+        shell: bash
+        env:
+          YOUTUBE_COOKIES_B64: ${{ secrets.YOUTUBE_COOKIES_B64 }}
+        run: |
+          if [ -n "$YOUTUBE_COOKIES_B64" ]; then
+            printf '%s' "$YOUTUBE_COOKIES_B64" | base64 --decode > youtube_cookies.txt
+            chmod 600 youtube_cookies.txt
+            echo 'Cookies configured.'
+          else
+            echo 'No cookies configured; using anonymous caption retrieval.'
+          fi
+      - name: Acquire and normalize caption corpus
+        run: python3 research/capitology-model/acquire_captions.py --workers 1
+      - name: Validate complete manifest
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          root=Path('research/capitology-model')
+          manifest=json.loads((root/'pass02_caption_manifest.json').read_text())
+          assert manifest['status']=='complete', manifest['summary']
+          assert manifest['summary']['captions_acquired']==54, manifest['summary']
+          assert len(list((root/'captions/raw-json3').glob('*.json3')))==54
+          assert len(list((root/'captions/segments').glob('*.json')))==54
+          assert len(list((root/'captions/text').glob('*.md')))==54
+          print(manifest['summary'])
+          PY
+      - name: Upload Pass 2 corpus
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: capitology-pass2-captions-${{ github.run_id }}
+          path: |
+            research/capitology-model/captions/
+            research/capitology-model/pass02_caption_manifest.json
+          retention-days: 7
+          if-no-files-found: error
+          compression-level: 6
