@@ -1,0 +1,2151 @@
+{
+  "video_id": "vu4KmVKp2f0",
+  "title": "How Do You Beat Symmetra Cheese Comps?",
+  "url": "https://www.youtube.com/watch?v=vu4KmVKp2f0",
+  "upload_date": "2025-08-10",
+  "duration_seconds": 721,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:21:21.523407+00:00",
+  "source_sha256": "8248737366f83a29e82e2f3f6770f4c54a1b1584a96ce45bfe964b60b18f2750",
+  "source_bytes": 225812,
+  "segment_count": 304,
+  "word_count": 2138,
+  "character_count": 11146,
+  "first_segment_ms": 2639,
+  "last_segment_end_ms": 721240,
+  "leading_gap_seconds": 2.639,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 2639,
+      "end_ms": 7040,
+      "start": "00:00:02.639",
+      "end": "00:00:07.040",
+      "text": "The 2025 Overwatch Esports World Cup"
+    },
+    {
+      "start_ms": 5120,
+      "end_ms": 9280,
+      "start": "00:00:05.120",
+      "end": "00:00:09.280",
+      "text": "just recently concluded with Falcons"
+    },
+    {
+      "start_ms": 7040,
+      "end_ms": 11200,
+      "start": "00:00:07.040",
+      "end": "00:00:11.200",
+      "text": "coming away the winner. Korea is still"
+    },
+    {
+      "start_ms": 9280,
+      "end_ms": 13599,
+      "start": "00:00:09.280",
+      "end": "00:00:13.599",
+      "text": "on top of Overwatch at the moment."
+    },
+    {
+      "start_ms": 11200,
+      "end_ms": 15519,
+      "start": "00:00:11.200",
+      "end": "00:00:15.519",
+      "text": "However, Alcatsia, an EU team, got"
+    },
+    {
+      "start_ms": 13599,
+      "end_ms": 17359,
+      "start": "00:00:13.599",
+      "end": "00:00:17.359",
+      "text": "second place and Twisted Minds, another"
+    },
+    {
+      "start_ms": 15519,
+      "end_ms": 19760,
+      "start": "00:00:15.519",
+      "end": "00:00:19.760",
+      "text": "EU team, knocked out the heavy Korean"
+    },
+    {
+      "start_ms": 17359,
+      "end_ms": 21600,
+      "start": "00:00:17.359",
+      "end": "00:00:21.600",
+      "text": "favorite Crazy Raccoons early on. So,"
+    },
+    {
+      "start_ms": 19760,
+      "end_ms": 22800,
+      "start": "00:00:19.760",
+      "end": "00:00:22.800",
+      "text": "what kinds of things allowed EU to do so"
+    },
+    {
+      "start_ms": 21600,
+      "end_ms": 24480,
+      "start": "00:00:21.600",
+      "end": "00:00:24.480",
+      "text": "well in this tournament? And what are"
+    },
+    {
+      "start_ms": 22800,
+      "end_ms": 26800,
+      "start": "00:00:22.800",
+      "end": "00:00:26.800",
+      "text": "the differences in how Falcons beat them"
+    },
+    {
+      "start_ms": 24480,
+      "end_ms": 28960,
+      "start": "00:00:24.480",
+      "end": "00:00:28.960",
+      "text": "and how Crazy Raccoons lost? I do want"
+    },
+    {
+      "start_ms": 26800,
+      "end_ms": 30560,
+      "start": "00:00:26.800",
+      "end": "00:00:30.560",
+      "text": "to note that sign esports beat Twisted"
+    },
+    {
+      "start_ms": 28960,
+      "end_ms": 31920,
+      "start": "00:00:28.960",
+      "end": "00:00:31.920",
+      "text": "Minds very early on in the tournament,"
+    },
+    {
+      "start_ms": 30560,
+      "end_ms": 33520,
+      "start": "00:00:30.560",
+      "end": "00:00:33.520",
+      "text": "but first to two is a very different"
+    },
+    {
+      "start_ms": 31920,
+      "end_ms": 34960,
+      "start": "00:00:31.920",
+      "end": "00:00:34.960",
+      "text": "format from first to three, so I'm only"
+    },
+    {
+      "start_ms": 33520,
+      "end_ms": 36320,
+      "start": "00:00:33.520",
+      "end": "00:00:36.320",
+      "text": "going to cover these for now. The"
+    },
+    {
+      "start_ms": 34960,
+      "end_ms": 38480,
+      "start": "00:00:34.960",
+      "end": "00:00:38.480",
+      "text": "defining hero of this tournament was"
+    },
+    {
+      "start_ms": 36320,
+      "end_ms": 40079,
+      "start": "00:00:36.320",
+      "end": "00:00:40.079",
+      "text": "definitely Symmetra. The EU teams had a"
+    },
+    {
+      "start_ms": 38480,
+      "end_ms": 41600,
+      "start": "00:00:38.480",
+      "end": "00:00:41.600",
+      "text": "stronger grasp on Symmetra than almost"
+    },
+    {
+      "start_ms": 40079,
+      "end_ms": 43040,
+      "start": "00:00:40.079",
+      "end": "00:00:43.040",
+      "text": "everyone else. And the biggest"
+    },
+    {
+      "start_ms": 41600,
+      "end_ms": 44480,
+      "start": "00:00:41.600",
+      "end": "00:00:44.480",
+      "text": "determining factor in whether you could"
+    },
+    {
+      "start_ms": 43040,
+      "end_ms": 45920,
+      "start": "00:00:43.040",
+      "end": "00:00:45.920",
+      "text": "place high or not was whether you could"
+    },
+    {
+      "start_ms": 44480,
+      "end_ms": 48000,
+      "start": "00:00:44.480",
+      "end": "00:00:48.000",
+      "text": "play Symmetra or whether you could beat"
+    },
+    {
+      "start_ms": 45920,
+      "end_ms": 49280,
+      "start": "00:00:45.920",
+      "end": "00:00:49.280",
+      "text": "Symmetra. Most teams decided pretty"
+    },
+    {
+      "start_ms": 48000,
+      "end_ms": 51280,
+      "start": "00:00:48.000",
+      "end": "00:00:51.280",
+      "text": "early on whether they wanted to try to"
+    },
+    {
+      "start_ms": 49280,
+      "end_ms": 53120,
+      "start": "00:00:49.280",
+      "end": "00:00:53.120",
+      "text": "play it or beat it with their own style."
+    },
+    {
+      "start_ms": 51280,
+      "end_ms": 54559,
+      "start": "00:00:51.280",
+      "end": "00:00:54.559",
+      "text": "Crazy Raccoon decided mostly not to play"
+    },
+    {
+      "start_ms": 53120,
+      "end_ms": 56480,
+      "start": "00:00:53.120",
+      "end": "00:00:56.480",
+      "text": "and to try their own style, even though"
+    },
+    {
+      "start_ms": 54559,
+      "end_ms": 58000,
+      "start": "00:00:54.559",
+      "end": "00:00:58.000",
+      "text": "they did play Sim on one map. There's"
+    },
+    {
+      "start_ms": 56480,
+      "end_ms": 60079,
+      "start": "00:00:56.480",
+      "end": "00:01:00.079",
+      "text": "two main things you need to do to beat"
+    },
+    {
+      "start_ms": 58000,
+      "end_ms": 62160,
+      "start": "00:00:58.000",
+      "end": "00:01:02.160",
+      "text": "Symmetra without mirroring it. Number"
+    },
+    {
+      "start_ms": 60079,
+      "end_ms": 64720,
+      "start": "00:01:00.079",
+      "end": "00:01:04.720",
+      "text": "one is constantly pressure them to make"
+    },
+    {
+      "start_ms": 62160,
+      "end_ms": 65920,
+      "start": "00:01:02.160",
+      "end": "00:01:05.920",
+      "text": "bad TPS. Now, before we talk about how"
+    },
+    {
+      "start_ms": 64720,
+      "end_ms": 68000,
+      "start": "00:01:04.720",
+      "end": "00:01:08.000",
+      "text": "to do this, I want to talk about what"
+    },
+    {
+      "start_ms": 65920,
+      "end_ms": 69760,
+      "start": "00:01:05.920",
+      "end": "00:01:09.760",
+      "text": "good TPS are. There's a couple ways to"
+    },
+    {
+      "start_ms": 68000,
+      "end_ms": 72080,
+      "start": "00:01:08.000",
+      "end": "00:01:12.080",
+      "text": "do them. The first and easiest is just"
+    },
+    {
+      "start_ms": 69760,
+      "end_ms": 73360,
+      "start": "00:01:09.760",
+      "end": "00:01:13.360",
+      "text": "to TP directly on top of your opponent."
+    },
+    {
+      "start_ms": 72080,
+      "end_ms": 75119,
+      "start": "00:01:12.080",
+      "end": "00:01:15.119",
+      "text": "This is really good if your comp has"
+    },
+    {
+      "start_ms": 73360,
+      "end_ms": 76720,
+      "start": "00:01:13.360",
+      "end": "00:01:16.720",
+      "text": "better brawl than them. For example, you"
+    },
+    {
+      "start_ms": 75119,
+      "end_ms": 78640,
+      "start": "00:01:15.119",
+      "end": "00:01:18.640",
+      "text": "have a Cass, you have a Ram, you have a"
+    },
+    {
+      "start_ms": 76720,
+      "end_ms": 80159,
+      "start": "00:01:16.720",
+      "end": "00:01:20.159",
+      "text": "div.a. These are characters that want to"
+    },
+    {
+      "start_ms": 78640,
+      "end_ms": 81840,
+      "start": "00:01:18.640",
+      "end": "00:01:21.840",
+      "text": "just get directly on top of the enemy,"
+    },
+    {
+      "start_ms": 80159,
+      "end_ms": 83520,
+      "start": "00:01:20.159",
+      "end": "00:01:23.520",
+      "text": "and it's really easy to do. The other"
+    },
+    {
+      "start_ms": 81840,
+      "end_ms": 85520,
+      "start": "00:01:21.840",
+      "end": "00:01:25.520",
+      "text": "most common ways to use them are to TP"
+    },
+    {
+      "start_ms": 83520,
+      "end_ms": 87680,
+      "start": "00:01:23.520",
+      "end": "00:01:27.680",
+      "text": "to make an angle for someone, usually"
+    },
+    {
+      "start_ms": 85520,
+      "end_ms": 88960,
+      "start": "00:01:25.520",
+      "end": "00:01:28.960",
+      "text": "for your hit scan, or to TP specifically"
+    },
+    {
+      "start_ms": 87680,
+      "end_ms": 90799,
+      "start": "00:01:27.680",
+      "end": "00:01:30.799",
+      "text": "to fight someone on the enemy team"
+    },
+    {
+      "start_ms": 88960,
+      "end_ms": 92880,
+      "start": "00:01:28.960",
+      "end": "00:01:32.880",
+      "text": "that's making an angle, maybe to help my"
+    },
+    {
+      "start_ms": 90799,
+      "end_ms": 94640,
+      "start": "00:01:30.799",
+      "end": "00:01:34.640",
+      "text": "cast fight their Freya. The last most"
+    },
+    {
+      "start_ms": 92880,
+      "end_ms": 96320,
+      "start": "00:01:32.880",
+      "end": "00:01:36.320",
+      "text": "common type of TP is usually a rotation"
+    },
+    {
+      "start_ms": 94640,
+      "end_ms": 98079,
+      "start": "00:01:34.640",
+      "end": "00:01:38.079",
+      "text": "or a map flip, maybe to get completely"
+    },
+    {
+      "start_ms": 96320,
+      "end_ms": 100079,
+      "start": "00:01:36.320",
+      "end": "00:01:40.079",
+      "text": "behind the enemy or to rotate past them"
+    },
+    {
+      "start_ms": 98079,
+      "end_ms": 101680,
+      "start": "00:01:38.079",
+      "end": "00:01:41.680",
+      "text": "for some kind of important space. Now,"
+    },
+    {
+      "start_ms": 100079,
+      "end_ms": 104400,
+      "start": "00:01:40.079",
+      "end": "00:01:44.400",
+      "text": "since there's so many different kinds of"
+    },
+    {
+      "start_ms": 101680,
+      "end_ms": 106399,
+      "start": "00:01:41.680",
+      "end": "00:01:46.399",
+      "text": "TP that all get tons of value, how do I"
+    },
+    {
+      "start_ms": 104400,
+      "end_ms": 107759,
+      "start": "00:01:44.400",
+      "end": "00:01:47.759",
+      "text": "pressure them to make a bad TP? The"
+    },
+    {
+      "start_ms": 106399,
+      "end_ms": 109680,
+      "start": "00:01:46.399",
+      "end": "00:01:49.680",
+      "text": "first fight we'll look at is from Crazy"
+    },
+    {
+      "start_ms": 107759,
+      "end_ms": 111920,
+      "start": "00:01:47.759",
+      "end": "00:01:51.920",
+      "text": "Raccoon vers Twisted Minds Circuit, a"
+    },
+    {
+      "start_ms": 109680,
+      "end_ms": 114920,
+      "start": "00:01:49.680",
+      "end": "00:01:54.920",
+      "text": "map they lost horribly. Let's watch the"
+    },
+    {
+      "start_ms": 111920,
+      "end_ms": 114920,
+      "start": "00:01:51.920",
+      "end": "00:01:54.920",
+      "text": "fight."
+    },
+    {
+      "start_ms": 121360,
+      "end_ms": 126079,
+      "start": "00:02:01.360",
+      "end": "00:02:06.079",
+      "text": ">> Now, take a second here and think about"
+    },
+    {
+      "start_ms": 122880,
+      "end_ms": 127840,
+      "start": "00:02:02.880",
+      "end": "00:02:07.840",
+      "text": "where Twisted Minds is going to TP."
+    },
+    {
+      "start_ms": 126079,
+      "end_ms": 129280,
+      "start": "00:02:06.079",
+      "end": "00:02:09.280",
+      "text": "First of all, we don't really know since"
+    },
+    {
+      "start_ms": 127840,
+      "end_ms": 131039,
+      "start": "00:02:07.840",
+      "end": "00:02:11.039",
+      "text": "our position doesn't let us scout them"
+    },
+    {
+      "start_ms": 129280,
+      "end_ms": 133040,
+      "start": "00:02:09.280",
+      "end": "00:02:13.040",
+      "text": "at all. Second of all, both of their"
+    },
+    {
+      "start_ms": 131039,
+      "end_ms": 134720,
+      "start": "00:02:11.039",
+      "end": "00:02:14.720",
+      "text": "obvious TPS, either directly on top of"
+    },
+    {
+      "start_ms": 133040,
+      "end_ms": 137040,
+      "start": "00:02:13.040",
+      "end": "00:02:17.040",
+      "text": "us here or to the statue to clear the"
+    },
+    {
+      "start_ms": 134720,
+      "end_ms": 138400,
+      "start": "00:02:14.720",
+      "end": "00:02:18.400",
+      "text": "angle, both look like pretty high value."
+    },
+    {
+      "start_ms": 137040,
+      "end_ms": 140160,
+      "start": "00:02:17.040",
+      "end": "00:02:20.160",
+      "text": "If you pay attention to the way I"
+    },
+    {
+      "start_ms": 138400,
+      "end_ms": 142319,
+      "start": "00:02:18.400",
+      "end": "00:02:22.319",
+      "text": "usually explain the game, I'm a really"
+    },
+    {
+      "start_ms": 140160,
+      "end_ms": 144319,
+      "start": "00:02:20.160",
+      "end": "00:02:24.319",
+      "text": "big fan of stopping engages before they"
+    },
+    {
+      "start_ms": 142319,
+      "end_ms": 146239,
+      "start": "00:02:22.319",
+      "end": "00:02:26.239",
+      "text": "happen. At this point, Crazy Raccoon is"
+    },
+    {
+      "start_ms": 144319,
+      "end_ms": 148400,
+      "start": "00:02:24.319",
+      "end": "00:02:28.400",
+      "text": "just trying to sit by and live a TP"
+    },
+    {
+      "start_ms": 146239,
+      "end_ms": 149840,
+      "start": "00:02:26.239",
+      "end": "00:02:29.840",
+      "text": "that's definitely going to be good."
+    },
+    {
+      "start_ms": 148400,
+      "end_ms": 151840,
+      "start": "00:02:28.400",
+      "end": "00:02:31.840",
+      "text": "They've already failed this fight, and"
+    },
+    {
+      "start_ms": 149840,
+      "end_ms": 153519,
+      "start": "00:02:29.840",
+      "end": "00:02:33.519",
+      "text": "when Twisted Minds does TP, they have no"
+    },
+    {
+      "start_ms": 151840,
+      "end_ms": 155040,
+      "start": "00:02:31.840",
+      "end": "00:02:35.040",
+      "text": "point but to hard kite and just let"
+    },
+    {
+      "start_ms": 153519,
+      "end_ms": 158519,
+      "start": "00:02:33.519",
+      "end": "00:02:38.519",
+      "text": "Twisted Mind set up their beat push and"
+    },
+    {
+      "start_ms": 155040,
+      "end_ms": 158519,
+      "start": "00:02:35.040",
+      "end": "00:02:38.519",
+      "text": "end the fight easily."
+    },
+    {
+      "start_ms": 168400,
+      "end_ms": 171920,
+      "start": "00:02:48.400",
+      "end": "00:02:51.920",
+      "text": "When Twisted Mines TPS in directly on"
+    },
+    {
+      "start_ms": 170239,
+      "end_ms": 173440,
+      "start": "00:02:50.239",
+      "end": "00:02:53.440",
+      "text": "top and windows, Crazy Raccoon has to"
+    },
+    {
+      "start_ms": 171920,
+      "end_ms": 175680,
+      "start": "00:02:51.920",
+      "end": "00:02:55.680",
+      "text": "give all the space and break their"
+    },
+    {
+      "start_ms": 173440,
+      "end_ms": 177120,
+      "start": "00:02:53.440",
+      "end": "00:02:57.120",
+      "text": "shield. Heang tries to go bottom left to"
+    },
+    {
+      "start_ms": 175680,
+      "end_ms": 178560,
+      "start": "00:02:55.680",
+      "end": "00:02:58.560",
+      "text": "get a little bit of space back, but at"
+    },
+    {
+      "start_ms": 177120,
+      "end_ms": 182920,
+      "start": "00:02:57.120",
+      "end": "00:03:02.920",
+      "text": "this point, the beat push is coming and"
+    },
+    {
+      "start_ms": 178560,
+      "end_ms": 182920,
+      "start": "00:02:58.560",
+      "end": "00:03:02.920",
+      "text": "we've given every inch of map space."
+    },
+    {
+      "start_ms": 192000,
+      "end_ms": 195239,
+      "start": "00:03:12.000",
+      "end": "00:03:15.239",
+      "text": "Let them."
+    },
+    {
+      "start_ms": 204560,
+      "end_ms": 208239,
+      "start": "00:03:24.560",
+      "end": "00:03:28.239",
+      "text": ">> Even though we use ults to fight back,"
+    },
+    {
+      "start_ms": 206239,
+      "end_ms": 209760,
+      "start": "00:03:26.239",
+      "end": "00:03:29.760",
+      "text": "it's way too late. Twisted Mind setup is"
+    },
+    {
+      "start_ms": 208239,
+      "end_ms": 211760,
+      "start": "00:03:28.239",
+      "end": "00:03:31.760",
+      "text": "way too good, and this fight is super"
+    },
+    {
+      "start_ms": 209760,
+      "end_ms": 214400,
+      "start": "00:03:29.760",
+      "end": "00:03:34.400",
+      "text": "cut and dry in their favor. So, how do"
+    },
+    {
+      "start_ms": 211760,
+      "end_ms": 216480,
+      "start": "00:03:31.760",
+      "end": "00:03:36.480",
+      "text": "we stop a good TP? Falcons knows the"
+    },
+    {
+      "start_ms": 214400,
+      "end_ms": 218480,
+      "start": "00:03:34.400",
+      "end": "00:03:38.480",
+      "text": "answer. Don't let them get to the spot"
+    },
+    {
+      "start_ms": 216480,
+      "end_ms": 219920,
+      "start": "00:03:36.480",
+      "end": "00:03:39.920",
+      "text": "where you make the good TP. Of course,"
+    },
+    {
+      "start_ms": 218480,
+      "end_ms": 221440,
+      "start": "00:03:38.480",
+      "end": "00:03:41.440",
+      "text": "it's easier said than done, but if you"
+    },
+    {
+      "start_ms": 219920,
+      "end_ms": 223120,
+      "start": "00:03:39.920",
+      "end": "00:03:43.120",
+      "text": "watch the way Falcons holds this map,"
+    },
+    {
+      "start_ms": 221440,
+      "end_ms": 227959,
+      "start": "00:03:41.440",
+      "end": "00:03:47.959",
+      "text": "it's obviously way more difficult for"
+    },
+    {
+      "start_ms": 223120,
+      "end_ms": 227959,
+      "start": "00:03:43.120",
+      "end": "00:03:47.959",
+      "text": "Alcatia to get the same good TP off"
+    },
+    {
+      "start_ms": 231840,
+      "end_ms": 236519,
+      "start": "00:03:51.840",
+      "end": "00:03:56.519",
+      "text": ">> already here. You can see someone is"
+    },
+    {
+      "start_ms": 233200,
+      "end_ms": 236519,
+      "start": "00:03:53.200",
+      "end": "00:03:56.519",
+      "text": "slowing the rotate."
+    },
+    {
+      "start_ms": 240000,
+      "end_ms": 243680,
+      "start": "00:04:00.000",
+      "end": "00:04:03.680",
+      "text": "As soon as checkmate steps up to try and"
+    },
+    {
+      "start_ms": 241840,
+      "end_ms": 245599,
+      "start": "00:04:01.840",
+      "end": "00:04:05.599",
+      "text": "get the TP off, someone immediately"
+    },
+    {
+      "start_ms": 243680,
+      "end_ms": 247519,
+      "start": "00:04:03.680",
+      "end": "00:04:07.519",
+      "text": "drops his shield and forms on him to"
+    },
+    {
+      "start_ms": 245599,
+      "end_ms": 249439,
+      "start": "00:04:05.599",
+      "end": "00:04:09.439",
+      "text": "pressure him away. If checkmate goes for"
+    },
+    {
+      "start_ms": 247519,
+      "end_ms": 251280,
+      "start": "00:04:07.519",
+      "end": "00:04:11.280",
+      "text": "this TP now, it's not going to be very"
+    },
+    {
+      "start_ms": 249439,
+      "end_ms": 253599,
+      "start": "00:04:09.439",
+      "end": "00:04:13.599",
+      "text": "good. Everyone on Falcons can fight this"
+    },
+    {
+      "start_ms": 251280,
+      "end_ms": 255519,
+      "start": "00:04:11.280",
+      "end": "00:04:15.519",
+      "text": "TP pretty easily. His only other option"
+    },
+    {
+      "start_ms": 253599,
+      "end_ms": 257359,
+      "start": "00:04:13.599",
+      "end": "00:04:17.359",
+      "text": "is to back up or fight the ram here."
+    },
+    {
+      "start_ms": 255519,
+      "end_ms": 259120,
+      "start": "00:04:15.519",
+      "end": "00:04:19.120",
+      "text": "Both things that are not very ideal for"
+    },
+    {
+      "start_ms": 257359,
+      "end_ms": 260880,
+      "start": "00:04:17.359",
+      "end": "00:04:20.880",
+      "text": "them. Now, there are pros and cons to"
+    },
+    {
+      "start_ms": 259120,
+      "end_ms": 262960,
+      "start": "00:04:19.120",
+      "end": "00:04:22.960",
+      "text": "using CDs early like this. They might be"
+    },
+    {
+      "start_ms": 260880,
+      "end_ms": 264160,
+      "start": "00:04:20.880",
+      "end": "00:04:24.160",
+      "text": "able to fight and kill someone here, but"
+    },
+    {
+      "start_ms": 262960,
+      "end_ms": 265759,
+      "start": "00:04:22.960",
+      "end": "00:04:25.759",
+      "text": "they're definitely not going to get off"
+    },
+    {
+      "start_ms": 264160,
+      "end_ms": 268639,
+      "start": "00:04:24.160",
+      "end": "00:04:28.639",
+      "text": "a good TP and Falcons is going to have"
+    },
+    {
+      "start_ms": 265759,
+      "end_ms": 270880,
+      "start": "00:04:25.759",
+      "end": "00:04:30.880",
+      "text": "way easier counterplay with their owns."
+    },
+    {
+      "start_ms": 268639,
+      "end_ms": 272000,
+      "start": "00:04:28.639",
+      "end": "00:04:32.000",
+      "text": "Here"
+    },
+    {
+      "start_ms": 270880,
+      "end_ms": 273840,
+      "start": "00:04:30.880",
+      "end": "00:04:33.840",
+      "text": "they come."
+    },
+    {
+      "start_ms": 272000,
+      "end_ms": 275759,
+      "start": "00:04:32.000",
+      "end": "00:04:35.759",
+      "text": ">> Someone walks in. Merritt's able to have"
+    },
+    {
+      "start_ms": 273840,
+      "end_ms": 277680,
+      "start": "00:04:33.840",
+      "end": "00:04:37.680",
+      "text": "space for the overclock."
+    },
+    {
+      "start_ms": 275759,
+      "end_ms": 281000,
+      "start": "00:04:35.759",
+      "end": "00:04:41.000",
+      "text": ">> And with no good TP, Alcazia is stuffed"
+    },
+    {
+      "start_ms": 277680,
+      "end_ms": 281000,
+      "start": "00:04:37.680",
+      "end": "00:04:41.000",
+      "text": "in a locker."
+    },
+    {
+      "start_ms": 282240,
+      "end_ms": 286280,
+      "start": "00:04:42.240",
+      "end": "00:04:46.280",
+      "text": ">> And now they have to try it again."
+    },
+    {
+      "start_ms": 288880,
+      "end_ms": 292080,
+      "start": "00:04:48.880",
+      "end": "00:04:52.080",
+      "text": ">> Here you can see the strength of the way"
+    },
+    {
+      "start_ms": 290320,
+      "end_ms": 293600,
+      "start": "00:04:50.320",
+      "end": "00:04:53.600",
+      "text": "Falcons controls the early fight setup"
+    },
+    {
+      "start_ms": 292080,
+      "end_ms": 296080,
+      "start": "00:04:52.080",
+      "end": "00:04:56.080",
+      "text": "and how difficult it is to get off a"
+    },
+    {
+      "start_ms": 293600,
+      "end_ms": 297440,
+      "start": "00:04:53.600",
+      "end": "00:04:57.440",
+      "text": "good TP. I said earlier there's two main"
+    },
+    {
+      "start_ms": 296080,
+      "end_ms": 299680,
+      "start": "00:04:56.080",
+      "end": "00:04:59.680",
+      "text": "things you need to do to beat Symmetric"
+    },
+    {
+      "start_ms": 297440,
+      "end_ms": 301040,
+      "start": "00:04:57.440",
+      "end": "00:05:01.040",
+      "text": "comp. First one's stopping a good TP and"
+    },
+    {
+      "start_ms": 299680,
+      "end_ms": 303040,
+      "start": "00:04:59.680",
+      "end": "00:05:03.040",
+      "text": "Crazy Raccoon is going to fail to do"
+    },
+    {
+      "start_ms": 301040,
+      "end_ms": 305360,
+      "start": "00:05:01.040",
+      "end": "00:05:05.360",
+      "text": "that throughout the rest of the series."
+    },
+    {
+      "start_ms": 303040,
+      "end_ms": 306960,
+      "start": "00:05:03.040",
+      "end": "00:05:06.960",
+      "text": "The second one is punishing these TPS."
+    },
+    {
+      "start_ms": 305360,
+      "end_ms": 308639,
+      "start": "00:05:05.360",
+      "end": "00:05:08.639",
+      "text": "Even if you stop the good TP from"
+    },
+    {
+      "start_ms": 306960,
+      "end_ms": 310479,
+      "start": "00:05:06.960",
+      "end": "00:05:10.479",
+      "text": "happening, they might still get an okay"
+    },
+    {
+      "start_ms": 308639,
+      "end_ms": 312080,
+      "start": "00:05:08.639",
+      "end": "00:05:12.080",
+      "text": "TP, and you're not always going to be"
+    },
+    {
+      "start_ms": 310479,
+      "end_ms": 313840,
+      "start": "00:05:10.479",
+      "end": "00:05:13.840",
+      "text": "able to stop it. You need to be able to"
+    },
+    {
+      "start_ms": 312080,
+      "end_ms": 316320,
+      "start": "00:05:12.080",
+      "end": "00:05:16.320",
+      "text": "punish these TPS, especially if they're"
+    },
+    {
+      "start_ms": 313840,
+      "end_ms": 317759,
+      "start": "00:05:13.840",
+      "end": "00:05:17.759",
+      "text": "for map flips or rotations, by fighting"
+    },
+    {
+      "start_ms": 316320,
+      "end_ms": 319680,
+      "start": "00:05:16.320",
+      "end": "00:05:19.680",
+      "text": "them hard before they're able to get too"
+    },
+    {
+      "start_ms": 317759,
+      "end_ms": 321199,
+      "start": "00:05:17.759",
+      "end": "00:05:21.199",
+      "text": "much value out of it. Now, if you're"
+    },
+    {
+      "start_ms": 319680,
+      "end_ms": 322479,
+      "start": "00:05:19.680",
+      "end": "00:05:22.479",
+      "text": "observant, you might say there's a"
+    },
+    {
+      "start_ms": 321199,
+      "end_ms": 324479,
+      "start": "00:05:21.199",
+      "end": "00:05:24.479",
+      "text": "really big difference between Falcons"
+    },
+    {
+      "start_ms": 322479,
+      "end_ms": 326479,
+      "start": "00:05:22.479",
+      "end": "00:05:26.479",
+      "text": "and Crazy Raccoon. The comps Crazy"
+    },
+    {
+      "start_ms": 324479,
+      "end_ms": 328800,
+      "start": "00:05:24.479",
+      "end": "00:05:28.800",
+      "text": "Raccoon were playing here and on circuit"
+    },
+    {
+      "start_ms": 326479,
+      "end_ms": 332240,
+      "start": "00:05:26.479",
+      "end": "00:05:32.240",
+      "text": "are very bad at forcing bad TPS and"
+    },
+    {
+      "start_ms": 328800,
+      "end_ms": 333759,
+      "start": "00:05:28.800",
+      "end": "00:05:33.759",
+      "text": "fighting TPS. To that I would say yes. I"
+    },
+    {
+      "start_ms": 332240,
+      "end_ms": 336160,
+      "start": "00:05:32.240",
+      "end": "00:05:36.160",
+      "text": "don't know why Crazy Raccoon is doing"
+    },
+    {
+      "start_ms": 333759,
+      "end_ms": 337520,
+      "start": "00:05:33.759",
+      "end": "00:05:37.520",
+      "text": "this. I did not tell them to put Max in"
+    },
+    {
+      "start_ms": 336160,
+      "end_ms": 340160,
+      "start": "00:05:36.160",
+      "end": "00:05:40.160",
+      "text": "to play the worst hero in the game on"
+    },
+    {
+      "start_ms": 337520,
+      "end_ms": 342160,
+      "start": "00:05:37.520",
+      "end": "00:05:42.160",
+      "text": "Circuit Royale. A big part of beating"
+    },
+    {
+      "start_ms": 340160,
+      "end_ms": 344479,
+      "start": "00:05:40.160",
+      "end": "00:05:44.479",
+      "text": "strong meta comps like this is not dying"
+    },
+    {
+      "start_ms": 342160,
+      "end_ms": 346080,
+      "start": "00:05:42.160",
+      "end": "00:05:46.080",
+      "text": "on your own sword and realizing when"
+    },
+    {
+      "start_ms": 344479,
+      "end_ms": 348160,
+      "start": "00:05:44.479",
+      "end": "00:05:48.160",
+      "text": "it's time to swap the [ __ ] off of"
+    },
+    {
+      "start_ms": 346080,
+      "end_ms": 350320,
+      "start": "00:05:46.080",
+      "end": "00:05:50.320",
+      "text": "Monkey. If you watch this fight, Crazy"
+    },
+    {
+      "start_ms": 348160,
+      "end_ms": 352479,
+      "start": "00:05:48.160",
+      "end": "00:05:52.479",
+      "text": "Raccoon fails to stop the good TP and"
+    },
+    {
+      "start_ms": 350320,
+      "end_ms": 354880,
+      "start": "00:05:50.320",
+      "end": "00:05:54.880",
+      "text": "afterwards they fail to punish the TP as"
+    },
+    {
+      "start_ms": 352479,
+      "end_ms": 354880,
+      "start": "00:05:52.479",
+      "end": "00:05:54.880",
+      "text": "well."
+    },
+    {
+      "start_ms": 362560,
+      "end_ms": 366160,
+      "start": "00:06:02.560",
+      "end": "00:06:06.160",
+      "text": "team"
+    },
+    {
+      "start_ms": 364400,
+      "end_ms": 368080,
+      "start": "00:06:04.400",
+      "end": "00:06:08.080",
+      "text": ">> here. They're not able to stop this TP"
+    },
+    {
+      "start_ms": 366160,
+      "end_ms": 369440,
+      "start": "00:06:06.160",
+      "end": "00:06:09.440",
+      "text": "at all. Junin can't poke the walk up."
+    },
+    {
+      "start_ms": 368080,
+      "end_ms": 371600,
+      "start": "00:06:08.080",
+      "end": "00:06:11.600",
+      "text": "Kissing and Lip are both really"
+    },
+    {
+      "start_ms": 369440,
+      "end_ms": 373680,
+      "start": "00:06:09.440",
+      "end": "00:06:13.680",
+      "text": "struggling to dual Quartz. This is an"
+    },
+    {
+      "start_ms": 371600,
+      "end_ms": 375600,
+      "start": "00:06:11.600",
+      "end": "00:06:15.600",
+      "text": "angle TP for Quartz and it's really easy"
+    },
+    {
+      "start_ms": 373680,
+      "end_ms": 378600,
+      "start": "00:06:13.680",
+      "end": "00:06:18.600",
+      "text": "for him to just force out Junin with the"
+    },
+    {
+      "start_ms": 375600,
+      "end_ms": 378600,
+      "start": "00:06:15.600",
+      "end": "00:06:18.600",
+      "text": "slow."
+    },
+    {
+      "start_ms": 382319,
+      "end_ms": 386400,
+      "start": "00:06:22.319",
+      "end": "00:06:26.400",
+      "text": ">> Jumpin gets Bubble and Suzu Force to"
+    },
+    {
+      "start_ms": 384479,
+      "end_ms": 388560,
+      "start": "00:06:24.479",
+      "end": "00:06:28.560",
+      "text": "live and Twisted Minds is able to get a"
+    },
+    {
+      "start_ms": 386400,
+      "end_ms": 390479,
+      "start": "00:06:26.400",
+      "end": "00:06:30.479",
+      "text": "nice map flip here. We failed to stop"
+    },
+    {
+      "start_ms": 388560,
+      "end_ms": 393360,
+      "start": "00:06:28.560",
+      "end": "00:06:33.360",
+      "text": "the good TP, but we might still be able"
+    },
+    {
+      "start_ms": 390479,
+      "end_ms": 395680,
+      "start": "00:06:30.479",
+      "end": "00:06:35.680",
+      "text": "to punish this rotation. Except we are"
+    },
+    {
+      "start_ms": 393360,
+      "end_ms": 397919,
+      "start": "00:06:33.360",
+      "end": "00:06:37.919",
+      "text": "on [ __ ] monkey. Crazy Raccoon is"
+    },
+    {
+      "start_ms": 395680,
+      "end_ms": 399440,
+      "start": "00:06:35.680",
+      "end": "00:06:39.440",
+      "text": "about to use four ults. Lip starts with"
+    },
+    {
+      "start_ms": 397919,
+      "end_ms": 401759,
+      "start": "00:06:37.919",
+      "end": "00:06:41.759",
+      "text": "Bola. We're going to use both support"
+    },
+    {
+      "start_ms": 399440,
+      "end_ms": 403600,
+      "start": "00:06:39.440",
+      "end": "00:06:43.600",
+      "text": "alts and a barrage and we're going to"
+    },
+    {
+      "start_ms": 401759,
+      "end_ms": 405199,
+      "start": "00:06:41.759",
+      "end": "00:06:45.199",
+      "text": "fail to punish this map flip simply"
+    },
+    {
+      "start_ms": 403600,
+      "end_ms": 408199,
+      "start": "00:06:43.600",
+      "end": "00:06:48.199",
+      "text": "because Junbin is not able to do"
+    },
+    {
+      "start_ms": 405199,
+      "end_ms": 408199,
+      "start": "00:06:45.199",
+      "end": "00:06:48.199",
+      "text": "anything."
+    },
+    {
+      "start_ms": 420639,
+      "end_ms": 425039,
+      "start": "00:07:00.639",
+      "end": "00:07:05.039",
+      "text": ">> That looked super fun, right? If you"
+    },
+    {
+      "start_ms": 423120,
+      "end_ms": 427199,
+      "start": "00:07:03.120",
+      "end": "00:07:07.199",
+      "text": "find yourself on a character or comp"
+    },
+    {
+      "start_ms": 425039,
+      "end_ms": 429919,
+      "start": "00:07:05.039",
+      "end": "00:07:09.919",
+      "text": "that is not able to stop these TPS and"
+    },
+    {
+      "start_ms": 427199,
+      "end_ms": 432080,
+      "start": "00:07:07.199",
+      "end": "00:07:12.080",
+      "text": "is not able to punish TPS, you're on the"
+    },
+    {
+      "start_ms": 429919,
+      "end_ms": 433759,
+      "start": "00:07:09.919",
+      "end": "00:07:13.759",
+      "text": "wrong character. Here's another fight"
+    },
+    {
+      "start_ms": 432080,
+      "end_ms": 435840,
+      "start": "00:07:12.080",
+      "end": "00:07:15.840",
+      "text": "from the grand finals where Falcons is"
+    },
+    {
+      "start_ms": 433759,
+      "end_ms": 437440,
+      "start": "00:07:13.759",
+      "end": "00:07:17.440",
+      "text": "able to actually punish a TP. Mostly"
+    },
+    {
+      "start_ms": 435840,
+      "end_ms": 439039,
+      "start": "00:07:15.840",
+      "end": "00:07:19.039",
+      "text": "because of the comp difference, but also"
+    },
+    {
+      "start_ms": 437440,
+      "end_ms": 440880,
+      "start": "00:07:17.440",
+      "end": "00:07:20.880",
+      "text": "because of the way they stop the good TP"
+    },
+    {
+      "start_ms": 439039,
+      "end_ms": 442240,
+      "start": "00:07:19.039",
+      "end": "00:07:22.240",
+      "text": "from happening. In this fight, someone"
+    },
+    {
+      "start_ms": 440880,
+      "end_ms": 443520,
+      "start": "00:07:20.880",
+      "end": "00:07:23.520",
+      "text": "does the same kind of stuffing,"
+    },
+    {
+      "start_ms": 442240,
+      "end_ms": 446160,
+      "start": "00:07:22.240",
+      "end": "00:07:26.160",
+      "text": "preventing checkmate from getting this"
+    },
+    {
+      "start_ms": 443520,
+      "end_ms": 447440,
+      "start": "00:07:23.520",
+      "end": "00:07:27.440",
+      "text": "good TP off. Alcatia commits two to try"
+    },
+    {
+      "start_ms": 446160,
+      "end_ms": 449280,
+      "start": "00:07:26.160",
+      "end": "00:07:29.280",
+      "text": "and force someone away so they can get"
+    },
+    {
+      "start_ms": 447440,
+      "end_ms": 450960,
+      "start": "00:07:27.440",
+      "end": "00:07:30.960",
+      "text": "this good TP off. And Falcons and"
+    },
+    {
+      "start_ms": 449280,
+      "end_ms": 453199,
+      "start": "00:07:29.280",
+      "end": "00:07:33.199",
+      "text": "matches with ult trying to keep the"
+    },
+    {
+      "start_ms": 450960,
+      "end_ms": 456000,
+      "start": "00:07:30.960",
+      "end": "00:07:36.000",
+      "text": "space. now, but it's going to be a rush"
+    },
+    {
+      "start_ms": 453199,
+      "end_ms": 458240,
+      "start": "00:07:33.199",
+      "end": "00:07:38.240",
+      "text": "from Landon reciprocated. We got"
+    },
+    {
+      "start_ms": 456000,
+      "end_ms": 459840,
+      "start": "00:07:36.000",
+      "end": "00:07:39.840",
+      "text": "pavement everywhere as tumbles into the"
+    },
+    {
+      "start_ms": 458240,
+      "end_ms": 461919,
+      "start": "00:07:38.240",
+      "end": "00:07:41.919",
+      "text": "back of Falcon, but they keep themselves"
+    },
+    {
+      "start_ms": 459840,
+      "end_ms": 463599,
+      "start": "00:07:39.840",
+      "end": "00:07:43.599",
+      "text": "safe behind these barriers."
+    },
+    {
+      "start_ms": 461919,
+      "end_ms": 464960,
+      "start": "00:07:41.919",
+      "end": "00:07:44.960",
+      "text": ">> Everything here is mostly fine from both"
+    },
+    {
+      "start_ms": 463599,
+      "end_ms": 466639,
+      "start": "00:07:43.599",
+      "end": "00:07:46.639",
+      "text": "teams. But if you watch, there's one"
+    },
+    {
+      "start_ms": 464960,
+      "end_ms": 468080,
+      "start": "00:07:44.960",
+      "end": "00:07:48.080",
+      "text": "thing that's really important. Since"
+    },
+    {
+      "start_ms": 466639,
+      "end_ms": 469520,
+      "start": "00:07:46.639",
+      "end": "00:07:49.520",
+      "text": "Falcons use their ults to keep the"
+    },
+    {
+      "start_ms": 468080,
+      "end_ms": 471360,
+      "start": "00:07:48.080",
+      "end": "00:07:51.360",
+      "text": "corner, checkmate has to go for this"
+    },
+    {
+      "start_ms": 469520,
+      "end_ms": 474639,
+      "start": "00:07:49.520",
+      "end": "00:07:54.639",
+      "text": "kind of okay value TP instead of the"
+    },
+    {
+      "start_ms": 471360,
+      "end_ms": 477120,
+      "start": "00:07:51.360",
+      "end": "00:07:57.120",
+      "text": "super high value one that they want."
+    },
+    {
+      "start_ms": 474639,
+      "end_ms": 479039,
+      "start": "00:07:54.639",
+      "end": "00:07:59.039",
+      "text": "This TP is easy for Falcons to punish."
+    },
+    {
+      "start_ms": 477120,
+      "end_ms": 480319,
+      "start": "00:07:57.120",
+      "end": "00:08:00.319",
+      "text": "This TP is easy for Falcons to punish"
+    },
+    {
+      "start_ms": 479039,
+      "end_ms": 481680,
+      "start": "00:07:59.039",
+      "end": "00:08:01.680",
+      "text": "and they're immediately going to beat"
+    },
+    {
+      "start_ms": 480319,
+      "end_ms": 485000,
+      "start": "00:08:00.319",
+      "end": "00:08:05.000",
+      "text": "push past it and kill everybody who"
+    },
+    {
+      "start_ms": 481680,
+      "end_ms": 485000,
+      "start": "00:08:01.680",
+      "end": "00:08:05.000",
+      "text": "didn't take it."
+    },
+    {
+      "start_ms": 485840,
+      "end_ms": 491080,
+      "start": "00:08:05.840",
+      "end": "00:08:11.080",
+      "text": "And all"
+    },
+    {
+      "start_ms": 487759,
+      "end_ms": 491080,
+      "start": "00:08:07.759",
+      "end": "00:08:11.080",
+      "text": "it soundes"
+    },
+    {
+      "start_ms": 491710,
+      "end_ms": 494800,
+      "start": "00:08:11.710",
+      "end": "00:08:14.800",
+      "text": "[Applause]"
+    },
+    {
+      "start_ms": 492960,
+      "end_ms": 496639,
+      "start": "00:08:12.960",
+      "end": "00:08:16.639",
+      "text": ">> now a large part of the reason Falcons"
+    },
+    {
+      "start_ms": 494800,
+      "end_ms": 498240,
+      "start": "00:08:14.800",
+      "end": "00:08:18.240",
+      "text": "is able to play this way is their comp,"
+    },
+    {
+      "start_ms": 496639,
+      "end_ms": 500720,
+      "start": "00:08:16.639",
+      "end": "00:08:20.720",
+      "text": "but the comp is a reflection of your"
+    },
+    {
+      "start_ms": 498240,
+      "end_ms": 502240,
+      "start": "00:08:18.240",
+      "end": "00:08:22.240",
+      "text": "game plan. Falcons understands how to"
+    },
+    {
+      "start_ms": 500720,
+      "end_ms": 504479,
+      "start": "00:08:20.720",
+      "end": "00:08:24.479",
+      "text": "win this matchup and that's why they"
+    },
+    {
+      "start_ms": 502240,
+      "end_ms": 505919,
+      "start": "00:08:22.240",
+      "end": "00:08:25.919",
+      "text": "picked the characters. Crazy Raccoon"
+    },
+    {
+      "start_ms": 504479,
+      "end_ms": 506879,
+      "start": "00:08:24.479",
+      "end": "00:08:26.879",
+      "text": "failed to understand the matchup and"
+    },
+    {
+      "start_ms": 505919,
+      "end_ms": 508879,
+      "start": "00:08:25.919",
+      "end": "00:08:28.879",
+      "text": "that's why they picked the wrong"
+    },
+    {
+      "start_ms": 506879,
+      "end_ms": 510400,
+      "start": "00:08:26.879",
+      "end": "00:08:30.400",
+      "text": "characters. If we go to Blizzard World,"
+    },
+    {
+      "start_ms": 508879,
+      "end_ms": 512640,
+      "start": "00:08:28.879",
+      "end": "00:08:32.640",
+      "text": "there's one more clear example of"
+    },
+    {
+      "start_ms": 510400,
+      "end_ms": 514479,
+      "start": "00:08:30.400",
+      "end": "00:08:34.479",
+      "text": "compositional mismatch. Here, Crazy"
+    },
+    {
+      "start_ms": 512640,
+      "end_ms": 516800,
+      "start": "00:08:32.640",
+      "end": "00:08:36.800",
+      "text": "Raccoon is trying a ball venture Freya"
+    },
+    {
+      "start_ms": 514479,
+      "end_ms": 518719,
+      "start": "00:08:34.479",
+      "end": "00:08:38.719",
+      "text": "front line. In theory, we should be able"
+    },
+    {
+      "start_ms": 516800,
+      "end_ms": 520399,
+      "start": "00:08:36.800",
+      "end": "00:08:40.399",
+      "text": "to use our poke from our Freya and the"
+    },
+    {
+      "start_ms": 518719,
+      "end_ms": 522320,
+      "start": "00:08:38.719",
+      "end": "00:08:42.320",
+      "text": "combined dive threat from these two to"
+    },
+    {
+      "start_ms": 520399,
+      "end_ms": 524159,
+      "start": "00:08:40.399",
+      "end": "00:08:44.159",
+      "text": "stop good TPS from happening and to"
+    },
+    {
+      "start_ms": 522320,
+      "end_ms": 526720,
+      "start": "00:08:42.320",
+      "end": "00:08:46.720",
+      "text": "punish them. There is one problem"
+    },
+    {
+      "start_ms": 524159,
+      "end_ms": 529200,
+      "start": "00:08:44.159",
+      "end": "00:08:49.200",
+      "text": "though. This dive is very reliant on a"
+    },
+    {
+      "start_ms": 526720,
+      "end_ms": 530800,
+      "start": "00:08:46.720",
+      "end": "00:08:50.800",
+      "text": "cycle. That cycle specifically being"
+    },
+    {
+      "start_ms": 529200,
+      "end_ms": 532480,
+      "start": "00:08:49.200",
+      "end": "00:08:52.480",
+      "text": "your Venture and your ball getting their"
+    },
+    {
+      "start_ms": 530800,
+      "end_ms": 534880,
+      "start": "00:08:50.800",
+      "end": "00:08:54.880",
+      "text": "cooldowns back after they dive the first"
+    },
+    {
+      "start_ms": 532480,
+      "end_ms": 537519,
+      "start": "00:08:52.480",
+      "end": "00:08:57.519",
+      "text": "time. and more importantly the time it"
+    },
+    {
+      "start_ms": 534880,
+      "end_ms": 539279,
+      "start": "00:08:54.880",
+      "end": "00:08:59.279",
+      "text": "takes them to set up in between dives."
+    },
+    {
+      "start_ms": 537519,
+      "end_ms": 542160,
+      "start": "00:08:57.519",
+      "end": "00:09:02.160",
+      "text": "All Twisted Minds has to do is get an"
+    },
+    {
+      "start_ms": 539279,
+      "end_ms": 543600,
+      "start": "00:08:59.279",
+      "end": "00:09:03.600",
+      "text": "okay value TP and live this dive. After"
+    },
+    {
+      "start_ms": 542160,
+      "end_ms": 545600,
+      "start": "00:09:02.160",
+      "end": "00:09:05.600",
+      "text": "that, they need to hold some space and"
+    },
+    {
+      "start_ms": 543600,
+      "end_ms": 547760,
+      "start": "00:09:03.600",
+      "end": "00:09:07.760",
+      "text": "wait for the next TP. Crazy Raccoon,"
+    },
+    {
+      "start_ms": 545600,
+      "end_ms": 550000,
+      "start": "00:09:05.600",
+      "end": "00:09:10.000",
+      "text": "however, needs to set up, make this TP"
+    },
+    {
+      "start_ms": 547760,
+      "end_ms": 552480,
+      "start": "00:09:07.760",
+      "end": "00:09:12.480",
+      "text": "bad, and then set up again to make the"
+    },
+    {
+      "start_ms": 550000,
+      "end_ms": 554399,
+      "start": "00:09:10.000",
+      "end": "00:09:14.399",
+      "text": "next TP bad. Either that or find some"
+    },
+    {
+      "start_ms": 552480,
+      "end_ms": 556080,
+      "start": "00:09:12.480",
+      "end": "00:09:16.080",
+      "text": "way to hard punish a TP, which is really"
+    },
+    {
+      "start_ms": 554399,
+      "end_ms": 558880,
+      "start": "00:09:14.399",
+      "end": "00:09:18.880",
+      "text": "difficult against a comp with Cass and"
+    },
+    {
+      "start_ms": 556080,
+      "end_ms": 561120,
+      "start": "00:09:16.080",
+      "end": "00:09:21.120",
+      "text": "Sim and Ram. So, hard punishing TPS is"
+    },
+    {
+      "start_ms": 558880,
+      "end_ms": 562880,
+      "start": "00:09:18.880",
+      "end": "00:09:22.880",
+      "text": "very, very difficult. and constantly"
+    },
+    {
+      "start_ms": 561120,
+      "end_ms": 565200,
+      "start": "00:09:21.120",
+      "end": "00:09:25.200",
+      "text": "keeping our cycle ahead of theirs to"
+    },
+    {
+      "start_ms": 562880,
+      "end_ms": 567279,
+      "start": "00:09:22.880",
+      "end": "00:09:27.279",
+      "text": "make the second TP and the third TP also"
+    },
+    {
+      "start_ms": 565200,
+      "end_ms": 570680,
+      "start": "00:09:25.200",
+      "end": "00:09:30.680",
+      "text": "bad is also very difficult. Let's watch"
+    },
+    {
+      "start_ms": 567279,
+      "end_ms": 570680,
+      "start": "00:09:27.279",
+      "end": "00:09:30.680",
+      "text": "this play out"
+    },
+    {
+      "start_ms": 575839,
+      "end_ms": 580720,
+      "start": "00:09:35.839",
+      "end": "00:09:40.720",
+      "text": "here. Jumping hits early and is able to"
+    },
+    {
+      "start_ms": 577519,
+      "end_ms": 582640,
+      "start": "00:09:37.519",
+      "end": "00:09:42.640",
+      "text": "make this first TP bad."
+    },
+    {
+      "start_ms": 580720,
+      "end_ms": 584480,
+      "start": "00:09:40.720",
+      "end": "00:09:44.480",
+      "text": "They tped here to point and Heang is"
+    },
+    {
+      "start_ms": 582640,
+      "end_ms": 586160,
+      "start": "00:09:42.640",
+      "end": "00:09:46.160",
+      "text": "trying to punish it. However, like we"
+    },
+    {
+      "start_ms": 584480,
+      "end_ms": 588800,
+      "start": "00:09:44.480",
+      "end": "00:09:48.800",
+      "text": "said a second ago, actually punishing"
+    },
+    {
+      "start_ms": 586160,
+      "end_ms": 590560,
+      "start": "00:09:46.160",
+      "end": "00:09:50.560",
+      "text": "this TP is very, very difficult. My ball"
+    },
+    {
+      "start_ms": 588800,
+      "end_ms": 592080,
+      "start": "00:09:48.800",
+      "end": "00:09:52.080",
+      "text": "used his resources to make the TP bad"
+    },
+    {
+      "start_ms": 590560,
+      "end_ms": 594640,
+      "start": "00:09:50.560",
+      "end": "00:09:54.640",
+      "text": "and my Venture does not have enough on"
+    },
+    {
+      "start_ms": 592080,
+      "end_ms": 596320,
+      "start": "00:09:52.080",
+      "end": "00:09:56.320",
+      "text": "his own. My backline also has no real"
+    },
+    {
+      "start_ms": 594640,
+      "end_ms": 598959,
+      "start": "00:09:54.640",
+      "end": "00:09:58.959",
+      "text": "strong cool downs or followup on this"
+    },
+    {
+      "start_ms": 596320,
+      "end_ms": 600640,
+      "start": "00:09:56.320",
+      "end": "00:10:00.640",
+      "text": "dive since we're on bat rig. With that"
+    },
+    {
+      "start_ms": 598959,
+      "end_ms": 604519,
+      "start": "00:09:58.959",
+      "end": "00:10:04.519",
+      "text": "understanding, we need to just cycle"
+    },
+    {
+      "start_ms": 600640,
+      "end_ms": 604519,
+      "start": "00:10:00.640",
+      "end": "00:10:04.519",
+      "text": "back and stop the next TP."
+    },
+    {
+      "start_ms": 614000,
+      "end_ms": 618839,
+      "start": "00:10:14.000",
+      "end": "00:10:18.839",
+      "text": ">> Unfortunately, that's way easier said"
+    },
+    {
+      "start_ms": 615680,
+      "end_ms": 618839,
+      "start": "00:10:15.680",
+      "end": "00:10:18.839",
+      "text": "than done."
+    },
+    {
+      "start_ms": 621839,
+      "end_ms": 625279,
+      "start": "00:10:21.839",
+      "end": "00:10:25.279",
+      "text": "Junbin and Heiss don't have great"
+    },
+    {
+      "start_ms": 623600,
+      "end_ms": 627040,
+      "start": "00:10:23.600",
+      "end": "00:10:27.040",
+      "text": "pathing options. They're very easy to"
+    },
+    {
+      "start_ms": 625279,
+      "end_ms": 629440,
+      "start": "00:10:25.279",
+      "end": "00:10:29.440",
+      "text": "punish by the cast. And if they hard"
+    },
+    {
+      "start_ms": 627040,
+      "end_ms": 631600,
+      "start": "00:10:27.040",
+      "end": "00:10:31.600",
+      "text": "slam this, it's very obvious and easy to"
+    },
+    {
+      "start_ms": 629440,
+      "end_ms": 633120,
+      "start": "00:10:29.440",
+      "end": "00:10:33.120",
+      "text": "punish. It's very easy for Twisted Minds"
+    },
+    {
+      "start_ms": 631600,
+      "end_ms": 635839,
+      "start": "00:10:31.600",
+      "end": "00:10:35.839",
+      "text": "to just sit here and wait for the next"
+    },
+    {
+      "start_ms": 633120,
+      "end_ms": 639160,
+      "start": "00:10:33.120",
+      "end": "00:10:39.160",
+      "text": "TP. This TP is also going to be good"
+    },
+    {
+      "start_ms": 635839,
+      "end_ms": 639160,
+      "start": "00:10:35.839",
+      "end": "00:10:39.160",
+      "text": "almost assuredly."
+    },
+    {
+      "start_ms": 650079,
+      "end_ms": 654079,
+      "start": "00:10:50.079",
+      "end": "00:10:54.079",
+      "text": "This TP forces Crazy Raccoon's backline"
+    },
+    {
+      "start_ms": 652160,
+      "end_ms": 657720,
+      "start": "00:10:52.160",
+      "end": "00:10:57.720",
+      "text": "to rotate and also forces Jump in to"
+    },
+    {
+      "start_ms": 654079,
+      "end_ms": 657720,
+      "start": "00:10:54.079",
+      "end": "00:10:57.720",
+      "text": "fight the Cass here."
+    },
+    {
+      "start_ms": 660880,
+      "end_ms": 665360,
+      "start": "00:11:00.880",
+      "end": "00:11:05.360",
+      "text": "This TP leaves CR with almost no CDs"
+    },
+    {
+      "start_ms": 663279,
+      "end_ms": 667360,
+      "start": "00:11:03.279",
+      "end": "00:11:07.360",
+      "text": "left and definitely no setup. The next"
+    },
+    {
+      "start_ms": 665360,
+      "end_ms": 670839,
+      "start": "00:11:05.360",
+      "end": "00:11:10.839",
+      "text": "TP from Twisted is almost assuredly"
+    },
+    {
+      "start_ms": 667360,
+      "end_ms": 670839,
+      "start": "00:11:07.360",
+      "end": "00:11:10.839",
+      "text": "going to get value."
+    },
+    {
+      "start_ms": 673920,
+      "end_ms": 678000,
+      "start": "00:11:13.920",
+      "end": "00:11:18.000",
+      "text": "Now, in the fight that plays out, Lip"
+    },
+    {
+      "start_ms": 675760,
+      "end_ms": 679519,
+      "start": "00:11:15.760",
+      "end": "00:11:19.519",
+      "text": "gets two picks because he's Lip, but the"
+    },
+    {
+      "start_ms": 678000,
+      "end_ms": 680959,
+      "start": "00:11:18.000",
+      "end": "00:11:20.959",
+      "text": "value from this TP is too much, and"
+    },
+    {
+      "start_ms": 679519,
+      "end_ms": 682880,
+      "start": "00:11:19.519",
+      "end": "00:11:22.880",
+      "text": "eventually they win a very long drawn"
+    },
+    {
+      "start_ms": 680959,
+      "end_ms": 684959,
+      "start": "00:11:20.959",
+      "end": "00:11:24.959",
+      "text": "out fight. The lessons here are pretty"
+    },
+    {
+      "start_ms": 682880,
+      "end_ms": 686240,
+      "start": "00:11:22.880",
+      "end": "00:11:26.240",
+      "text": "simple. The game plan against Sim is"
+    },
+    {
+      "start_ms": 684959,
+      "end_ms": 688320,
+      "start": "00:11:24.959",
+      "end": "00:11:28.320",
+      "text": "simple in theory, but it's hard to"
+    },
+    {
+      "start_ms": 686240,
+      "end_ms": 690640,
+      "start": "00:11:26.240",
+      "end": "00:11:30.640",
+      "text": "execute. Pressure them early and limit"
+    },
+    {
+      "start_ms": 688320,
+      "end_ms": 692160,
+      "start": "00:11:28.320",
+      "end": "00:11:32.160",
+      "text": "their TP options. If they can't get off"
+    },
+    {
+      "start_ms": 690640,
+      "end_ms": 694240,
+      "start": "00:11:30.640",
+      "end": "00:11:34.240",
+      "text": "good TPS for free, they're going to need"
+    },
+    {
+      "start_ms": 692160,
+      "end_ms": 696880,
+      "start": "00:11:32.160",
+      "end": "00:11:36.880",
+      "text": "to do at least one or two medium value"
+    },
+    {
+      "start_ms": 694240,
+      "end_ms": 698079,
+      "start": "00:11:34.240",
+      "end": "00:11:38.079",
+      "text": "TPS early on in the fight. Once you've"
+    },
+    {
+      "start_ms": 696880,
+      "end_ms": 700480,
+      "start": "00:11:36.880",
+      "end": "00:11:40.480",
+      "text": "done that, you need the ability to"
+    },
+    {
+      "start_ms": 698079,
+      "end_ms": 701920,
+      "start": "00:11:38.079",
+      "end": "00:11:41.920",
+      "text": "punish those medium value TPS, either by"
+    },
+    {
+      "start_ms": 700480,
+      "end_ms": 703519,
+      "start": "00:11:40.480",
+      "end": "00:11:43.519",
+      "text": "going past them and punishing the people"
+    },
+    {
+      "start_ms": 701920,
+      "end_ms": 705680,
+      "start": "00:11:41.920",
+      "end": "00:11:45.680",
+      "text": "left behind or by actually fighting the"
+    },
+    {
+      "start_ms": 703519,
+      "end_ms": 707519,
+      "start": "00:11:43.519",
+      "end": "00:11:47.519",
+      "text": "TP. If you're on a comp that struggles"
+    },
+    {
+      "start_ms": 705680,
+      "end_ms": 710240,
+      "start": "00:11:45.680",
+      "end": "00:11:50.240",
+      "text": "to do these things, you will struggle to"
+    },
+    {
+      "start_ms": 707519,
+      "end_ms": 712160,
+      "start": "00:11:47.519",
+      "end": "00:11:52.160",
+      "text": "win. Do not be the team that loses on"
+    },
+    {
+      "start_ms": 710240,
+      "end_ms": 714480,
+      "start": "00:11:50.240",
+      "end": "00:11:54.480",
+      "text": "the big stage trying to prove that your"
+    },
+    {
+      "start_ms": 712160,
+      "end_ms": 716959,
+      "start": "00:11:52.160",
+      "end": "00:11:56.959",
+      "text": "comp is better. Please do not die on"
+    },
+    {
+      "start_ms": 714480,
+      "end_ms": 721240,
+      "start": "00:11:54.480",
+      "end": "00:12:01.240",
+      "text": "your sword. And please, NKR, stop making"
+    },
+    {
+      "start_ms": 716959,
+      "end_ms": 721240,
+      "start": "00:11:56.959",
+      "end": "00:12:01.240",
+      "text": "EU look so good at these tournaments."
+    }
+  ]
+}

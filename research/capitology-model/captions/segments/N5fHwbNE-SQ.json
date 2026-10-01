@@ -1,0 +1,8059 @@
+{
+  "video_id": "N5fHwbNE-SQ",
+  "title": "Dallas Fuel is Bringing NA Back (Ft. Cjay)",
+  "url": "https://www.youtube.com/watch?v=N5fHwbNE-SQ",
+  "upload_date": "2026-09-05",
+  "duration_seconds": 1133,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:19:20.731154+00:00",
+  "source_sha256": "3992435f939415d2fe901d1217ab7e843bd75e20089d5ba35eebd534fe5501ed",
+  "source_bytes": 455112,
+  "segment_count": 1148,
+  "word_count": 4034,
+  "character_count": 21045,
+  "first_segment_ms": 100,
+  "last_segment_end_ms": 1134244,
+  "leading_gap_seconds": 0.1,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 100,
+      "end_ms": 2070,
+      "start": "00:00:00.100",
+      "end": "00:00:02.070",
+      "text": "Just give me something"
+    },
+    {
+      "start_ms": 1096,
+      "end_ms": 3013,
+      "start": "00:00:01.096",
+      "end": "00:00:03.013",
+      "text": "like the alphabet or"
+    },
+    {
+      "start_ms": 2040,
+      "end_ms": 3276,
+      "start": "00:00:02.040",
+      "end": "00:00:03.276",
+      "text": "something."
+    },
+    {
+      "start_ms": 2376,
+      "end_ms": 6075,
+      "start": "00:00:02.376",
+      "end": "00:00:06.075",
+      "text": "1 2 3 4 5 6 7 8 9 10"
+    },
+    {
+      "start_ms": 5175,
+      "end_ms": 6921,
+      "start": "00:00:05.175",
+      "end": "00:00:06.921",
+      "text": "Dude, your microphone is"
+    },
+    {
+      "start_ms": 5941,
+      "end_ms": 7608,
+      "start": "00:00:05.941",
+      "end": "00:00:07.608",
+      "text": "thankfully clearer"
+    },
+    {
+      "start_ms": 6628,
+      "end_ms": 8522,
+      "start": "00:00:06.628",
+      "end": "00:00:08.522",
+      "text": "than usual. Do you have a"
+    },
+    {
+      "start_ms": 7546,
+      "end_ms": 9192,
+      "start": "00:00:07.546",
+      "end": "00:00:09.192",
+      "text": "new microphone?"
+    },
+    {
+      "start_ms": 8292,
+      "end_ms": 10347,
+      "start": "00:00:08.292",
+      "end": "00:00:10.347",
+      "text": "This...I mean,"
+    },
+    {
+      "start_ms": 9379,
+      "end_ms": 11115,
+      "start": "00:00:09.379",
+      "end": "00:00:11.115",
+      "text": "it's like the Astro A50s."
+    },
+    {
+      "start_ms": 10215,
+      "end_ms": 12531,
+      "start": "00:00:10.215",
+      "end": "00:00:12.531",
+      "text": "Oh, wait. I"
+    },
+    {
+      "start_ms": 11572,
+      "end_ms": 13385,
+      "start": "00:00:11.572",
+      "end": "00:00:13.385",
+      "text": "also have an Astro A50."
+    },
+    {
+      "start_ms": 12485,
+      "end_ms": 14164,
+      "start": "00:00:12.485",
+      "end": "00:00:14.164",
+      "text": "Yes, but why did you"
+    },
+    {
+      "start_ms": 13186,
+      "end_ms": 14866,
+      "start": "00:00:13.186",
+      "end": "00:00:14.866",
+      "text": "just take it?"
+    },
+    {
+      "start_ms": 13966,
+      "end_ms": 16575,
+      "start": "00:00:13.966",
+      "end": "00:00:16.575",
+      "text": "Friends from TSM. Dude, I"
+    },
+    {
+      "start_ms": 15619,
+      "end_ms": 18195,
+      "start": "00:00:15.619",
+      "end": "00:00:18.195",
+      "text": "was on TSM. No, I...can't"
+    },
+    {
+      "start_ms": 17246,
+      "end_ms": 19146,
+      "start": "00:00:17.246",
+      "end": "00:00:19.146",
+      "text": ". Yes,"
+    },
+    {
+      "start_ms": 18246,
+      "end_ms": 20118,
+      "start": "00:00:18.246",
+      "end": "00:00:20.118",
+      "text": "I forgot about that"
+    },
+    {
+      "start_ms": 19153,
+      "end_ms": 20677,
+      "start": "00:00:19.153",
+      "end": "00:00:20.677",
+      "text": "part."
+    },
+    {
+      "start_ms": 19777,
+      "end_ms": 22155,
+      "start": "00:00:19.777",
+      "end": "00:00:22.155",
+      "text": "So you guys are"
+    },
+    {
+      "start_ms": 21190,
+      "end_ms": 23568,
+      "start": "00:00:21.190",
+      "end": "00:00:23.568",
+      "text": "n't afraid to play"
+    },
+    {
+      "start_ms": 22603,
+      "end_ms": 24892,
+      "start": "00:00:22.603",
+      "end": "00:00:24.892",
+      "text": "Music Key type against Lucio at all? How do you"
+    },
+    {
+      "start_ms": 23918,
+      "end_ms": 25804,
+      "start": "00:00:23.918",
+      "end": "00:00:25.804",
+      "text": "feel about this"
+    },
+    {
+      "start_ms": 24830,
+      "end_ms": 26790,
+      "start": "00:00:24.830",
+      "end": "00:00:26.790",
+      "text": "confrontation? Do you"
+    },
+    {
+      "start_ms": 25813,
+      "end_ms": 27691,
+      "start": "00:00:25.813",
+      "end": "00:00:27.691",
+      "text": "think this is a victory,"
+    },
+    {
+      "start_ms": 26714,
+      "end_ms": 28547,
+      "start": "00:00:26.714",
+      "end": "00:00:28.547",
+      "text": "or is it something like a"
+    },
+    {
+      "start_ms": 27570,
+      "end_ms": 29426,
+      "start": "00:00:27.570",
+      "end": "00:00:29.426",
+      "text": "skills competition?"
+    },
+    {
+      "start_ms": 28526,
+      "end_ms": 30250,
+      "start": "00:00:28.526",
+      "end": "00:00:30.250",
+      "text": "I think it's a"
+    },
+    {
+      "start_ms": 29280,
+      "end_ms": 31398,
+      "start": "00:00:29.280",
+      "end": "00:00:31.398",
+      "text": "skill competition."
+    },
+    {
+      "start_ms": 30498,
+      "end_ms": 32468,
+      "start": "00:00:30.498",
+      "end": "00:00:32.468",
+      "text": "I just think we"
+    },
+    {
+      "start_ms": 31495,
+      "end_ms": 33492,
+      "start": "00:00:31.495",
+      "end": "00:00:33.492",
+      "text": "lean more towards"
+    },
+    {
+      "start_ms": 32518,
+      "end_ms": 34542,
+      "start": "00:00:32.518",
+      "end": "00:00:34.542",
+      "text": "that, simply because"
+    },
+    {
+      "start_ms": 33542,
+      "end_ms": 35565,
+      "start": "00:00:33.542",
+      "end": "00:00:35.565",
+      "text": ", well, we're not a very strong"
+    },
+    {
+      "start_ms": 34591,
+      "end_ms": 36520,
+      "start": "00:00:34.591",
+      "end": "00:00:36.520",
+      "text": "Lucio team. It"
+    },
+    {
+      "start_ms": 35543,
+      "end_ms": 37260,
+      "start": "00:00:35.543",
+      "end": "00:00:37.260",
+      "text": "suits our"
+    },
+    {
+      "start_ms": 36283,
+      "end_ms": 38139,
+      "start": "00:00:36.283",
+      "end": "00:00:38.139",
+      "text": "slow playstyle more"
+    },
+    {
+      "start_ms": 37162,
+      "end_ms": 39018,
+      "start": "00:00:37.162",
+      "end": "00:00:39.018",
+      "text": "than playing in a combo"
+    },
+    {
+      "start_ms": 38041,
+      "end_ms": 39596,
+      "start": "00:00:38.041",
+      "end": "00:00:39.596",
+      "text": "with Lucio, where you can't"
+    },
+    {
+      "start_ms": 38620,
+      "end_ms": 40360,
+      "start": "00:00:38.620",
+      "end": "00:00:40.360",
+      "text": "necessarily"
+    },
+    {
+      "start_ms": 39383,
+      "end_ms": 41285,
+      "start": "00:00:39.383",
+      "end": "00:00:41.285",
+      "text": "keep the pace on other"
+    },
+    {
+      "start_ms": 40308,
+      "end_ms": 41979,
+      "start": "00:00:40.308",
+      "end": "00:00:41.979",
+      "text": "combos,"
+    },
+    {
+      "start_ms": 41002,
+      "end_ms": 42789,
+      "start": "00:00:41.002",
+      "end": "00:00:42.789",
+      "text": "like with a cat,"
+    },
+    {
+      "start_ms": 41812,
+      "end_ms": 43691,
+      "start": "00:00:41.812",
+      "end": "00:00:43.691",
+      "text": "you can keep the pace a lot"
+    },
+    {
+      "start_ms": 42714,
+      "end_ms": 44500,
+      "start": "00:00:42.714",
+      "end": "00:00:44.500",
+      "text": ", but it just"
+    },
+    {
+      "start_ms": 43523,
+      "end_ms": 45402,
+      "start": "00:00:43.523",
+      "end": "00:00:45.402",
+      "text": "suits"
+    },
+    {
+      "start_ms": 44425,
+      "end_ms": 46590,
+      "start": "00:00:44.425",
+      "end": "00:00:46.590",
+      "text": "our playstyles better. Do you"
+    },
+    {
+      "start_ms": 45690,
+      "end_ms": 47813,
+      "start": "00:00:45.690",
+      "end": "00:00:47.813",
+      "text": "think"
+    },
+    {
+      "start_ms": 46844,
+      "end_ms": 48811,
+      "start": "00:00:46.844",
+      "end": "00:00:48.811",
+      "text": "you could beat VP on a"
+    },
+    {
+      "start_ms": 47842,
+      "end_ms": 50028,
+      "start": "00:00:47.842",
+      "end": "00:00:50.028",
+      "text": "Lucio mirror like on"
+    },
+    {
+      "start_ms": 49059,
+      "end_ms": 50621,
+      "start": "00:00:49.059",
+      "end": "00:00:50.621",
+      "text": "this map?"
+    },
+    {
+      "start_ms": 49721,
+      "end_ms": 52264,
+      "start": "00:00:49.721",
+      "end": "00:00:52.264",
+      "text": "No. I don't think so. I"
+    },
+    {
+      "start_ms": 51289,
+      "end_ms": 52953,
+      "start": "00:00:51.289",
+      "end": "00:00:52.953",
+      "text": "think they have"
+    },
+    {
+      "start_ms": 51979,
+      "end_ms": 53847,
+      "start": "00:00:51.979",
+      "end": "00:00:53.847",
+      "text": "too much practice,"
+    },
+    {
+      "start_ms": 52873,
+      "end_ms": 54486,
+      "start": "00:00:52.873",
+      "end": "00:00:54.486",
+      "text": "for example on"
+    },
+    {
+      "start_ms": 53511,
+      "end_ms": 55431,
+      "start": "00:00:53.511",
+      "end": "00:00:55.431",
+      "text": "Lucio combos"
+    },
+    {
+      "start_ms": 54456,
+      "end_ms": 56351,
+      "start": "00:00:54.456",
+      "end": "00:00:56.351",
+      "text": "and Lucio mirrors."
+    },
+    {
+      "start_ms": 55451,
+      "end_ms": 57530,
+      "start": "00:00:55.451",
+      "end": "00:00:57.530",
+      "text": "We, like"
+    },
+    {
+      "start_ms": 56561,
+      "end_ms": 58736,
+      "start": "00:00:56.561",
+      "end": "00:00:58.736",
+      "text": "Cure's mirror combos,"
+    },
+    {
+      "start_ms": 57768,
+      "end_ms": 60297,
+      "start": "00:00:57.768",
+      "end": "00:01:00.297",
+      "text": "would lose to Lucio. We play"
+    },
+    {
+      "start_ms": 59344,
+      "end_ms": 61840,
+      "start": "00:00:59.344",
+      "end": "00:01:01.840",
+      "text": "Shion Surge, we play Shion."
+    },
+    {
+      "start_ms": 61012,
+      "end_ms": 62512,
+      "start": "00:01:01.012",
+      "end": "00:01:02.512",
+      "text": "OK."
+    },
+    {
+      "start_ms": 61612,
+      "end_ms": 63588,
+      "start": "00:01:01.612",
+      "end": "00:01:03.588",
+      "text": "Um, I think once we"
+    },
+    {
+      "start_ms": 62615,
+      "end_ms": 64185,
+      "start": "00:01:02.615",
+      "end": "00:01:04.185",
+      "text": "see their"
+    },
+    {
+      "start_ms": 63212,
+      "end_ms": 65189,
+      "start": "00:01:03.212",
+      "end": "00:01:05.189",
+      "text": "combination, I think"
+    },
+    {
+      "start_ms": 64216,
+      "end_ms": 66220,
+      "start": "00:01:04.216",
+      "end": "00:01:06.220",
+      "text": "we just realize we have to"
+    },
+    {
+      "start_ms": 65248,
+      "end_ms": 67062,
+      "start": "00:01:05.248",
+      "end": "00:01:07.062",
+      "text": "play"
+    },
+    {
+      "start_ms": 66089,
+      "end_ms": 67659,
+      "start": "00:01:06.089",
+      "end": "00:01:07.659",
+      "text": "slower."
+    },
+    {
+      "start_ms": 66759,
+      "end_ms": 68035,
+      "start": "00:01:06.759",
+      "end": "00:01:08.035",
+      "text": "Yes."
+    },
+    {
+      "start_ms": 67135,
+      "end_ms": 69108,
+      "start": "00:01:07.135",
+      "end": "00:01:09.108",
+      "text": "Um, we just have to"
+    },
+    {
+      "start_ms": 68134,
+      "end_ms": 69723,
+      "start": "00:01:08.134",
+      "end": "00:01:09.723",
+      "text": "let them engage"
+    },
+    {
+      "start_ms": 68749,
+      "end_ms": 70748,
+      "start": "00:01:08.749",
+      "end": "00:01:10.748",
+      "text": "us,"
+    },
+    {
+      "start_ms": 69774,
+      "end_ms": 71747,
+      "start": "00:01:09.774",
+      "end": "00:01:11.747",
+      "text": "like their DPS, and"
+    },
+    {
+      "start_ms": 70773,
+      "end_ms": 72491,
+      "start": "00:01:10.773",
+      "end": "00:01:12.491",
+      "text": "then we just"
+    },
+    {
+      "start_ms": 71516,
+      "end_ms": 73157,
+      "start": "00:01:11.516",
+      "end": "00:01:13.157",
+      "text": "play, like, \""
+    },
+    {
+      "start_ms": 72157,
+      "end_ms": 73695,
+      "start": "00:01:12.157",
+      "end": "00:01:13.695",
+      "text": "clear and"
+    },
+    {
+      "start_ms": 72721,
+      "end_ms": 74592,
+      "start": "00:01:12.721",
+      "end": "00:01:14.592",
+      "text": "survive,\" and then we"
+    },
+    {
+      "start_ms": 73617,
+      "end_ms": 75588,
+      "start": "00:01:13.617",
+      "end": "00:01:15.588",
+      "text": "attack. Do"
+    },
+    {
+      "start_ms": 74688,
+      "end_ms": 76391,
+      "start": "00:01:14.688",
+      "end": "00:01:16.391",
+      "text": "you think it's"
+    },
+    {
+      "start_ms": 75414,
+      "end_ms": 77258,
+      "start": "00:01:15.414",
+      "end": "00:01:17.258",
+      "text": "particularly awkward in"
+    },
+    {
+      "start_ms": 76281,
+      "end_ms": 78196,
+      "start": "00:01:16.281",
+      "end": "00:01:18.196",
+      "text": "this first point?"
+    },
+    {
+      "start_ms": 77296,
+      "end_ms": 79094,
+      "start": "00:01:17.296",
+      "end": "00:01:19.094",
+      "text": "So, like, what do you"
+    },
+    {
+      "start_ms": 78124,
+      "end_ms": 79952,
+      "start": "00:01:18.124",
+      "end": "00:01:19.952",
+      "text": "actually do?"
+    },
+    {
+      "start_ms": 79052,
+      "end_ms": 80760,
+      "start": "00:01:19.052",
+      "end": "00:01:20.760",
+      "text": "This first point seems"
+    },
+    {
+      "start_ms": 79783,
+      "end_ms": 81681,
+      "start": "00:01:19.783",
+      "end": "00:01:21.681",
+      "text": "a bit"
+    },
+    {
+      "start_ms": 80704,
+      "end_ms": 82677,
+      "start": "00:01:20.704",
+      "end": "00:01:22.677",
+      "text": "complicated. We're just a"
+    },
+    {
+      "start_ms": 81704,
+      "end_ms": 83481,
+      "start": "00:01:21.704",
+      "end": "00:01:23.481",
+      "text": "little slow."
+    },
+    {
+      "start_ms": 82581,
+      "end_ms": 84591,
+      "start": "00:01:22.581",
+      "end": "00:01:24.591",
+      "text": "Of course, most often"
+    },
+    {
+      "start_ms": 83621,
+      "end_ms": 85721,
+      "start": "00:01:23.621",
+      "end": "00:01:25.721",
+      "text": "Shion flies like \"um,"
+    },
+    {
+      "start_ms": 84751,
+      "end_ms": 86465,
+      "start": "00:01:24.751",
+      "end": "00:01:26.465",
+      "text": "from this side.\""
+    },
+    {
+      "start_ms": 85565,
+      "end_ms": 86854,
+      "start": "00:01:25.565",
+      "end": "00:01:26.854",
+      "text": "Yes."
+    },
+    {
+      "start_ms": 85954,
+      "end_ms": 88252,
+      "start": "00:01:25.954",
+      "end": "00:01:28.252",
+      "text": "Right side, left side,"
+    },
+    {
+      "start_ms": 87285,
+      "end_ms": 89417,
+      "start": "00:01:27.285",
+      "end": "00:01:29.417",
+      "text": "and trying to"
+    },
+    {
+      "start_ms": 88451,
+      "end_ms": 90781,
+      "start": "00:01:28.451",
+      "end": "00:01:30.781",
+      "text": "pinch you. But I think"
+    },
+    {
+      "start_ms": 89813,
+      "end_ms": 91857,
+      "start": "00:01:29.813",
+      "end": "00:01:31.857",
+      "text": "we're just a little"
+    },
+    {
+      "start_ms": 90889,
+      "end_ms": 92522,
+      "start": "00:01:30.889",
+      "end": "00:01:32.522",
+      "text": "slower"
+    },
+    {
+      "start_ms": 91554,
+      "end_ms": 93282,
+      "start": "00:01:31.554",
+      "end": "00:01:33.282",
+      "text": "to turn around,"
+    },
+    {
+      "start_ms": 92313,
+      "end_ms": 94358,
+      "start": "00:01:32.313",
+      "end": "00:01:34.358",
+      "text": "relatively"
+    },
+    {
+      "start_ms": 93390,
+      "end_ms": 95547,
+      "start": "00:01:33.390",
+      "end": "00:01:35.547",
+      "text": "speaking. We play long"
+    },
+    {
+      "start_ms": 94581,
+      "end_ms": 96791,
+      "start": "00:01:34.581",
+      "end": "00:01:36.791",
+      "text": "for our"
+    },
+    {
+      "start_ms": 95791,
+      "end_ms": 97329,
+      "start": "00:01:35.791",
+      "end": "00:01:37.329",
+      "text": "Sojourn corner."
+    },
+    {
+      "start_ms": 97564,
+      "end_ms": 100062,
+      "start": "00:01:37.564",
+      "end": "00:01:40.062",
+      "text": "Wow, you guys nailed"
+    },
+    {
+      "start_ms": 99102,
+      "end_ms": 101640,
+      "start": "00:01:39.102",
+      "end": "00:01:41.640",
+      "text": "\"Ice on High\" in one hit"
+    },
+    {
+      "start_ms": 100640,
+      "end_ms": 101680,
+      "start": "00:01:40.640",
+      "end": "00:01:41.680",
+      "text": "."
+    },
+    {
+      "start_ms": 100780,
+      "end_ms": 103133,
+      "start": "00:01:40.780",
+      "end": "00:01:43.133",
+      "text": "Yes. I mean,"
+    },
+    {
+      "start_ms": 102164,
+      "end_ms": 104377,
+      "start": "00:01:42.164",
+      "end": "00:01:44.377",
+      "text": "we're just playing corners"
+    },
+    {
+      "start_ms": 103377,
+      "end_ms": 105344,
+      "start": "00:01:43.377",
+      "end": "00:01:45.344",
+      "text": ". It seems like our"
+    },
+    {
+      "start_ms": 104371,
+      "end_ms": 106288,
+      "start": "00:01:44.371",
+      "end": "00:01:46.288",
+      "text": "combination is good at this."
+    },
+    {
+      "start_ms": 105388,
+      "end_ms": 107169,
+      "start": "00:01:45.388",
+      "end": "00:01:47.169",
+      "text": "Our combination is"
+    },
+    {
+      "start_ms": 106196,
+      "end_ms": 107709,
+      "start": "00:01:46.196",
+      "end": "00:01:47.709",
+      "text": "good at"
+    },
+    {
+      "start_ms": 106736,
+      "end_ms": 108703,
+      "start": "00:01:46.736",
+      "end": "00:01:48.703",
+      "text": "creating corners. And"
+    },
+    {
+      "start_ms": 107733,
+      "end_ms": 109760,
+      "start": "00:01:47.733",
+      "end": "00:01:49.760",
+      "text": "although we should overlap a little"
+    },
+    {
+      "start_ms": 108790,
+      "end_ms": 110906,
+      "start": "00:01:48.790",
+      "end": "00:01:50.906",
+      "text": ", because we"
+    },
+    {
+      "start_ms": 109935,
+      "end_ms": 112103,
+      "start": "00:01:49.935",
+      "end": "00:01:52.103",
+      "text": "have The Miz. We're down by"
+    },
+    {
+      "start_ms": 111131,
+      "end_ms": 112878,
+      "start": "00:01:51.131",
+      "end": "00:01:52.878",
+      "text": "one, so we're"
+    },
+    {
+      "start_ms": 111906,
+      "end_ms": 113763,
+      "start": "00:01:51.906",
+      "end": "00:01:53.763",
+      "text": "just creating"
+    },
+    {
+      "start_ms": 112791,
+      "end_ms": 114234,
+      "start": "00:01:52.791",
+      "end": "00:01:54.234",
+      "text": "angles to"
+    },
+    {
+      "start_ms": 113261,
+      "end_ms": 115174,
+      "start": "00:01:53.261",
+      "end": "00:01:55.174",
+      "text": "make up for our"
+    },
+    {
+      "start_ms": 114202,
+      "end_ms": 115839,
+      "start": "00:01:54.202",
+      "end": "00:01:55.839",
+      "text": "absence."
+    },
+    {
+      "start_ms": 114939,
+      "end_ms": 116837,
+      "start": "00:01:54.939",
+      "end": "00:01:56.837",
+      "text": "Okay, okay, you"
+    },
+    {
+      "start_ms": 115867,
+      "end_ms": 117585,
+      "start": "00:01:55.867",
+      "end": "00:01:57.585",
+      "text": "need to, you"
+    },
+    {
+      "start_ms": 116615,
+      "end_ms": 118723,
+      "start": "00:01:56.615",
+      "end": "00:01:58.723",
+      "text": "need to rewind"
+    },
+    {
+      "start_ms": 117753,
+      "end_ms": 119674,
+      "start": "00:01:57.753",
+      "end": "00:01:59.674",
+      "text": "this. You need to"
+    },
+    {
+      "start_ms": 118703,
+      "end_ms": 120432,
+      "start": "00:01:58.703",
+      "end": "00:02:00.432",
+      "text": "rewind this by"
+    },
+    {
+      "start_ms": 119461,
+      "end_ms": 121599,
+      "start": "00:01:59.461",
+      "end": "00:02:01.599",
+      "text": "about 20 seconds"
+    },
+    {
+      "start_ms": 120599,
+      "end_ms": 122810,
+      "start": "00:02:00.599",
+      "end": "00:02:02.810",
+      "text": ". This whole battle is"
+    },
+    {
+      "start_ms": 121845,
+      "end_ms": 124205,
+      "start": "00:02:01.845",
+      "end": "00:02:04.205",
+      "text": "quite interesting to me because the way"
+    },
+    {
+      "start_ms": 123240,
+      "end_ms": 125600,
+      "start": "00:02:03.240",
+      "end": "00:02:05.600",
+      "text": "you guys pressure the"
+    },
+    {
+      "start_ms": 124635,
+      "end_ms": 126646,
+      "start": "00:02:04.635",
+      "end": "00:02:06.646",
+      "text": "enemy tanks is"
+    },
+    {
+      "start_ms": 125681,
+      "end_ms": 127902,
+      "start": "00:02:05.681",
+      "end": "00:02:07.902",
+      "text": "really very punishing."
+    },
+    {
+      "start_ms": 127002,
+      "end_ms": 129171,
+      "start": "00:02:07.002",
+      "end": "00:02:09.171",
+      "text": "These two CD cycles, you"
+    },
+    {
+      "start_ms": 128208,
+      "end_ms": 130487,
+      "start": "00:02:08.208",
+      "end": "00:02:10.487",
+      "text": "guys are almost one"
+    },
+    {
+      "start_ms": 129523,
+      "end_ms": 131949,
+      "start": "00:02:09.523",
+      "end": "00:02:11.949",
+      "text": "hit, I see you have 20"
+    },
+    {
+      "start_ms": 130985,
+      "end_ms": 133374,
+      "start": "00:02:10.985",
+      "end": "00:02:13.374",
+      "text": "HP from one shot at"
+    },
+    {
+      "start_ms": 132410,
+      "end_ms": 134795,
+      "start": "00:02:12.410",
+      "end": "00:02:14.795",
+      "text": "him. When you say you"
+    },
+    {
+      "start_ms": 133828,
+      "end_ms": 136038,
+      "start": "00:02:13.828",
+      "end": "00:02:16.038",
+      "text": "play corners, do"
+    },
+    {
+      "start_ms": 135071,
+      "end_ms": 136921,
+      "start": "00:02:15.071",
+      "end": "00:02:16.921",
+      "text": "you have a clear"
+    },
+    {
+      "start_ms": 135954,
+      "end_ms": 138131,
+      "start": "00:02:15.954",
+      "end": "00:02:18.131",
+      "text": "idea of who"
+    },
+    {
+      "start_ms": 137164,
+      "end_ms": 139341,
+      "start": "00:02:17.164",
+      "end": "00:02:19.341",
+      "text": "plays corners first,"
+    },
+    {
+      "start_ms": 138374,
+      "end_ms": 140600,
+      "start": "00:02:18.374",
+      "end": "00:02:20.600",
+      "text": "or who plays with whom? Do"
+    },
+    {
+      "start_ms": 139628,
+      "end_ms": 141721,
+      "start": "00:02:19.628",
+      "end": "00:02:21.721",
+      "text": "you play by feel"
+    },
+    {
+      "start_ms": 140721,
+      "end_ms": 142618,
+      "start": "00:02:20.721",
+      "end": "00:02:22.618",
+      "text": ", or what percentage of"
+    },
+    {
+      "start_ms": 141646,
+      "end_ms": 143515,
+      "start": "00:02:21.646",
+      "end": "00:02:23.515",
+      "text": "it fits"
+    },
+    {
+      "start_ms": 142543,
+      "end_ms": 144328,
+      "start": "00:02:22.543",
+      "end": "00:02:24.328",
+      "text": "your rules?"
+    },
+    {
+      "start_ms": 143428,
+      "end_ms": 145579,
+      "start": "00:02:23.428",
+      "end": "00:02:25.579",
+      "text": "Mostly, maybe"
+    },
+    {
+      "start_ms": 144609,
+      "end_ms": 146731,
+      "start": "00:02:24.609",
+      "end": "00:02:26.731",
+      "text": "not in this competition."
+    },
+    {
+      "start_ms": 145831,
+      "end_ms": 147359,
+      "start": "00:02:25.831",
+      "end": "00:02:27.359",
+      "text": "I think"
+    },
+    {
+      "start_ms": 146387,
+      "end_ms": 148167,
+      "start": "00:02:26.387",
+      "end": "00:02:28.167",
+      "text": "mostly it's"
+    },
+    {
+      "start_ms": 147194,
+      "end_ms": 149141,
+      "start": "00:02:27.194",
+      "end": "00:02:29.141",
+      "text": "probably Phonik and Luke"
+    },
+    {
+      "start_ms": 148169,
+      "end_ms": 150059,
+      "start": "00:02:28.169",
+      "end": "00:02:30.059",
+      "text": "like to play at an"
+    },
+    {
+      "start_ms": 149087,
+      "end_ms": 151006,
+      "start": "00:02:29.087",
+      "end": "00:02:31.006",
+      "text": "angle, they play"
+    },
+    {
+      "start_ms": 150033,
+      "end_ms": 151995,
+      "start": "00:02:30.033",
+      "end": "00:02:31.995",
+      "text": "with each other. But I"
+    },
+    {
+      "start_ms": 151020,
+      "end_ms": 152809,
+      "start": "00:02:31.020",
+      "end": "00:02:32.809",
+      "text": "think in some"
+    },
+    {
+      "start_ms": 151833,
+      "end_ms": 153721,
+      "start": "00:02:31.833",
+      "end": "00:02:33.721",
+      "text": "situations like"
+    },
+    {
+      "start_ms": 152745,
+      "end_ms": 154583,
+      "start": "00:02:32.745",
+      "end": "00:02:34.583",
+      "text": "this, I think"
+    },
+    {
+      "start_ms": 153608,
+      "end_ms": 155298,
+      "start": "00:02:33.608",
+      "end": "00:02:35.298",
+      "text": "it's probably mostly"
+    },
+    {
+      "start_ms": 154323,
+      "end_ms": 156284,
+      "start": "00:02:34.323",
+      "end": "00:02:36.284",
+      "text": "Phonik because"
+    },
+    {
+      "start_ms": 155309,
+      "end_ms": 157270,
+      "start": "00:02:35.309",
+      "end": "00:02:37.270",
+      "text": "I have a tight end and he"
+    },
+    {
+      "start_ms": 156294,
+      "end_ms": 157812,
+      "start": "00:02:36.294",
+      "end": "00:02:37.812",
+      "text": "just wants to"
+    },
+    {
+      "start_ms": 156837,
+      "end_ms": 158453,
+      "start": "00:02:36.837",
+      "end": "00:02:38.453",
+      "text": "get back on the"
+    },
+    {
+      "start_ms": 157477,
+      "end_ms": 159315,
+      "start": "00:02:37.477",
+      "end": "00:02:39.315",
+      "text": "team where Luke has to"
+    },
+    {
+      "start_ms": 158340,
+      "end_ms": 160080,
+      "start": "00:02:38.340",
+      "end": "00:02:40.080",
+      "text": "score more."
+    },
+    {
+      "start_ms": 159180,
+      "end_ms": 161180,
+      "start": "00:02:39.180",
+      "end": "00:02:41.180",
+      "text": "Overall, I really"
+    },
+    {
+      "start_ms": 160210,
+      "end_ms": 162301,
+      "start": "00:02:40.210",
+      "end": "00:02:42.301",
+      "text": "think it's more of a"
+    },
+    {
+      "start_ms": 161332,
+      "end_ms": 163302,
+      "start": "00:02:41.332",
+      "end": "00:02:43.302",
+      "text": "matter of feel."
+    },
+    {
+      "start_ms": 162402,
+      "end_ms": 164150,
+      "start": "00:02:42.402",
+      "end": "00:02:44.150",
+      "text": "If you as a player"
+    },
+    {
+      "start_ms": 163173,
+      "end_ms": 164922,
+      "start": "00:02:43.173",
+      "end": "00:02:44.922",
+      "text": "think you can"
+    },
+    {
+      "start_ms": 163945,
+      "end_ms": 165603,
+      "start": "00:02:43.945",
+      "end": "00:02:45.603",
+      "text": "get more"
+    },
+    {
+      "start_ms": 164626,
+      "end_ms": 166420,
+      "start": "00:02:44.626",
+      "end": "00:02:46.420",
+      "text": "benefit from playing at an"
+    },
+    {
+      "start_ms": 165443,
+      "end_ms": 167191,
+      "start": "00:02:45.443",
+      "end": "00:02:47.191",
+      "text": "angle compared"
+    },
+    {
+      "start_ms": 166214,
+      "end_ms": 168077,
+      "start": "00:02:46.214",
+      "end": "00:02:48.077",
+      "text": "to just playing"
+    },
+    {
+      "start_ms": 167099,
+      "end_ms": 168916,
+      "start": "00:02:47.099",
+      "end": "00:02:48.916",
+      "text": "below the baseline, then"
+    },
+    {
+      "start_ms": 167939,
+      "end_ms": 169642,
+      "start": "00:02:47.939",
+      "end": "00:02:49.642",
+      "text": "you are probably just"
+    },
+    {
+      "start_ms": 168665,
+      "end_ms": 170505,
+      "start": "00:02:48.665",
+      "end": "00:02:50.505",
+      "text": "doing it and you should"
+    },
+    {
+      "start_ms": 169528,
+      "end_ms": 171208,
+      "start": "00:02:49.528",
+      "end": "00:02:51.208",
+      "text": "trust yourself and"
+    },
+    {
+      "start_ms": 170231,
+      "end_ms": 172048,
+      "start": "00:02:50.231",
+      "end": "00:02:52.048",
+      "text": "your intuition as to"
+    },
+    {
+      "start_ms": 171071,
+      "end_ms": 172933,
+      "start": "00:02:51.071",
+      "end": "00:02:52.933",
+      "text": "where you will get the"
+    },
+    {
+      "start_ms": 171956,
+      "end_ms": 173728,
+      "start": "00:02:51.956",
+      "end": "00:02:53.728",
+      "text": "most benefit."
+    },
+    {
+      "start_ms": 172828,
+      "end_ms": 174828,
+      "start": "00:02:52.828",
+      "end": "00:02:54.828",
+      "text": "When I watch your"
+    },
+    {
+      "start_ms": 173857,
+      "end_ms": 175914,
+      "start": "00:02:53.857",
+      "end": "00:02:55.914",
+      "text": "matches compared to"
+    },
+    {
+      "start_ms": 174943,
+      "end_ms": 176829,
+      "start": "00:02:54.943",
+      "end": "00:02:56.829",
+      "text": "other Western"
+    },
+    {
+      "start_ms": 175857,
+      "end_ms": 177601,
+      "start": "00:02:55.857",
+      "end": "00:02:57.601",
+      "text": "teams that"
+    },
+    {
+      "start_ms": 176629,
+      "end_ms": 178630,
+      "start": "00:02:56.629",
+      "end": "00:02:58.630",
+      "text": "weave DPS, I can"
+    },
+    {
+      "start_ms": 177658,
+      "end_ms": 179487,
+      "start": "00:02:57.658",
+      "end": "00:02:59.487",
+      "text": "tell that they"
+    },
+    {
+      "start_ms": 178516,
+      "end_ms": 180516,
+      "start": "00:02:58.516",
+      "end": "00:03:00.516",
+      "text": "really set"
+    },
+    {
+      "start_ms": 179545,
+      "end_ms": 181631,
+      "start": "00:02:59.545",
+      "end": "00:03:01.631",
+      "text": "the rules on this, and"
+    },
+    {
+      "start_ms": 180660,
+      "end_ms": 182632,
+      "start": "00:03:00.660",
+      "end": "00:03:02.632",
+      "text": "your rules are a little"
+    },
+    {
+      "start_ms": 181660,
+      "end_ms": 183718,
+      "start": "00:03:01.660",
+      "end": "00:03:03.718",
+      "text": "less strict, particularly"
+    },
+    {
+      "start_ms": 182746,
+      "end_ms": 184650,
+      "start": "00:03:02.746",
+      "end": "00:03:04.650",
+      "text": "on your DPS. I"
+    },
+    {
+      "start_ms": 183681,
+      "end_ms": 185560,
+      "start": "00:03:03.681",
+      "end": "00:03:05.560",
+      "text": "think a lot of"
+    },
+    {
+      "start_ms": 184591,
+      "end_ms": 186592,
+      "start": "00:03:04.591",
+      "end": "00:03:06.592",
+      "text": "people in this type of"
+    },
+    {
+      "start_ms": 185622,
+      "end_ms": 187593,
+      "start": "00:03:05.622",
+      "end": "00:03:07.593",
+      "text": "competition and in general are"
+    },
+    {
+      "start_ms": 186623,
+      "end_ms": 188624,
+      "start": "00:03:06.623",
+      "end": "00:03:08.624",
+      "text": "really into"
+    },
+    {
+      "start_ms": 187655,
+      "end_ms": 189838,
+      "start": "00:03:07.655",
+      "end": "00:03:09.838",
+      "text": "split flex DPS, and"
+    },
+    {
+      "start_ms": 188868,
+      "end_ms": 191021,
+      "start": "00:03:08.868",
+      "end": "00:03:11.021",
+      "text": "you guys are splitting"
+    },
+    {
+      "start_ms": 190052,
+      "end_ms": 191992,
+      "start": "00:03:10.052",
+      "end": "00:03:11.992",
+      "text": "hitscan a lot"
+    },
+    {
+      "start_ms": 191022,
+      "end_ms": 193024,
+      "start": "00:03:11.022",
+      "end": "00:03:13.024",
+      "text": "more than I see."
+    },
+    {
+      "start_ms": 192124,
+      "end_ms": 194472,
+      "start": "00:03:12.124",
+      "end": "00:03:14.472",
+      "text": "I mean, it's"
+    },
+    {
+      "start_ms": 193507,
+      "end_ms": 195665,
+      "start": "00:03:13.507",
+      "end": "00:03:15.665",
+      "text": "hard for us. They"
+    },
+    {
+      "start_ms": 194695,
+      "end_ms": 196873,
+      "start": "00:03:14.695",
+      "end": "00:03:16.873",
+      "text": "believe that the advantage of"
+    },
+    {
+      "start_ms": 195903,
+      "end_ms": 197688,
+      "start": "00:03:15.903",
+      "end": "00:03:17.688",
+      "text": "rush is simply"
+    },
+    {
+      "start_ms": 196718,
+      "end_ms": 198232,
+      "start": "00:03:16.718",
+      "end": "00:03:18.232",
+      "text": "cruel."
+    },
+    {
+      "start_ms": 197332,
+      "end_ms": 199315,
+      "start": "00:03:17.332",
+      "end": "00:03:19.315",
+      "text": "Yes. Killing under"
+    },
+    {
+      "start_ms": 198341,
+      "end_ms": 200050,
+      "start": "00:03:18.341",
+      "end": "00:03:20.050",
+      "text": "pressure magically"
+    },
+    {
+      "start_ms": 199077,
+      "end_ms": 201023,
+      "start": "00:03:19.077",
+      "end": "00:03:21.023",
+      "text": "kills like London with"
+    },
+    {
+      "start_ms": 200049,
+      "end_ms": 202168,
+      "start": "00:03:20.049",
+      "end": "00:03:22.168",
+      "text": "rush. Yes."
+    },
+    {
+      "start_ms": 202558,
+      "end_ms": 204788,
+      "start": "00:03:22.558",
+      "end": "00:03:24.788",
+      "text": "When the"
+    },
+    {
+      "start_ms": 203820,
+      "end_ms": 205792,
+      "start": "00:03:23.820",
+      "end": "00:03:25.792",
+      "text": "CD to RAM exchange starts, and the RAM starts"
+    },
+    {
+      "start_ms": 204824,
+      "end_ms": 207022,
+      "start": "00:03:24.824",
+      "end": "00:03:27.022",
+      "text": "to see if"
+    },
+    {
+      "start_ms": 206055,
+      "end_ms": 208026,
+      "start": "00:03:26.055",
+      "end": "00:03:28.026",
+      "text": "they can get past the"
+    },
+    {
+      "start_ms": 207059,
+      "end_ms": 209321,
+      "start": "00:03:27.059",
+      "end": "00:03:29.321",
+      "text": "other RAM for free"
+    },
+    {
+      "start_ms": 208321,
+      "end_ms": 210487,
+      "start": "00:03:28.321",
+      "end": "00:03:30.487",
+      "text": ", because the RAM will check this"
+    },
+    {
+      "start_ms": 209519,
+      "end_ms": 211782,
+      "start": "00:03:29.519",
+      "end": "00:03:31.782",
+      "text": "at the start of the fight, and if"
+    },
+    {
+      "start_ms": 210815,
+      "end_ms": 213013,
+      "start": "00:03:30.815",
+      "end": "00:03:33.013",
+      "text": "they can, they"
+    },
+    {
+      "start_ms": 212045,
+      "end_ms": 214308,
+      "start": "00:03:32.045",
+      "end": "00:03:34.308",
+      "text": "will just do it, right"
+    },
+    {
+      "start_ms": 213308,
+      "end_ms": 215520,
+      "start": "00:03:33.308",
+      "end": "00:03:35.520",
+      "text": "? But if you look down"
+    },
+    {
+      "start_ms": 214550,
+      "end_ms": 216420,
+      "start": "00:03:34.550",
+      "end": "00:03:36.420",
+      "text": ", it will"
+    },
+    {
+      "start_ms": 215450,
+      "end_ms": 217560,
+      "start": "00:03:35.450",
+      "end": "00:03:37.560",
+      "text": "tie him up if he"
+    },
+    {
+      "start_ms": 216590,
+      "end_ms": 218700,
+      "start": "00:03:36.590",
+      "end": "00:03:38.700",
+      "text": "tries to get past."
+    },
+    {
+      "start_ms": 218243,
+      "end_ms": 220469,
+      "start": "00:03:38.243",
+      "end": "00:03:40.469",
+      "text": "You, Chronic and Sanjan are all"
+    },
+    {
+      "start_ms": 219509,
+      "end_ms": 221940,
+      "start": "00:03:39.509",
+      "end": "00:03:41.940",
+      "text": "safe, but also"
+    },
+    {
+      "start_ms": 220981,
+      "end_ms": 224269,
+      "start": "00:03:40.981",
+      "end": "00:03:44.269",
+      "text": "at an angle. Many"
+    },
+    {
+      "start_ms": 223300,
+      "end_ms": 225431,
+      "start": "00:03:43.300",
+      "end": "00:03:45.431",
+      "text": "people just play it"
+    },
+    {
+      "start_ms": 224463,
+      "end_ms": 226217,
+      "start": "00:03:44.463",
+      "end": "00:03:46.217",
+      "text": "safe and don't take"
+    },
+    {
+      "start_ms": 225249,
+      "end_ms": 227161,
+      "start": "00:03:45.249",
+      "end": "00:03:47.161",
+      "text": "risks. You"
+    },
+    {
+      "start_ms": 226192,
+      "end_ms": 228199,
+      "start": "00:03:46.192",
+      "end": "00:03:48.199",
+      "text": "guys fall on the"
+    },
+    {
+      "start_ms": 227230,
+      "end_ms": 229299,
+      "start": "00:03:47.230",
+      "end": "00:03:49.299",
+      "text": "ice in every fight, and"
+    },
+    {
+      "start_ms": 228329,
+      "end_ms": 230245,
+      "start": "00:03:48.329",
+      "end": "00:03:50.245",
+      "text": "Kellen never"
+    },
+    {
+      "start_ms": 229276,
+      "end_ms": 231545,
+      "start": "00:03:49.276",
+      "end": "00:03:51.545",
+      "text": "falls on it. The way"
+    },
+    {
+      "start_ms": 230580,
+      "end_ms": 232407,
+      "start": "00:03:50.580",
+      "end": "00:03:52.407",
+      "text": "you and Kronik"
+    },
+    {
+      "start_ms": 231442,
+      "end_ms": 233752,
+      "start": "00:03:51.442",
+      "end": "00:03:53.752",
+      "text": "support Kellen is"
+    },
+    {
+      "start_ms": 232786,
+      "end_ms": 235027,
+      "start": "00:03:52.786",
+      "end": "00:03:55.027",
+      "text": "much more important"
+    },
+    {
+      "start_ms": 234062,
+      "end_ms": 236435,
+      "start": "00:03:54.062",
+      "end": "00:03:56.435",
+      "text": "than just safety. And"
+    },
+    {
+      "start_ms": 235469,
+      "end_ms": 237469,
+      "start": "00:03:55.469",
+      "end": "00:03:57.469",
+      "text": "then he just"
+    },
+    {
+      "start_ms": 236502,
+      "end_ms": 238436,
+      "start": "00:03:56.502",
+      "end": "00:03:58.436",
+      "text": "walks by,"
+    },
+    {
+      "start_ms": 237469,
+      "end_ms": 239669,
+      "start": "00:03:57.469",
+      "end": "00:03:59.669",
+      "text": "Raven killing Laina"
+    },
+    {
+      "start_ms": 238703,
+      "end_ms": 240470,
+      "start": "00:03:58.703",
+      "end": "00:04:00.470",
+      "text": "on the way. But"
+    },
+    {
+      "start_ms": 239570,
+      "end_ms": 243352,
+      "start": "00:03:59.570",
+      "end": "00:04:03.352",
+      "text": "here is the key. I"
+    },
+    {
+      "start_ms": 242392,
+      "end_ms": 244795,
+      "start": "00:04:02.392",
+      "end": "00:04:04.795",
+      "text": "mean, I understand. It's"
+    },
+    {
+      "start_ms": 243895,
+      "end_ms": 246162,
+      "start": "00:04:03.895",
+      "end": "00:04:06.162",
+      "text": "as if he's expecting a"
+    },
+    {
+      "start_ms": 245195,
+      "end_ms": 247203,
+      "start": "00:04:05.195",
+      "end": "00:04:07.203",
+      "text": "hammer blow, as if the two"
+    },
+    {
+      "start_ms": 246235,
+      "end_ms": 248470,
+      "start": "00:04:06.235",
+      "end": "00:04:08.470",
+      "text": "Shions are also chasing"
+    },
+    {
+      "start_ms": 247503,
+      "end_ms": 252244,
+      "start": "00:04:07.503",
+      "end": "00:04:12.244",
+      "text": "each other. I"
+    },
+    {
+      "start_ms": 251274,
+      "end_ms": 253293,
+      "start": "00:04:11.274",
+      "end": "00:04:13.293",
+      "text": "just remember"
+    },
+    {
+      "start_ms": 252323,
+      "end_ms": 254282,
+      "start": "00:04:12.323",
+      "end": "00:04:14.282",
+      "text": "Joe Slayer doing the"
+    },
+    {
+      "start_ms": 253312,
+      "end_ms": 255210,
+      "start": "00:04:13.312",
+      "end": "00:04:15.210",
+      "text": "stupidest thing in"
+    },
+    {
+      "start_ms": 254240,
+      "end_ms": 255960,
+      "start": "00:04:14.240",
+      "end": "00:04:15.960",
+      "text": "his life."
+    },
+    {
+      "start_ms": 255060,
+      "end_ms": 257108,
+      "start": "00:04:15.060",
+      "end": "00:04:17.108",
+      "text": "Dude, PGE, when this"
+    },
+    {
+      "start_ms": 256143,
+      "end_ms": 258437,
+      "start": "00:04:16.143",
+      "end": "00:04:18.437",
+      "text": "came out, he thought you"
+    },
+    {
+      "start_ms": 257472,
+      "end_ms": 259451,
+      "start": "00:04:17.472",
+      "end": "00:04:19.451",
+      "text": "had to"
+    },
+    {
+      "start_ms": 258486,
+      "end_ms": 260675,
+      "start": "00:04:18.486",
+      "end": "00:04:20.675",
+      "text": "aim the cursor at Shion."
+    },
+    {
+      "start_ms": 259948,
+      "end_ms": 262021,
+      "start": "00:04:19.948",
+      "end": "00:04:22.021",
+      "text": "Oh, seriously?"
+    },
+    {
+      "start_ms": 261121,
+      "end_ms": 262828,
+      "start": "00:04:21.121",
+      "end": "00:04:22.828",
+      "text": "Yes, yes."
+    },
+    {
+      "start_ms": 262634,
+      "end_ms": 264661,
+      "start": "00:04:22.634",
+      "end": "00:04:24.661",
+      "text": "I mean,"
+    },
+    {
+      "start_ms": 263694,
+      "end_ms": 265854,
+      "start": "00:04:23.694",
+      "end": "00:04:25.854",
+      "text": "even now it's the same"
+    },
+    {
+      "start_ms": 264887,
+      "end_ms": 267113,
+      "start": "00:04:24.887",
+      "end": "00:04:27.113",
+      "text": "situation as in the"
+    },
+    {
+      "start_ms": 266146,
+      "end_ms": 268189,
+      "start": "00:04:26.146",
+      "end": "00:04:28.189",
+      "text": "last fight. It's just"
+    },
+    {
+      "start_ms": 267225,
+      "end_ms": 269627,
+      "start": "00:04:27.225",
+      "end": "00:04:29.627",
+      "text": "very difficult."
+    },
+    {
+      "start_ms": 268671,
+      "end_ms": 270422,
+      "start": "00:04:28.671",
+      "end": "00:04:30.422",
+      "text": "They have a rush. A"
+    },
+    {
+      "start_ms": 269522,
+      "end_ms": 271102,
+      "start": "00:04:29.522",
+      "end": "00:04:31.102",
+      "text": "big part of the"
+    },
+    {
+      "start_ms": 270124,
+      "end_ms": 271962,
+      "start": "00:04:30.124",
+      "end": "00:04:31.962",
+      "text": "slow game, which"
+    },
+    {
+      "start_ms": 270984,
+      "end_ms": 272564,
+      "start": "00:04:30.984",
+      "end": "00:04:32.564",
+      "text": "I think is very"
+    },
+    {
+      "start_ms": 272080,
+      "end_ms": 273876,
+      "start": "00:04:32.080",
+      "end": "00:04:33.876",
+      "text": "misunderstood, is that"
+    },
+    {
+      "start_ms": 272897,
+      "end_ms": 274628,
+      "start": "00:04:32.897",
+      "end": "00:04:34.628",
+      "text": "you guys are"
+    },
+    {
+      "start_ms": 273650,
+      "end_ms": 275424,
+      "start": "00:04:33.650",
+      "end": "00:04:35.424",
+      "text": "doing well. This is"
+    },
+    {
+      "start_ms": 274524,
+      "end_ms": 276026,
+      "start": "00:04:34.524",
+      "end": "00:04:36.026",
+      "text": "where the"
+    },
+    {
+      "start_ms": 275050,
+      "end_ms": 276982,
+      "start": "00:04:35.050",
+      "end": "00:04:36.982",
+      "text": "trade"
+    },
+    {
+      "start_ms": 276006,
+      "end_ms": 277652,
+      "start": "00:04:36.006",
+      "end": "00:04:37.652",
+      "text": "in the city of tanks begins"
+    },
+    {
+      "start_ms": 277609,
+      "end_ms": 279777,
+      "start": "00:04:37.609",
+      "end": "00:04:39.777",
+      "text": ". You guys play"
+    },
+    {
+      "start_ms": 278809,
+      "end_ms": 281017,
+      "start": "00:04:38.809",
+      "end": "00:04:41.017",
+      "text": "slow, but Kellen"
+    },
+    {
+      "start_ms": 280049,
+      "end_ms": 281865,
+      "start": "00:04:40.049",
+      "end": "00:04:41.865",
+      "text": "slows them down"
+    },
+    {
+      "start_ms": 280897,
+      "end_ms": 283105,
+      "start": "00:04:40.897",
+      "end": "00:04:43.105",
+      "text": "a lot more than"
+    },
+    {
+      "start_ms": 282137,
+      "end_ms": 284388,
+      "start": "00:04:42.137",
+      "end": "00:04:44.388",
+      "text": "most tanks. How"
+    },
+    {
+      "start_ms": 283414,
+      "end_ms": 285105,
+      "start": "00:04:43.414",
+      "end": "00:04:45.105",
+      "text": "many tanks,"
+    },
+    {
+      "start_ms": 284132,
+      "end_ms": 286168,
+      "start": "00:04:44.132",
+      "end": "00:04:46.168",
+      "text": "maybe on the front"
+    },
+    {
+      "start_ms": 285194,
+      "end_ms": 287044,
+      "start": "00:04:45.194",
+      "end": "00:04:47.044",
+      "text": "line in general–that's"
+    },
+    {
+      "start_ms": 286071,
+      "end_ms": 288001,
+      "start": "00:04:46.071",
+      "end": "00:04:48.001",
+      "text": "just a better word,"
+    },
+    {
+      "start_ms": 287027,
+      "end_ms": 288904,
+      "start": "00:04:47.027",
+      "end": "00:04:48.904",
+      "text": "try to play"
+    },
+    {
+      "start_ms": 287931,
+      "end_ms": 289887,
+      "start": "00:04:47.931",
+      "end": "00:04:49.887",
+      "text": "slow with the back"
+    },
+    {
+      "start_ms": 288914,
+      "end_ms": 290631,
+      "start": "00:04:48.914",
+      "end": "00:04:50.631",
+      "text": "line, and then"
+    },
+    {
+      "start_ms": 289657,
+      "end_ms": 291508,
+      "start": "00:04:49.657",
+      "end": "00:04:51.508",
+      "text": "just give away all the"
+    },
+    {
+      "start_ms": 290534,
+      "end_ms": 292437,
+      "start": "00:04:50.534",
+      "end": "00:04:52.437",
+      "text": "space on the map, and"
+    },
+    {
+      "start_ms": 291464,
+      "end_ms": 293474,
+      "start": "00:04:51.464",
+      "end": "00:04:53.474",
+      "text": "everyone dies, right?"
+    },
+    {
+      "start_ms": 292574,
+      "end_ms": 294236,
+      "start": "00:04:52.574",
+      "end": "00:04:54.236",
+      "text": "You wouldn't have been able to"
+    },
+    {
+      "start_ms": 293262,
+      "end_ms": 295242,
+      "start": "00:04:53.262",
+      "end": "00:04:55.242",
+      "text": "stop that onslaught"
+    },
+    {
+      "start_ms": 294269,
+      "end_ms": 296302,
+      "start": "00:04:54.269",
+      "end": "00:04:56.302",
+      "text": "if Kellen and Sanjan had"
+    },
+    {
+      "start_ms": 295328,
+      "end_ms": 297361,
+      "start": "00:04:55.328",
+      "end": "00:04:57.361",
+      "text": "n't been doing it"
+    },
+    {
+      "start_ms": 296388,
+      "end_ms": 298394,
+      "start": "00:04:56.388",
+      "end": "00:04:58.394",
+      "text": "properly, but you guys"
+    },
+    {
+      "start_ms": 297421,
+      "end_ms": 299374,
+      "start": "00:04:57.421",
+      "end": "00:04:59.374",
+      "text": "really nailed"
+    },
+    {
+      "start_ms": 298401,
+      "end_ms": 300512,
+      "start": "00:04:58.401",
+      "end": "00:05:00.512",
+      "text": "that part. That is,"
+    },
+    {
+      "start_ms": 299541,
+      "end_ms": 301215,
+      "start": "00:04:59.541",
+      "end": "00:05:01.215",
+      "text": "you are obviously"
+    },
+    {
+      "start_ms": 300245,
+      "end_ms": 302065,
+      "start": "00:05:00.245",
+      "end": "00:05:02.065",
+      "text": "using"
+    },
+    {
+      "start_ms": 301094,
+      "end_ms": 303091,
+      "start": "00:05:01.094",
+      "end": "00:05:03.091",
+      "text": "great"
+    },
+    {
+      "start_ms": 302120,
+      "end_ms": 303736,
+      "start": "00:05:02.120",
+      "end": "00:05:03.736",
+      "text": "bait positions and"
+    },
+    {
+      "start_ms": 302765,
+      "end_ms": 304791,
+      "start": "00:05:02.765",
+      "end": "00:05:04.791",
+      "text": "shooting around the map,"
+    },
+    {
+      "start_ms": 303820,
+      "end_ms": 305758,
+      "start": "00:05:03.820",
+      "end": "00:05:05.758",
+      "text": "but your front"
+    },
+    {
+      "start_ms": 304787,
+      "end_ms": 306813,
+      "start": "00:05:04.787",
+      "end": "00:05:06.813",
+      "text": "line is slowing them down so much"
+    },
+    {
+      "start_ms": 305842,
+      "end_ms": 307926,
+      "start": "00:05:05.842",
+      "end": "00:05:07.926",
+      "text": "; it's, like,"
+    },
+    {
+      "start_ms": 306956,
+      "end_ms": 309011,
+      "start": "00:05:06.956",
+      "end": "00:05:09.011",
+      "text": "really, stopping them"
+    },
+    {
+      "start_ms": 308040,
+      "end_ms": 310183,
+      "start": "00:05:08.040",
+      "end": "00:05:10.183",
+      "text": "when they're coming is just as"
+    },
+    {
+      "start_ms": 309212,
+      "end_ms": 311355,
+      "start": "00:05:09.212",
+      "end": "00:05:11.355",
+      "text": "important as the"
+    },
+    {
+      "start_ms": 310384,
+      "end_ms": 312264,
+      "start": "00:05:10.384",
+      "end": "00:05:12.264",
+      "text": "space you"
+    },
+    {
+      "start_ms": 311293,
+      "end_ms": 313418,
+      "start": "00:05:11.293",
+      "end": "00:05:13.418",
+      "text": "guys give them. A lot of"
+    },
+    {
+      "start_ms": 312442,
+      "end_ms": 314318,
+      "start": "00:05:12.442",
+      "end": "00:05:14.318",
+      "text": "people think it's"
+    },
+    {
+      "start_ms": 313342,
+      "end_ms": 315097,
+      "start": "00:05:13.342",
+      "end": "00:05:15.097",
+      "text": "just like, well, you"
+    },
+    {
+      "start_ms": 314121,
+      "end_ms": 316070,
+      "start": "00:05:14.121",
+      "end": "00:05:16.070",
+      "text": "just have to be at the"
+    },
+    {
+      "start_ms": 315094,
+      "end_ms": 317043,
+      "start": "00:05:15.094",
+      "end": "00:05:17.043",
+      "text": "back of the map,"
+    },
+    {
+      "start_ms": 316068,
+      "end_ms": 317652,
+      "start": "00:05:16.068",
+      "end": "00:05:17.652",
+      "text": "you know, that's"
+    },
+    {
+      "start_ms": 316676,
+      "end_ms": 318790,
+      "start": "00:05:16.676",
+      "end": "00:05:18.790",
+      "text": "not enough. And these are two"
+    },
+    {
+      "start_ms": 317822,
+      "end_ms": 319925,
+      "start": "00:05:17.822",
+      "end": "00:05:19.925",
+      "text": "fights where you only have"
+    },
+    {
+      "start_ms": 318958,
+      "end_ms": 321223,
+      "start": "00:05:18.958",
+      "end": "00:05:21.223",
+      "text": "one shot at the end"
+    },
+    {
+      "start_ms": 320223,
+      "end_ms": 322595,
+      "start": "00:05:20.223",
+      "end": "00:05:22.595",
+      "text": ". Of course, this is an extreme"
+    },
+    {
+      "start_ms": 321628,
+      "end_ms": 323988,
+      "start": "00:05:21.628",
+      "end": "00:05:23.988",
+      "text": "example. Realistically,"
+    },
+    {
+      "start_ms": 323021,
+      "end_ms": 325306,
+      "start": "00:05:23.021",
+      "end": "00:05:25.306",
+      "text": "what are they actually"
+    },
+    {
+      "start_ms": 324339,
+      "end_ms": 326538,
+      "start": "00:05:24.339",
+      "end": "00:05:26.538",
+      "text": "doing here? They just"
+    },
+    {
+      "start_ms": 325573,
+      "end_ms": 327746,
+      "start": "00:05:25.573",
+      "end": "00:05:27.746",
+      "text": "need 30 seconds"
+    },
+    {
+      "start_ms": 326782,
+      "end_ms": 328955,
+      "start": "00:05:26.782",
+      "end": "00:05:28.955",
+      "text": "to swap CDs with"
+    },
+    {
+      "start_ms": 327990,
+      "end_ms": 330229,
+      "start": "00:05:27.990",
+      "end": "00:05:30.229",
+      "text": "Kellen? Because suddenly"
+    },
+    {
+      "start_ms": 329261,
+      "end_ms": 331487,
+      "start": "00:05:29.261",
+      "end": "00:05:31.487",
+      "text": "you and Kronik start"
+    },
+    {
+      "start_ms": 330519,
+      "end_ms": 332714,
+      "start": "00:05:30.519",
+      "end": "00:05:32.714",
+      "text": "throwing them around the map,"
+    },
+    {
+      "start_ms": 331745,
+      "end_ms": 333626,
+      "start": "00:05:31.745",
+      "end": "00:05:33.626",
+      "text": "and Luke will come up and"
+    },
+    {
+      "start_ms": 332657,
+      "end_ms": 334506,
+      "start": "00:05:32.657",
+      "end": "00:05:34.506",
+      "text": "Sanjan will have the"
+    },
+    {
+      "start_ms": 333538,
+      "end_ms": 335073,
+      "start": "00:05:33.538",
+      "end": "00:05:35.073",
+      "text": "advantage."
+    },
+    {
+      "start_ms": 334173,
+      "end_ms": 336200,
+      "start": "00:05:34.173",
+      "end": "00:05:36.200",
+      "text": "Honestly, I don't"
+    },
+    {
+      "start_ms": 335232,
+      "end_ms": 337034,
+      "start": "00:05:35.232",
+      "end": "00:05:37.034",
+      "text": "think their"
+    },
+    {
+      "start_ms": 336066,
+      "end_ms": 338254,
+      "start": "00:05:36.066",
+      "end": "00:05:38.254",
+      "text": "combination makes sense."
+    },
+    {
+      "start_ms": 337354,
+      "end_ms": 339174,
+      "start": "00:05:37.354",
+      "end": "00:05:39.174",
+      "text": "Like on Ram, I wouldn't"
+    },
+    {
+      "start_ms": 338200,
+      "end_ms": 340126,
+      "start": "00:05:38.200",
+      "end": "00:05:40.126",
+      "text": "say you have to"
+    },
+    {
+      "start_ms": 339153,
+      "end_ms": 341026,
+      "start": "00:05:39.153",
+      "end": "00:05:41.026",
+      "text": "play slow, you"
+    },
+    {
+      "start_ms": 340052,
+      "end_ms": 342084,
+      "start": "00:05:40.052",
+      "end": "00:05:42.084",
+      "text": "can definitely play"
+    },
+    {
+      "start_ms": 341111,
+      "end_ms": 343027,
+      "start": "00:05:41.111",
+      "end": "00:05:43.027",
+      "text": "fast on Ram. You"
+    },
+    {
+      "start_ms": 342939,
+      "end_ms": 345072,
+      "start": "00:05:42.939",
+      "end": "00:05:45.072",
+      "text": "have to play very"
+    },
+    {
+      "start_ms": 344103,
+      "end_ms": 346085,
+      "start": "00:05:44.103",
+      "end": "00:05:46.085",
+      "text": "quickly with their back line. Basically,"
+    },
+    {
+      "start_ms": 345117,
+      "end_ms": 347126,
+      "start": "00:05:45.117",
+      "end": "00:05:47.126",
+      "text": "you need to play"
+    },
+    {
+      "start_ms": 346157,
+      "end_ms": 348135,
+      "start": "00:05:46.157",
+      "end": "00:05:48.135",
+      "text": "one turn on their"
+    },
+    {
+      "start_ms": 347166,
+      "end_ms": 348986,
+      "start": "00:05:47.166",
+      "end": "00:05:48.986",
+      "text": "backline with a"
+    },
+    {
+      "start_ms": 348018,
+      "end_ms": 349806,
+      "start": "00:05:48.018",
+      "end": "00:05:49.806",
+      "text": "motorcycle, and"
+    },
+    {
+      "start_ms": 348837,
+      "end_ms": 350878,
+      "start": "00:05:48.837",
+      "end": "00:05:50.878",
+      "text": "let's say Mal'Ganis is"
+    },
+    {
+      "start_ms": 349909,
+      "end_ms": 351869,
+      "start": "00:05:49.909",
+      "end": "00:05:51.869",
+      "text": "banned. You"
+    },
+    {
+      "start_ms": 350895,
+      "end_ms": 352753,
+      "start": "00:05:50.895",
+      "end": "00:05:52.753",
+      "text": "just need to push"
+    },
+    {
+      "start_ms": 351779,
+      "end_ms": 353664,
+      "start": "00:05:51.779",
+      "end": "00:05:53.664",
+      "text": "the motorcycle into their"
+    },
+    {
+      "start_ms": 352690,
+      "end_ms": 354444,
+      "start": "00:05:52.690",
+      "end": "00:05:54.444",
+      "text": "back line and"
+    },
+    {
+      "start_ms": 353470,
+      "end_ms": 355225,
+      "start": "00:05:53.470",
+      "end": "00:05:55.225",
+      "text": "then force"
+    },
+    {
+      "start_ms": 354251,
+      "end_ms": 356265,
+      "start": "00:05:54.251",
+      "end": "00:05:56.265",
+      "text": "every cooldown in the world"
+    },
+    {
+      "start_ms": 355265,
+      "end_ms": 357284,
+      "start": "00:05:55.265",
+      "end": "00:05:57.284",
+      "text": ". With this combination of"
+    },
+    {
+      "start_ms": 356310,
+      "end_ms": 358282,
+      "start": "00:05:56.310",
+      "end": "00:05:58.282",
+      "text": "Shion's tracks, you can't"
+    },
+    {
+      "start_ms": 357308,
+      "end_ms": 359253,
+      "start": "00:05:57.308",
+      "end": "00:05:59.253",
+      "text": "trade the cooldown for a"
+    },
+    {
+      "start_ms": 358280,
+      "end_ms": 360041,
+      "start": "00:05:58.280",
+      "end": "00:06:00.041",
+      "text": "tank because we have a"
+    },
+    {
+      "start_ms": 359067,
+      "end_ms": 360986,
+      "start": "00:05:59.067",
+      "end": "00:06:00.986",
+      "text": "soldier who deals"
+    },
+    {
+      "start_ms": 360012,
+      "end_ms": 361947,
+      "start": "00:06:00.012",
+      "end": "00:06:01.947",
+      "text": "more damage. If"
+    },
+    {
+      "start_ms": 360973,
+      "end_ms": 362870,
+      "start": "00:06:00.973",
+      "end": "00:06:02.870",
+      "text": "we continue to play"
+    },
+    {
+      "start_ms": 361895,
+      "end_ms": 363843,
+      "start": "00:06:01.895",
+      "end": "00:06:03.843",
+      "text": "slowly, our soldier will"
+    },
+    {
+      "start_ms": 362868,
+      "end_ms": 364560,
+      "start": "00:06:02.868",
+      "end": "00:06:04.560",
+      "text": "eventually just"
+    },
+    {
+      "start_ms": 363586,
+      "end_ms": 365354,
+      "start": "00:06:03.586",
+      "end": "00:06:05.354",
+      "text": "find a killer on the"
+    },
+    {
+      "start_ms": 364380,
+      "end_ms": 366353,
+      "start": "00:06:04.380",
+      "end": "00:06:06.353",
+      "text": "rail, or our backline"
+    },
+    {
+      "start_ms": 365379,
+      "end_ms": 367224,
+      "start": "00:06:05.379",
+      "end": "00:06:07.224",
+      "text": "will surpass"
+    },
+    {
+      "start_ms": 366249,
+      "end_ms": 368044,
+      "start": "00:06:06.249",
+      "end": "00:06:08.044",
+      "text": "yours in resilience."
+    },
+    {
+      "start_ms": 367144,
+      "end_ms": 369283,
+      "start": "00:06:07.144",
+      "end": "00:06:09.283",
+      "text": "In this type of match, where"
+    },
+    {
+      "start_ms": 368312,
+      "end_ms": 370247,
+      "start": "00:06:08.312",
+      "end": "00:06:10.247",
+      "text": "you have a fast team"
+    },
+    {
+      "start_ms": 369277,
+      "end_ms": 371387,
+      "start": "00:06:09.277",
+      "end": "00:06:11.387",
+      "text": "playing against a slow"
+    },
+    {
+      "start_ms": 370416,
+      "end_ms": 372527,
+      "start": "00:06:10.416",
+      "end": "00:06:12.527",
+      "text": "team, many of these"
+    },
+    {
+      "start_ms": 371556,
+      "end_ms": 373286,
+      "start": "00:06:11.556",
+      "end": "00:06:13.286",
+      "text": "teams just"
+    },
+    {
+      "start_ms": 372316,
+      "end_ms": 374455,
+      "start": "00:06:12.316",
+      "end": "00:06:14.455",
+      "text": "ram head-on, like"
+    },
+    {
+      "start_ms": 373484,
+      "end_ms": 375303,
+      "start": "00:06:13.484",
+      "end": "00:06:15.303",
+      "text": "in every battle."
+    },
+    {
+      "start_ms": 374403,
+      "end_ms": 376434,
+      "start": "00:06:14.403",
+      "end": "00:06:16.434",
+      "text": "For example, these are two fights"
+    },
+    {
+      "start_ms": 375460,
+      "end_ms": 377492,
+      "start": "00:06:15.460",
+      "end": "00:06:17.492",
+      "text": "where they went through an"
+    },
+    {
+      "start_ms": 376518,
+      "end_ms": 378549,
+      "start": "00:06:16.518",
+      "end": "00:06:18.549",
+      "text": "obvious suffocating"
+    },
+    {
+      "start_ms": 377576,
+      "end_ms": 379758,
+      "start": "00:06:17.576",
+      "end": "00:06:19.758",
+      "text": "moment. How much space will"
+    },
+    {
+      "start_ms": 378787,
+      "end_ms": 380526,
+      "start": "00:06:18.787",
+      "end": "00:06:20.526",
+      "text": "they have to"
+    },
+    {
+      "start_ms": 379555,
+      "end_ms": 381471,
+      "start": "00:06:19.555",
+      "end": "00:06:21.471",
+      "text": "cover while"
+    },
+    {
+      "start_ms": 380501,
+      "end_ms": 382564,
+      "start": "00:06:20.501",
+      "end": "00:06:22.564",
+      "text": "being fired upon by Chronicle,"
+    },
+    {
+      "start_ms": 381593,
+      "end_ms": 383535,
+      "start": "00:06:21.593",
+      "end": "00:06:23.535",
+      "text": "Luke, and you? These teams"
+    },
+    {
+      "start_ms": 382556,
+      "end_ms": 383850,
+      "start": "00:06:22.556",
+      "end": "00:06:23.850",
+      "text": "have to"
+    },
+    {
+      "start_ms": 382871,
+      "end_ms": 384500,
+      "start": "00:06:22.871",
+      "end": "00:06:24.500",
+      "text": "use"
+    },
+    {
+      "start_ms": 383521,
+      "end_ms": 385130,
+      "start": "00:06:23.521",
+      "end": "00:06:25.130",
+      "text": "tools to"
+    },
+    {
+      "start_ms": 384151,
+      "end_ms": 385822,
+      "start": "00:06:24.151",
+      "end": "00:06:25.822",
+      "text": "determine the path,"
+    },
+    {
+      "start_ms": 384843,
+      "end_ms": 386515,
+      "start": "00:06:24.843",
+      "end": "00:06:26.515",
+      "text": "then you guys"
+    },
+    {
+      "start_ms": 385535,
+      "end_ms": 387354,
+      "start": "00:06:25.535",
+      "end": "00:06:27.354",
+      "text": "have to change"
+    },
+    {
+      "start_ms": 386375,
+      "end_ms": 387941,
+      "start": "00:06:26.375",
+      "end": "00:06:27.941",
+      "text": "your positions, and"
+    },
+    {
+      "start_ms": 386962,
+      "end_ms": 388676,
+      "start": "00:06:26.962",
+      "end": "00:06:28.676",
+      "text": "suddenly they can"
+    },
+    {
+      "start_ms": 387697,
+      "end_ms": 389410,
+      "start": "00:06:27.697",
+      "end": "00:06:29.410",
+      "text": "move quickly across the"
+    },
+    {
+      "start_ms": 388431,
+      "end_ms": 389914,
+      "start": "00:06:28.431",
+      "end": "00:06:29.914",
+      "text": "map towards you."
+    },
+    {
+      "start_ms": 389014,
+      "end_ms": 391157,
+      "start": "00:06:29.014",
+      "end": "00:06:31.157",
+      "text": "Their DPS and their kiris"
+    },
+    {
+      "start_ms": 390188,
+      "end_ms": 392023,
+      "start": "00:06:30.188",
+      "end": "00:06:32.023",
+      "text": "should just"
+    },
+    {
+      "start_ms": 391054,
+      "end_ms": 393043,
+      "start": "00:06:31.054",
+      "end": "00:06:33.043",
+      "text": "roam the map and"
+    },
+    {
+      "start_ms": 392074,
+      "end_ms": 394187,
+      "start": "00:06:32.074",
+      "end": "00:06:34.187",
+      "text": "be junglers like in"
+    },
+    {
+      "start_ms": 393218,
+      "end_ms": 395442,
+      "start": "00:06:33.218",
+      "end": "00:06:35.442",
+      "text": "League. Your Lucio ram"
+    },
+    {
+      "start_ms": 394471,
+      "end_ms": 396404,
+      "start": "00:06:34.471",
+      "end": "00:06:36.404",
+      "text": "seemed to just"
+    },
+    {
+      "start_ms": 395433,
+      "end_ms": 397337,
+      "start": "00:06:35.433",
+      "end": "00:06:37.337",
+      "text": "zip past the"
+    },
+    {
+      "start_ms": 396366,
+      "end_ms": 398553,
+      "start": "00:06:36.366",
+      "end": "00:06:38.553",
+      "text": "enemy battering ram. I don't"
+    },
+    {
+      "start_ms": 397584,
+      "end_ms": 399709,
+      "start": "00:06:37.584",
+      "end": "00:06:39.709",
+      "text": "think the only time"
+    },
+    {
+      "start_ms": 398740,
+      "end_ms": 400561,
+      "start": "00:06:38.740",
+      "end": "00:06:40.561",
+      "text": "I would want to"
+    },
+    {
+      "start_ms": 399591,
+      "end_ms": 401656,
+      "start": "00:06:39.591",
+      "end": "00:06:41.656",
+      "text": "make a necessary"
+    },
+    {
+      "start_ms": 400686,
+      "end_ms": 402721,
+      "start": "00:06:40.686",
+      "end": "00:06:42.721",
+      "text": "retreat or a sharp"
+    },
+    {
+      "start_ms": 401751,
+      "end_ms": 403907,
+      "start": "00:06:41.751",
+      "end": "00:06:43.907",
+      "text": "retreat is when they are"
+    },
+    {
+      "start_ms": 402937,
+      "end_ms": 404911,
+      "start": "00:06:42.937",
+      "end": "00:06:44.911",
+      "text": "rushing forward."
+    },
+    {
+      "start_ms": 404011,
+      "end_ms": 405426,
+      "start": "00:06:44.011",
+      "end": "00:06:45.426",
+      "text": "Hmm."
+    },
+    {
+      "start_ms": 404526,
+      "end_ms": 406303,
+      "start": "00:06:44.526",
+      "end": "00:06:46.303",
+      "text": "Or when they"
+    },
+    {
+      "start_ms": 405336,
+      "end_ms": 412984,
+      "start": "00:06:45.336",
+      "end": "00:06:52.984",
+      "text": "continue their ult. I mean"
+    },
+    {
+      "start_ms": 412024,
+      "end_ms": 414387,
+      "start": "00:06:52.024",
+      "end": "00:06:54.387",
+      "text": "honestly,"
+    },
+    {
+      "start_ms": 413427,
+      "end_ms": 416043,
+      "start": "00:06:53.427",
+      "end": "00:06:56.043",
+      "text": "yes. I mean, I I I"
+    },
+    {
+      "start_ms": 415086,
+      "end_ms": 416981,
+      "start": "00:06:55.086",
+      "end": "00:06:56.981",
+      "text": "play as"
+    },
+    {
+      "start_ms": 416081,
+      "end_ms": 418513,
+      "start": "00:06:56.081",
+      "end": "00:06:58.513",
+      "text": "long as you can. As"
+    },
+    {
+      "start_ms": 417548,
+      "end_ms": 419884,
+      "start": "00:06:57.548",
+      "end": "00:06:59.884",
+      "text": "soon as the ram starts"
+    },
+    {
+      "start_ms": 418920,
+      "end_ms": 421221,
+      "start": "00:06:58.920",
+      "end": "00:07:01.221",
+      "text": "coming at you, you just"
+    },
+    {
+      "start_ms": 421532,
+      "end_ms": 423896,
+      "start": "00:07:01.532",
+      "end": "00:07:03.896",
+      "text": "have to back off. You"
+    },
+    {
+      "start_ms": 422923,
+      "end_ms": 424490,
+      "start": "00:07:02.923",
+      "end": "00:07:04.490",
+      "text": "just have to"
+    },
+    {
+      "start_ms": 423517,
+      "end_ms": 425570,
+      "start": "00:07:03.517",
+      "end": "00:07:05.570",
+      "text": "try to waste"
+    },
+    {
+      "start_ms": 424597,
+      "end_ms": 426569,
+      "start": "00:07:04.597",
+      "end": "00:07:06.569",
+      "text": "as much of your"
+    },
+    {
+      "start_ms": 425596,
+      "end_ms": 426948,
+      "start": "00:07:05.596",
+      "end": "00:07:06.948",
+      "text": "enemy's time as possible."
+    },
+    {
+      "start_ms": 426048,
+      "end_ms": 428530,
+      "start": "00:07:06.048",
+      "end": "00:07:08.530",
+      "text": "Hmm. This is the most difficult"
+    },
+    {
+      "start_ms": 427564,
+      "end_ms": 429645,
+      "start": "00:07:07.564",
+      "end": "00:07:09.645",
+      "text": "part of the bait. It"
+    },
+    {
+      "start_ms": 428745,
+      "end_ms": 430689,
+      "start": "00:07:08.745",
+      "end": "00:07:10.689",
+      "text": "seems like anyone can"
+    },
+    {
+      "start_ms": 429718,
+      "end_ms": 431806,
+      "start": "00:07:09.718",
+      "end": "00:07:11.806",
+      "text": "sit at the end of the map,"
+    },
+    {
+      "start_ms": 430835,
+      "end_ms": 432637,
+      "start": "00:07:10.835",
+      "end": "00:07:12.637",
+      "text": "but can you"
+    },
+    {
+      "start_ms": 431637,
+      "end_ms": 433753,
+      "start": "00:07:11.637",
+      "end": "00:07:13.753",
+      "text": "really squeeze"
+    },
+    {
+      "start_ms": 432782,
+      "end_ms": 434813,
+      "start": "00:07:12.782",
+      "end": "00:07:14.813",
+      "text": "all the value out of"
+    },
+    {
+      "start_ms": 433841,
+      "end_ms": 435929,
+      "start": "00:07:13.841",
+      "end": "00:07:15.929",
+      "text": "what's there and"
+    },
+    {
+      "start_ms": 434958,
+      "end_ms": 436989,
+      "start": "00:07:14.958",
+      "end": "00:07:16.989",
+      "text": "then come back at the"
+    },
+    {
+      "start_ms": 436017,
+      "end_ms": 437877,
+      "start": "00:07:16.017",
+      "end": "00:07:17.877",
+      "text": "last second?"
+    },
+    {
+      "start_ms": 436977,
+      "end_ms": 439315,
+      "start": "00:07:16.977",
+      "end": "00:07:19.315",
+      "text": "Yes. It all comes down to"
+    },
+    {
+      "start_ms": 438347,
+      "end_ms": 440534,
+      "start": "00:07:18.347",
+      "end": "00:07:20.534",
+      "text": "greed. You...How"
+    },
+    {
+      "start_ms": 439562,
+      "end_ms": 441467,
+      "start": "00:07:19.562",
+      "end": "00:07:21.467",
+      "text": "greedy can you"
+    },
+    {
+      "start_ms": 440495,
+      "end_ms": 442222,
+      "start": "00:07:20.495",
+      "end": "00:07:22.222",
+      "text": "be? It's like they're"
+    },
+    {
+      "start_ms": 441244,
+      "end_ms": 443010,
+      "start": "00:07:21.244",
+      "end": "00:07:23.010",
+      "text": "trying something different,"
+    },
+    {
+      "start_ms": 442032,
+      "end_ms": 443448,
+      "start": "00:07:22.032",
+      "end": "00:07:23.448",
+      "text": "like...I"
+    },
+    {
+      "start_ms": 442470,
+      "end_ms": 444395,
+      "start": "00:07:22.470",
+      "end": "00:07:24.395",
+      "text": "like this. They"
+    },
+    {
+      "start_ms": 443395,
+      "end_ms": 445190,
+      "start": "00:07:23.395",
+      "end": "00:07:25.190",
+      "text": "...They say"
+    },
+    {
+      "start_ms": 444217,
+      "end_ms": 446172,
+      "start": "00:07:24.217",
+      "end": "00:07:26.172",
+      "text": "Lucian is playing you."
+    },
+    {
+      "start_ms": 445272,
+      "end_ms": 447233,
+      "start": "00:07:25.272",
+      "end": "00:07:27.233",
+      "text": "But it didn't work."
+    },
+    {
+      "start_ms": 446333,
+      "end_ms": 448191,
+      "start": "00:07:26.333",
+      "end": "00:07:28.191",
+      "text": "Like, okay."
+    },
+    {
+      "start_ms": 447291,
+      "end_ms": 448880,
+      "start": "00:07:27.291",
+      "end": "00:07:28.880",
+      "text": "Back to..."
+    },
+    {
+      "start_ms": 447880,
+      "end_ms": 449718,
+      "start": "00:07:27.880",
+      "end": "00:07:29.718",
+      "text": "At least it seems like they're"
+    },
+    {
+      "start_ms": 448741,
+      "end_ms": 450534,
+      "start": "00:07:28.741",
+      "end": "00:07:30.534",
+      "text": "trying other things."
+    },
+    {
+      "start_ms": 449634,
+      "end_ms": 451618,
+      "start": "00:07:29.634",
+      "end": "00:07:31.618",
+      "text": "Yes, yes. Like,"
+    },
+    {
+      "start_ms": 450647,
+      "end_ms": 452320,
+      "start": "00:07:30.647",
+      "end": "00:07:32.320",
+      "text": "go back to"
+    },
+    {
+      "start_ms": 451349,
+      "end_ms": 453315,
+      "start": "00:07:31.349",
+      "end": "00:07:33.315",
+      "text": "the settings, because you're"
+    },
+    {
+      "start_ms": 452344,
+      "end_ms": 454595,
+      "start": "00:07:32.344",
+      "end": "00:07:34.595",
+      "text": "right. That's probably the"
+    },
+    {
+      "start_ms": 453595,
+      "end_ms": 455631,
+      "start": "00:07:33.595",
+      "end": "00:07:35.631",
+      "text": "right idea, I"
+    },
+    {
+      "start_ms": 454663,
+      "end_ms": 456637,
+      "start": "00:07:34.663",
+      "end": "00:07:36.637",
+      "text": "think, from them, where they"
+    },
+    {
+      "start_ms": 455668,
+      "end_ms": 457673,
+      "start": "00:07:35.668",
+      "end": "00:07:37.673",
+      "text": "never drag"
+    },
+    {
+      "start_ms": 456705,
+      "end_ms": 458930,
+      "start": "00:07:36.705",
+      "end": "00:07:38.930",
+      "text": "Landon past Callan."
+    },
+    {
+      "start_ms": 458030,
+      "end_ms": 460863,
+      "start": "00:07:38.030",
+      "end": "00:07:40.863",
+      "text": "We have already learned this. And"
+    },
+    {
+      "start_ms": 459895,
+      "end_ms": 461796,
+      "start": "00:07:39.895",
+      "end": "00:07:41.796",
+      "text": "so now they're"
+    },
+    {
+      "start_ms": 460828,
+      "end_ms": 462826,
+      "start": "00:07:40.828",
+      "end": "00:07:42.826",
+      "text": "going to play"
+    },
+    {
+      "start_ms": 461858,
+      "end_ms": 463952,
+      "start": "00:07:41.858",
+      "end": "00:07:43.952",
+      "text": "a little slower and"
+    },
+    {
+      "start_ms": 462984,
+      "end_ms": 465078,
+      "start": "00:07:42.984",
+      "end": "00:07:45.078",
+      "text": "do two corners where"
+    },
+    {
+      "start_ms": 464110,
+      "end_ms": 466140,
+      "start": "00:07:44.110",
+      "end": "00:07:46.140",
+      "text": "Tracer can go"
+    },
+    {
+      "start_ms": 465172,
+      "end_ms": 467330,
+      "start": "00:07:45.172",
+      "end": "00:07:47.330",
+      "text": "left and Cavester and"
+    },
+    {
+      "start_ms": 466362,
+      "end_ms": 468550,
+      "start": "00:07:46.362",
+      "end": "00:07:48.550",
+      "text": "Fixer can go right. You"
+    },
+    {
+      "start_ms": 467581,
+      "end_ms": 469533,
+      "start": "00:07:47.581",
+      "end": "00:07:49.533",
+      "text": "also"
+    },
+    {
+      "start_ms": 468564,
+      "end_ms": 470669,
+      "start": "00:07:48.564",
+      "end": "00:07:50.669",
+      "text": "played this"
+    },
+    {
+      "start_ms": 469700,
+      "end_ms": 471867,
+      "start": "00:07:49.700",
+      "end": "00:07:51.867",
+      "text": "fight incredibly well, realizing what was"
+    },
+    {
+      "start_ms": 470898,
+      "end_ms": 472758,
+      "start": "00:07:50.898",
+      "end": "00:07:52.758",
+      "text": "happening and"
+    },
+    {
+      "start_ms": 471789,
+      "end_ms": 473956,
+      "start": "00:07:51.789",
+      "end": "00:07:53.956",
+      "text": "understanding that Callan would"
+    },
+    {
+      "start_ms": 472986,
+      "end_ms": 475092,
+      "start": "00:07:52.986",
+      "end": "00:07:55.092",
+      "text": "probably die or"
+    },
+    {
+      "start_ms": 474123,
+      "end_ms": 476167,
+      "start": "00:07:54.123",
+      "end": "00:07:56.167",
+      "text": "they would pounce on"
+    },
+    {
+      "start_ms": 475197,
+      "end_ms": 477365,
+      "start": "00:07:55.197",
+      "end": "00:07:57.365",
+      "text": "us from the back line."
+    },
+    {
+      "start_ms": 476829,
+      "end_ms": 478764,
+      "start": "00:07:56.829",
+      "end": "00:07:58.764",
+      "text": "At what point"
+    },
+    {
+      "start_ms": 477796,
+      "end_ms": 479667,
+      "start": "00:07:57.796",
+      "end": "00:07:59.667",
+      "text": "do you decide to go"
+    },
+    {
+      "start_ms": 478699,
+      "end_ms": 480956,
+      "start": "00:07:58.699",
+      "end": "00:08:00.956",
+      "text": "first, instead of"
+    },
+    {
+      "start_ms": 479956,
+      "end_ms": 482085,
+      "start": "00:07:59.956",
+      "end": "00:08:02.085",
+      "text": "speeding up, and"
+    },
+    {
+      "start_ms": 481117,
+      "end_ms": 483149,
+      "start": "00:08:01.117",
+      "end": "00:08:03.149",
+      "text": "break out of this"
+    },
+    {
+      "start_ms": 482181,
+      "end_ms": 483730,
+      "start": "00:08:02.181",
+      "end": "00:08:03.730",
+      "text": "space?"
+    },
+    {
+      "start_ms": 483541,
+      "end_ms": 485573,
+      "start": "00:08:03.541",
+      "end": "00:08:05.573",
+      "text": "As soon as we start to"
+    },
+    {
+      "start_ms": 484604,
+      "end_ms": 486424,
+      "start": "00:08:04.604",
+      "end": "00:08:06.424",
+      "text": "see their"
+    },
+    {
+      "start_ms": 485454,
+      "end_ms": 487366,
+      "start": "00:08:05.454",
+      "end": "00:08:07.366",
+      "text": "players on the right"
+    },
+    {
+      "start_ms": 486396,
+      "end_ms": 488581,
+      "start": "00:08:06.396",
+      "end": "00:08:08.581",
+      "text": "wing start to go,"
+    },
+    {
+      "start_ms": 487611,
+      "end_ms": 489796,
+      "start": "00:08:07.611",
+      "end": "00:08:09.796",
+      "text": "like: here, here,"
+    },
+    {
+      "start_ms": 488826,
+      "end_ms": 490798,
+      "start": "00:08:08.826",
+      "end": "00:08:10.798",
+      "text": "we see that their"
+    },
+    {
+      "start_ms": 489829,
+      "end_ms": 491953,
+      "start": "00:08:09.829",
+      "end": "00:08:11.953",
+      "text": "back line or their"
+    },
+    {
+      "start_ms": 490983,
+      "end_ms": 492895,
+      "start": "00:08:10.983",
+      "end": "00:08:12.895",
+      "text": "pressing is like"
+    },
+    {
+      "start_ms": 491925,
+      "end_ms": 493897,
+      "start": "00:08:11.925",
+      "end": "00:08:13.897",
+      "text": "coming"
+    },
+    {
+      "start_ms": 492927,
+      "end_ms": 494904,
+      "start": "00:08:12.927",
+      "end": "00:08:14.904",
+      "text": "very close to us. And I"
+    },
+    {
+      "start_ms": 493934,
+      "end_ms": 496027,
+      "start": "00:08:13.934",
+      "end": "00:08:16.027",
+      "text": "think especially because"
+    },
+    {
+      "start_ms": 495056,
+      "end_ms": 496706,
+      "start": "00:08:15.056",
+      "end": "00:08:16.706",
+      "text": "these guys"
+    },
+    {
+      "start_ms": 495736,
+      "end_ms": 497652,
+      "start": "00:08:15.736",
+      "end": "00:08:17.652",
+      "text": "are starting to make a"
+    },
+    {
+      "start_ms": 496681,
+      "end_ms": 498729,
+      "start": "00:08:16.681",
+      "end": "00:08:18.729",
+      "text": "turn. So I think this is where"
+    },
+    {
+      "start_ms": 497755,
+      "end_ms": 499790,
+      "start": "00:08:17.755",
+      "end": "00:08:19.790",
+      "text": "we decide"
+    },
+    {
+      "start_ms": 498790,
+      "end_ms": 500825,
+      "start": "00:08:18.790",
+      "end": "00:08:20.825",
+      "text": "that we need to"
+    },
+    {
+      "start_ms": 499852,
+      "end_ms": 501781,
+      "start": "00:08:19.852",
+      "end": "00:08:21.781",
+      "text": "do something, otherwise we'll"
+    },
+    {
+      "start_ms": 500807,
+      "end_ms": 502789,
+      "start": "00:08:20.807",
+      "end": "00:08:22.789",
+      "text": "just get surrounded and we'll"
+    },
+    {
+      "start_ms": 501816,
+      "end_ms": 503612,
+      "start": "00:08:21.816",
+      "end": "00:08:23.612",
+      "text": "probably just"
+    },
+    {
+      "start_ms": 502638,
+      "end_ms": 504501,
+      "start": "00:08:22.638",
+      "end": "00:08:24.501",
+      "text": "die. So we"
+    },
+    {
+      "start_ms": 503529,
+      "end_ms": 505343,
+      "start": "00:08:23.529",
+      "end": "00:08:25.343",
+      "text": "just need to"
+    },
+    {
+      "start_ms": 504371,
+      "end_ms": 506185,
+      "start": "00:08:24.371",
+      "end": "00:08:26.185",
+      "text": "do the magic and"
+    },
+    {
+      "start_ms": 505213,
+      "end_ms": 506999,
+      "start": "00:08:25.213",
+      "end": "00:08:26.999",
+      "text": "then \"Chronic"
+    },
+    {
+      "start_ms": 506027,
+      "end_ms": 507645,
+      "start": "00:08:26.027",
+      "end": "00:08:27.645",
+      "text": "Dissociation.\""
+    },
+    {
+      "start_ms": 506745,
+      "end_ms": 508293,
+      "start": "00:08:26.745",
+      "end": "00:08:28.293",
+      "text": "This is"
+    },
+    {
+      "start_ms": 507329,
+      "end_ms": 509244,
+      "start": "00:08:27.329",
+      "end": "00:08:29.244",
+      "text": "ending now."
+    },
+    {
+      "start_ms": 508375,
+      "end_ms": 510781,
+      "start": "00:08:28.375",
+      "end": "00:08:30.781",
+      "text": "A. Like on \"Rama\", you can"
+    },
+    {
+      "start_ms": 509817,
+      "end_ms": 511900,
+      "start": "00:08:29.817",
+      "end": "00:08:31.900",
+      "text": "just live very"
+    },
+    {
+      "start_ms": 510936,
+      "end_ms": 513044,
+      "start": "00:08:30.936",
+      "end": "00:08:33.044",
+      "text": "easily. You have a shield,"
+    },
+    {
+      "start_ms": 512071,
+      "end_ms": 514081,
+      "start": "00:08:32.071",
+      "end": "00:08:34.081",
+      "text": "you have a slow, and"
+    },
+    {
+      "start_ms": 513108,
+      "end_ms": 514959,
+      "start": "00:08:33.108",
+      "end": "00:08:34.959",
+      "text": "you have a form, and you"
+    },
+    {
+      "start_ms": 513985,
+      "end_ms": 515757,
+      "start": "00:08:33.985",
+      "end": "00:08:35.757",
+      "text": "like to"
+    },
+    {
+      "start_ms": 514783,
+      "end_ms": 516820,
+      "start": "00:08:34.783",
+      "end": "00:08:36.820",
+      "text": "block constantly, playing like this"
+    },
+    {
+      "start_ms": 515847,
+      "end_ms": 517857,
+      "start": "00:08:35.847",
+      "end": "00:08:37.857",
+      "text": ", like in a chastity style,"
+    },
+    {
+      "start_ms": 516884,
+      "end_ms": 518655,
+      "start": "00:08:36.884",
+      "end": "00:08:38.655",
+      "text": "where three of their DPS and"
+    },
+    {
+      "start_ms": 517682,
+      "end_ms": 519613,
+      "start": "00:08:37.682",
+      "end": "00:08:39.613",
+      "text": "Alicia are trying"
+    },
+    {
+      "start_ms": 518639,
+      "end_ms": 520490,
+      "start": "00:08:38.639",
+      "end": "00:08:40.490",
+      "text": "to find a hook on"
+    },
+    {
+      "start_ms": 519517,
+      "end_ms": 521448,
+      "start": "00:08:39.517",
+      "end": "00:08:41.448",
+      "text": "our backline."
+    },
+    {
+      "start_ms": 520548,
+      "end_ms": 522389,
+      "start": "00:08:40.548",
+      "end": "00:08:42.389",
+      "text": "Our Ram can just"
+    },
+    {
+      "start_ms": 521415,
+      "end_ms": 523389,
+      "start": "00:08:41.415",
+      "end": "00:08:43.389",
+      "text": "block their"
+    },
+    {
+      "start_ms": 522415,
+      "end_ms": 524388,
+      "start": "00:08:42.415",
+      "end": "00:08:44.388",
+      "text": "Ram and then literally"
+    },
+    {
+      "start_ms": 523414,
+      "end_ms": 524941,
+      "start": "00:08:43.414",
+      "end": "00:08:44.941",
+      "text": "live forever."
+    },
+    {
+      "start_ms": 524041,
+      "end_ms": 525415,
+      "start": "00:08:44.041",
+      "end": "00:08:45.415",
+      "text": "Hmm."
+    },
+    {
+      "start_ms": 524515,
+      "end_ms": 526223,
+      "start": "00:08:44.515",
+      "end": "00:08:46.223",
+      "text": "Just don't"
+    },
+    {
+      "start_ms": 525244,
+      "end_ms": 526848,
+      "start": "00:08:45.244",
+      "end": "00:08:46.848",
+      "text": "worry about"
+    },
+    {
+      "start_ms": 525868,
+      "end_ms": 527510,
+      "start": "00:08:45.868",
+      "end": "00:08:47.510",
+      "text": "him. All we"
+    },
+    {
+      "start_ms": 526526,
+      "end_ms": 528134,
+      "start": "00:08:46.526",
+      "end": "00:08:48.134",
+      "text": "need to do is"
+    },
+    {
+      "start_ms": 527150,
+      "end_ms": 528626,
+      "start": "00:08:47.150",
+      "end": "00:08:48.626",
+      "text": "worry about"
+    },
+    {
+      "start_ms": 527643,
+      "end_ms": 529267,
+      "start": "00:08:47.643",
+      "end": "00:08:49.267",
+      "text": "him once his"
+    },
+    {
+      "start_ms": 528283,
+      "end_ms": 529978,
+      "start": "00:08:48.283",
+      "end": "00:08:49.978",
+      "text": "form is over. And"
+    },
+    {
+      "start_ms": 528996,
+      "end_ms": 530471,
+      "start": "00:08:48.996",
+      "end": "00:08:50.471",
+      "text": "then he can"
+    },
+    {
+      "start_ms": 529489,
+      "end_ms": 530910,
+      "start": "00:08:49.489",
+      "end": "00:08:50.910",
+      "text": "come back,"
+    },
+    {
+      "start_ms": 529928,
+      "end_ms": 531403,
+      "start": "00:08:49.928",
+      "end": "00:08:51.403",
+      "text": "treat him,"
+    },
+    {
+      "start_ms": 530421,
+      "end_ms": 532042,
+      "start": "00:08:50.421",
+      "end": "00:08:52.042",
+      "text": "control him if"
+    },
+    {
+      "start_ms": 531060,
+      "end_ms": 532773,
+      "start": "00:08:51.060",
+      "end": "00:08:52.773",
+      "text": "necessary, but it's like how"
+    },
+    {
+      "start_ms": 531773,
+      "end_ms": 533467,
+      "start": "00:08:51.773",
+      "end": "00:08:53.467",
+      "text": "Geeca played last"
+    },
+    {
+      "start_ms": 532485,
+      "end_ms": 534516,
+      "start": "00:08:52.485",
+      "end": "00:08:54.516",
+      "text": "year. We call it the"
+    },
+    {
+      "start_ms": 533543,
+      "end_ms": 535611,
+      "start": "00:08:53.543",
+      "end": "00:08:55.611",
+      "text": "\"rage-chastity cuff.\""
+    },
+    {
+      "start_ms": 534711,
+      "end_ms": 537131,
+      "start": "00:08:54.711",
+      "end": "00:08:57.131",
+      "text": "Yes, yes. I know exactly what"
+    },
+    {
+      "start_ms": 536161,
+      "end_ms": 538197,
+      "start": "00:08:56.161",
+      "end": "00:08:58.197",
+      "text": "you're talking about."
+    },
+    {
+      "start_ms": 537297,
+      "end_ms": 538573,
+      "start": "00:08:57.297",
+      "end": "00:08:58.573",
+      "text": "Yes."
+    },
+    {
+      "start_ms": 537673,
+      "end_ms": 539559,
+      "start": "00:08:57.673",
+      "end": "00:08:59.559",
+      "text": "Yeah, he's like a healer,"
+    },
+    {
+      "start_ms": 538583,
+      "end_ms": 540494,
+      "start": "00:08:58.583",
+      "end": "00:09:00.494",
+      "text": "he switches to"
+    },
+    {
+      "start_ms": 539518,
+      "end_ms": 541381,
+      "start": "00:08:59.518",
+      "end": "00:09:01.381",
+      "text": "Hazard and then he"
+    },
+    {
+      "start_ms": 540405,
+      "end_ms": 542196,
+      "start": "00:09:00.405",
+      "end": "00:09:02.196",
+      "text": "blocks all the time and"
+    },
+    {
+      "start_ms": 541220,
+      "end_ms": 543035,
+      "start": "00:09:01.220",
+      "end": "00:09:03.035",
+      "text": "then his team"
+    },
+    {
+      "start_ms": 542059,
+      "end_ms": 543874,
+      "start": "00:09:02.059",
+      "end": "00:09:03.874",
+      "text": "just comes up and"
+    },
+    {
+      "start_ms": 542898,
+      "end_ms": 544378,
+      "start": "00:09:02.898",
+      "end": "00:09:04.378",
+      "text": "kills you."
+    },
+    {
+      "start_ms": 543478,
+      "end_ms": 545228,
+      "start": "00:09:03.478",
+      "end": "00:09:05.228",
+      "text": "That's a pretty good"
+    },
+    {
+      "start_ms": 544254,
+      "end_ms": 546219,
+      "start": "00:09:04.254",
+      "end": "00:09:06.219",
+      "text": "comparison, I think,"
+    },
+    {
+      "start_ms": 545246,
+      "end_ms": 547263,
+      "start": "00:09:05.246",
+      "end": "00:09:07.263",
+      "text": "for you guys, because you're"
+    },
+    {
+      "start_ms": 546290,
+      "end_ms": 548255,
+      "start": "00:09:06.290",
+      "end": "00:09:08.255",
+      "text": "all chaste until you"
+    },
+    {
+      "start_ms": 547281,
+      "end_ms": 549112,
+      "start": "00:09:07.281",
+      "end": "00:09:09.112",
+      "text": "see how they're"
+    },
+    {
+      "start_ms": 548139,
+      "end_ms": 550183,
+      "start": "00:09:08.139",
+      "end": "00:09:10.183",
+      "text": "going to handle"
+    },
+    {
+      "start_ms": 549210,
+      "end_ms": 551074,
+      "start": "00:09:09.210",
+      "end": "00:09:11.074",
+      "text": "your tank. And"
+    },
+    {
+      "start_ms": 550094,
+      "end_ms": 551844,
+      "start": "00:09:10.094",
+      "end": "00:09:11.844",
+      "text": "then, after"
+    },
+    {
+      "start_ms": 550865,
+      "end_ms": 552493,
+      "start": "00:09:10.865",
+      "end": "00:09:12.493",
+      "text": "you see something"
+    },
+    {
+      "start_ms": 551514,
+      "end_ms": 553284,
+      "start": "00:09:11.514",
+      "end": "00:09:13.284",
+      "text": "like, “Okay, they’re"
+    },
+    {
+      "start_ms": 552304,
+      "end_ms": 553953,
+      "start": "00:09:12.304",
+      "end": "00:09:13.953",
+      "text": "exchanging control with him"
+    },
+    {
+      "start_ms": 552973,
+      "end_ms": 554809,
+      "start": "00:09:12.973",
+      "end": "00:09:14.809",
+      "text": ". Now we"
+    },
+    {
+      "start_ms": 553832,
+      "end_ms": 555555,
+      "start": "00:09:13.832",
+      "end": "00:09:15.555",
+      "text": "know what we will"
+    },
+    {
+      "start_ms": 554579,
+      "end_ms": 556465,
+      "start": "00:09:14.579",
+      "end": "00:09:16.465",
+      "text": "do, we will do it"
+    },
+    {
+      "start_ms": 555465,
+      "end_ms": 557421,
+      "start": "00:09:15.465",
+      "end": "00:09:17.421",
+      "text": ".\" Or we see"
+    },
+    {
+      "start_ms": 556447,
+      "end_ms": 558259,
+      "start": "00:09:16.447",
+      "end": "00:09:18.259",
+      "text": "them trying to"
+    },
+    {
+      "start_ms": 557285,
+      "end_ms": 559388,
+      "start": "00:09:17.285",
+      "end": "00:09:19.388",
+      "text": "get around it. Now we're"
+    },
+    {
+      "start_ms": 558417,
+      "end_ms": 560412,
+      "start": "00:09:18.417",
+      "end": "00:09:20.412",
+      "text": "going to do"
+    },
+    {
+      "start_ms": 559441,
+      "end_ms": 561209,
+      "start": "00:09:19.441",
+      "end": "00:09:21.209",
+      "text": "something different, and you"
+    },
+    {
+      "start_ms": 560237,
+      "end_ms": 562176,
+      "start": "00:09:20.237",
+      "end": "00:09:22.176",
+      "text": "guys are so quick"
+    },
+    {
+      "start_ms": 561204,
+      "end_ms": 563257,
+      "start": "00:09:21.204",
+      "end": "00:09:23.257",
+      "text": "to react to any"
+    },
+    {
+      "start_ms": 562285,
+      "end_ms": 564167,
+      "start": "00:09:22.285",
+      "end": "00:09:24.167",
+      "text": "opportunity that it will"
+    },
+    {
+      "start_ms": 563196,
+      "end_ms": 565106,
+      "start": "00:09:23.196",
+      "end": "00:09:25.106",
+      "text": "never work"
+    },
+    {
+      "start_ms": 564134,
+      "end_ms": 566187,
+      "start": "00:09:24.134",
+      "end": "00:09:26.187",
+      "text": "against you unless you're"
+    },
+    {
+      "start_ms": 565215,
+      "end_ms": 566472,
+      "start": "00:09:25.215",
+      "end": "00:09:26.472",
+      "text": "Dawn."
+    },
+    {
+      "start_ms": 565572,
+      "end_ms": 567911,
+      "start": "00:09:25.572",
+      "end": "00:09:27.911",
+      "text": "Yes. This moment was"
+    },
+    {
+      "start_ms": 566945,
+      "end_ms": 569134,
+      "start": "00:09:26.945",
+      "end": "00:09:29.134",
+      "text": "very, very happy."
+    },
+    {
+      "start_ms": 568234,
+      "end_ms": 570256,
+      "start": "00:09:28.234",
+      "end": "00:09:30.256",
+      "text": "Luke's exchange got"
+    },
+    {
+      "start_ms": 569286,
+      "end_ms": 571188,
+      "start": "00:09:29.286",
+      "end": "00:09:31.188",
+      "text": "a bunch of damage with one"
+    },
+    {
+      "start_ms": 570218,
+      "end_ms": 572301,
+      "start": "00:09:30.218",
+      "end": "00:09:32.301",
+      "text": "touch, and then Luke"
+    },
+    {
+      "start_ms": 571331,
+      "end_ms": 573143,
+      "start": "00:09:31.331",
+      "end": "00:09:33.143",
+      "text": "comes back and"
+    },
+    {
+      "start_ms": 572173,
+      "end_ms": 574409,
+      "start": "00:09:32.173",
+      "end": "00:09:34.409",
+      "text": "gets another one. Pine"
+    },
+    {
+      "start_ms": 573442,
+      "end_ms": 575529,
+      "start": "00:09:33.442",
+      "end": "00:09:35.529",
+      "text": "kills Fixa before"
+    },
+    {
+      "start_ms": 574562,
+      "end_ms": 576848,
+      "start": "00:09:34.562",
+      "end": "00:09:36.848",
+      "text": "he is defeated."
+    },
+    {
+      "start_ms": 577592,
+      "end_ms": 579487,
+      "start": "00:09:37.592",
+      "end": "00:09:39.487",
+      "text": "Oh, Fixa. It's like"
+    },
+    {
+      "start_ms": 580630,
+      "end_ms": 582399,
+      "start": "00:09:40.630",
+      "end": "00:09:42.399",
+      "text": "we're just"
+    },
+    {
+      "start_ms": 581429,
+      "end_ms": 583466,
+      "start": "00:09:41.429",
+      "end": "00:09:43.466",
+      "text": "praying for a miracle at"
+    },
+    {
+      "start_ms": 582495,
+      "end_ms": 584088,
+      "start": "00:09:42.495",
+      "end": "00:09:44.088",
+      "text": "this point."
+    },
+    {
+      "start_ms": 583330,
+      "end_ms": 585458,
+      "start": "00:09:43.330",
+      "end": "00:09:45.458",
+      "text": "It would be, I"
+    },
+    {
+      "start_ms": 584494,
+      "end_ms": 586552,
+      "start": "00:09:44.494",
+      "end": "00:09:46.552",
+      "text": "mean, a random"
+    },
+    {
+      "start_ms": 585587,
+      "end_ms": 587681,
+      "start": "00:09:45.587",
+      "end": "00:09:47.681",
+      "text": "blind slip, and"
+    },
+    {
+      "start_ms": 586716,
+      "end_ms": 588810,
+      "start": "00:09:46.716",
+      "end": "00:09:48.810",
+      "text": "Fixa is just here. It's like"
+    },
+    {
+      "start_ms": 587910,
+      "end_ms": 589913,
+      "start": "00:09:47.910",
+      "end": "00:09:49.913",
+      "text": "you guys"
+    },
+    {
+      "start_ms": 588949,
+      "end_ms": 590952,
+      "start": "00:09:48.949",
+      "end": "00:09:50.952",
+      "text": "found him - it's"
+    },
+    {
+      "start_ms": 589988,
+      "end_ms": 593453,
+      "start": "00:09:49.988",
+      "end": "00:09:53.453",
+      "text": "crazy. This is the strange"
+    },
+    {
+      "start_ms": 592489,
+      "end_ms": 594358,
+      "start": "00:09:52.489",
+      "end": "00:09:54.358",
+      "text": "shield of Ramattra."
+    },
+    {
+      "start_ms": 593458,
+      "end_ms": 595416,
+      "start": "00:09:53.458",
+      "end": "00:09:55.416",
+      "text": "I think we were just really scared in this"
+    },
+    {
+      "start_ms": 594445,
+      "end_ms": 596403,
+      "start": "00:09:54.445",
+      "end": "00:09:56.403",
+      "text": "fight"
+    },
+    {
+      "start_ms": 595432,
+      "end_ms": 597509,
+      "start": "00:09:55.432",
+      "end": "00:09:57.509",
+      "text": ". I"
+    },
+    {
+      "start_ms": 596535,
+      "end_ms": 598376,
+      "start": "00:09:56.535",
+      "end": "00:09:58.376",
+      "text": "mean, we do"
+    },
+    {
+      "start_ms": 597402,
+      "end_ms": 599400,
+      "start": "00:09:57.402",
+      "end": "00:09:59.400",
+      "text": "n't have any ultimates right now, do we"
+    },
+    {
+      "start_ms": 598426,
+      "end_ms": 600411,
+      "start": "00:09:58.426",
+      "end": "00:10:00.411",
+      "text": "? I mean,"
+    },
+    {
+      "start_ms": 599433,
+      "end_ms": 601222,
+      "start": "00:09:59.433",
+      "end": "00:10:01.222",
+      "text": "Kellex also kind of"
+    },
+    {
+      "start_ms": 600244,
+      "end_ms": 601880,
+      "start": "00:10:00.244",
+      "end": "00:10:01.880",
+      "text": "stepped"
+    },
+    {
+      "start_ms": 600901,
+      "end_ms": 602143,
+      "start": "00:10:00.901",
+      "end": "00:10:02.143",
+      "text": "back a lot."
+    },
+    {
+      "start_ms": 601243,
+      "end_ms": 603180,
+      "start": "00:10:01.243",
+      "end": "00:10:03.180",
+      "text": "Yes, this moment is one of the"
+    },
+    {
+      "start_ms": 602204,
+      "end_ms": 604118,
+      "start": "00:10:02.204",
+      "end": "00:10:04.118",
+      "text": "most uncomfortable, when"
+    },
+    {
+      "start_ms": 603142,
+      "end_ms": 604743,
+      "start": "00:10:03.142",
+      "end": "00:10:04.743",
+      "text": "your Ramattra"
+    },
+    {
+      "start_ms": 603767,
+      "end_ms": 605705,
+      "start": "00:10:03.767",
+      "end": "00:10:05.705",
+      "text": "puts a choke on you, because"
+    },
+    {
+      "start_ms": 604729,
+      "end_ms": 606523,
+      "start": "00:10:04.729",
+      "end": "00:10:06.523",
+      "text": "this choke is terrible."
+    },
+    {
+      "start_ms": 605623,
+      "end_ms": 607332,
+      "start": "00:10:05.623",
+      "end": "00:10:07.332",
+      "text": "Like they can"
+    },
+    {
+      "start_ms": 606355,
+      "end_ms": 608277,
+      "start": "00:10:06.355",
+      "end": "00:10:08.277",
+      "text": "just take all the corners"
+    },
+    {
+      "start_ms": 607301,
+      "end_ms": 608656,
+      "start": "00:10:07.301",
+      "end": "00:10:08.656",
+      "text": "around."
+    },
+    {
+      "start_ms": 607756,
+      "end_ms": 609625,
+      "start": "00:10:07.756",
+      "end": "00:10:09.625",
+      "text": "Yes, that's right."
+    },
+    {
+      "start_ms": 608725,
+      "end_ms": 610296,
+      "start": "00:10:08.725",
+      "end": "00:10:10.296",
+      "text": "Like they can"
+    },
+    {
+      "start_ms": 609315,
+      "end_ms": 610905,
+      "start": "00:10:09.315",
+      "end": "00:10:10.905",
+      "text": "take here and there and"
+    },
+    {
+      "start_ms": 609924,
+      "end_ms": 611362,
+      "start": "00:10:09.924",
+      "end": "00:10:11.362",
+      "text": "then just"
+    },
+    {
+      "start_ms": 610382,
+      "end_ms": 612105,
+      "start": "00:10:10.382",
+      "end": "00:10:12.105",
+      "text": "push you out, or"
+    },
+    {
+      "start_ms": 611124,
+      "end_ms": 612753,
+      "start": "00:10:11.124",
+      "end": "00:10:12.753",
+      "text": "push you out with a shield and"
+    },
+    {
+      "start_ms": 611772,
+      "end_ms": 613362,
+      "start": "00:10:11.772",
+      "end": "00:10:13.362",
+      "text": "then you still"
+    },
+    {
+      "start_ms": 612381,
+      "end_ms": 614010,
+      "start": "00:10:12.381",
+      "end": "00:10:14.010",
+      "text": "want to go back"
+    },
+    {
+      "start_ms": 613029,
+      "end_ms": 614789,
+      "start": "00:10:13.029",
+      "end": "00:10:14.789",
+      "text": ". Even"
+    },
+    {
+      "start_ms": 613889,
+      "end_ms": 615893,
+      "start": "00:10:13.889",
+      "end": "00:10:15.893",
+      "text": "if it's hard, I think"
+    },
+    {
+      "start_ms": 614893,
+      "end_ms": 616846,
+      "start": "00:10:14.893",
+      "end": "00:10:16.846",
+      "text": "you should still"
+    },
+    {
+      "start_ms": 615871,
+      "end_ms": 617824,
+      "start": "00:10:15.871",
+      "end": "00:10:17.824",
+      "text": "start a little closer"
+    },
+    {
+      "start_ms": 616850,
+      "end_ms": 618005,
+      "start": "00:10:16.850",
+      "end": "00:10:18.005",
+      "text": "so"
+    },
+    {
+      "start_ms": 617105,
+      "end_ms": 618996,
+      "start": "00:10:17.105",
+      "end": "00:10:18.996",
+      "text": "they can't come up"
+    },
+    {
+      "start_ms": 618019,
+      "end_ms": 619431,
+      "start": "00:10:18.019",
+      "end": "00:10:19.431",
+      "text": "literally for"
+    },
+    {
+      "start_ms": 618454,
+      "end_ms": 619980,
+      "start": "00:10:18.454",
+      "end": "00:10:19.980",
+      "text": "free."
+    },
+    {
+      "start_ms": 619080,
+      "end_ms": 620961,
+      "start": "00:10:19.080",
+      "end": "00:10:20.961",
+      "text": "Okay, we're trying to"
+    },
+    {
+      "start_ms": 619983,
+      "end_ms": 621842,
+      "start": "00:10:19.983",
+      "end": "00:10:21.842",
+      "text": "play slow for OC"
+    },
+    {
+      "start_ms": 620865,
+      "end_ms": 622746,
+      "start": "00:10:20.865",
+      "end": "00:10:22.746",
+      "text": "because we know they"
+    },
+    {
+      "start_ms": 621769,
+      "end_ms": 623402,
+      "start": "00:10:21.769",
+      "end": "00:10:23.402",
+      "text": "won anyway."
+    },
+    {
+      "start_ms": 622502,
+      "end_ms": 624490,
+      "start": "00:10:22.502",
+      "end": "00:10:24.490",
+      "text": "Run OC,"
+    },
+    {
+      "start_ms": 623590,
+      "end_ms": 625206,
+      "start": "00:10:23.590",
+      "end": "00:10:25.206",
+      "text": "start OC, and then"
+    },
+    {
+      "start_ms": 624226,
+      "end_ms": 626003,
+      "start": "00:10:24.226",
+      "end": "00:10:26.003",
+      "text": "when they win,"
+    },
+    {
+      "start_ms": 625022,
+      "end_ms": 626619,
+      "start": "00:10:25.022",
+      "end": "00:10:26.619",
+      "text": "we just"
+    },
+    {
+      "start_ms": 625639,
+      "end_ms": 627018,
+      "start": "00:10:25.639",
+      "end": "00:10:27.018",
+      "text": "cut back a lot."
+    },
+    {
+      "start_ms": 626118,
+      "end_ms": 628008,
+      "start": "00:10:26.118",
+      "end": "00:10:28.008",
+      "text": "Yes, I mean,"
+    },
+    {
+      "start_ms": 627031,
+      "end_ms": 628831,
+      "start": "00:10:27.031",
+      "end": "00:10:28.831",
+      "text": "at this point it will be"
+    },
+    {
+      "start_ms": 627854,
+      "end_ms": 629722,
+      "start": "00:10:27.854",
+      "end": "00:10:29.722",
+      "text": "impossible to escape."
+    },
+    {
+      "start_ms": 628822,
+      "end_ms": 630438,
+      "start": "00:10:28.822",
+      "end": "00:10:30.438",
+      "text": "You can play"
+    },
+    {
+      "start_ms": 629460,
+      "end_ms": 631142,
+      "start": "00:10:29.460",
+      "end": "00:10:31.142",
+      "text": "slow as much as you"
+    },
+    {
+      "start_ms": 630164,
+      "end_ms": 631692,
+      "start": "00:10:30.164",
+      "end": "00:10:31.692",
+      "text": "want, but"
+    },
+    {
+      "start_ms": 630714,
+      "end_ms": 632484,
+      "start": "00:10:30.714",
+      "end": "00:10:32.484",
+      "text": "the distance they"
+    },
+    {
+      "start_ms": 631506,
+      "end_ms": 633342,
+      "start": "00:10:31.506",
+      "end": "00:10:33.342",
+      "text": "cover before the fight is a"
+    },
+    {
+      "start_ms": 632364,
+      "end_ms": 634178,
+      "start": "00:10:32.364",
+      "end": "00:10:34.178",
+      "text": "huge"
+    },
+    {
+      "start_ms": 633200,
+      "end_ms": 635036,
+      "start": "00:10:33.200",
+      "end": "00:10:35.036",
+      "text": "difference factor compared"
+    },
+    {
+      "start_ms": 634058,
+      "end_ms": 635874,
+      "start": "00:10:34.058",
+      "end": "00:10:35.874",
+      "text": "to other fights. You"
+    },
+    {
+      "start_ms": 634898,
+      "end_ms": 636704,
+      "start": "00:10:34.898",
+      "end": "00:10:36.704",
+      "text": "guys"
+    },
+    {
+      "start_ms": 635729,
+      "end_ms": 637584,
+      "start": "00:10:35.729",
+      "end": "00:10:37.584",
+      "text": "can't slow down"
+    },
+    {
+      "start_ms": 636609,
+      "end_ms": 638439,
+      "start": "00:10:36.609",
+      "end": "00:10:38.439",
+      "text": "their back"
+    },
+    {
+      "start_ms": 637464,
+      "end_ms": 639124,
+      "start": "00:10:37.464",
+      "end": "00:10:39.124",
+      "text": "line at all on the way."
+    },
+    {
+      "start_ms": 638224,
+      "end_ms": 639793,
+      "start": "00:10:38.224",
+      "end": "00:10:39.793",
+      "text": "Maybe"
+    },
+    {
+      "start_ms": 638893,
+      "end_ms": 640651,
+      "start": "00:10:38.893",
+      "end": "00:10:40.651",
+      "text": "we could have played"
+    },
+    {
+      "start_ms": 639677,
+      "end_ms": 641697,
+      "start": "00:10:39.677",
+      "end": "00:10:41.697",
+      "text": "differently, knowing that it would be"
+    },
+    {
+      "start_ms": 640723,
+      "end_ms": 642455,
+      "start": "00:10:40.723",
+      "end": "00:10:42.455",
+      "text": "very difficult for us to"
+    },
+    {
+      "start_ms": 641481,
+      "end_ms": 643135,
+      "start": "00:10:41.481",
+      "end": "00:10:43.135",
+      "text": "stay on"
+    },
+    {
+      "start_ms": 642161,
+      "end_ms": 644050,
+      "start": "00:10:42.161",
+      "end": "00:10:44.050",
+      "text": "top and keep"
+    },
+    {
+      "start_ms": 643076,
+      "end_ms": 645096,
+      "start": "00:10:43.076",
+      "end": "00:10:45.096",
+      "text": "their ramp from"
+    },
+    {
+      "start_ms": 644122,
+      "end_ms": 645959,
+      "start": "00:10:44.122",
+      "end": "00:10:45.959",
+      "text": "going up and"
+    },
+    {
+      "start_ms": 644985,
+      "end_ms": 646979,
+      "start": "00:10:44.985",
+      "end": "00:10:46.979",
+      "text": "blocking your"
+    },
+    {
+      "start_ms": 646005,
+      "end_ms": 647685,
+      "start": "00:10:46.005",
+      "end": "00:10:47.685",
+      "text": "backline."
+    },
+    {
+      "start_ms": 646785,
+      "end_ms": 648592,
+      "start": "00:10:46.785",
+      "end": "00:10:48.592",
+      "text": "Maybe we could"
+    },
+    {
+      "start_ms": 647615,
+      "end_ms": 649541,
+      "start": "00:10:47.615",
+      "end": "00:10:49.541",
+      "text": "just start like this"
+    },
+    {
+      "start_ms": 648541,
+      "end_ms": 650301,
+      "start": "00:10:48.541",
+      "end": "00:10:50.301",
+      "text": ": or start here and"
+    },
+    {
+      "start_ms": 649325,
+      "end_ms": 650871,
+      "start": "00:10:49.325",
+      "end": "00:10:50.871",
+      "text": "then just"
+    },
+    {
+      "start_ms": 649895,
+      "end_ms": 651488,
+      "start": "00:10:49.895",
+      "end": "00:10:51.488",
+      "text": "stop in the"
+    },
+    {
+      "start_ms": 650512,
+      "end_ms": 651916,
+      "start": "00:10:50.512",
+      "end": "00:10:51.916",
+      "text": "middle."
+    },
+    {
+      "start_ms": 651016,
+      "end_ms": 652993,
+      "start": "00:10:51.016",
+      "end": "00:10:52.993",
+      "text": "I think you can"
+    },
+    {
+      "start_ms": 652023,
+      "end_ms": 654031,
+      "start": "00:10:52.023",
+      "end": "00:10:54.031",
+      "text": "play a CD exchange on the"
+    },
+    {
+      "start_ms": 653061,
+      "end_ms": 655160,
+      "start": "00:10:53.061",
+      "end": "00:10:55.160",
+      "text": "ramp on the bridge when"
+    },
+    {
+      "start_ms": 654191,
+      "end_ms": 656260,
+      "start": "00:10:54.191",
+      "end": "00:10:56.260",
+      "text": "they come up, but"
+    },
+    {
+      "start_ms": 655290,
+      "end_ms": 657115,
+      "start": "00:10:55.290",
+      "end": "00:10:57.115",
+      "text": "you'll have to"
+    },
+    {
+      "start_ms": 656145,
+      "end_ms": 658275,
+      "start": "00:10:56.145",
+      "end": "00:10:58.275",
+      "text": "use"
+    },
+    {
+      "start_ms": 657305,
+      "end_ms": 659221,
+      "start": "00:10:57.305",
+      "end": "00:10:59.221",
+      "text": "Sanjin and Luke's move"
+    },
+    {
+      "start_ms": 658252,
+      "end_ms": 660168,
+      "start": "00:10:58.252",
+      "end": "00:11:00.168",
+      "text": "earlier, much"
+    },
+    {
+      "start_ms": 659198,
+      "end_ms": 661237,
+      "start": "00:10:59.198",
+      "end": "00:11:01.237",
+      "text": "earlier in this fight."
+    },
+    {
+      "start_ms": 660337,
+      "end_ms": 662704,
+      "start": "00:11:00.337",
+      "end": "00:11:02.704",
+      "text": "Yeah, maybe on the outside or"
+    },
+    {
+      "start_ms": 661739,
+      "end_ms": 663371,
+      "start": "00:11:01.739",
+      "end": "00:11:03.371",
+      "text": "something."
+    },
+    {
+      "start_ms": 662471,
+      "end_ms": 663748,
+      "start": "00:11:02.471",
+      "end": "00:11:03.748",
+      "text": "Yes."
+    },
+    {
+      "start_ms": 662848,
+      "end_ms": 664726,
+      "start": "00:11:02.848",
+      "end": "00:11:04.726",
+      "text": "Maybe not on the outside, but"
+    },
+    {
+      "start_ms": 663748,
+      "end_ms": 665582,
+      "start": "00:11:03.748",
+      "end": "00:11:05.582",
+      "text": "once their"
+    },
+    {
+      "start_ms": 664604,
+      "end_ms": 666415,
+      "start": "00:11:04.604",
+      "end": "00:11:06.415",
+      "text": "backline starts to"
+    },
+    {
+      "start_ms": 665438,
+      "end_ms": 667271,
+      "start": "00:11:05.438",
+      "end": "00:11:07.271",
+      "text": "rise here, we"
+    },
+    {
+      "start_ms": 666294,
+      "end_ms": 667879,
+      "start": "00:11:06.294",
+      "end": "00:11:07.879",
+      "text": "could look for a"
+    },
+    {
+      "start_ms": 666902,
+      "end_ms": 668668,
+      "start": "00:11:06.902",
+      "end": "00:11:08.668",
+      "text": "turn, force"
+    },
+    {
+      "start_ms": 667690,
+      "end_ms": 669501,
+      "start": "00:11:07.690",
+      "end": "00:11:09.501",
+      "text": "Susa, and then just"
+    },
+    {
+      "start_ms": 668524,
+      "end_ms": 669727,
+      "start": "00:11:08.524",
+      "end": "00:11:09.727",
+      "text": "live."
+    },
+    {
+      "start_ms": 668827,
+      "end_ms": 671038,
+      "start": "00:11:08.827",
+      "end": "00:11:11.038",
+      "text": "Yes. This is the most difficult"
+    },
+    {
+      "start_ms": 670066,
+      "end_ms": 671784,
+      "start": "00:11:10.066",
+      "end": "00:11:11.784",
+      "text": "part of this"
+    },
+    {
+      "start_ms": 670813,
+      "end_ms": 673040,
+      "start": "00:11:10.813",
+      "end": "00:11:13.040",
+      "text": "match. So far, everything has"
+    },
+    {
+      "start_ms": 672072,
+      "end_ms": 674353,
+      "start": "00:11:12.072",
+      "end": "00:11:14.353",
+      "text": "been pretty easy. Like"
+    },
+    {
+      "start_ms": 673384,
+      "end_ms": 675232,
+      "start": "00:11:13.384",
+      "end": "00:11:15.232",
+      "text": "you said, their"
+    },
+    {
+      "start_ms": 674263,
+      "end_ms": 676048,
+      "start": "00:11:14.263",
+      "end": "00:11:16.048",
+      "text": "combination here is"
+    },
+    {
+      "start_ms": 675079,
+      "end_ms": 677177,
+      "start": "00:11:15.079",
+      "end": "00:11:17.177",
+      "text": "really tricky because"
+    },
+    {
+      "start_ms": 676209,
+      "end_ms": 678338,
+      "start": "00:11:16.209",
+      "end": "00:11:18.338",
+      "text": "the choke on the first"
+    },
+    {
+      "start_ms": 677370,
+      "end_ms": 679029,
+      "start": "00:11:17.370",
+      "end": "00:11:19.029",
+      "text": "two points is"
+    },
+    {
+      "start_ms": 678060,
+      "end_ms": 680190,
+      "start": "00:11:18.060",
+      "end": "00:11:20.190",
+      "text": "so easy for the"
+    },
+    {
+      "start_ms": 679221,
+      "end_ms": 681414,
+      "start": "00:11:19.221",
+      "end": "00:11:21.414",
+      "text": "ram that he just"
+    },
+    {
+      "start_ms": 680445,
+      "end_ms": 682072,
+      "start": "00:11:20.445",
+      "end": "00:11:22.072",
+      "text": "sat there and"
+    },
+    {
+      "start_ms": 681104,
+      "end_ms": 683108,
+      "start": "00:11:21.104",
+      "end": "00:11:23.108",
+      "text": "landed, if he"
+    },
+    {
+      "start_ms": 682139,
+      "end_ms": 684269,
+      "start": "00:11:22.139",
+      "end": "00:11:24.269",
+      "text": "wants to come up, he has to"
+    },
+    {
+      "start_ms": 683300,
+      "end_ms": 685524,
+      "start": "00:11:23.300",
+      "end": "00:11:25.524",
+      "text": "just walk into the ram"
+    },
+    {
+      "start_ms": 684556,
+      "end_ms": 687994,
+      "start": "00:11:24.556",
+      "end": "00:11:27.994",
+      "text": "and die. And this is the first"
+    },
+    {
+      "start_ms": 687029,
+      "end_ms": 689290,
+      "start": "00:11:27.029",
+      "end": "00:11:29.290",
+      "text": "moment where it is much"
+    },
+    {
+      "start_ms": 688325,
+      "end_ms": 690892,
+      "start": "00:11:28.325",
+      "end": "00:11:30.892",
+      "text": "easier for them than for you. And"
+    },
+    {
+      "start_ms": 689920,
+      "end_ms": 691441,
+      "start": "00:11:29.920",
+      "end": "00:11:31.441",
+      "text": "now you'll"
+    },
+    {
+      "start_ms": 690469,
+      "end_ms": 692018,
+      "start": "00:11:30.469",
+      "end": "00:11:32.018",
+      "text": "have to"
+    },
+    {
+      "start_ms": 691045,
+      "end_ms": 693115,
+      "start": "00:11:31.045",
+      "end": "00:11:33.115",
+      "text": "use your"
+    },
+    {
+      "start_ms": 692143,
+      "end_ms": 694213,
+      "start": "00:11:32.143",
+      "end": "00:11:34.213",
+      "text": "angle, which you have"
+    },
+    {
+      "start_ms": 693241,
+      "end_ms": 694762,
+      "start": "00:11:33.241",
+      "end": "00:11:34.762",
+      "text": "n't"
+    },
+    {
+      "start_ms": 693789,
+      "end_ms": 695723,
+      "start": "00:11:33.789",
+      "end": "00:11:35.723",
+      "text": "had to do at all yet. The"
+    },
+    {
+      "start_ms": 694823,
+      "end_ms": 696824,
+      "start": "00:11:34.823",
+      "end": "00:11:36.824",
+      "text": "next fight should"
+    },
+    {
+      "start_ms": 695855,
+      "end_ms": 697885,
+      "start": "00:11:35.855",
+      "end": "00:11:37.885",
+      "text": "be easier. But I"
+    },
+    {
+      "start_ms": 696912,
+      "end_ms": 698880,
+      "start": "00:11:36.912",
+      "end": "00:11:38.880",
+      "text": "think they were"
+    },
+    {
+      "start_ms": 697907,
+      "end_ms": 699899,
+      "start": "00:11:37.907",
+      "end": "00:11:39.899",
+      "text": "trolling it too. Actually"
+    },
+    {
+      "start_ms": 698899,
+      "end_ms": 700646,
+      "start": "00:11:38.899",
+      "end": "00:11:40.646",
+      "text": ", I'm sure they'll"
+    },
+    {
+      "start_ms": 699666,
+      "end_ms": 701334,
+      "start": "00:11:39.666",
+      "end": "00:11:41.334",
+      "text": "start earlier, which is"
+    },
+    {
+      "start_ms": 700354,
+      "end_ms": 702082,
+      "start": "00:11:40.354",
+      "end": "00:11:42.082",
+      "text": "probably what they should have"
+    },
+    {
+      "start_ms": 701101,
+      "end_ms": 702691,
+      "start": "00:11:41.101",
+      "end": "00:11:42.691",
+      "text": "done at their"
+    },
+    {
+      "start_ms": 701711,
+      "end_ms": 703223,
+      "start": "00:11:41.711",
+      "end": "00:11:43.223",
+      "text": "reunion, but"
+    },
+    {
+      "start_ms": 702323,
+      "end_ms": 703635,
+      "start": "00:11:42.323",
+      "end": "00:11:43.635",
+      "text": "yes, I"
+    },
+    {
+      "start_ms": 702735,
+      "end_ms": 705267,
+      "start": "00:11:42.735",
+      "end": "00:11:45.267",
+      "text": "miss my Souza."
+    },
+    {
+      "start_ms": 704367,
+      "end_ms": 706537,
+      "start": "00:11:44.367",
+      "end": "00:11:46.537",
+      "text": "He will die anyway."
+    },
+    {
+      "start_ms": 705637,
+      "end_ms": 707637,
+      "start": "00:11:45.637",
+      "end": "00:11:47.637",
+      "text": "Yeah, I mean,"
+    },
+    {
+      "start_ms": 706662,
+      "end_ms": 708457,
+      "start": "00:11:46.662",
+      "end": "00:11:48.457",
+      "text": "it's kind of"
+    },
+    {
+      "start_ms": 707483,
+      "end_ms": 709227,
+      "start": "00:11:47.483",
+      "end": "00:11:49.227",
+      "text": "weird this early, isn't it?"
+    },
+    {
+      "start_ms": 708327,
+      "end_ms": 710158,
+      "start": "00:11:48.327",
+      "end": "00:11:50.158",
+      "text": "They are not quite"
+    },
+    {
+      "start_ms": 709184,
+      "end_ms": 711177,
+      "start": "00:11:49.184",
+      "end": "00:11:51.177",
+      "text": "ready to combine yet. The"
+    },
+    {
+      "start_ms": 710277,
+      "end_ms": 712252,
+      "start": "00:11:50.277",
+      "end": "00:11:52.252",
+      "text": "only person who"
+    },
+    {
+      "start_ms": 711284,
+      "end_ms": 713448,
+      "start": "00:11:51.284",
+      "end": "00:11:53.448",
+      "text": "started the combination is"
+    },
+    {
+      "start_ms": 712479,
+      "end_ms": 713889,
+      "start": "00:11:52.479",
+      "end": "00:11:53.889",
+      "text": "Custer."
+    },
+    {
+      "start_ms": 712989,
+      "end_ms": 714911,
+      "start": "00:11:52.989",
+      "end": "00:11:54.911",
+      "text": "The way you guys"
+    },
+    {
+      "start_ms": 713942,
+      "end_ms": 715527,
+      "start": "00:11:53.942",
+      "end": "00:11:55.527",
+      "text": "do this"
+    },
+    {
+      "start_ms": 714557,
+      "end_ms": 716480,
+      "start": "00:11:54.557",
+      "end": "00:11:56.480",
+      "text": "replay, you"
+    },
+    {
+      "start_ms": 715511,
+      "end_ms": 717065,
+      "start": "00:11:55.511",
+      "end": "00:11:57.065",
+      "text": "start the"
+    },
+    {
+      "start_ms": 716096,
+      "end_ms": 718234,
+      "start": "00:11:56.096",
+      "end": "00:11:58.234",
+      "text": "replay from the corner"
+    },
+    {
+      "start_ms": 717265,
+      "end_ms": 719403,
+      "start": "00:11:57.265",
+      "end": "00:11:59.403",
+      "text": "before you go out to the"
+    },
+    {
+      "start_ms": 718434,
+      "end_ms": 720603,
+      "start": "00:11:58.434",
+      "end": "00:12:00.603",
+      "text": "baseline and so"
+    },
+    {
+      "start_ms": 719633,
+      "end_ms": 721802,
+      "start": "00:11:59.633",
+      "end": "00:12:01.802",
+      "text": "you scout everyone and"
+    },
+    {
+      "start_ms": 720833,
+      "end_ms": 722479,
+      "start": "00:12:00.833",
+      "end": "00:12:02.479",
+      "text": "also Seiko"
+    },
+    {
+      "start_ms": 721510,
+      "end_ms": 723586,
+      "start": "00:12:01.510",
+      "end": "00:12:03.586",
+      "text": "gets scared. The early"
+    },
+    {
+      "start_ms": 722619,
+      "end_ms": 724533,
+      "start": "00:12:02.619",
+      "end": "00:12:04.533",
+      "text": "strike doesn't work at all"
+    },
+    {
+      "start_ms": 723565,
+      "end_ms": 725675,
+      "start": "00:12:03.565",
+      "end": "00:12:05.675",
+      "text": ". The rematch"
+    },
+    {
+      "start_ms": 724675,
+      "end_ms": 726505,
+      "start": "00:12:04.675",
+      "end": "00:12:06.505",
+      "text": "is kind of the"
+    },
+    {
+      "start_ms": 725530,
+      "end_ms": 727287,
+      "start": "00:12:05.530",
+      "end": "00:12:07.287",
+      "text": "tricky part of"
+    },
+    {
+      "start_ms": 726311,
+      "end_ms": 728263,
+      "start": "00:12:06.311",
+      "end": "00:12:08.263",
+      "text": "this match, you know"
+    },
+    {
+      "start_ms": 727263,
+      "end_ms": 729142,
+      "start": "00:12:07.263",
+      "end": "00:12:09.142",
+      "text": ", where you and Kronik don't"
+    },
+    {
+      "start_ms": 728166,
+      "end_ms": 729997,
+      "start": "00:12:08.166",
+      "end": "00:12:09.997",
+      "text": "start with all"
+    },
+    {
+      "start_ms": 729021,
+      "end_ms": 730705,
+      "start": "00:12:09.021",
+      "end": "00:12:10.705",
+      "text": "this space."
+    },
+    {
+      "start_ms": 729805,
+      "end_ms": 731822,
+      "start": "00:12:09.805",
+      "end": "00:12:11.822",
+      "text": "And here we were all"
+    },
+    {
+      "start_ms": 730853,
+      "end_ms": 733313,
+      "start": "00:12:10.853",
+      "end": "00:12:13.313",
+      "text": "attacked by rage. We've"
+    },
+    {
+      "start_ms": 732339,
+      "end_ms": 734283,
+      "start": "00:12:12.339",
+      "end": "00:12:14.283",
+      "text": "all been attacked by rage,"
+    },
+    {
+      "start_ms": 733309,
+      "end_ms": 735069,
+      "start": "00:12:13.309",
+      "end": "00:12:15.069",
+      "text": "attacked by rage in the"
+    },
+    {
+      "start_ms": 734095,
+      "end_ms": 736118,
+      "start": "00:12:14.095",
+      "end": "00:12:16.118",
+      "text": "rush mirror, just"
+    },
+    {
+      "start_ms": 735144,
+      "end_ms": 736695,
+      "start": "00:12:15.144",
+      "end": "00:12:16.695",
+      "text": "shooting at the"
+    },
+    {
+      "start_ms": 735721,
+      "end_ms": 737586,
+      "start": "00:12:15.721",
+      "end": "00:12:17.586",
+      "text": "blocking ram, and"
+    },
+    {
+      "start_ms": 736612,
+      "end_ms": 738477,
+      "start": "00:12:16.612",
+      "end": "00:12:18.477",
+      "text": "then we just can't"
+    },
+    {
+      "start_ms": 737504,
+      "end_ms": 739500,
+      "start": "00:12:17.504",
+      "end": "00:12:19.500",
+      "text": "kill it because"
+    },
+    {
+      "start_ms": 738526,
+      "end_ms": 740444,
+      "start": "00:12:18.526",
+      "end": "00:12:20.444",
+      "text": "it's a blocking ram."
+    },
+    {
+      "start_ms": 739544,
+      "end_ms": 740830,
+      "start": "00:12:19.544",
+      "end": "00:12:20.830",
+      "text": "Yes."
+    },
+    {
+      "start_ms": 739930,
+      "end_ms": 742139,
+      "start": "00:12:19.930",
+      "end": "00:12:22.139",
+      "text": "But I think we're"
+    },
+    {
+      "start_ms": 741171,
+      "end_ms": 743413,
+      "start": "00:12:21.171",
+      "end": "00:12:23.413",
+      "text": "still reassuring ourselves, \""
+    },
+    {
+      "start_ms": 742413,
+      "end_ms": 744496,
+      "start": "00:12:22.413",
+      "end": "00:12:24.496",
+      "text": "Oh yeah, he's alone, he's alone"
+    },
+    {
+      "start_ms": 743528,
+      "end_ms": 745569,
+      "start": "00:12:23.528",
+      "end": "00:12:25.569",
+      "text": ", he's alone. We"
+    },
+    {
+      "start_ms": 744597,
+      "end_ms": 746726,
+      "start": "00:12:24.597",
+      "end": "00:12:26.726",
+      "text": "can kill him. We"
+    },
+    {
+      "start_ms": 745749,
+      "end_ms": 747517,
+      "start": "00:12:25.749",
+      "end": "00:12:27.517",
+      "text": "can kill him,"
+    },
+    {
+      "start_ms": 746540,
+      "end_ms": 748424,
+      "start": "00:12:26.540",
+      "end": "00:12:28.424",
+      "text": "man.\" We just"
+    },
+    {
+      "start_ms": 747446,
+      "end_ms": 749203,
+      "start": "00:12:27.446",
+      "end": "00:12:29.203",
+      "text": "couldn't kill him."
+    },
+    {
+      "start_ms": 748303,
+      "end_ms": 750268,
+      "start": "00:12:28.303",
+      "end": "00:12:30.268",
+      "text": "You were attacked twice in a"
+    },
+    {
+      "start_ms": 749294,
+      "end_ms": 751308,
+      "start": "00:12:29.294",
+      "end": "00:12:31.308",
+      "text": "single fight. It will"
+    },
+    {
+      "start_ms": 750340,
+      "end_ms": 752323,
+      "start": "00:12:30.340",
+      "end": "00:12:32.323",
+      "text": "simply never"
+    },
+    {
+      "start_ms": 751356,
+      "end_ms": 752848,
+      "start": "00:12:31.356",
+      "end": "00:12:32.848",
+      "text": "work."
+    },
+    {
+      "start_ms": 752093,
+      "end_ms": 754089,
+      "start": "00:12:32.093",
+      "end": "00:12:34.089",
+      "text": "This will happen a"
+    },
+    {
+      "start_ms": 753125,
+      "end_ms": 755223,
+      "start": "00:12:33.125",
+      "end": "00:12:35.223",
+      "text": "thousand more times. This will"
+    },
+    {
+      "start_ms": 754259,
+      "end_ms": 756445,
+      "start": "00:12:34.259",
+      "end": "00:12:36.445",
+      "text": "never work."
+    },
+    {
+      "start_ms": 755545,
+      "end_ms": 757045,
+      "start": "00:12:35.545",
+      "end": "00:12:37.045",
+      "text": "I swear it"
+    },
+    {
+      "start_ms": 756070,
+      "end_ms": 757996,
+      "start": "00:12:36.070",
+      "end": "00:12:37.996",
+      "text": "happens to everyone,"
+    },
+    {
+      "start_ms": 757021,
+      "end_ms": 758896,
+      "start": "00:12:37.021",
+      "end": "00:12:38.896",
+      "text": "no matter"
+    },
+    {
+      "start_ms": 757922,
+      "end_ms": 759697,
+      "start": "00:12:37.922",
+      "end": "00:12:39.697",
+      "text": "how good the"
+    },
+    {
+      "start_ms": 758722,
+      "end_ms": 760710,
+      "start": "00:12:38.722",
+      "end": "00:12:40.710",
+      "text": "team is. I'll just have to"
+    },
+    {
+      "start_ms": 760246,
+      "end_ms": 762174,
+      "start": "00:12:40.246",
+      "end": "00:12:42.174",
+      "text": "watch it again."
+    },
+    {
+      "start_ms": 761274,
+      "end_ms": 763304,
+      "start": "00:12:41.274",
+      "end": "00:12:43.304",
+      "text": "It's good for"
+    },
+    {
+      "start_ms": 762335,
+      "end_ms": 763554,
+      "start": "00:12:42.335",
+      "end": "00:12:43.554",
+      "text": "them too."
+    },
+    {
+      "start_ms": 762654,
+      "end_ms": 763923,
+      "start": "00:12:42.654",
+      "end": "00:12:43.923",
+      "text": "Yes."
+    },
+    {
+      "start_ms": 763023,
+      "end_ms": 764806,
+      "start": "00:12:43.023",
+      "end": "00:12:44.806",
+      "text": "I think Lou can"
+    },
+    {
+      "start_ms": 763829,
+      "end_ms": 765565,
+      "start": "00:12:43.829",
+      "end": "00:12:45.565",
+      "text": "use his"
+    },
+    {
+      "start_ms": 764589,
+      "end_ms": 766254,
+      "start": "00:12:44.589",
+      "end": "00:12:46.254",
+      "text": "trade with Caddy, and"
+    },
+    {
+      "start_ms": 765354,
+      "end_ms": 767204,
+      "start": "00:12:45.354",
+      "end": "00:12:47.204",
+      "text": "yes, he might"
+    },
+    {
+      "start_ms": 766230,
+      "end_ms": 767823,
+      "start": "00:12:46.230",
+      "end": "00:12:47.823",
+      "text": "need it."
+    },
+    {
+      "start_ms": 766923,
+      "end_ms": 768910,
+      "start": "00:12:46.923",
+      "end": "00:12:48.910",
+      "text": "I think what they are"
+    },
+    {
+      "start_ms": 767935,
+      "end_ms": 769915,
+      "start": "00:12:47.935",
+      "end": "00:12:49.915",
+      "text": "doing is good. They seem to be"
+    },
+    {
+      "start_ms": 768939,
+      "end_ms": 770699,
+      "start": "00:12:48.939",
+      "end": "00:12:50.699",
+      "text": "trying to"
+    },
+    {
+      "start_ms": 769723,
+      "end_ms": 771336,
+      "start": "00:12:49.723",
+      "end": "00:12:51.336",
+      "text": "go, really,"
+    },
+    {
+      "start_ms": 770360,
+      "end_ms": 772022,
+      "start": "00:12:50.360",
+      "end": "00:12:52.022",
+      "text": "to catch our"
+    },
+    {
+      "start_ms": 771046,
+      "end_ms": 772463,
+      "start": "00:12:51.046",
+      "end": "00:12:52.463",
+      "text": "tracer."
+    },
+    {
+      "start_ms": 771563,
+      "end_ms": 773516,
+      "start": "00:12:51.563",
+      "end": "00:12:53.516",
+      "text": "Weakness of your"
+    },
+    {
+      "start_ms": 772545,
+      "end_ms": 774707,
+      "start": "00:12:52.545",
+      "end": "00:12:54.707",
+      "text": "game with Kronik: If you"
+    },
+    {
+      "start_ms": 773737,
+      "end_ms": 775898,
+      "start": "00:12:53.737",
+      "end": "00:12:55.898",
+      "text": "guys always play"
+    },
+    {
+      "start_ms": 774928,
+      "end_ms": 776553,
+      "start": "00:12:54.928",
+      "end": "00:12:56.553",
+      "text": "slow and"
+    },
+    {
+      "start_ms": 775583,
+      "end_ms": 777238,
+      "start": "00:12:55.583",
+      "end": "00:12:57.238",
+      "text": "try to"
+    },
+    {
+      "start_ms": 776268,
+      "end_ms": 778430,
+      "start": "00:12:56.268",
+      "end": "00:12:58.430",
+      "text": "stay safe,"
+    },
+    {
+      "start_ms": 777460,
+      "end_ms": 779502,
+      "start": "00:12:57.460",
+      "end": "00:12:59.502",
+      "text": "then if they just"
+    },
+    {
+      "start_ms": 778532,
+      "end_ms": 780366,
+      "start": "00:12:58.532",
+      "end": "00:13:00.366",
+      "text": "ignore you and"
+    },
+    {
+      "start_ms": 779395,
+      "end_ms": 781378,
+      "start": "00:12:59.395",
+      "end": "00:13:01.378",
+      "text": "stay out"
+    },
+    {
+      "start_ms": 780408,
+      "end_ms": 782242,
+      "start": "00:13:00.408",
+      "end": "00:13:02.242",
+      "text": "of your line"
+    },
+    {
+      "start_ms": 781272,
+      "end_ms": 783344,
+      "start": "00:13:01.272",
+      "end": "00:13:03.344",
+      "text": "of sight so they don't"
+    },
+    {
+      "start_ms": 782374,
+      "end_ms": 784327,
+      "start": "00:13:02.374",
+      "end": "00:13:04.327",
+      "text": "get shot while"
+    },
+    {
+      "start_ms": 783357,
+      "end_ms": 785310,
+      "start": "00:13:03.357",
+      "end": "00:13:05.310",
+      "text": "they do other"
+    },
+    {
+      "start_ms": 784339,
+      "end_ms": 786501,
+      "start": "00:13:04.339",
+      "end": "00:13:06.501",
+      "text": "things, theoretically they"
+    },
+    {
+      "start_ms": 785531,
+      "end_ms": 787216,
+      "start": "00:13:05.531",
+      "end": "00:13:07.216",
+      "text": "should be"
+    },
+    {
+      "start_ms": 786246,
+      "end_ms": 788169,
+      "start": "00:13:06.246",
+      "end": "00:13:08.169",
+      "text": "able to"
+    },
+    {
+      "start_ms": 787199,
+      "end_ms": 789360,
+      "start": "00:13:07.199",
+      "end": "00:13:09.360",
+      "text": "shoot Sanjin often,"
+    },
+    {
+      "start_ms": 788390,
+      "end_ms": 790522,
+      "start": "00:13:08.390",
+      "end": "00:13:10.522",
+      "text": "taking up a lot of space"
+    },
+    {
+      "start_ms": 789552,
+      "end_ms": 791624,
+      "start": "00:13:09.552",
+      "end": "00:13:11.624",
+      "text": "on the map, like in a"
+    },
+    {
+      "start_ms": 790654,
+      "end_ms": 792656,
+      "start": "00:13:10.654",
+      "end": "00:13:12.656",
+      "text": "circle. That's what I was"
+    },
+    {
+      "start_ms": 791681,
+      "end_ms": 793550,
+      "start": "00:13:11.681",
+      "end": "00:13:13.550",
+      "text": "trying to say,"
+    },
+    {
+      "start_ms": 792576,
+      "end_ms": 794291,
+      "start": "00:13:12.576",
+      "end": "00:13:14.291",
+      "text": "for example, regarding the"
+    },
+    {
+      "start_ms": 793316,
+      "end_ms": 795262,
+      "start": "00:13:13.316",
+      "end": "00:13:15.262",
+      "text": "second point or something"
+    },
+    {
+      "start_ms": 794287,
+      "end_ms": 796232,
+      "start": "00:13:14.287",
+      "end": "00:13:16.232",
+      "text": "like that: if you don't"
+    },
+    {
+      "start_ms": 795258,
+      "end_ms": 796999,
+      "start": "00:13:15.258",
+      "end": "00:13:16.999",
+      "text": "drag Landon"
+    },
+    {
+      "start_ms": 796024,
+      "end_ms": 797816,
+      "start": "00:13:16.024",
+      "end": "00:13:17.816",
+      "text": "through Kaylen, you"
+    },
+    {
+      "start_ms": 796842,
+      "end_ms": 798761,
+      "start": "00:13:16.842",
+      "end": "00:13:18.761",
+      "text": "can go through"
+    },
+    {
+      "start_ms": 797787,
+      "end_ms": 799528,
+      "start": "00:13:17.787",
+      "end": "00:13:19.528",
+      "text": "him, you can"
+    },
+    {
+      "start_ms": 798553,
+      "end_ms": 800524,
+      "start": "00:13:18.553",
+      "end": "00:13:20.524",
+      "text": "do a bunch of work"
+    },
+    {
+      "start_ms": 799550,
+      "end_ms": 801521,
+      "start": "00:13:19.550",
+      "end": "00:13:21.521",
+      "text": "through those sidelines."
+    },
+    {
+      "start_ms": 800621,
+      "end_ms": 802657,
+      "start": "00:13:20.621",
+      "end": "00:13:22.657",
+      "text": "For example, you can"
+    },
+    {
+      "start_ms": 801685,
+      "end_ms": 803385,
+      "start": "00:13:21.685",
+      "end": "00:13:23.385",
+      "text": "triple on"
+    },
+    {
+      "start_ms": 802413,
+      "end_ms": 804489,
+      "start": "00:13:22.413",
+      "end": "00:13:24.489",
+      "text": "Sangini. You"
+    },
+    {
+      "start_ms": 803515,
+      "end_ms": 805174,
+      "start": "00:13:23.515",
+      "end": "00:13:25.174",
+      "text": "can probably even"
+    },
+    {
+      "start_ms": 804200,
+      "end_ms": 805859,
+      "start": "00:13:24.200",
+      "end": "00:13:25.859",
+      "text": "triple up on the"
+    },
+    {
+      "start_ms": 804885,
+      "end_ms": 806833,
+      "start": "00:13:24.885",
+      "end": "00:13:26.833",
+      "text": "opposite line and"
+    },
+    {
+      "start_ms": 805860,
+      "end_ms": 807808,
+      "start": "00:13:25.860",
+      "end": "00:13:27.808",
+      "text": "just get to the"
+    },
+    {
+      "start_ms": 806834,
+      "end_ms": 808783,
+      "start": "00:13:26.834",
+      "end": "00:13:28.783",
+      "text": "back line that way"
+    },
+    {
+      "start_ms": 807809,
+      "end_ms": 809599,
+      "start": "00:13:27.809",
+      "end": "00:13:29.599",
+      "text": ", as long as you don't"
+    },
+    {
+      "start_ms": 808626,
+      "end_ms": 810389,
+      "start": "00:13:28.626",
+      "end": "00:13:30.389",
+      "text": "go through the"
+    },
+    {
+      "start_ms": 809416,
+      "end_ms": 811552,
+      "start": "00:13:29.416",
+      "end": "00:13:31.552",
+      "text": "ram. This is the first time"
+    },
+    {
+      "start_ms": 810582,
+      "end_ms": 812686,
+      "start": "00:13:30.582",
+      "end": "00:13:32.686",
+      "text": "they haven't gone"
+    },
+    {
+      "start_ms": 811716,
+      "end_ms": 813820,
+      "start": "00:13:31.716",
+      "end": "00:13:33.820",
+      "text": "directly through"
+    },
+    {
+      "start_ms": 812850,
+      "end_ms": 814298,
+      "start": "00:13:32.850",
+      "end": "00:13:34.298",
+      "text": "Kaylen."
+    },
+    {
+      "start_ms": 813398,
+      "end_ms": 815341,
+      "start": "00:13:33.398",
+      "end": "00:13:35.341",
+      "text": "They use"
+    },
+    {
+      "start_ms": 814367,
+      "end_ms": 816055,
+      "start": "00:13:34.367",
+      "end": "00:13:36.055",
+      "text": "the map a lot"
+    },
+    {
+      "start_ms": 815081,
+      "end_ms": 816591,
+      "start": "00:13:35.081",
+      "end": "00:13:36.591",
+      "text": "more, either"
+    },
+    {
+      "start_ms": 815616,
+      "end_ms": 817177,
+      "start": "00:13:35.616",
+      "end": "00:13:37.177",
+      "text": "trying"
+    },
+    {
+      "start_ms": 816203,
+      "end_ms": 818146,
+      "start": "00:13:36.203",
+      "end": "00:13:38.146",
+      "text": "to push off"
+    },
+    {
+      "start_ms": 817172,
+      "end_ms": 818962,
+      "start": "00:13:37.172",
+      "end": "00:13:38.962",
+      "text": "corners or just"
+    },
+    {
+      "start_ms": 817988,
+      "end_ms": 819906,
+      "start": "00:13:37.988",
+      "end": "00:13:39.906",
+      "text": "trying to find,"
+    },
+    {
+      "start_ms": 818931,
+      "end_ms": 820569,
+      "start": "00:13:38.931",
+      "end": "00:13:40.569",
+      "text": "in this"
+    },
+    {
+      "start_ms": 819594,
+      "end_ms": 821385,
+      "start": "00:13:39.594",
+      "end": "00:13:41.385",
+      "text": "scenario, something"
+    },
+    {
+      "start_ms": 820410,
+      "end_ms": 822048,
+      "start": "00:13:40.410",
+      "end": "00:13:42.048",
+      "text": "like our"
+    },
+    {
+      "start_ms": 821073,
+      "end_ms": 823007,
+      "start": "00:13:41.073",
+      "end": "00:13:43.007",
+      "text": "tracer. But yeah, they"
+    },
+    {
+      "start_ms": 822029,
+      "end_ms": 823514,
+      "start": "00:13:42.029",
+      "end": "00:13:43.514",
+      "text": "really should"
+    },
+    {
+      "start_ms": 822535,
+      "end_ms": 823957,
+      "start": "00:13:42.535",
+      "end": "00:13:43.957",
+      "text": "try to"
+    },
+    {
+      "start_ms": 822978,
+      "end_ms": 824717,
+      "start": "00:13:42.978",
+      "end": "00:13:44.717",
+      "text": "push off either"
+    },
+    {
+      "start_ms": 823738,
+      "end_ms": 825455,
+      "start": "00:13:43.738",
+      "end": "00:13:45.455",
+      "text": "from our corner, which"
+    },
+    {
+      "start_ms": 824477,
+      "end_ms": 826194,
+      "start": "00:13:44.477",
+      "end": "00:13:46.194",
+      "text": "they did, or"
+    },
+    {
+      "start_ms": 825215,
+      "end_ms": 826912,
+      "start": "00:13:45.215",
+      "end": "00:13:46.912",
+      "text": "just try to"
+    },
+    {
+      "start_ms": 825933,
+      "end_ms": 827629,
+      "start": "00:13:45.933",
+      "end": "00:13:47.629",
+      "text": "push through our"
+    },
+    {
+      "start_ms": 826650,
+      "end_ms": 828115,
+      "start": "00:13:46.650",
+      "end": "00:13:48.115",
+      "text": "back line."
+    },
+    {
+      "start_ms": 827215,
+      "end_ms": 828881,
+      "start": "00:13:47.215",
+      "end": "00:13:48.881",
+      "text": "You and Kronik can't"
+    },
+    {
+      "start_ms": 827904,
+      "end_ms": 829799,
+      "start": "00:13:47.904",
+      "end": "00:13:49.799",
+      "text": "see much,"
+    },
+    {
+      "start_ms": 828822,
+      "end_ms": 830626,
+      "start": "00:13:48.822",
+      "end": "00:13:50.626",
+      "text": "you can't"
+    },
+    {
+      "start_ms": 829649,
+      "end_ms": 831338,
+      "start": "00:13:49.649",
+      "end": "00:13:51.338",
+      "text": "shoot much during"
+    },
+    {
+      "start_ms": 830361,
+      "end_ms": 832189,
+      "start": "00:13:50.361",
+      "end": "00:13:52.189",
+      "text": "this fight. So,"
+    },
+    {
+      "start_ms": 831289,
+      "end_ms": 832949,
+      "start": "00:13:51.289",
+      "end": "00:13:52.949",
+      "text": "let's just"
+    },
+    {
+      "start_ms": 831973,
+      "end_ms": 833853,
+      "start": "00:13:51.973",
+      "end": "00:13:53.853",
+      "text": "look at"
+    },
+    {
+      "start_ms": 832878,
+      "end_ms": 834513,
+      "start": "00:13:52.878",
+      "end": "00:13:54.513",
+      "text": "Kronik's point of view and"
+    },
+    {
+      "start_ms": 833538,
+      "end_ms": 835345,
+      "start": "00:13:53.538",
+      "end": "00:13:55.345",
+      "text": "see what he's"
+    },
+    {
+      "start_ms": 834369,
+      "end_ms": 836152,
+      "start": "00:13:54.369",
+      "end": "00:13:56.152",
+      "text": "capable of shooting."
+    },
+    {
+      "start_ms": 835252,
+      "end_ms": 837457,
+      "start": "00:13:55.252",
+      "end": "00:13:57.457",
+      "text": "Honestly, he"
+    },
+    {
+      "start_ms": 836495,
+      "end_ms": 838475,
+      "start": "00:13:56.495",
+      "end": "00:13:58.475",
+      "text": "probably just"
+    },
+    {
+      "start_ms": 837512,
+      "end_ms": 839982,
+      "start": "00:13:57.512",
+      "end": "00:13:59.982",
+      "text": "shoots like a RAM or a RAM"
+    },
+    {
+      "start_ms": 838982,
+      "end_ms": 842714,
+      "start": "00:13:58.982",
+      "end": "00:14:02.714",
+      "text": "shield. No, yes. He"
+    },
+    {
+      "start_ms": 841744,
+      "end_ms": 843823,
+      "start": "00:14:01.744",
+      "end": "00:14:03.823",
+      "text": "literally"
+    },
+    {
+      "start_ms": 842853,
+      "end_ms": 844651,
+      "start": "00:14:02.853",
+      "end": "00:14:04.651",
+      "text": "sees nothing. In"
+    },
+    {
+      "start_ms": 843751,
+      "end_ms": 845949,
+      "start": "00:14:03.751",
+      "end": "00:14:05.949",
+      "text": "my opinion, this is the sign of a"
+    },
+    {
+      "start_ms": 844982,
+      "end_ms": 847147,
+      "start": "00:14:04.982",
+      "end": "00:14:07.147",
+      "text": "team that really"
+    },
+    {
+      "start_ms": 846181,
+      "end_ms": 848379,
+      "start": "00:14:06.181",
+      "end": "00:14:08.379",
+      "text": "knows how to play against a"
+    },
+    {
+      "start_ms": 847412,
+      "end_ms": 849711,
+      "start": "00:14:07.412",
+      "end": "00:14:09.711",
+      "text": "slow style of play."
+    },
+    {
+      "start_ms": 848811,
+      "end_ms": 850732,
+      "start": "00:14:08.811",
+      "end": "00:14:10.732",
+      "text": "If I think the"
+    },
+    {
+      "start_ms": 849732,
+      "end_ms": 851798,
+      "start": "00:14:09.732",
+      "end": "00:14:11.798",
+      "text": "Falcons are really really"
+    },
+    {
+      "start_ms": 850826,
+      "end_ms": 852949,
+      "start": "00:14:10.826",
+      "end": "00:14:12.949",
+      "text": "good at this, and so I"
+    },
+    {
+      "start_ms": 851949,
+      "end_ms": 853727,
+      "start": "00:14:11.949",
+      "end": "00:14:13.727",
+      "text": "guess if I"
+    },
+    {
+      "start_ms": 852756,
+      "end_ms": 854850,
+      "start": "00:14:12.756",
+      "end": "00:14:14.850",
+      "text": "press Scan"
+    },
+    {
+      "start_ms": 853879,
+      "end_ms": 855800,
+      "start": "00:14:13.879",
+      "end": "00:14:15.800",
+      "text": "and a flexible support is"
+    },
+    {
+      "start_ms": 854829,
+      "end_ms": 856952,
+      "start": "00:14:14.829",
+      "end": "00:14:16.952",
+      "text": "playing in the back of the"
+    },
+    {
+      "start_ms": 855981,
+      "end_ms": 857701,
+      "start": "00:14:15.981",
+      "end": "00:14:17.701",
+      "text": "map, how do I"
+    },
+    {
+      "start_ms": 856730,
+      "end_ms": 858853,
+      "start": "00:14:16.730",
+      "end": "00:14:18.853",
+      "text": "punish the team"
+    },
+    {
+      "start_ms": 857882,
+      "end_ms": 859918,
+      "start": "00:14:17.882",
+      "end": "00:14:19.918",
+      "text": "without getting shot down by"
+    },
+    {
+      "start_ms": 858947,
+      "end_ms": 861013,
+      "start": "00:14:18.947",
+      "end": "00:14:21.013",
+      "text": "those people sitting in the"
+    },
+    {
+      "start_ms": 860041,
+      "end_ms": 862165,
+      "start": "00:14:20.041",
+      "end": "00:14:22.165",
+      "text": "back of the map?"
+    },
+    {
+      "start_ms": 861265,
+      "end_ms": 863378,
+      "start": "00:14:21.265",
+      "end": "00:14:23.378",
+      "text": "And it feels like"
+    },
+    {
+      "start_ms": 862408,
+      "end_ms": 864404,
+      "start": "00:14:22.408",
+      "end": "00:14:24.404",
+      "text": "they're constantly"
+    },
+    {
+      "start_ms": 863433,
+      "end_ms": 865401,
+      "start": "00:14:23.433",
+      "end": "00:14:25.401",
+      "text": "doing something, you know what"
+    },
+    {
+      "start_ms": 864430,
+      "end_ms": 865870,
+      "start": "00:14:24.430",
+      "end": "00:14:25.870",
+      "text": "I mean?"
+    },
+    {
+      "start_ms": 864970,
+      "end_ms": 866907,
+      "start": "00:14:24.970",
+      "end": "00:14:26.907",
+      "text": "Yes. If you and"
+    },
+    {
+      "start_ms": 865933,
+      "end_ms": 867771,
+      "start": "00:14:25.933",
+      "end": "00:14:27.771",
+      "text": "Chronicle always have"
+    },
+    {
+      "start_ms": 866797,
+      "end_ms": 868740,
+      "start": "00:14:26.797",
+      "end": "00:14:28.740",
+      "text": "something to shoot at, you'll"
+    },
+    {
+      "start_ms": 867766,
+      "end_ms": 869682,
+      "start": "00:14:27.766",
+      "end": "00:14:29.682",
+      "text": "just end up killing"
+    },
+    {
+      "start_ms": 868709,
+      "end_ms": 870658,
+      "start": "00:14:28.709",
+      "end": "00:14:30.658",
+      "text": "people. No one will ever"
+    },
+    {
+      "start_ms": 869682,
+      "end_ms": 871609,
+      "start": "00:14:29.682",
+      "end": "00:14:31.609",
+      "text": "defeat you if"
+    },
+    {
+      "start_ms": 870634,
+      "end_ms": 872244,
+      "start": "00:14:30.634",
+      "end": "00:14:32.244",
+      "text": "they constantly"
+    },
+    {
+      "start_ms": 871268,
+      "end_ms": 873025,
+      "start": "00:14:31.268",
+      "end": "00:14:33.025",
+      "text": "stand in front of"
+    },
+    {
+      "start_ms": 872049,
+      "end_ms": 873806,
+      "start": "00:14:32.049",
+      "end": "00:14:33.806",
+      "text": "you and the Chronicle."
+    },
+    {
+      "start_ms": 872906,
+      "end_ms": 874920,
+      "start": "00:14:32.906",
+      "end": "00:14:34.920",
+      "text": "I don't even know how the"
+    },
+    {
+      "start_ms": 873949,
+      "end_ms": 875732,
+      "start": "00:14:33.949",
+      "end": "00:14:35.732",
+      "text": "Chronicle even"
+    },
+    {
+      "start_ms": 874761,
+      "end_ms": 876776,
+      "start": "00:14:34.761",
+      "end": "00:14:36.776",
+      "text": "got this kill."
+    },
+    {
+      "start_ms": 881014,
+      "end_ms": 883258,
+      "start": "00:14:41.014",
+      "end": "00:14:43.258",
+      "text": "He, like you, steps"
+    },
+    {
+      "start_ms": 882291,
+      "end_ms": 884535,
+      "start": "00:14:42.291",
+      "end": "00:14:44.535",
+      "text": "back, and immediately goes around the"
+    },
+    {
+      "start_ms": 883569,
+      "end_ms": 885813,
+      "start": "00:14:43.569",
+      "end": "00:14:45.813",
+      "text": "corner as soon as you"
+    },
+    {
+      "start_ms": 884846,
+      "end_ms": 886553,
+      "start": "00:14:44.846",
+      "end": "00:14:46.553",
+      "text": "step back."
+    },
+    {
+      "start_ms": 885653,
+      "end_ms": 886941,
+      "start": "00:14:45.653",
+      "end": "00:14:46.941",
+      "text": "Yes."
+    },
+    {
+      "start_ms": 886041,
+      "end_ms": 887908,
+      "start": "00:14:46.041",
+      "end": "00:14:47.908",
+      "text": "And then you guys"
+    },
+    {
+      "start_ms": 886934,
+      "end_ms": 888748,
+      "start": "00:14:46.934",
+      "end": "00:14:48.748",
+      "text": "shoot in five"
+    },
+    {
+      "start_ms": 887775,
+      "end_ms": 889668,
+      "start": "00:14:47.775",
+      "end": "00:14:49.668",
+      "text": "different directions in"
+    },
+    {
+      "start_ms": 888694,
+      "end_ms": 890655,
+      "start": "00:14:48.694",
+      "end": "00:14:50.655",
+      "text": "this B-assault. So,"
+    },
+    {
+      "start_ms": 889681,
+      "end_ms": 891570,
+      "start": "00:14:49.681",
+      "end": "00:14:51.570",
+      "text": "no matter"
+    },
+    {
+      "start_ms": 890596,
+      "end_ms": 892028,
+      "start": "00:14:50.596",
+      "end": "00:14:52.028",
+      "text": "who they"
+    },
+    {
+      "start_ms": 891053,
+      "end_ms": 892867,
+      "start": "00:14:51.053",
+      "end": "00:14:52.867",
+      "text": "pursue, everyone"
+    },
+    {
+      "start_ms": 891892,
+      "end_ms": 893782,
+      "start": "00:14:51.892",
+      "end": "00:14:53.782",
+      "text": "will be cornered."
+    },
+    {
+      "start_ms": 892882,
+      "end_ms": 895182,
+      "start": "00:14:52.882",
+      "end": "00:14:55.182",
+      "text": "You guys"
+    },
+    {
+      "start_ms": 894218,
+      "end_ms": 896411,
+      "start": "00:14:54.218",
+      "end": "00:14:56.411",
+      "text": "have actually formed a real"
+    },
+    {
+      "start_ms": 895447,
+      "end_ms": 897784,
+      "start": "00:14:55.447",
+      "end": "00:14:57.784",
+      "text": "web where, like you,"
+    },
+    {
+      "start_ms": 896820,
+      "end_ms": 899282,
+      "start": "00:14:56.820",
+      "end": "00:14:59.282",
+      "text": "everyone has a corner. Here,"
+    },
+    {
+      "start_ms": 898382,
+      "end_ms": 900558,
+      "start": "00:14:58.382",
+      "end": "00:15:00.558",
+      "text": "Calvin and I are just"
+    },
+    {
+      "start_ms": 899590,
+      "end_ms": 901998,
+      "start": "00:14:59.590",
+      "end": "00:15:01.998",
+      "text": "pointing the way. We"
+    },
+    {
+      "start_ms": 901026,
+      "end_ms": 902893,
+      "start": "00:15:01.026",
+      "end": "00:15:02.893",
+      "text": "just know"
+    },
+    {
+      "start_ms": 901921,
+      "end_ms": 903928,
+      "start": "00:15:01.921",
+      "end": "00:15:03.928",
+      "text": "someone will dodge"
+    },
+    {
+      "start_ms": 902956,
+      "end_ms": 904963,
+      "start": "00:15:02.956",
+      "end": "00:15:04.963",
+      "text": "our B-assault, right?"
+    },
+    {
+      "start_ms": 904063,
+      "end_ms": 905966,
+      "start": "00:15:04.063",
+      "end": "00:15:05.966",
+      "text": "100%."
+    },
+    {
+      "start_ms": 905066,
+      "end_ms": 906900,
+      "start": "00:15:05.066",
+      "end": "00:15:06.900",
+      "text": "But that's how everyone else"
+    },
+    {
+      "start_ms": 905926,
+      "end_ms": 907655,
+      "start": "00:15:05.926",
+      "end": "00:15:07.655",
+      "text": "lives and just"
+    },
+    {
+      "start_ms": 906681,
+      "end_ms": 908594,
+      "start": "00:15:06.681",
+      "end": "00:15:08.594",
+      "text": "finds angles to"
+    },
+    {
+      "start_ms": 907620,
+      "end_ms": 909532,
+      "start": "00:15:07.620",
+      "end": "00:15:09.532",
+      "text": "set up for the"
+    },
+    {
+      "start_ms": 908558,
+      "end_ms": 910574,
+      "start": "00:15:08.558",
+      "end": "00:15:10.574",
+      "text": "next fight, quote"
+    },
+    {
+      "start_ms": 909574,
+      "end_ms": 910601,
+      "start": "00:15:09.574",
+      "end": "00:15:10.601",
+      "text": "."
+    },
+    {
+      "start_ms": 909701,
+      "end_ms": 911617,
+      "start": "00:15:09.701",
+      "end": "00:15:11.617",
+      "text": "And now, frankly"
+    },
+    {
+      "start_ms": 910644,
+      "end_ms": 912480,
+      "start": "00:15:10.644",
+      "end": "00:15:12.480",
+      "text": ", they are in a worse"
+    },
+    {
+      "start_ms": 911507,
+      "end_ms": 913564,
+      "start": "00:15:11.507",
+      "end": "00:15:13.564",
+      "text": "position. As if they"
+    },
+    {
+      "start_ms": 912590,
+      "end_ms": 914270,
+      "start": "00:15:12.590",
+      "end": "00:15:14.270",
+      "text": "were in a better"
+    },
+    {
+      "start_ms": 913296,
+      "end_ms": 915317,
+      "start": "00:15:13.296",
+      "end": "00:15:15.317",
+      "text": "position before the B-assault."
+    },
+    {
+      "start_ms": 914417,
+      "end_ms": 916371,
+      "start": "00:15:14.417",
+      "end": "00:15:16.371",
+      "text": "They forced you to"
+    },
+    {
+      "start_ms": 915401,
+      "end_ms": 917296,
+      "start": "00:15:15.401",
+      "end": "00:15:17.296",
+      "text": "break out of that"
+    },
+    {
+      "start_ms": 916326,
+      "end_ms": 917655,
+      "start": "00:15:16.326",
+      "end": "00:15:17.655",
+      "text": "point."
+    },
+    {
+      "start_ms": 916755,
+      "end_ms": 919316,
+      "start": "00:15:16.755",
+      "end": "00:15:19.316",
+      "text": "Yes, I remember that. These"
+    },
+    {
+      "start_ms": 918347,
+      "end_ms": 920560,
+      "start": "00:15:18.347",
+      "end": "00:15:20.560",
+      "text": "were perpendicular"
+    },
+    {
+      "start_ms": 919591,
+      "end_ms": 921482,
+      "start": "00:15:19.591",
+      "end": "00:15:21.482",
+      "text": "exits. It was"
+    },
+    {
+      "start_ms": 920512,
+      "end_ms": 922646,
+      "start": "00:15:20.512",
+      "end": "00:15:22.646",
+      "text": "amazing. I don't"
+    },
+    {
+      "start_ms": 921679,
+      "end_ms": 924020,
+      "start": "00:15:21.679",
+      "end": "00:15:24.020",
+      "text": "remember what I was thinking. I"
+    },
+    {
+      "start_ms": 923045,
+      "end_ms": 924984,
+      "start": "00:15:23.045",
+      "end": "00:15:24.984",
+      "text": "thought the exits were"
+    },
+    {
+      "start_ms": 924009,
+      "end_ms": 925974,
+      "start": "00:15:24.009",
+      "end": "00:15:25.974",
+      "text": "closer or something"
+    },
+    {
+      "start_ms": 924974,
+      "end_ms": 926913,
+      "start": "00:15:24.974",
+      "end": "00:15:26.913",
+      "text": ", but I'm like, man, I'm"
+    },
+    {
+      "start_ms": 925938,
+      "end_ms": 927680,
+      "start": "00:15:25.938",
+      "end": "00:15:27.680",
+      "text": "just going to throw myself at"
+    },
+    {
+      "start_ms": 926704,
+      "end_ms": 927977,
+      "start": "00:15:26.704",
+      "end": "00:15:27.977",
+      "text": "him."
+    },
+    {
+      "start_ms": 927077,
+      "end_ms": 928984,
+      "start": "00:15:27.077",
+      "end": "00:15:28.984",
+      "text": "You guys just"
+    },
+    {
+      "start_ms": 928012,
+      "end_ms": 930090,
+      "start": "00:15:28.012",
+      "end": "00:15:30.090",
+      "text": "rushed on the way out and"
+    },
+    {
+      "start_ms": 929118,
+      "end_ms": 930827,
+      "start": "00:15:29.118",
+      "end": "00:15:30.827",
+      "text": "then when you"
+    },
+    {
+      "start_ms": 929856,
+      "end_ms": 931905,
+      "start": "00:15:29.856",
+      "end": "00:15:31.905",
+      "text": "reload,"
+    },
+    {
+      "start_ms": 930933,
+      "end_ms": 932671,
+      "start": "00:15:30.933",
+      "end": "00:15:32.671",
+      "text": "look how"
+    },
+    {
+      "start_ms": 931699,
+      "end_ms": 933823,
+      "start": "00:15:31.699",
+      "end": "00:15:33.823",
+      "text": "deep it goes. It"
+    },
+    {
+      "start_ms": 932856,
+      "end_ms": 934628,
+      "start": "00:15:32.856",
+      "end": "00:15:34.628",
+      "text": "cuts from the bottom"
+    },
+    {
+      "start_ms": 933662,
+      "end_ms": 935991,
+      "start": "00:15:33.662",
+      "end": "00:15:35.991",
+      "text": "right. And he's only"
+    },
+    {
+      "start_ms": 935025,
+      "end_ms": 937281,
+      "start": "00:15:35.025",
+      "end": "00:15:37.281",
+      "text": "one yard ahead"
+    },
+    {
+      "start_ms": 936315,
+      "end_ms": 938470,
+      "start": "00:15:36.315",
+      "end": "00:15:38.470",
+      "text": "in that back line."
+    },
+    {
+      "start_ms": 937570,
+      "end_ms": 939639,
+      "start": "00:15:37.570",
+      "end": "00:15:39.639",
+      "text": "He's just chasing"
+    },
+    {
+      "start_ms": 938669,
+      "end_ms": 940383,
+      "start": "00:15:38.669",
+      "end": "00:15:40.383",
+      "text": "Cavester."
+    },
+    {
+      "start_ms": 939483,
+      "end_ms": 941591,
+      "start": "00:15:39.483",
+      "end": "00:15:41.591",
+      "text": "Just cruel. It's like"
+    },
+    {
+      "start_ms": 940691,
+      "end_ms": 942396,
+      "start": "00:15:40.691",
+      "end": "00:15:42.396",
+      "text": "he doesn't really"
+    },
+    {
+      "start_ms": 941421,
+      "end_ms": 943029,
+      "start": "00:15:41.421",
+      "end": "00:15:43.029",
+      "text": "like"
+    },
+    {
+      "start_ms": 942054,
+      "end_ms": 943759,
+      "start": "00:15:42.054",
+      "end": "00:15:43.759",
+      "text": "killing anyone, but he"
+    },
+    {
+      "start_ms": 942784,
+      "end_ms": 944547,
+      "start": "00:15:42.784",
+      "end": "00:15:44.547",
+      "text": "just goes. He"
+    },
+    {
+      "start_ms": 943576,
+      "end_ms": 945721,
+      "start": "00:15:43.576",
+      "end": "00:15:45.721",
+      "text": "just blocks hard."
+    },
+    {
+      "start_ms": 944821,
+      "end_ms": 946138,
+      "start": "00:15:44.821",
+      "end": "00:15:46.138",
+      "text": "Yeah,"
+    },
+    {
+      "start_ms": 945238,
+      "end_ms": 947122,
+      "start": "00:15:45.238",
+      "end": "00:15:47.122",
+      "text": "I mean, he"
+    },
+    {
+      "start_ms": 946148,
+      "end_ms": 948166,
+      "start": "00:15:46.148",
+      "end": "00:15:48.166",
+      "text": "lets you guys"
+    },
+    {
+      "start_ms": 947193,
+      "end_ms": 949024,
+      "start": "00:15:47.193",
+      "end": "00:15:49.024",
+      "text": "set these"
+    },
+    {
+      "start_ms": 948050,
+      "end_ms": 949800,
+      "start": "00:15:48.050",
+      "end": "00:15:49.800",
+      "text": "angles on the ice, and the"
+    },
+    {
+      "start_ms": 948827,
+      "end_ms": 950818,
+      "start": "00:15:48.827",
+      "end": "00:15:50.818",
+      "text": "ice guy doesn't understand"
+    },
+    {
+      "start_ms": 949845,
+      "end_ms": 951676,
+      "start": "00:15:49.845",
+      "end": "00:15:51.676",
+      "text": "that he's falling into this"
+    },
+    {
+      "start_ms": 950702,
+      "end_ms": 952453,
+      "start": "00:15:50.702",
+      "end": "00:15:52.453",
+      "text": "Kellen trap."
+    },
+    {
+      "start_ms": 951553,
+      "end_ms": 953378,
+      "start": "00:15:51.553",
+      "end": "00:15:53.378",
+      "text": "We just play"
+    },
+    {
+      "start_ms": 952405,
+      "end_ms": 954478,
+      "start": "00:15:52.405",
+      "end": "00:15:54.478",
+      "text": "wide, we let"
+    },
+    {
+      "start_ms": 953505,
+      "end_ms": 955275,
+      "start": "00:15:53.505",
+      "end": "00:15:55.275",
+      "text": "them get a little bit"
+    },
+    {
+      "start_ms": 954303,
+      "end_ms": 956045,
+      "start": "00:15:54.303",
+      "end": "00:15:56.045",
+      "text": "forward and then"
+    },
+    {
+      "start_ms": 955073,
+      "end_ms": 956926,
+      "start": "00:15:55.073",
+      "end": "00:15:56.926",
+      "text": "we play for the yellow."
+    },
+    {
+      "start_ms": 956026,
+      "end_ms": 958584,
+      "start": "00:15:56.026",
+      "end": "00:15:58.584",
+      "text": "Uh, it's Kellen again, but it's"
+    },
+    {
+      "start_ms": 957625,
+      "end_ms": 958953,
+      "start": "00:15:57.625",
+      "end": "00:15:58.953",
+      "text": "like"
+    },
+    {
+      "start_ms": 958053,
+      "end_ms": 960143,
+      "start": "00:15:58.053",
+      "end": "00:16:00.143",
+      "text": "Kellen wants to run"
+    },
+    {
+      "start_ms": 959177,
+      "end_ms": 960757,
+      "start": "00:15:59.177",
+      "end": "00:16:00.757",
+      "text": "ahead."
+    },
+    {
+      "start_ms": 959871,
+      "end_ms": 961921,
+      "start": "00:15:59.871",
+      "end": "00:16:01.921",
+      "text": "To me, it's"
+    },
+    {
+      "start_ms": 960952,
+      "end_ms": 962941,
+      "start": "00:16:00.952",
+      "end": "00:16:02.941",
+      "text": "like, \"I'm not going to"
+    },
+    {
+      "start_ms": 961972,
+      "end_ms": 963868,
+      "start": "00:16:01.972",
+      "end": "00:16:03.868",
+      "text": "repeat the whole"
+    },
+    {
+      "start_ms": 962899,
+      "end_ms": 964981,
+      "start": "00:16:02.899",
+      "end": "00:16:04.981",
+      "text": "speech because I just,"
+    },
+    {
+      "start_ms": 964012,
+      "end_ms": 966217,
+      "start": "00:16:04.012",
+      "end": "00:16:06.217",
+      "text": "damn it, talked"
+    },
+    {
+      "start_ms": 965248,
+      "end_ms": 967268,
+      "start": "00:16:05.248",
+      "end": "00:16:07.268",
+      "text": "about it, but this is very"
+    },
+    {
+      "start_ms": 966298,
+      "end_ms": 968318,
+      "start": "00:16:06.298",
+      "end": "00:16:08.318",
+      "text": "different from how"
+    },
+    {
+      "start_ms": 967349,
+      "end_ms": 969400,
+      "start": "00:16:07.349",
+      "end": "00:16:09.400",
+      "text": "other"
+    },
+    {
+      "start_ms": 968431,
+      "end_ms": 970635,
+      "start": "00:16:08.431",
+      "end": "00:16:10.635",
+      "text": "slow teams have played.\" There are"
+    },
+    {
+      "start_ms": 969662,
+      "end_ms": 971596,
+      "start": "00:16:09.662",
+      "end": "00:16:11.596",
+      "text": "teams that can"
+    },
+    {
+      "start_ms": 970623,
+      "end_ms": 972610,
+      "start": "00:16:10.623",
+      "end": "00:16:12.610",
+      "text": "play slow, and what"
+    },
+    {
+      "start_ms": 971637,
+      "end_ms": 973625,
+      "start": "00:16:11.637",
+      "end": "00:16:13.625",
+      "text": "you guys have been doing"
+    },
+    {
+      "start_ms": 972651,
+      "end_ms": 974532,
+      "start": "00:16:12.651",
+      "end": "00:16:14.532",
+      "text": "so far isn't really that"
+    },
+    {
+      "start_ms": 973559,
+      "end_ms": 975546,
+      "start": "00:16:13.559",
+      "end": "00:16:15.546",
+      "text": "difficult, is"
+    },
+    {
+      "start_ms": 974573,
+      "end_ms": 976649,
+      "start": "00:16:14.573",
+      "end": "00:16:16.649",
+      "text": "it? For example, your"
+    },
+    {
+      "start_ms": 975674,
+      "end_ms": 977531,
+      "start": "00:16:15.674",
+      "end": "00:16:17.531",
+      "text": "tank just takes"
+    },
+    {
+      "start_ms": 976556,
+      "end_ms": 978161,
+      "start": "00:16:16.556",
+      "end": "00:16:18.161",
+      "text": "the bait and doesn't"
+    },
+    {
+      "start_ms": 977186,
+      "end_ms": 978917,
+      "start": "00:16:17.186",
+      "end": "00:16:18.917",
+      "text": "take many"
+    },
+    {
+      "start_ms": 977943,
+      "end_ms": 979724,
+      "start": "00:16:17.943",
+      "end": "00:16:19.724",
+      "text": "pushes, and your"
+    },
+    {
+      "start_ms": 978749,
+      "end_ms": 980606,
+      "start": "00:16:18.749",
+      "end": "00:16:20.606",
+      "text": "backline takes"
+    },
+    {
+      "start_ms": 979631,
+      "end_ms": 981463,
+      "start": "00:16:19.631",
+      "end": "00:16:21.463",
+      "text": "some corners, but you"
+    },
+    {
+      "start_ms": 980488,
+      "end_ms": 982471,
+      "start": "00:16:20.488",
+      "end": "00:16:22.471",
+      "text": "guys stay"
+    },
+    {
+      "start_ms": 981497,
+      "end_ms": 983454,
+      "start": "00:16:21.497",
+      "end": "00:16:23.454",
+      "text": "safe and you"
+    },
+    {
+      "start_ms": 982480,
+      "end_ms": 984110,
+      "start": "00:16:22.480",
+      "end": "00:16:24.110",
+      "text": "play a lot of"
+    },
+    {
+      "start_ms": 983135,
+      "end_ms": 985081,
+      "start": "00:16:23.135",
+      "end": "00:16:25.081",
+      "text": "space, as you do. And it's not"
+    },
+    {
+      "start_ms": 984115,
+      "end_ms": 986075,
+      "start": "00:16:24.115",
+      "end": "00:16:26.075",
+      "text": "difficult. In this"
+    },
+    {
+      "start_ms": 985101,
+      "end_ms": 986805,
+      "start": "00:16:25.101",
+      "end": "00:16:26.805",
+      "text": "scenario, Saiko"
+    },
+    {
+      "start_ms": 985831,
+      "end_ms": 987743,
+      "start": "00:16:25.831",
+      "end": "00:16:27.743",
+      "text": "has started to take the corner,"
+    },
+    {
+      "start_ms": 986769,
+      "end_ms": 988759,
+      "start": "00:16:26.769",
+      "end": "00:16:28.759",
+      "text": "Kevster and Fixer are about to"
+    },
+    {
+      "start_ms": 987759,
+      "end_ms": 989825,
+      "start": "00:16:27.759",
+      "end": "00:16:29.825",
+      "text": "take the corner. This is"
+    },
+    {
+      "start_ms": 988852,
+      "end_ms": 990812,
+      "start": "00:16:28.852",
+      "end": "00:16:30.812",
+      "text": "very similar to a fight"
+    },
+    {
+      "start_ms": 989839,
+      "end_ms": 991479,
+      "start": "00:16:29.839",
+      "end": "00:16:31.479",
+      "text": "where you guys"
+    },
+    {
+      "start_ms": 990506,
+      "end_ms": 992466,
+      "start": "00:16:30.506",
+      "end": "00:16:32.466",
+      "text": "used Overclock and"
+    },
+    {
+      "start_ms": 991493,
+      "end_ms": 993480,
+      "start": "00:16:31.493",
+      "end": "00:16:33.480",
+      "text": "stormed out of the room."
+    },
+    {
+      "start_ms": 992580,
+      "end_ms": 994407,
+      "start": "00:16:32.580",
+      "end": "00:16:34.407",
+      "text": "Knowing when and how"
+    },
+    {
+      "start_ms": 993435,
+      "end_ms": 995235,
+      "start": "00:16:33.435",
+      "end": "00:16:35.235",
+      "text": "to stop playing"
+    },
+    {
+      "start_ms": 994262,
+      "end_ms": 996338,
+      "start": "00:16:34.262",
+      "end": "00:16:36.338",
+      "text": "the bait, and understanding"
+    },
+    {
+      "start_ms": 995338,
+      "end_ms": 997358,
+      "start": "00:16:35.338",
+      "end": "00:16:37.358",
+      "text": "that something will go wrong,"
+    },
+    {
+      "start_ms": 996386,
+      "end_ms": 998103,
+      "start": "00:16:36.386",
+      "end": "00:16:38.103",
+      "text": "we must go"
+    },
+    {
+      "start_ms": 997131,
+      "end_ms": 999079,
+      "start": "00:16:37.131",
+      "end": "00:16:39.079",
+      "text": "first. You guys are"
+    },
+    {
+      "start_ms": 998102,
+      "end_ms": 999787,
+      "start": "00:16:38.102",
+      "end": "00:16:39.787",
+      "text": "much better at"
+    },
+    {
+      "start_ms": 998810,
+      "end_ms": 1000633,
+      "start": "00:16:38.810",
+      "end": "00:16:40.633",
+      "text": "this"
+    },
+    {
+      "start_ms": 999656,
+      "end_ms": 1001525,
+      "start": "00:16:39.656",
+      "end": "00:16:41.525",
+      "text": "than other teams that"
+    },
+    {
+      "start_ms": 1000548,
+      "end_ms": 1002510,
+      "start": "00:16:40.548",
+      "end": "00:16:42.510",
+      "text": "play slowly. And it's"
+    },
+    {
+      "start_ms": 1001535,
+      "end_ms": 1003518,
+      "start": "00:16:41.535",
+      "end": "00:16:43.518",
+      "text": "like here, when Kellen"
+    },
+    {
+      "start_ms": 1002543,
+      "end_ms": 1004198,
+      "start": "00:16:42.543",
+      "end": "00:16:44.198",
+      "text": "realizes this, you"
+    },
+    {
+      "start_ms": 1003224,
+      "end_ms": 1005005,
+      "start": "00:16:43.224",
+      "end": "00:16:45.005",
+      "text": "stop playing"
+    },
+    {
+      "start_ms": 1004030,
+      "end_ms": 1005710,
+      "start": "00:16:44.030",
+      "end": "00:16:45.710",
+      "text": "slow and he"
+    },
+    {
+      "start_ms": 1004736,
+      "end_ms": 1006466,
+      "start": "00:16:44.736",
+      "end": "00:16:46.466",
+      "text": "just breaks the"
+    },
+    {
+      "start_ms": 1005492,
+      "end_ms": 1007399,
+      "start": "00:16:45.492",
+      "end": "00:16:47.399",
+      "text": "chatter and just"
+    },
+    {
+      "start_ms": 1006424,
+      "end_ms": 1008292,
+      "start": "00:16:46.424",
+      "end": "00:16:48.292",
+      "text": "destroys Landon. And"
+    },
+    {
+      "start_ms": 1007323,
+      "end_ms": 1009260,
+      "start": "00:16:47.323",
+      "end": "00:16:49.260",
+      "text": "Seiko doesn't get"
+    },
+    {
+      "start_ms": 1008292,
+      "end_ms": 1010447,
+      "start": "00:16:48.292",
+      "end": "00:16:50.447",
+      "text": "that opportunity, because"
+    },
+    {
+      "start_ms": 1009479,
+      "end_ms": 1011416,
+      "start": "00:16:49.479",
+      "end": "00:16:51.416",
+      "text": "maybe 1 or 2 more"
+    },
+    {
+      "start_ms": 1010447,
+      "end_ms": 1012509,
+      "start": "00:16:50.447",
+      "end": "00:16:52.509",
+      "text": "seconds and Seiko and"
+    },
+    {
+      "start_ms": 1011540,
+      "end_ms": 1013509,
+      "start": "00:16:51.540",
+      "end": "00:16:53.509",
+      "text": "Kev would be on you"
+    },
+    {
+      "start_ms": 1012540,
+      "end_ms": 1014633,
+      "start": "00:16:52.540",
+      "end": "00:16:54.633",
+      "text": "guys and it would be"
+    },
+    {
+      "start_ms": 1013664,
+      "end_ms": 1015641,
+      "start": "00:16:53.664",
+      "end": "00:16:55.641",
+      "text": "over. They would"
+    },
+    {
+      "start_ms": 1014672,
+      "end_ms": 1016707,
+      "start": "00:16:54.672",
+      "end": "00:16:56.707",
+      "text": "break through to you"
+    },
+    {
+      "start_ms": 1015739,
+      "end_ms": 1017983,
+      "start": "00:16:55.739",
+      "end": "00:16:57.983",
+      "text": "guys. They probably would have"
+    },
+    {
+      "start_ms": 1017015,
+      "end_ms": 1018943,
+      "start": "00:16:57.015",
+      "end": "00:16:58.943",
+      "text": "killed"
+    },
+    {
+      "start_ms": 1017975,
+      "end_ms": 1019519,
+      "start": "00:16:57.975",
+      "end": "00:16:59.519",
+      "text": "Cavester anyway."
+    },
+    {
+      "start_ms": 1018619,
+      "end_ms": 1020845,
+      "start": "00:16:58.619",
+      "end": "00:17:00.845",
+      "text": "Yeah, I mean, that's"
+    },
+    {
+      "start_ms": 1019877,
+      "end_ms": 1022104,
+      "start": "00:16:59.877",
+      "end": "00:17:02.104",
+      "text": "honestly one"
+    },
+    {
+      "start_ms": 1021135,
+      "end_ms": 1023268,
+      "start": "00:17:01.135",
+      "end": "00:17:03.268",
+      "text": "of the benefits of"
+    },
+    {
+      "start_ms": 1022299,
+      "end_ms": 1024236,
+      "start": "00:17:02.299",
+      "end": "00:17:04.236",
+      "text": "playing slowly. I think"
+    },
+    {
+      "start_ms": 1023268,
+      "end_ms": 1025436,
+      "start": "00:17:03.268",
+      "end": "00:17:05.436",
+      "text": "slow play just"
+    },
+    {
+      "start_ms": 1024468,
+      "end_ms": 1026701,
+      "start": "00:17:04.468",
+      "end": "00:17:06.701",
+      "text": "allows you to see the"
+    },
+    {
+      "start_ms": 1025733,
+      "end_ms": 1027966,
+      "start": "00:17:05.733",
+      "end": "00:17:07.966",
+      "text": "whole map, I would say."
+    },
+    {
+      "start_ms": 1027344,
+      "end_ms": 1029529,
+      "start": "00:17:07.344",
+      "end": "00:17:09.529",
+      "text": "And just understand what"
+    },
+    {
+      "start_ms": 1028560,
+      "end_ms": 1030777,
+      "start": "00:17:08.560",
+      "end": "00:17:10.777",
+      "text": "you need to do"
+    },
+    {
+      "start_ms": 1029809,
+      "end_ms": 1031546,
+      "start": "00:17:09.809",
+      "end": "00:17:11.546",
+      "text": "when. Because"
+    },
+    {
+      "start_ms": 1030571,
+      "end_ms": 1032564,
+      "start": "00:17:10.571",
+      "end": "00:17:12.564",
+      "text": "obviously, as you said, there were"
+    },
+    {
+      "start_ms": 1031590,
+      "end_ms": 1033430,
+      "start": "00:17:11.590",
+      "end": "00:17:13.430",
+      "text": "some moments where you"
+    },
+    {
+      "start_ms": 1032455,
+      "end_ms": 1034245,
+      "start": "00:17:12.455",
+      "end": "00:17:14.245",
+      "text": "had to act quickly,"
+    },
+    {
+      "start_ms": 1033270,
+      "end_ms": 1035110,
+      "start": "00:17:13.270",
+      "end": "00:17:15.110",
+      "text": "like when we were"
+    },
+    {
+      "start_ms": 1034136,
+      "end_ms": 1036001,
+      "start": "00:17:14.136",
+      "end": "00:17:16.001",
+      "text": "breaking out of that"
+    },
+    {
+      "start_ms": 1035027,
+      "end_ms": 1036409,
+      "start": "00:17:15.027",
+      "end": "00:17:16.409",
+      "text": "room."
+    },
+    {
+      "start_ms": 1035509,
+      "end_ms": 1037910,
+      "start": "00:17:15.509",
+      "end": "00:17:17.910",
+      "text": "I agree. I"
+    },
+    {
+      "start_ms": 1036946,
+      "end_ms": 1039221,
+      "start": "00:17:16.946",
+      "end": "00:17:19.221",
+      "text": "mean, honestly,"
+    },
+    {
+      "start_ms": 1038257,
+      "end_ms": 1040568,
+      "start": "00:17:18.257",
+      "end": "00:17:20.568",
+      "text": "it reminds me a lot of"
+    },
+    {
+      "start_ms": 1039603,
+      "end_ms": 1041914,
+      "start": "00:17:19.603",
+      "end": "00:17:21.914",
+      "text": "that version of Alcada Sir"
+    },
+    {
+      "start_ms": 1040949,
+      "end_ms": 1043621,
+      "start": "00:17:20.949",
+      "end": "00:17:23.621",
+      "text": "with Junkback. They"
+    },
+    {
+      "start_ms": 1042654,
+      "end_ms": 1044827,
+      "start": "00:17:22.654",
+      "end": "00:17:24.827",
+      "text": "played a lot of games where"
+    },
+    {
+      "start_ms": 1043860,
+      "end_ms": 1045805,
+      "start": "00:17:23.860",
+      "end": "00:17:25.805",
+      "text": "their neutral"
+    },
+    {
+      "start_ms": 1044837,
+      "end_ms": 1046391,
+      "start": "00:17:24.837",
+      "end": "00:17:26.391",
+      "text": "players were the"
+    },
+    {
+      "start_ms": 1045424,
+      "end_ms": 1047401,
+      "start": "00:17:25.424",
+      "end": "00:17:27.401",
+      "text": "default, and the"
+    },
+    {
+      "start_ms": 1046434,
+      "end_ms": 1048607,
+      "start": "00:17:26.434",
+      "end": "00:17:28.607",
+      "text": "start of old fights"
+    },
+    {
+      "start_ms": 1047640,
+      "end_ms": 1049683,
+      "start": "00:17:27.640",
+      "end": "00:17:29.683",
+      "text": "was like it was"
+    },
+    {
+      "start_ms": 1048715,
+      "end_ms": 1050400,
+      "start": "00:17:28.715",
+      "end": "00:17:30.400",
+      "text": "very far"
+    },
+    {
+      "start_ms": 1049432,
+      "end_ms": 1051214,
+      "start": "00:17:29.432",
+      "end": "00:17:31.214",
+      "text": "removed, like an"
+    },
+    {
+      "start_ms": 1050247,
+      "end_ms": 1052388,
+      "start": "00:17:30.247",
+      "end": "00:17:32.388",
+      "text": "impossible to punish"
+    },
+    {
+      "start_ms": 1051420,
+      "end_ms": 1053398,
+      "start": "00:17:31.420",
+      "end": "00:17:33.398",
+      "text": "poku phase, where everything was"
+    },
+    {
+      "start_ms": 1052430,
+      "end_ms": 1054701,
+      "start": "00:17:32.430",
+      "end": "00:17:34.701",
+      "text": "based on"
+    },
+    {
+      "start_ms": 1053734,
+      "end_ms": 1055679,
+      "start": "00:17:33.734",
+      "end": "00:17:35.679",
+      "text": "seeing what the"
+    },
+    {
+      "start_ms": 1054712,
+      "end_ms": 1056657,
+      "start": "00:17:34.712",
+      "end": "00:17:36.657",
+      "text": "enemy team would do"
+    },
+    {
+      "start_ms": 1055689,
+      "end_ms": 1057634,
+      "start": "00:17:35.689",
+      "end": "00:17:37.634",
+      "text": "and then"
+    },
+    {
+      "start_ms": 1056667,
+      "end_ms": 1058677,
+      "start": "00:17:36.667",
+      "end": "00:17:38.677",
+      "text": "preparing to"
+    },
+    {
+      "start_ms": 1057710,
+      "end_ms": 1059992,
+      "start": "00:17:37.710",
+      "end": "00:17:39.992",
+      "text": "react. But"
+    },
+    {
+      "start_ms": 1059021,
+      "end_ms": 1061172,
+      "start": "00:17:39.021",
+      "end": "00:17:41.172",
+      "text": "the most difficult thing about this is"
+    },
+    {
+      "start_ms": 1060172,
+      "end_ms": 1062263,
+      "start": "00:17:40.172",
+      "end": "00:17:42.263",
+      "text": "to react correctly"
+    },
+    {
+      "start_ms": 1061293,
+      "end_ms": 1063233,
+      "start": "00:17:41.293",
+      "end": "00:17:43.233",
+      "text": "all the time. Anyone"
+    },
+    {
+      "start_ms": 1062257,
+      "end_ms": 1063970,
+      "start": "00:17:42.257",
+      "end": "00:17:43.970",
+      "text": "can hold"
+    },
+    {
+      "start_ms": 1062994,
+      "end_ms": 1064952,
+      "start": "00:17:42.994",
+      "end": "00:17:44.952",
+      "text": "a lot of space and see"
+    },
+    {
+      "start_ms": 1063952,
+      "end_ms": 1065837,
+      "start": "00:17:43.952",
+      "end": "00:17:45.837",
+      "text": "what the enemy team will do"
+    },
+    {
+      "start_ms": 1064861,
+      "end_ms": 1066842,
+      "start": "00:17:44.861",
+      "end": "00:17:46.842",
+      "text": ". And then if"
+    },
+    {
+      "start_ms": 1065864,
+      "end_ms": 1067533,
+      "start": "00:17:45.864",
+      "end": "00:17:47.533",
+      "text": "you're slow or"
+    },
+    {
+      "start_ms": 1066556,
+      "end_ms": 1068425,
+      "start": "00:17:46.556",
+      "end": "00:17:48.425",
+      "text": "make the wrong"
+    },
+    {
+      "start_ms": 1067447,
+      "end_ms": 1069183,
+      "start": "00:17:47.447",
+      "end": "00:17:49.183",
+      "text": "decision, you're just"
+    },
+    {
+      "start_ms": 1068205,
+      "end_ms": 1069896,
+      "start": "00:17:48.205",
+      "end": "00:17:49.896",
+      "text": "dying for them to"
+    },
+    {
+      "start_ms": 1068918,
+      "end_ms": 1070743,
+      "start": "00:17:48.918",
+      "end": "00:17:50.743",
+      "text": "go first, and it doesn't"
+    },
+    {
+      "start_ms": 1069766,
+      "end_ms": 1071867,
+      "start": "00:17:49.766",
+      "end": "00:17:51.867",
+      "text": "matter. When you"
+    },
+    {
+      "start_ms": 1070901,
+      "end_ms": 1073134,
+      "start": "00:17:50.901",
+      "end": "00:17:53.134",
+      "text": "guys came together as a"
+    },
+    {
+      "start_ms": 1072167,
+      "end_ms": 1074068,
+      "start": "00:17:52.167",
+      "end": "00:17:54.068",
+      "text": "team, was there a"
+    },
+    {
+      "start_ms": 1073101,
+      "end_ms": 1075134,
+      "start": "00:17:53.101",
+      "end": "00:17:55.134",
+      "text": "period where it was"
+    },
+    {
+      "start_ms": 1074168,
+      "end_ms": 1076401,
+      "start": "00:17:54.168",
+      "end": "00:17:56.401",
+      "text": "hard to connect, or did"
+    },
+    {
+      "start_ms": 1075435,
+      "end_ms": 1077502,
+      "start": "00:17:55.435",
+      "end": "00:17:57.502",
+      "text": "you just instantly"
+    },
+    {
+      "start_ms": 1076535,
+      "end_ms": 1078668,
+      "start": "00:17:56.535",
+      "end": "00:17:58.668",
+      "text": "connect with that"
+    },
+    {
+      "start_ms": 1077702,
+      "end_ms": 1080261,
+      "start": "00:17:57.702",
+      "end": "00:18:00.261",
+      "text": "style of play? Because you've"
+    },
+    {
+      "start_ms": 1079293,
+      "end_ms": 1081459,
+      "start": "00:17:59.293",
+      "end": "00:18:01.459",
+      "text": "been playing pretty much like that"
+    },
+    {
+      "start_ms": 1080491,
+      "end_ms": 1082269,
+      "start": "00:18:00.491",
+      "end": "00:18:02.269",
+      "text": "all along, right?"
+    },
+    {
+      "start_ms": 1081633,
+      "end_ms": 1083981,
+      "start": "00:18:01.633",
+      "end": "00:18:03.981",
+      "text": "I think there was such a"
+    },
+    {
+      "start_ms": 1083018,
+      "end_ms": 1085344,
+      "start": "00:18:03.018",
+      "end": "00:18:05.344",
+      "text": "short period. I"
+    },
+    {
+      "start_ms": 1084374,
+      "end_ms": 1086415,
+      "start": "00:18:04.374",
+      "end": "00:18:06.415",
+      "text": "think it was at the very"
+    },
+    {
+      "start_ms": 1085445,
+      "end_ms": 1087546,
+      "start": "00:18:05.445",
+      "end": "00:18:07.546",
+      "text": "beginning"
+    },
+    {
+      "start_ms": 1086576,
+      "end_ms": 1088469,
+      "start": "00:18:06.576",
+      "end": "00:18:08.469",
+      "text": "because we were trying to"
+    },
+    {
+      "start_ms": 1087499,
+      "end_ms": 1089570,
+      "start": "00:18:07.499",
+      "end": "00:18:09.570",
+      "text": "play these"
+    },
+    {
+      "start_ms": 1088600,
+      "end_ms": 1090493,
+      "start": "00:18:08.600",
+      "end": "00:18:10.493",
+      "text": "quick start combos,"
+    },
+    {
+      "start_ms": 1089522,
+      "end_ms": 1091653,
+      "start": "00:18:09.522",
+      "end": "00:18:11.653",
+      "text": "playing like"
+    },
+    {
+      "start_ms": 1090683,
+      "end_ms": 1092755,
+      "start": "00:18:10.683",
+      "end": "00:18:12.755",
+      "text": "Sym combos, and we were playing Kiriko"
+    },
+    {
+      "start_ms": 1091784,
+      "end_ms": 1093915,
+      "start": "00:18:11.784",
+      "end": "00:18:13.915",
+      "text": "Lucio with Luke and Lucio"
+    },
+    {
+      "start_ms": 1092945,
+      "end_ms": 1094719,
+      "start": "00:18:12.945",
+      "end": "00:18:14.719",
+      "text": "just didn't really"
+    },
+    {
+      "start_ms": 1093749,
+      "end_ms": 1095923,
+      "start": "00:18:13.749",
+      "end": "00:18:15.923",
+      "text": "work. And then"
+    },
+    {
+      "start_ms": 1094957,
+      "end_ms": 1097167,
+      "start": "00:18:14.957",
+      "end": "00:18:17.167",
+      "text": "we saw...But was it"
+    },
+    {
+      "start_ms": 1096201,
+      "end_ms": 1098515,
+      "start": "00:18:16.201",
+      "end": "00:18:18.515",
+      "text": "Zeta, I think?"
+    },
+    {
+      "start_ms": 1097615,
+      "end_ms": 1099577,
+      "start": "00:18:17.615",
+      "end": "00:18:19.577",
+      "text": "Yes, I think we"
+    },
+    {
+      "start_ms": 1098612,
+      "end_ms": 1100895,
+      "start": "00:18:18.612",
+      "end": "00:18:20.895",
+      "text": "saw Zeta play"
+    },
+    {
+      "start_ms": 1099930,
+      "end_ms": 1101893,
+      "start": "00:18:19.930",
+      "end": "00:18:21.893",
+      "text": "as Anna Illari."
+    },
+    {
+      "start_ms": 1100993,
+      "end_ms": 1102276,
+      "start": "00:18:20.993",
+      "end": "00:18:22.276",
+      "text": "Yes."
+    },
+    {
+      "start_ms": 1101376,
+      "end_ms": 1103171,
+      "start": "00:18:21.376",
+      "end": "00:18:23.171",
+      "text": "They started playing"
+    },
+    {
+      "start_ms": 1102196,
+      "end_ms": 1103942,
+      "start": "00:18:22.196",
+      "end": "00:18:23.942",
+      "text": "Anna Illari D.Va. I"
+    },
+    {
+      "start_ms": 1102967,
+      "end_ms": 1104912,
+      "start": "00:18:22.967",
+      "end": "00:18:24.912",
+      "text": "think they started"
+    },
+    {
+      "start_ms": 1103937,
+      "end_ms": 1105881,
+      "start": "00:18:23.937",
+      "end": "00:18:25.881",
+      "text": "at about the first"
+    },
+    {
+      "start_ms": 1104906,
+      "end_ms": 1106876,
+      "start": "00:18:24.906",
+      "end": "00:18:26.876",
+      "text": "stage and they said,"
+    },
+    {
+      "start_ms": 1105901,
+      "end_ms": 1107522,
+      "start": "00:18:25.901",
+      "end": "00:18:27.522",
+      "text": "\"Hey, we"
+    },
+    {
+      "start_ms": 1106547,
+      "end_ms": 1108393,
+      "start": "00:18:26.547",
+      "end": "00:18:28.393",
+      "text": "get along well with these"
+    },
+    {
+      "start_ms": 1107418,
+      "end_ms": 1109188,
+      "start": "00:18:27.418",
+      "end": "00:18:29.188",
+      "text": "characters and we"
+    },
+    {
+      "start_ms": 1108213,
+      "end_ms": 1109984,
+      "start": "00:18:28.213",
+      "end": "00:18:29.984",
+      "text": "just accept"
+    },
+    {
+      "start_ms": 1109009,
+      "end_ms": 1110904,
+      "start": "00:18:29.009",
+      "end": "00:18:30.904",
+      "text": "Virgo, so we just"
+    },
+    {
+      "start_ms": 1109929,
+      "end_ms": 1111650,
+      "start": "00:18:29.929",
+      "end": "00:18:31.650",
+      "text": "put the monkey"
+    },
+    {
+      "start_ms": 1110675,
+      "end_ms": 1112272,
+      "start": "00:18:30.675",
+      "end": "00:18:32.272",
+      "text": "in her place.\""
+    },
+    {
+      "start_ms": 1111372,
+      "end_ms": 1113263,
+      "start": "00:18:31.372",
+      "end": "00:18:33.263",
+      "text": "If you have another"
+    },
+    {
+      "start_ms": 1112289,
+      "end_ms": 1114283,
+      "start": "00:18:32.289",
+      "end": "00:18:34.283",
+      "text": "really interesting match,"
+    },
+    {
+      "start_ms": 1113308,
+      "end_ms": 1115251,
+      "start": "00:18:33.308",
+      "end": "00:18:35.251",
+      "text": "then I'll try to do"
+    },
+    {
+      "start_ms": 1114277,
+      "end_ms": 1116194,
+      "start": "00:18:34.277",
+      "end": "00:18:36.194",
+      "text": "another one, depending on"
+    },
+    {
+      "start_ms": 1115220,
+      "end_ms": 1117260,
+      "start": "00:18:35.220",
+      "end": "00:18:37.260",
+      "text": "how this one goes. I would"
+    },
+    {
+      "start_ms": 1116284,
+      "end_ms": 1118125,
+      "start": "00:18:36.284",
+      "end": "00:18:38.125",
+      "text": "take Sanji, but I do"
+    },
+    {
+      "start_ms": 1117149,
+      "end_ms": 1118822,
+      "start": "00:18:37.149",
+      "end": "00:18:38.822",
+      "text": "n't think he"
+    },
+    {
+      "start_ms": 1117846,
+      "end_ms": 1119447,
+      "start": "00:18:37.846",
+      "end": "00:18:39.447",
+      "text": "would want to give"
+    },
+    {
+      "start_ms": 1118471,
+      "end_ms": 1120408,
+      "start": "00:18:38.471",
+      "end": "00:18:40.408",
+      "text": "an interview in English,"
+    },
+    {
+      "start_ms": 1119432,
+      "end_ms": 1120745,
+      "start": "00:18:39.432",
+      "end": "00:18:40.745",
+      "text": "so"
+    },
+    {
+      "start_ms": 1119845,
+      "end_ms": 1121853,
+      "start": "00:18:39.845",
+      "end": "00:18:41.853",
+      "text": "100% no."
+    },
+    {
+      "start_ms": 1120953,
+      "end_ms": 1122665,
+      "start": "00:18:40.953",
+      "end": "00:18:42.665",
+      "text": "Although he speaks,"
+    },
+    {
+      "start_ms": 1122358,
+      "end_ms": 1124070,
+      "start": "00:18:42.358",
+      "end": "00:18:44.070",
+      "text": "he is currently fluent in"
+    },
+    {
+      "start_ms": 1123090,
+      "end_ms": 1124997,
+      "start": "00:18:43.090",
+      "end": "00:18:44.997",
+      "text": "English. I know"
+    },
+    {
+      "start_ms": 1124026,
+      "end_ms": 1126082,
+      "start": "00:18:44.026",
+      "end": "00:18:46.082",
+      "text": "what he's saying, but"
+    },
+    {
+      "start_ms": 1125182,
+      "end_ms": 1127420,
+      "start": "00:18:45.182",
+      "end": "00:18:47.420",
+      "text": "no. No, I know."
+    },
+    {
+      "start_ms": 1126520,
+      "end_ms": 1128306,
+      "start": "00:18:46.520",
+      "end": "00:18:48.306",
+      "text": "No, he's talking,"
+    },
+    {
+      "start_ms": 1127332,
+      "end_ms": 1129090,
+      "start": "00:18:47.332",
+      "end": "00:18:49.090",
+      "text": "dude. For example, in the"
+    },
+    {
+      "start_ms": 1128106,
+      "end_ms": 1129476,
+      "start": "00:18:48.106",
+      "end": "00:18:49.476",
+      "text": "Vifi match, he"
+    },
+    {
+      "start_ms": 1128492,
+      "end_ms": 1130046,
+      "start": "00:18:48.492",
+      "end": "00:18:50.046",
+      "text": "literally spoke in"
+    },
+    {
+      "start_ms": 1129063,
+      "end_ms": 1130800,
+      "start": "00:18:49.063",
+      "end": "00:18:50.800",
+      "text": "complete sentences. I'm"
+    },
+    {
+      "start_ms": 1129833,
+      "end_ms": 1131596,
+      "start": "00:18:49.833",
+      "end": "00:18:51.596",
+      "text": "like: dude,"
+    },
+    {
+      "start_ms": 1130696,
+      "end_ms": 1132285,
+      "start": "00:18:50.696",
+      "end": "00:18:52.285",
+      "text": "but he likes to"
+    },
+    {
+      "start_ms": 1131307,
+      "end_ms": 1132874,
+      "start": "00:18:51.307",
+      "end": "00:18:52.874",
+      "text": "pretend he's not"
+    },
+    {
+      "start_ms": 1131896,
+      "end_ms": 1133282,
+      "start": "00:18:51.896",
+      "end": "00:18:53.282",
+      "text": "talking."
+    },
+    {
+      "start_ms": 1132382,
+      "end_ms": 1134244,
+      "start": "00:18:52.382",
+      "end": "00:18:54.244",
+      "text": "What is he doing?"
+    }
+  ]
+}

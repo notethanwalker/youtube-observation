@@ -1,0 +1,940 @@
+{
+  "video_id": "UC8D2vBDf_0",
+  "title": "2026 Announcement",
+  "url": "https://www.youtube.com/watch?v=UC8D2vBDf_0",
+  "upload_date": "2026-02-02",
+  "duration_seconds": 311,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:20:11.080147+00:00",
+  "source_sha256": "4b2c79a9c8dfb0d2eb39c580150f2cca6e4a3510b0f31a410dee957b6d1c4a7b",
+  "source_bytes": 100853,
+  "segment_count": 131,
+  "word_count": 967,
+  "character_count": 4913,
+  "first_segment_ms": 4720,
+  "last_segment_end_ms": 312720,
+  "leading_gap_seconds": 4.72,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 4720,
+      "end_ms": 10480,
+      "start": "00:00:04.720",
+      "end": "00:00:10.480",
+      "text": "Announcement time. I decided that for"
+    },
+    {
+      "start_ms": 7919,
+      "end_ms": 12960,
+      "start": "00:00:07.919",
+      "end": "00:00:12.960",
+      "text": "2026, I'm going to do something"
+    },
+    {
+      "start_ms": 10480,
+      "end_ms": 14960,
+      "start": "00:00:10.480",
+      "end": "00:00:14.960",
+      "text": "different with my content. Um, I made a"
+    },
+    {
+      "start_ms": 12960,
+      "end_ms": 17840,
+      "start": "00:00:12.960",
+      "end": "00:00:17.840",
+      "text": "post here. I made a tweet and I also did"
+    },
+    {
+      "start_ms": 14960,
+      "end_ms": 20080,
+      "start": "00:00:14.960",
+      "end": "00:00:20.080",
+      "text": "a stream on Twitch um that explained my"
+    },
+    {
+      "start_ms": 17840,
+      "end_ms": 21600,
+      "start": "00:00:17.840",
+      "end": "00:00:21.600",
+      "text": "thoughts in this more detail if you're"
+    },
+    {
+      "start_ms": 20080,
+      "end_ms": 23119,
+      "start": "00:00:20.080",
+      "end": "00:00:23.119",
+      "text": "interested in that. But the short"
+    },
+    {
+      "start_ms": 21600,
+      "end_ms": 26960,
+      "start": "00:00:21.600",
+      "end": "00:00:26.960",
+      "text": "version of it I'll be posting here for"
+    },
+    {
+      "start_ms": 23119,
+      "end_ms": 28400,
+      "start": "00:00:23.119",
+      "end": "00:00:28.400",
+      "text": "you guys. Um, I can feel that my content"
+    },
+    {
+      "start_ms": 26960,
+      "end_ms": 31359,
+      "start": "00:00:26.960",
+      "end": "00:00:31.359",
+      "text": "is kind of being pulled in two"
+    },
+    {
+      "start_ms": 28400,
+      "end_ms": 33520,
+      "start": "00:00:28.400",
+      "end": "00:00:33.520",
+      "text": "directions where YouTube is really"
+    },
+    {
+      "start_ms": 31359,
+      "end_ms": 35680,
+      "start": "00:00:31.359",
+      "end": "00:00:35.680",
+      "text": "incentivizing me to make more mass"
+    },
+    {
+      "start_ms": 33520,
+      "end_ms": 37680,
+      "start": "00:00:33.520",
+      "end": "00:00:37.680",
+      "text": "appealing content. Obviously, that's the"
+    },
+    {
+      "start_ms": 35680,
+      "end_ms": 39200,
+      "start": "00:00:35.680",
+      "end": "00:00:39.200",
+      "text": "nature of the platform and I do want to"
+    },
+    {
+      "start_ms": 37680,
+      "end_ms": 42320,
+      "start": "00:00:37.680",
+      "end": "00:00:42.320",
+      "text": "try and grow the channel a little bit in"
+    },
+    {
+      "start_ms": 39200,
+      "end_ms": 44399,
+      "start": "00:00:39.200",
+      "end": "00:00:44.399",
+      "text": "2026. So,"
+    },
+    {
+      "start_ms": 42320,
+      "end_ms": 46879,
+      "start": "00:00:42.320",
+      "end": "00:00:46.879",
+      "text": "if you wonder what that means, if you"
+    },
+    {
+      "start_ms": 44399,
+      "end_ms": 49120,
+      "start": "00:00:44.399",
+      "end": "00:00:49.120",
+      "text": "look at my channel,"
+    },
+    {
+      "start_ms": 46879,
+      "end_ms": 51600,
+      "start": "00:00:46.879",
+      "end": "00:00:51.600",
+      "text": "I'm not going to be changing type of"
+    },
+    {
+      "start_ms": 49120,
+      "end_ms": 55520,
+      "start": "00:00:49.120",
+      "end": "00:00:55.520",
+      "text": "videos I do very much, but I'll simply"
+    },
+    {
+      "start_ms": 51600,
+      "end_ms": 57120,
+      "start": "00:00:51.600",
+      "end": "00:00:57.120",
+      "text": "be selecting the best types of of mass"
+    },
+    {
+      "start_ms": 55520,
+      "end_ms": 59920,
+      "start": "00:00:55.520",
+      "end": "00:00:59.920",
+      "text": "appealing content from what I'm already"
+    },
+    {
+      "start_ms": 57120,
+      "end_ms": 61760,
+      "start": "00:00:57.120",
+      "end": "00:01:01.760",
+      "text": "doing. So, over the almost two years"
+    },
+    {
+      "start_ms": 59920,
+      "end_ms": 64159,
+      "start": "00:00:59.920",
+      "end": "00:01:04.159",
+      "text": "I've been doing this, I have some kind"
+    },
+    {
+      "start_ms": 61760,
+      "end_ms": 66560,
+      "start": "00:01:01.760",
+      "end": "00:01:06.560",
+      "text": "of sample size of what is more mass"
+    },
+    {
+      "start_ms": 64159,
+      "end_ms": 69360,
+      "start": "00:01:04.159",
+      "end": "00:01:09.360",
+      "text": "appealing. So, for example, this type of"
+    },
+    {
+      "start_ms": 66560,
+      "end_ms": 72000,
+      "start": "00:01:06.560",
+      "end": "00:01:12.000",
+      "text": "video where it's more of a review of a"
+    },
+    {
+      "start_ms": 69360,
+      "end_ms": 74720,
+      "start": "00:01:09.360",
+      "end": "00:01:14.720",
+      "text": "general concept, uh, you know, things"
+    },
+    {
+      "start_ms": 72000,
+      "end_ms": 77200,
+      "start": "00:01:12.000",
+      "end": "00:01:17.200",
+      "text": "that lots of people actually apply and"
+    },
+    {
+      "start_ms": 74720,
+      "end_ms": 79360,
+      "start": "00:01:14.720",
+      "end": "00:01:19.360",
+      "text": "can use quickly instead of these types"
+    },
+    {
+      "start_ms": 77200,
+      "end_ms": 81280,
+      "start": "00:01:17.200",
+      "end": "00:01:21.280",
+      "text": "of things that are reviews of specific"
+    },
+    {
+      "start_ms": 79360,
+      "end_ms": 83759,
+      "start": "00:01:19.360",
+      "end": "00:01:23.759",
+      "text": "competitive teams or competitive"
+    },
+    {
+      "start_ms": 81280,
+      "end_ms": 85680,
+      "start": "00:01:21.280",
+      "end": "00:01:25.680",
+      "text": "matches. Um, I would maybe also point"
+    },
+    {
+      "start_ms": 83759,
+      "end_ms": 87600,
+      "start": "00:01:23.759",
+      "end": "00:01:27.600",
+      "text": "towards some of the earlier ones. This"
+    },
+    {
+      "start_ms": 85680,
+      "end_ms": 90000,
+      "start": "00:01:25.680",
+      "end": "00:01:30.000",
+      "text": "video for example and this video are"
+    },
+    {
+      "start_ms": 87600,
+      "end_ms": 92000,
+      "start": "00:01:27.600",
+      "end": "00:01:32.000",
+      "text": "things I'll continue to do as well as uh"
+    },
+    {
+      "start_ms": 90000,
+      "end_ms": 94240,
+      "start": "00:01:30.000",
+      "end": "00:01:34.240",
+      "text": "this stretch of three videos or maybe"
+    },
+    {
+      "start_ms": 92000,
+      "end_ms": 96640,
+      "start": "00:01:32.000",
+      "end": "00:01:36.640",
+      "text": "the best examples I can give and that"
+    },
+    {
+      "start_ms": 94240,
+      "end_ms": 98880,
+      "start": "00:01:34.240",
+      "end": "00:01:38.880",
+      "text": "will probably be the direction hopefully"
+    },
+    {
+      "start_ms": 96640,
+      "end_ms": 100799,
+      "start": "00:01:36.640",
+      "end": "00:01:40.799",
+      "text": "at least once a week maybe once every"
+    },
+    {
+      "start_ms": 98880,
+      "end_ms": 104880,
+      "start": "00:01:38.880",
+      "end": "00:01:44.880",
+      "text": "two weeks if I get lazy for the YouTube"
+    },
+    {
+      "start_ms": 100799,
+      "end_ms": 107920,
+      "start": "00:01:40.799",
+      "end": "00:01:47.920",
+      "text": "channel. Now I do want to keep doing"
+    },
+    {
+      "start_ms": 104880,
+      "end_ms": 110159,
+      "start": "00:01:44.880",
+      "end": "00:01:50.159",
+      "text": "competitive analysis. Um it's very"
+    },
+    {
+      "start_ms": 107920,
+      "end_ms": 113119,
+      "start": "00:01:47.920",
+      "end": "00:01:53.119",
+      "text": "enjoyable to me and also there's really"
+    },
+    {
+      "start_ms": 110159,
+      "end_ms": 115840,
+      "start": "00:01:50.159",
+      "end": "00:01:55.840",
+      "text": "nobody else that does it as a pro coach."
+    },
+    {
+      "start_ms": 113119,
+      "end_ms": 118240,
+      "start": "00:01:53.119",
+      "end": "00:01:58.240",
+      "text": "So, what I want to do for that is make a"
+    },
+    {
+      "start_ms": 115840,
+      "end_ms": 121280,
+      "start": "00:01:55.840",
+      "end": "00:02:01.280",
+      "text": "Patreon."
+    },
+    {
+      "start_ms": 118240,
+      "end_ms": 124320,
+      "start": "00:01:58.240",
+      "end": "00:02:04.320",
+      "text": "Let me my camera out of the way. Um, and"
+    },
+    {
+      "start_ms": 121280,
+      "end_ms": 127600,
+      "start": "00:02:01.280",
+      "end": "00:02:07.600",
+      "text": "for this, uh, I've priced it very, very"
+    },
+    {
+      "start_ms": 124320,
+      "end_ms": 129360,
+      "start": "00:02:04.320",
+      "end": "00:02:09.360",
+      "text": "reasonably. Uh, maybe unreasonably on my"
+    },
+    {
+      "start_ms": 127600,
+      "end_ms": 130720,
+      "start": "00:02:07.600",
+      "end": "00:02:10.720",
+      "text": "side. This part is pretty cheap, but"
+    },
+    {
+      "start_ms": 129360,
+      "end_ms": 132400,
+      "start": "00:02:09.360",
+      "end": "00:02:12.400",
+      "text": "right now there's two tiers. I might"
+    },
+    {
+      "start_ms": 130720,
+      "end_ms": 134800,
+      "start": "00:02:10.720",
+      "end": "00:02:14.800",
+      "text": "change this in the future. I really have"
+    },
+    {
+      "start_ms": 132400,
+      "end_ms": 136640,
+      "start": "00:02:12.400",
+      "end": "00:02:16.640",
+      "text": "no idea what the level of interest of"
+    },
+    {
+      "start_ms": 134800,
+      "end_ms": 138800,
+      "start": "00:02:14.800",
+      "end": "00:02:18.800",
+      "text": "this is and how many people are going to"
+    },
+    {
+      "start_ms": 136640,
+      "end_ms": 141040,
+      "start": "00:02:16.640",
+      "end": "00:02:21.040",
+      "text": "sign up, so how manageable this will be."
+    },
+    {
+      "start_ms": 138800,
+      "end_ms": 144959,
+      "start": "00:02:18.800",
+      "end": "00:02:24.959",
+      "text": "But for now, this is what it's set. It's"
+    },
+    {
+      "start_ms": 141040,
+      "end_ms": 147920,
+      "start": "00:02:21.040",
+      "end": "00:02:27.920",
+      "text": "a $5 tier where I will post a vote uh"
+    },
+    {
+      "start_ms": 144959,
+      "end_ms": 150000,
+      "start": "00:02:24.959",
+      "end": "00:02:30.000",
+      "text": "weekly, every Monday for the video topic"
+    },
+    {
+      "start_ms": 147920,
+      "end_ms": 151440,
+      "start": "00:02:27.920",
+      "end": "00:02:31.440",
+      "text": "that you guys want. And then on the"
+    },
+    {
+      "start_ms": 150000,
+      "end_ms": 153519,
+      "start": "00:02:30.000",
+      "end": "00:02:33.519",
+      "text": "weekend, I'll make a video covering"
+    },
+    {
+      "start_ms": 151440,
+      "end_ms": 155920,
+      "start": "00:02:31.440",
+      "end": "00:02:35.920",
+      "text": "whatever the winner of the vote is. Uh"
+    },
+    {
+      "start_ms": 153519,
+      "end_ms": 161120,
+      "start": "00:02:33.519",
+      "end": "00:02:41.120",
+      "text": "and for example, I have a post up right"
+    },
+    {
+      "start_ms": 155920,
+      "end_ms": 163760,
+      "start": "00:02:35.920",
+      "end": "00:02:43.760",
+      "text": "now, which is the first weekly one."
+    },
+    {
+      "start_ms": 161120,
+      "end_ms": 166080,
+      "start": "00:02:41.120",
+      "end": "00:02:46.080",
+      "text": "And the topics this week would be courts"
+    },
+    {
+      "start_ms": 163760,
+      "end_ms": 168319,
+      "start": "00:02:43.760",
+      "end": "00:02:48.319",
+      "text": "world finals review, DV&T world finals"
+    },
+    {
+      "start_ms": 166080,
+      "end_ms": 170080,
+      "start": "00:02:46.080",
+      "end": "00:02:50.080",
+      "text": "review, funny Astra world finals review."
+    },
+    {
+      "start_ms": 168319,
+      "end_ms": 171440,
+      "start": "00:02:48.319",
+      "end": "00:02:51.440",
+      "text": "These will probably be topical based"
+    },
+    {
+      "start_ms": 170080,
+      "end_ms": 173599,
+      "start": "00:02:50.080",
+      "end": "00:02:53.599",
+      "text": "around whatever competitions are"
+    },
+    {
+      "start_ms": 171440,
+      "end_ms": 175760,
+      "start": "00:02:51.440",
+      "end": "00:02:55.760",
+      "text": "happening. Um, for example, into the"
+    },
+    {
+      "start_ms": 173599,
+      "end_ms": 177360,
+      "start": "00:02:53.599",
+      "end": "00:02:57.360",
+      "text": "coming weeks, it's probably going to be,"
+    },
+    {
+      "start_ms": 175760,
+      "end_ms": 178959,
+      "start": "00:02:55.760",
+      "end": "00:02:58.959",
+      "text": "you know, reviews of the Korea boot"
+    },
+    {
+      "start_ms": 177360,
+      "end_ms": 181599,
+      "start": "00:02:57.360",
+      "end": "00:03:01.599",
+      "text": "camp, maybe a specific matches or"
+    },
+    {
+      "start_ms": 178959,
+      "end_ms": 183680,
+      "start": "00:02:58.959",
+      "end": "00:03:03.680",
+      "text": "specific player POVs. Um, and I might"
+    },
+    {
+      "start_ms": 181599,
+      "end_ms": 185599,
+      "start": "00:03:01.599",
+      "end": "00:03:05.599",
+      "text": "also try and balance if people are"
+    },
+    {
+      "start_ms": 183680,
+      "end_ms": 187360,
+      "start": "00:03:03.680",
+      "end": "00:03:07.360",
+      "text": "picking a ton of DPS, maybe I'll I'll"
+    },
+    {
+      "start_ms": 185599,
+      "end_ms": 191840,
+      "start": "00:03:05.599",
+      "end": "00:03:11.840",
+      "text": "work in a supportive tank just to make"
+    },
+    {
+      "start_ms": 187360,
+      "end_ms": 193920,
+      "start": "00:03:07.360",
+      "end": "00:03:13.920",
+      "text": "sure uh we cover everything. But um the"
+    },
+    {
+      "start_ms": 191840,
+      "end_ms": 195440,
+      "start": "00:03:11.840",
+      "end": "00:03:15.440",
+      "text": "other tier,"
+    },
+    {
+      "start_ms": 193920,
+      "end_ms": 198640,
+      "start": "00:03:13.920",
+      "end": "00:03:18.640",
+      "text": "let's click on this again. The other"
+    },
+    {
+      "start_ms": 195440,
+      "end_ms": 201280,
+      "start": "00:03:15.440",
+      "end": "00:03:21.280",
+      "text": "tier um is an opportunity to be directly"
+    },
+    {
+      "start_ms": 198640,
+      "end_ms": 204480,
+      "start": "00:03:18.640",
+      "end": "00:03:24.480",
+      "text": "coached by me and some capacity. Um it's"
+    },
+    {
+      "start_ms": 201280,
+      "end_ms": 207040,
+      "start": "00:03:21.280",
+      "end": "00:03:27.040",
+      "text": "$15 for access to all the above as well."
+    },
+    {
+      "start_ms": 204480,
+      "end_ms": 209840,
+      "start": "00:03:24.480",
+      "end": "00:03:29.840",
+      "text": "Um so access to the the voting and the"
+    },
+    {
+      "start_ms": 207040,
+      "end_ms": 212480,
+      "start": "00:03:27.040",
+      "end": "00:03:32.480",
+      "text": "weekly video topics, but also access to"
+    },
+    {
+      "start_ms": 209840,
+      "end_ms": 214239,
+      "start": "00:03:29.840",
+      "end": "00:03:34.239",
+      "text": "one 30 minute review a month where you"
+    },
+    {
+      "start_ms": 212480,
+      "end_ms": 217760,
+      "start": "00:03:32.480",
+      "end": "00:03:37.760",
+      "text": "can send me the code through the Patreon"
+    },
+    {
+      "start_ms": 214239,
+      "end_ms": 219440,
+      "start": "00:03:34.239",
+      "end": "00:03:39.440",
+      "text": "DM or Discord if you have me on Discord."
+    },
+    {
+      "start_ms": 217760,
+      "end_ms": 221280,
+      "start": "00:03:37.760",
+      "end": "00:03:41.280",
+      "text": "Um, and then we could do it live if you"
+    },
+    {
+      "start_ms": 219440,
+      "end_ms": 223120,
+      "start": "00:03:39.440",
+      "end": "00:03:43.120",
+      "text": "fit into one of my available time slots,"
+    },
+    {
+      "start_ms": 221280,
+      "end_ms": 224720,
+      "start": "00:03:41.280",
+      "end": "00:03:44.720",
+      "text": "probably less likely, but it would just"
+    },
+    {
+      "start_ms": 223120,
+      "end_ms": 226239,
+      "start": "00:03:43.120",
+      "end": "00:03:46.239",
+      "text": "be if you really care about having it"
+    },
+    {
+      "start_ms": 224720,
+      "end_ms": 228239,
+      "start": "00:03:44.720",
+      "end": "00:03:48.239",
+      "text": "done live or just want to be in the call"
+    },
+    {
+      "start_ms": 226239,
+      "end_ms": 230480,
+      "start": "00:03:46.239",
+      "end": "00:03:50.480",
+      "text": "with me and ask some questions over the"
+    },
+    {
+      "start_ms": 228239,
+      "end_ms": 232560,
+      "start": "00:03:48.239",
+      "end": "00:03:52.560",
+      "text": "course of it. Uh, I'll I'll list"
+    },
+    {
+      "start_ms": 230480,
+      "end_ms": 234000,
+      "start": "00:03:50.480",
+      "end": "00:03:54.000",
+      "text": "whatever available time slots I have. If"
+    },
+    {
+      "start_ms": 232560,
+      "end_ms": 236720,
+      "start": "00:03:52.560",
+      "end": "00:03:56.720",
+      "text": "not, then I can just record it for you"
+    },
+    {
+      "start_ms": 234000,
+      "end_ms": 239439,
+      "start": "00:03:54.000",
+      "end": "00:03:59.439",
+      "text": "and I can send it to you. Um, but over"
+    },
+    {
+      "start_ms": 236720,
+      "end_ms": 241920,
+      "start": "00:03:56.720",
+      "end": "00:04:01.920",
+      "text": "the course of a month, uh, $15 for a"
+    },
+    {
+      "start_ms": 239439,
+      "end_ms": 243680,
+      "start": "00:03:59.439",
+      "end": "00:04:03.680",
+      "text": "30-minute review is pretty low. My my"
+    },
+    {
+      "start_ms": 241920,
+      "end_ms": 245519,
+      "start": "00:04:01.920",
+      "end": "00:04:05.519",
+      "text": "current normal rate for sessions, I do"
+    },
+    {
+      "start_ms": 243680,
+      "end_ms": 247439,
+      "start": "00:04:03.680",
+      "end": "00:04:07.439",
+      "text": "40 an hour, so it's it's discounted off"
+    },
+    {
+      "start_ms": 245519,
+      "end_ms": 249200,
+      "start": "00:04:05.519",
+      "end": "00:04:09.200",
+      "text": "of that. Plus, it also gives you access"
+    },
+    {
+      "start_ms": 247439,
+      "end_ms": 252640,
+      "start": "00:04:07.439",
+      "end": "00:04:12.640",
+      "text": "to the $5 tier. So, it's really more"
+    },
+    {
+      "start_ms": 249200,
+      "end_ms": 255040,
+      "start": "00:04:09.200",
+      "end": "00:04:15.040",
+      "text": "like $10 for the review. Um, so it's"
+    },
+    {
+      "start_ms": 252640,
+      "end_ms": 256639,
+      "start": "00:04:12.640",
+      "end": "00:04:16.639",
+      "text": "pretty generous, but I want the"
+    },
+    {
+      "start_ms": 255040,
+      "end_ms": 260720,
+      "start": "00:04:15.040",
+      "end": "00:04:20.720",
+      "text": "opportunity"
+    },
+    {
+      "start_ms": 256639,
+      "end_ms": 262960,
+      "start": "00:04:16.639",
+      "end": "00:04:22.960",
+      "text": "to provide this type of content still um"
+    },
+    {
+      "start_ms": 260720,
+      "end_ms": 264400,
+      "start": "00:04:20.720",
+      "end": "00:04:24.400",
+      "text": "as I compete. Oh, I also didn't mention"
+    },
+    {
+      "start_ms": 262960,
+      "end_ms": 267440,
+      "start": "00:04:22.960",
+      "end": "00:04:27.440",
+      "text": "another part of this announcement is"
+    },
+    {
+      "start_ms": 264400,
+      "end_ms": 269280,
+      "start": "00:04:24.400",
+      "end": "00:04:29.280",
+      "text": "that I've joined DSG Overwatch for 2026."
+    },
+    {
+      "start_ms": 267440,
+      "end_ms": 271360,
+      "start": "00:04:27.440",
+      "end": "00:04:31.360",
+      "text": "I forgot to say that at the beginning is"
+    },
+    {
+      "start_ms": 269280,
+      "end_ms": 272560,
+      "start": "00:04:29.280",
+      "end": "00:04:32.560",
+      "text": "the reason why main reason why I'm going"
+    },
+    {
+      "start_ms": 271360,
+      "end_ms": 276000,
+      "start": "00:04:31.360",
+      "end": "00:04:36.000",
+      "text": "to be changing my content because"
+    },
+    {
+      "start_ms": 272560,
+      "end_ms": 279520,
+      "start": "00:04:32.560",
+      "end": "00:04:39.520",
+      "text": "overall I'll have a lot less time"
+    },
+    {
+      "start_ms": 276000,
+      "end_ms": 281440,
+      "start": "00:04:36.000",
+      "end": "00:04:41.440",
+      "text": "Um, and I want to keep competing. Um, I"
+    },
+    {
+      "start_ms": 279520,
+      "end_ms": 283600,
+      "start": "00:04:39.520",
+      "end": "00:04:43.600",
+      "text": "want to keep making content and I don't"
+    },
+    {
+      "start_ms": 281440,
+      "end_ms": 285440,
+      "start": "00:04:41.440",
+      "end": "00:04:45.440",
+      "text": "want to compromise too much. So, this is"
+    },
+    {
+      "start_ms": 283600,
+      "end_ms": 287680,
+      "start": "00:04:43.600",
+      "end": "00:04:47.680",
+      "text": "the best way I could think of. Do not"
+    },
+    {
+      "start_ms": 285440,
+      "end_ms": 289360,
+      "start": "00:04:45.440",
+      "end": "00:04:49.360",
+      "text": "have to compromise, but I'll be linking"
+    },
+    {
+      "start_ms": 287680,
+      "end_ms": 292400,
+      "start": "00:04:47.680",
+      "end": "00:04:52.400",
+      "text": "everything down below. And by"
+    },
+    {
+      "start_ms": 289360,
+      "end_ms": 294479,
+      "start": "00:04:49.360",
+      "end": "00:04:54.479",
+      "text": "everything, I mean the Patreon and my I"
+    },
+    {
+      "start_ms": 292400,
+      "end_ms": 296080,
+      "start": "00:04:52.400",
+      "end": "00:04:56.080",
+      "text": "don't know, my Twitter, I guess. Um, if"
+    },
+    {
+      "start_ms": 294479,
+      "end_ms": 298960,
+      "start": "00:04:54.479",
+      "end": "00:04:58.960",
+      "text": "you want to sign up, sign up. I'll try"
+    },
+    {
+      "start_ms": 296080,
+      "end_ms": 300320,
+      "start": "00:04:56.080",
+      "end": "00:05:00.320",
+      "text": "to do it uh starting this week uh for"
+    },
+    {
+      "start_ms": 298960,
+      "end_ms": 301680,
+      "start": "00:04:58.960",
+      "end": "00:05:01.680",
+      "text": "anyone. I mean, one person's already"
+    },
+    {
+      "start_ms": 300320,
+      "end_ms": 302960,
+      "start": "00:05:00.320",
+      "end": "00:05:02.960",
+      "text": "signed up this week, so right now it's"
+    },
+    {
+      "start_ms": 301680,
+      "end_ms": 304160,
+      "start": "00:05:01.680",
+      "end": "00:05:04.160",
+      "text": "just me and that guy. We're having a"
+    },
+    {
+      "start_ms": 302960,
+      "end_ms": 307440,
+      "start": "00:05:02.960",
+      "end": "00:05:07.440",
+      "text": "conversation. But if you want to join"
+    },
+    {
+      "start_ms": 304160,
+      "end_ms": 312720,
+      "start": "00:05:04.160",
+      "end": "00:05:12.720",
+      "text": "the conversation um then let me know and"
+    },
+    {
+      "start_ms": 307440,
+      "end_ms": 312720,
+      "start": "00:05:07.440",
+      "end": "00:05:12.720",
+      "text": "sign up. So see you see you later."
+    }
+  ]
+}

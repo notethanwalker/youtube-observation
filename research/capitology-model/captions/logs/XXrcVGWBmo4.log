@@ -1,0 +1,11 @@
+{
+  "video_id": "XXrcVGWBmo4",
+  "attempts": [
+    {
+      "attempt": 1,
+      "returncode": 0,
+      "elapsed_seconds": 4.345,
+      "output": "[youtube] Extracting URL: https://www.youtube.com/watch?v=XXrcVGWBmo4\n[youtube] XXrcVGWBmo4: Downloading webpage\n[youtube] XXrcVGWBmo4: Downloading web creator client config\n[youtube] XXrcVGWBmo4: Downloading player 8ab5c328-main\n[youtube] XXrcVGWBmo4: Downloading web creator player API JSON\n[youtube] XXrcVGWBmo4: Downloading tv downgraded player API JSON\nWARNING: [youtube] XXrcVGWBmo4: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS\nWARNING: [youtube] The page needs to be reloaded.\n[info] XXrcVGWBmo4: Downloading subtitles: en\nWARNING: Only images are available for download. use --list-formats to see them\nWARNING: Requested format is not available\n[info] Writing video subtitles to: /home/runner/work/youtube-observation/youtube-observation/research/capitology-model/captions/raw-json3/XXrcVGWBmo4.en.json3\nWARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\n[download] Destination: /home/runner/work/youtube-observation/youtube-observation/research/capitology-model/captions/raw-json3/XXrcVGWBmo4.en.json3\n\n[download]    1.00KiB at  Unknown B/s (00:00:00)\n[download]    3.00KiB at  Unknown B/s (00:00:00)\n[download]    7.00KiB at    5.95MiB/s (00:00:00)\n[download]   15.00KiB at    9.81MiB/s (00:00:00)\n[download]   16.80KiB at    8.86MiB/s (00:00:00)\n[download] 100% of   16.80KiB in 00:00:00 at 292.74KiB/s\n"
+    }
+  ]
+}

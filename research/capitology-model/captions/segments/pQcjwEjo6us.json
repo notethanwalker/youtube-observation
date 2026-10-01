@@ -1,0 +1,156 @@
+{
+  "video_id": "pQcjwEjo6us",
+  "title": "Can SSG Stay Alive for More Than 5 Seconds?",
+  "url": "https://www.youtube.com/watch?v=pQcjwEjo6us",
+  "upload_date": "2026-05-22",
+  "duration_seconds": 29,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:19:35.318839+00:00",
+  "source_sha256": "8548120ea1716e6fafb49f950597750a9416ba40741b81bfe3956d0d731d31d2",
+  "source_bytes": 10046,
+  "segment_count": 19,
+  "word_count": 100,
+  "character_count": 570,
+  "first_segment_ms": 0,
+  "last_segment_end_ms": 31400,
+  "leading_gap_seconds": 0.0,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 0,
+      "end_ms": 2960,
+      "start": "00:00:00.000",
+      "end": "00:00:02.960",
+      "text": "Leave."
+    },
+    {
+      "start_ms": 520,
+      "end_ms": 3960,
+      "start": "00:00:00.520",
+      "end": "00:00:03.960",
+      "text": ">> No, there's there's like"
+    },
+    {
+      "start_ms": 2960,
+      "end_ms": 5720,
+      "start": "00:00:02.960",
+      "end": "00:00:05.720",
+      "text": ">> I got a live odds to"
+    },
+    {
+      "start_ms": 3960,
+      "end_ms": 8680,
+      "start": "00:00:03.960",
+      "end": "00:00:08.680",
+      "text": ">> Nah, not picked on first turn, but like"
+    },
+    {
+      "start_ms": 5720,
+      "end_ms": 9920,
+      "start": "00:00:05.720",
+      "end": "00:00:09.920",
+      "text": "second like shortly after shortly after."
+    },
+    {
+      "start_ms": 8680,
+      "end_ms": 11600,
+      "start": "00:00:08.680",
+      "end": "00:00:11.600",
+      "text": ">> He's just not playing that."
+    },
+    {
+      "start_ms": 9920,
+      "end_ms": 12920,
+      "start": "00:00:09.920",
+      "end": "00:00:12.920",
+      "text": ">> Second turn, second turn, second turn."
+    },
+    {
+      "start_ms": 11600,
+      "end_ms": 13720,
+      "start": "00:00:11.600",
+      "end": "00:00:13.720",
+      "text": ">> Shortly after."
+    },
+    {
+      "start_ms": 12920,
+      "end_ms": 14680,
+      "start": "00:00:12.920",
+      "end": "00:00:14.680",
+      "text": ">> I'm going to I'm going to say"
+    },
+    {
+      "start_ms": 13720,
+      "end_ms": 15600,
+      "start": "00:00:13.720",
+      "end": "00:00:15.600",
+      "text": ">> I'm two submissions."
+    },
+    {
+      "start_ms": 14680,
+      "end_ms": 17480,
+      "start": "00:00:14.680",
+      "end": "00:00:17.480",
+      "text": ">> I'm two weird naked"
+    },
+    {
+      "start_ms": 15600,
+      "end_ms": 18720,
+      "start": "00:00:15.600",
+      "end": "00:00:18.720",
+      "text": ">> Yeah, yeah, there it is. Yeah, there it"
+    },
+    {
+      "start_ms": 17480,
+      "end_ms": 19840,
+      "start": "00:00:17.480",
+      "end": "00:00:19.840",
+      "text": "is. There it is."
+    },
+    {
+      "start_ms": 18720,
+      "end_ms": 21680,
+      "start": "00:00:18.720",
+      "end": "00:00:21.680",
+      "text": ">> Giving the map."
+    },
+    {
+      "start_ms": 19840,
+      "end_ms": 23600,
+      "start": "00:00:19.840",
+      "end": "00:00:23.600",
+      "text": ">> Yeah, shortly after was generally so"
+    },
+    {
+      "start_ms": 21680,
+      "end_ms": 25680,
+      "start": "00:00:21.680",
+      "end": "00:00:25.680",
+      "text": "accurate they took one turn and then"
+    },
+    {
+      "start_ms": 23600,
+      "end_ms": 28120,
+      "start": "00:00:23.600",
+      "end": "00:00:28.120",
+      "text": "like 4 seconds later Hog just walked out"
+    },
+    {
+      "start_ms": 25680,
+      "end_ms": 31400,
+      "start": "00:00:25.680",
+      "end": "00:00:31.400",
+      "text": "of the hotel and [ __ ] died."
+    },
+    {
+      "start_ms": 28120,
+      "end_ms": 31400,
+      "start": "00:00:28.120",
+      "end": "00:00:31.400",
+      "text": ">> Like four months in a row."
+    }
+  ]
+}

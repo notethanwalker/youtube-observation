@@ -1,0 +1,11 @@
+{
+  "video_id": "ln2t2rl1KYw",
+  "attempts": [
+    {
+      "attempt": 1,
+      "returncode": 0,
+      "elapsed_seconds": 3.707,
+      "output": "[youtube] Extracting URL: https://www.youtube.com/watch?v=ln2t2rl1KYw\n[youtube] ln2t2rl1KYw: Downloading webpage\n[youtube] ln2t2rl1KYw: Downloading web creator client config\n[youtube] ln2t2rl1KYw: Downloading player 8ab5c328-main\n[youtube] ln2t2rl1KYw: Downloading web creator player API JSON\n[youtube] ln2t2rl1KYw: Downloading tv downgraded player API JSON\nWARNING: [youtube] ln2t2rl1KYw: n challenge solving failed: Some formats may be missing. Ensure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS\nWARNING: [youtube] The page needs to be reloaded.\n[info] ln2t2rl1KYw: Downloading subtitles: en\nWARNING: Only images are available for download. use --list-formats to see them\nWARNING: Requested format is not available\n[info] Writing video subtitles to: /home/runner/work/youtube-observation/youtube-observation/research/capitology-model/captions/raw-json3/ln2t2rl1KYw.en.json3\nWARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\n[download] Destination: /home/runner/work/youtube-observation/youtube-observation/research/capitology-model/captions/raw-json3/ln2t2rl1KYw.en.json3\n\n[download]    1.00KiB at  Unknown B/s (00:00:00)\n[download]    3.00KiB at  Unknown B/s (00:00:00)\n[download]    7.00KiB at    4.87MiB/s (00:00:00)\n[download]   15.00KiB at    7.32MiB/s (00:00:00)\n[download]   31.00KiB at   12.44MiB/s (00:00:00)\n[download]   63.00KiB at   21.23MiB/s (00:00:00)\n[download]  127.00KiB at   35.41MiB/s (00:00:00)\n[download]  255.00KiB at   56.88MiB/s (00:00:00)\n[download]  511.00KiB at   46.99MiB/s (00:00:00)\n[download]  529.71KiB at   46.78MiB/s (00:00:00)\n[download] 100% of  529.71KiB in 00:00:00 at 3.16MiB/s\n"
+    }
+  ]
+}

@@ -1,0 +1,1654 @@
+{
+  "video_id": "E1bYy6OE_OQ",
+  "title": "How to SEE Overwatch Like GEEKAY Esports",
+  "url": "https://www.youtube.com/watch?v=E1bYy6OE_OQ",
+  "upload_date": "2025-07-02",
+  "duration_seconds": 506,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:21:32.328692+00:00",
+  "source_sha256": "29feaf7979d452d2a23e8c72dd367d54652204c270c03c075891f3072a45bd9e",
+  "source_bytes": 174059,
+  "segment_count": 233,
+  "word_count": 1652,
+  "character_count": 8724,
+  "first_segment_ms": 320,
+  "last_segment_end_ms": 505879,
+  "leading_gap_seconds": 0.32,
+  "trailing_gap_seconds": 0.121,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 320,
+      "end_ms": 4720,
+      "start": "00:00:00.320",
+      "end": "00:00:04.720",
+      "text": "There are a lot of things that I hate in"
+    },
+    {
+      "start_ms": 2240,
+      "end_ms": 6879,
+      "start": "00:00:02.240",
+      "end": "00:00:06.879",
+      "text": "Overwatch. I'm a very hateful person."
+    },
+    {
+      "start_ms": 4720,
+      "end_ms": 10080,
+      "start": "00:00:04.720",
+      "end": "00:00:10.080",
+      "text": "Maybe first and foremost among those are"
+    },
+    {
+      "start_ms": 6879,
+      "end_ms": 11759,
+      "start": "00:00:06.879",
+      "end": "00:00:11.759",
+      "text": "the terms tempo and going first. These"
+    },
+    {
+      "start_ms": 10080,
+      "end_ms": 13040,
+      "start": "00:00:10.080",
+      "end": "00:00:13.040",
+      "text": "terms get thrown around a lot by players"
+    },
+    {
+      "start_ms": 11759,
+      "end_ms": 14320,
+      "start": "00:00:11.759",
+      "end": "00:00:14.320",
+      "text": "and coaches in the pro scene in"
+    },
+    {
+      "start_ms": 13040,
+      "end_ms": 16320,
+      "start": "00:00:13.040",
+      "end": "00:00:16.320",
+      "text": "Overwatch, maybe even in your ranked"
+    },
+    {
+      "start_ms": 14320,
+      "end_ms": 18720,
+      "start": "00:00:14.320",
+      "end": "00:00:18.720",
+      "text": "games, but people really don't know what"
+    },
+    {
+      "start_ms": 16320,
+      "end_ms": 20560,
+      "start": "00:00:16.320",
+      "end": "00:00:20.560",
+      "text": "they mean. If you've ever been on a"
+    },
+    {
+      "start_ms": 18720,
+      "end_ms": 22240,
+      "start": "00:00:18.720",
+      "end": "00:00:22.240",
+      "text": "team, at some point your coach or a"
+    },
+    {
+      "start_ms": 20560,
+      "end_ms": 24240,
+      "start": "00:00:20.560",
+      "end": "00:00:24.240",
+      "text": "player on your team has told you, \"We"
+    },
+    {
+      "start_ms": 22240,
+      "end_ms": 26720,
+      "start": "00:00:22.240",
+      "end": "00:00:26.720",
+      "text": "just need to go first.\" But they've"
+    },
+    {
+      "start_ms": 24240,
+      "end_ms": 27840,
+      "start": "00:00:24.240",
+      "end": "00:00:27.840",
+      "text": "probably never told you how. I don't"
+    },
+    {
+      "start_ms": 26720,
+      "end_ms": 29359,
+      "start": "00:00:26.720",
+      "end": "00:00:29.359",
+      "text": "think I'm going to be able to do all of"
+    },
+    {
+      "start_ms": 27840,
+      "end_ms": 31679,
+      "start": "00:00:27.840",
+      "end": "00:00:31.679",
+      "text": "this in one video. It's probably going"
+    },
+    {
+      "start_ms": 29359,
+      "end_ms": 33520,
+      "start": "00:00:29.359",
+      "end": "00:00:33.520",
+      "text": "to be three videos. There are three big"
+    },
+    {
+      "start_ms": 31679,
+      "end_ms": 35760,
+      "start": "00:00:31.679",
+      "end": "00:00:35.760",
+      "text": "parts of going first. And in my opinion,"
+    },
+    {
+      "start_ms": 33520,
+      "end_ms": 37360,
+      "start": "00:00:33.520",
+      "end": "00:00:37.360",
+      "text": "each of them deserves their own video."
+    },
+    {
+      "start_ms": 35760,
+      "end_ms": 39120,
+      "start": "00:00:35.760",
+      "end": "00:00:39.120",
+      "text": "If you've ever been coached by me or"
+    },
+    {
+      "start_ms": 37360,
+      "end_ms": 40800,
+      "start": "00:00:37.360",
+      "end": "00:00:40.800",
+      "text": "watched my streams or videos, you know I"
+    },
+    {
+      "start_ms": 39120,
+      "end_ms": 43520,
+      "start": "00:00:39.120",
+      "end": "00:00:43.520",
+      "text": "talk a lot about number two, which is"
+    },
+    {
+      "start_ms": 40800,
+      "end_ms": 45360,
+      "start": "00:00:40.800",
+      "end": "00:00:45.360",
+      "text": "good setups. I have two entire videos on"
+    },
+    {
+      "start_ms": 43520,
+      "end_ms": 46879,
+      "start": "00:00:43.520",
+      "end": "00:00:46.879",
+      "text": "what good setups look like and why it's"
+    },
+    {
+      "start_ms": 45360,
+      "end_ms": 49200,
+      "start": "00:00:45.360",
+      "end": "00:00:49.200",
+      "text": "so difficult to play against good"
+    },
+    {
+      "start_ms": 46879,
+      "end_ms": 51120,
+      "start": "00:00:46.879",
+      "end": "00:00:51.120",
+      "text": "setups. What I haven't gone over yet is"
+    },
+    {
+      "start_ms": 49200,
+      "end_ms": 53920,
+      "start": "00:00:49.200",
+      "end": "00:00:53.920",
+      "text": "what kind of things go into getting a"
+    },
+    {
+      "start_ms": 51120,
+      "end_ms": 55520,
+      "start": "00:00:51.120",
+      "end": "00:00:55.520",
+      "text": "good setup. Watching the recent OWCS"
+    },
+    {
+      "start_ms": 53920,
+      "end_ms": 57440,
+      "start": "00:00:53.920",
+      "end": "00:00:57.440",
+      "text": "matches this weekend, there's night and"
+    },
+    {
+      "start_ms": 55520,
+      "end_ms": 61760,
+      "start": "00:00:55.520",
+      "end": "00:01:01.760",
+      "text": "day differences between how all of these"
+    },
+    {
+      "start_ms": 57440,
+      "end_ms": 63120,
+      "start": "00:00:57.440",
+      "end": "00:01:03.120",
+      "text": "teams do step one, sight maxing. Now, if"
+    },
+    {
+      "start_ms": 61760,
+      "end_ms": 64799,
+      "start": "00:01:01.760",
+      "end": "00:01:04.799",
+      "text": "you've been around Overwatch, you might"
+    },
+    {
+      "start_ms": 63120,
+      "end_ms": 66080,
+      "start": "00:01:03.120",
+      "end": "00:01:06.080",
+      "text": "hear people use the term scouting. And"
+    },
+    {
+      "start_ms": 64799,
+      "end_ms": 68080,
+      "start": "00:01:04.799",
+      "end": "00:01:08.080",
+      "text": "you might think, isn't that the same"
+    },
+    {
+      "start_ms": 66080,
+      "end_ms": 70000,
+      "start": "00:01:06.080",
+      "end": "00:01:10.000",
+      "text": "thing? The reason I'm not using the word"
+    },
+    {
+      "start_ms": 68080,
+      "end_ms": 71680,
+      "start": "00:01:08.080",
+      "end": "00:01:11.680",
+      "text": "scouting specifically is because to me,"
+    },
+    {
+      "start_ms": 70000,
+      "end_ms": 74000,
+      "start": "00:01:10.000",
+      "end": "00:01:14.000",
+      "text": "scouting is looking for a specific"
+    },
+    {
+      "start_ms": 71680,
+      "end_ms": 75920,
+      "start": "00:01:11.680",
+      "end": "00:01:15.920",
+      "text": "person. While it's kind of a nitpicky"
+    },
+    {
+      "start_ms": 74000,
+      "end_ms": 78560,
+      "start": "00:01:14.000",
+      "end": "00:01:18.560",
+      "text": "difference, site maxing is just"
+    },
+    {
+      "start_ms": 75920,
+      "end_ms": 80640,
+      "start": "00:01:15.920",
+      "end": "00:01:20.640",
+      "text": "everybody seeing as much as possible."
+    },
+    {
+      "start_ms": 78560,
+      "end_ms": 82320,
+      "start": "00:01:18.560",
+      "end": "00:01:22.320",
+      "text": "The winning team, GK Esports, is one of"
+    },
+    {
+      "start_ms": 80640,
+      "end_ms": 84320,
+      "start": "00:01:20.640",
+      "end": "00:01:24.320",
+      "text": "the best examples of sight maxing I've"
+    },
+    {
+      "start_ms": 82320,
+      "end_ms": 86560,
+      "start": "00:01:22.320",
+      "end": "00:01:26.560",
+      "text": "ever seen in the sport. So, what exactly"
+    },
+    {
+      "start_ms": 84320,
+      "end_ms": 88479,
+      "start": "00:01:24.320",
+      "end": "00:01:28.479",
+      "text": "is sight maxing? The idea is pretty"
+    },
+    {
+      "start_ms": 86560,
+      "end_ms": 90479,
+      "start": "00:01:26.560",
+      "end": "00:01:30.479",
+      "text": "simple. Everybody on my team should see"
+    },
+    {
+      "start_ms": 88479,
+      "end_ms": 92159,
+      "start": "00:01:28.479",
+      "end": "00:01:32.159",
+      "text": "as much as possible. While it doesn't"
+    },
+    {
+      "start_ms": 90479,
+      "end_ms": 94560,
+      "start": "00:01:30.479",
+      "end": "00:01:34.560",
+      "text": "sound that complicated, it's more"
+    },
+    {
+      "start_ms": 92159,
+      "end_ms": 96320,
+      "start": "00:01:32.159",
+      "end": "00:01:36.320",
+      "text": "difficult to do in practice. Obviously,"
+    },
+    {
+      "start_ms": 94560,
+      "end_ms": 98159,
+      "start": "00:01:34.560",
+      "end": "00:01:38.159",
+      "text": "I could sit in front of everybody if I'm"
+    },
+    {
+      "start_ms": 96320,
+      "end_ms": 100320,
+      "start": "00:01:36.320",
+      "end": "00:01:40.320",
+      "text": "lethal, for example, and just see"
+    },
+    {
+      "start_ms": 98159,
+      "end_ms": 102400,
+      "start": "00:01:38.159",
+      "end": "00:01:42.400",
+      "text": "everything. Also, obviously though, you"
+    },
+    {
+      "start_ms": 100320,
+      "end_ms": 104479,
+      "start": "00:01:40.320",
+      "end": "00:01:44.479",
+      "text": "can't play here because you'll just die."
+    },
+    {
+      "start_ms": 102400,
+      "end_ms": 106320,
+      "start": "00:01:42.400",
+      "end": "00:01:46.320",
+      "text": "So, what sets GK apart from the rest of"
+    },
+    {
+      "start_ms": 104479,
+      "end_ms": 108880,
+      "start": "00:01:44.479",
+      "end": "00:01:48.880",
+      "text": "the other teams? There's two examples"
+    },
+    {
+      "start_ms": 106320,
+      "end_ms": 110720,
+      "start": "00:01:46.320",
+      "end": "00:01:50.720",
+      "text": "we'll look at. And the first one, GK is"
+    },
+    {
+      "start_ms": 108880,
+      "end_ms": 112240,
+      "start": "00:01:48.880",
+      "end": "00:01:52.240",
+      "text": "defending circuit. Second point,"
+    },
+    {
+      "start_ms": 110720,
+      "end_ms": 114479,
+      "start": "00:01:50.720",
+      "end": "00:01:54.479",
+      "text": "nightmares retaken here across the"
+    },
+    {
+      "start_ms": 112240,
+      "end_ms": 116320,
+      "start": "00:01:52.240",
+      "end": "00:01:56.320",
+      "text": "corner. If you look at what everybody"
+    },
+    {
+      "start_ms": 114479,
+      "end_ms": 117840,
+      "start": "00:01:54.479",
+      "end": "00:01:57.840",
+      "text": "can see on the screen right now, it's"
+    },
+    {
+      "start_ms": 116320,
+      "end_ms": 120240,
+      "start": "00:01:56.320",
+      "end": "00:02:00.240",
+      "text": "pretty obvious that almost everyone on"
+    },
+    {
+      "start_ms": 117840,
+      "end_ms": 121920,
+      "start": "00:01:57.840",
+      "end": "00:02:01.920",
+      "text": "GK has incredible vision. But this isn't"
+    },
+    {
+      "start_ms": 120240,
+      "end_ms": 123439,
+      "start": "00:02:00.240",
+      "end": "00:02:03.439",
+      "text": "actually the difference maker. The"
+    },
+    {
+      "start_ms": 121920,
+      "end_ms": 125439,
+      "start": "00:02:01.920",
+      "end": "00:02:05.439",
+      "text": "difference maker is what happened before"
+    },
+    {
+      "start_ms": 123439,
+      "end_ms": 129479,
+      "start": "00:02:03.439",
+      "end": "00:02:09.479",
+      "text": "this. Here GK's winning the previous"
+    },
+    {
+      "start_ms": 125439,
+      "end_ms": 129479,
+      "start": "00:02:05.439",
+      "end": "00:02:09.479",
+      "text": "fight. Let's play it out."
+    },
+    {
+      "start_ms": 134319,
+      "end_ms": 138080,
+      "start": "00:02:14.319",
+      "end": "00:02:18.080",
+      "text": "Look at how they set up after winning"
+    },
+    {
+      "start_ms": 135680,
+      "end_ms": 140720,
+      "start": "00:02:15.680",
+      "end": "00:02:20.720",
+      "text": "the fight. Kuffa is 5 meters from"
+    },
+    {
+      "start_ms": 138080,
+      "end_ms": 142879,
+      "start": "00:02:18.080",
+      "end": "00:02:22.879",
+      "text": "touching the spawn door. Everybody on GK"
+    },
+    {
+      "start_ms": 140720,
+      "end_ms": 145200,
+      "start": "00:02:20.720",
+      "end": "00:02:25.200",
+      "text": "is taking absolutely everything they can"
+    },
+    {
+      "start_ms": 142879,
+      "end_ms": 147280,
+      "start": "00:02:22.879",
+      "end": "00:02:27.280",
+      "text": "in between fights. The vision here is"
+    },
+    {
+      "start_ms": 145200,
+      "end_ms": 149520,
+      "start": "00:02:25.200",
+      "end": "00:02:29.520",
+      "text": "absolutely off the charts. Everybody can"
+    },
+    {
+      "start_ms": 147280,
+      "end_ms": 151520,
+      "start": "00:02:27.280",
+      "end": "00:02:31.520",
+      "text": "see to the spawn door and past it. What"
+    },
+    {
+      "start_ms": 149520,
+      "end_ms": 153200,
+      "start": "00:02:29.520",
+      "end": "00:02:33.200",
+      "text": "this is going to allow GK to do is the"
+    },
+    {
+      "start_ms": 151520,
+      "end_ms": 155519,
+      "start": "00:02:31.520",
+      "end": "00:02:35.519",
+      "text": "second Nightmare tries to set up"
+    },
+    {
+      "start_ms": 153200,
+      "end_ms": 156959,
+      "start": "00:02:33.200",
+      "end": "00:02:36.959",
+      "text": "anything, GK is going to know about it."
+    },
+    {
+      "start_ms": 155519,
+      "end_ms": 158640,
+      "start": "00:02:35.519",
+      "end": "00:02:38.640",
+      "text": "Even if they don't want to fight here,"
+    },
+    {
+      "start_ms": 156959,
+      "end_ms": 160640,
+      "start": "00:02:36.959",
+      "end": "00:02:40.640",
+      "text": "and they usually don't, this is the"
+    },
+    {
+      "start_ms": 158640,
+      "end_ms": 162879,
+      "start": "00:02:38.640",
+      "end": "00:02:42.879",
+      "text": "first part of the fight. As soon as"
+    },
+    {
+      "start_ms": 160640,
+      "end_ms": 164160,
+      "start": "00:02:40.640",
+      "end": "00:02:44.160",
+      "text": "anyone on Nightmare tries to set up, GK"
+    },
+    {
+      "start_ms": 162879,
+      "end_ms": 166239,
+      "start": "00:02:42.879",
+      "end": "00:02:46.239",
+      "text": "will know about it and be able to"
+    },
+    {
+      "start_ms": 164160,
+      "end_ms": 168319,
+      "start": "00:02:44.160",
+      "end": "00:02:48.319",
+      "text": "respond to it quickly. If they want to"
+    },
+    {
+      "start_ms": 166239,
+      "end_ms": 169920,
+      "start": "00:02:46.239",
+      "end": "00:02:49.920",
+      "text": "fight here, it's an oppressive setup. If"
+    },
+    {
+      "start_ms": 168319,
+      "end_ms": 171680,
+      "start": "00:02:48.319",
+      "end": "00:02:51.680",
+      "text": "they don't, they can go behind this"
+    },
+    {
+      "start_ms": 169920,
+      "end_ms": 173440,
+      "start": "00:02:49.920",
+      "end": "00:02:53.440",
+      "text": "corner. Nobody on Nightmare knows where"
+    },
+    {
+      "start_ms": 171680,
+      "end_ms": 175440,
+      "start": "00:02:51.680",
+      "end": "00:02:55.440",
+      "text": "they are, but everybody on GK knows"
+    },
+    {
+      "start_ms": 173440,
+      "end_ms": 177200,
+      "start": "00:02:53.440",
+      "end": "00:02:57.200",
+      "text": "where Nightmare is. If we watch from"
+    },
+    {
+      "start_ms": 175440,
+      "end_ms": 179200,
+      "start": "00:02:55.440",
+      "end": "00:02:59.200",
+      "text": "here, you'll see GK decides not to fight"
+    },
+    {
+      "start_ms": 177200,
+      "end_ms": 180480,
+      "start": "00:02:57.200",
+      "end": "00:03:00.480",
+      "text": "here, and they go behind the corner. If"
+    },
+    {
+      "start_ms": 179200,
+      "end_ms": 183200,
+      "start": "00:02:59.200",
+      "end": "00:03:03.200",
+      "text": "you watch from the Nightmare players"
+    },
+    {
+      "start_ms": 180480,
+      "end_ms": 186319,
+      "start": "00:03:00.480",
+      "end": "00:03:06.319",
+      "text": "POVs, it's really difficult. Painkiller"
+    },
+    {
+      "start_ms": 183200,
+      "end_ms": 188560,
+      "start": "00:03:03.200",
+      "end": "00:03:08.560",
+      "text": "sees one person, Rocket sees one person,"
+    },
+    {
+      "start_ms": 186319,
+      "end_ms": 190800,
+      "start": "00:03:06.319",
+      "end": "00:03:10.800",
+      "text": "Chronic doesn't see anyone, and Lap and"
+    },
+    {
+      "start_ms": 188560,
+      "end_ms": 192239,
+      "start": "00:03:08.560",
+      "end": "00:03:12.239",
+      "text": "Luke also don't see anyone. The GK"
+    },
+    {
+      "start_ms": 190800,
+      "end_ms": 194239,
+      "start": "00:03:10.800",
+      "end": "00:03:14.239",
+      "text": "players, however, know where everybody"
+    },
+    {
+      "start_ms": 192239,
+      "end_ms": 196080,
+      "start": "00:03:12.239",
+      "end": "00:03:16.080",
+      "text": "on Nightmare is. We just poked them and"
+    },
+    {
+      "start_ms": 194239,
+      "end_ms": 197840,
+      "start": "00:03:14.239",
+      "end": "00:03:17.840",
+      "text": "gave the corner on purpose. This means"
+    },
+    {
+      "start_ms": 196080,
+      "end_ms": 201080,
+      "start": "00:03:16.080",
+      "end": "00:03:21.080",
+      "text": "we can camp the corner and go whenever"
+    },
+    {
+      "start_ms": 197840,
+      "end_ms": 201080,
+      "start": "00:03:17.840",
+      "end": "00:03:21.080",
+      "text": "we want."
+    },
+    {
+      "start_ms": 203680,
+      "end_ms": 210040,
+      "start": "00:03:23.680",
+      "end": "00:03:30.040",
+      "text": "This ends now. This is an easy slam dunk"
+    },
+    {
+      "start_ms": 206080,
+      "end_ms": 210040,
+      "start": "00:03:26.080",
+      "end": "00:03:30.040",
+      "text": "overclock for lethal. Here"
+    },
+    {
+      "start_ms": 213599,
+      "end_ms": 217120,
+      "start": "00:03:33.599",
+      "end": "00:03:37.120",
+      "text": "on New Junk City, the roles are"
+    },
+    {
+      "start_ms": 214879,
+      "end_ms": 219360,
+      "start": "00:03:34.879",
+      "end": "00:03:39.360",
+      "text": "reversed. Nightmare has the same general"
+    },
+    {
+      "start_ms": 217120,
+      "end_ms": 221519,
+      "start": "00:03:37.120",
+      "end": "00:03:41.519",
+      "text": "plan to overclock first that GK did on"
+    },
+    {
+      "start_ms": 219360,
+      "end_ms": 223599,
+      "start": "00:03:39.360",
+      "end": "00:03:43.599",
+      "text": "Circuit. The big difference, however, is"
+    },
+    {
+      "start_ms": 221519,
+      "end_ms": 224959,
+      "start": "00:03:41.519",
+      "end": "00:03:44.959",
+      "text": "the sight maxing. If you look at the way"
+    },
+    {
+      "start_ms": 223599,
+      "end_ms": 226480,
+      "start": "00:03:43.599",
+      "end": "00:03:46.480",
+      "text": "Nightmare sets up in between these"
+    },
+    {
+      "start_ms": 224959,
+      "end_ms": 228480,
+      "start": "00:03:44.959",
+      "end": "00:03:48.480",
+      "text": "fights, it becomes obvious how different"
+    },
+    {
+      "start_ms": 226480,
+      "end_ms": 231799,
+      "start": "00:03:46.480",
+      "end": "00:03:51.799",
+      "text": "it is from what GK is doing. Let's watch"
+    },
+    {
+      "start_ms": 228480,
+      "end_ms": 231799,
+      "start": "00:03:48.480",
+      "end": "00:03:51.799",
+      "text": "them set up."
+    },
+    {
+      "start_ms": 234159,
+      "end_ms": 237439,
+      "start": "00:03:54.159",
+      "end": "00:03:57.439",
+      "text": "They've been given an inch and they took"
+    },
+    {
+      "start_ms": 235760,
+      "end_ms": 239599,
+      "start": "00:03:55.760",
+      "end": "00:03:59.599",
+      "text": "one inch. You're supposed to take a"
+    },
+    {
+      "start_ms": 237439,
+      "end_ms": 241280,
+      "start": "00:03:57.439",
+      "end": "00:04:01.280",
+      "text": "mile. We need to start in a position"
+    },
+    {
+      "start_ms": 239599,
+      "end_ms": 243120,
+      "start": "00:03:59.599",
+      "end": "00:04:03.120",
+      "text": "where we can see them before they get to"
+    },
+    {
+      "start_ms": 241280,
+      "end_ms": 244400,
+      "start": "00:04:01.280",
+      "end": "00:04:04.400",
+      "text": "set up at all. And if we decide we don't"
+    },
+    {
+      "start_ms": 243120,
+      "end_ms": 245519,
+      "start": "00:04:03.120",
+      "end": "00:04:05.519",
+      "text": "want to fight there, then we can back up"
+    },
+    {
+      "start_ms": 244400,
+      "end_ms": 247120,
+      "start": "00:04:04.400",
+      "end": "00:04:07.120",
+      "text": "to the real position we're going to"
+    },
+    {
+      "start_ms": 245519,
+      "end_ms": 248480,
+      "start": "00:04:05.519",
+      "end": "00:04:08.480",
+      "text": "fight from. Here, all the nightmare"
+    },
+    {
+      "start_ms": 247120,
+      "end_ms": 250720,
+      "start": "00:04:07.120",
+      "end": "00:04:10.720",
+      "text": "players start in the position they want"
+    },
+    {
+      "start_ms": 248480,
+      "end_ms": 252480,
+      "start": "00:04:08.480",
+      "end": "00:04:12.480",
+      "text": "to fight from. This means GK gets the"
+    },
+    {
+      "start_ms": 250720,
+      "end_ms": 253599,
+      "start": "00:04:10.720",
+      "end": "00:04:13.599",
+      "text": "chance to outplay them. If you quickly"
+    },
+    {
+      "start_ms": 252480,
+      "end_ms": 255920,
+      "start": "00:04:12.480",
+      "end": "00:04:15.920",
+      "text": "flip through all the nightmare players"
+    },
+    {
+      "start_ms": 253599,
+      "end_ms": 257600,
+      "start": "00:04:13.599",
+      "end": "00:04:17.600",
+      "text": "POVs, it becomes super obvious. Rocket's"
+    },
+    {
+      "start_ms": 255920,
+      "end_ms": 259680,
+      "start": "00:04:15.920",
+      "end": "00:04:19.680",
+      "text": "looking at a wall. Chronic is looking at"
+    },
+    {
+      "start_ms": 257600,
+      "end_ms": 261519,
+      "start": "00:04:17.600",
+      "end": "00:04:21.519",
+      "text": "a wall. Painkiller is looking at a wall."
+    },
+    {
+      "start_ms": 259680,
+      "end_ms": 263600,
+      "start": "00:04:19.680",
+      "end": "00:04:23.600",
+      "text": "Lep is looking at a wall. And Luke is"
+    },
+    {
+      "start_ms": 261519,
+      "end_ms": 265600,
+      "start": "00:04:21.519",
+      "end": "00:04:25.600",
+      "text": "also looking at a wall. We are wall"
+    },
+    {
+      "start_ms": 263600,
+      "end_ms": 266880,
+      "start": "00:04:23.600",
+      "end": "00:04:26.880",
+      "text": "maxing. Unfortunately, that means we"
+    },
+    {
+      "start_ms": 265600,
+      "end_ms": 268320,
+      "start": "00:04:25.600",
+      "end": "00:04:28.320",
+      "text": "miss the timing for the overclock. And"
+    },
+    {
+      "start_ms": 266880,
+      "end_ms": 270240,
+      "start": "00:04:26.880",
+      "end": "00:04:30.240",
+      "text": "they're able to force out rocket hard"
+    },
+    {
+      "start_ms": 268320,
+      "end_ms": 271840,
+      "start": "00:04:28.320",
+      "end": "00:04:31.840",
+      "text": "before anybody does anything. This is"
+    },
+    {
+      "start_ms": 270240,
+      "end_ms": 273919,
+      "start": "00:04:30.240",
+      "end": "00:04:33.919",
+      "text": "the difference maker between going first"
+    },
+    {
+      "start_ms": 271840,
+      "end_ms": 276000,
+      "start": "00:04:31.840",
+      "end": "00:04:36.000",
+      "text": "and dying. Another difficult example"
+    },
+    {
+      "start_ms": 273919,
+      "end_ms": 277600,
+      "start": "00:04:33.919",
+      "end": "00:04:37.600",
+      "text": "comes from SSG. In this fight from when"
+    },
+    {
+      "start_ms": 276000,
+      "end_ms": 280240,
+      "start": "00:04:36.000",
+      "end": "00:04:40.240",
+      "text": "they played Nightmare, both teams just"
+    },
+    {
+      "start_ms": 277600,
+      "end_ms": 282479,
+      "start": "00:04:37.600",
+      "end": "00:04:42.479",
+      "text": "have both DPS. If you watch the way the"
+    },
+    {
+      "start_ms": 280240,
+      "end_ms": 284000,
+      "start": "00:04:40.240",
+      "end": "00:04:44.000",
+      "text": "SSG sets themselves up to see things in"
+    },
+    {
+      "start_ms": 282479,
+      "end_ms": 285759,
+      "start": "00:04:42.479",
+      "end": "00:04:45.759",
+      "text": "this fight, you'll notice that they"
+    },
+    {
+      "start_ms": 284000,
+      "end_ms": 287360,
+      "start": "00:04:44.000",
+      "end": "00:04:47.360",
+      "text": "effectively see nothing. The important"
+    },
+    {
+      "start_ms": 285759,
+      "end_ms": 289199,
+      "start": "00:04:45.759",
+      "end": "00:04:49.199",
+      "text": "things I need to see to not let the"
+    },
+    {
+      "start_ms": 287360,
+      "end_ms": 290800,
+      "start": "00:04:47.360",
+      "end": "00:04:50.800",
+      "text": "enemy team set up first is I need to"
+    },
+    {
+      "start_ms": 289199,
+      "end_ms": 292560,
+      "start": "00:04:49.199",
+      "end": "00:04:52.560",
+      "text": "know who is going here and I need to"
+    },
+    {
+      "start_ms": 290800,
+      "end_ms": 294240,
+      "start": "00:04:50.800",
+      "end": "00:04:54.240",
+      "text": "know who was turning this corner. I"
+    },
+    {
+      "start_ms": 292560,
+      "end_ms": 296160,
+      "start": "00:04:52.560",
+      "end": "00:04:56.160",
+      "text": "can't let the Genji or the Sojun get"
+    },
+    {
+      "start_ms": 294240,
+      "end_ms": 298880,
+      "start": "00:04:54.240",
+      "end": "00:04:58.880",
+      "text": "here to and I can't let the Sojun get"
+    },
+    {
+      "start_ms": 296160,
+      "end_ms": 301120,
+      "start": "00:04:56.160",
+      "end": "00:05:01.120",
+      "text": "here to. I absolutely definitely cannot"
+    },
+    {
+      "start_ms": 298880,
+      "end_ms": 302479,
+      "start": "00:04:58.880",
+      "end": "00:05:02.479",
+      "text": "let either enemy DPS get here to or the"
+    },
+    {
+      "start_ms": 301120,
+      "end_ms": 303919,
+      "start": "00:05:01.120",
+      "end": "00:05:03.919",
+      "text": "game is over. So, what kind of"
+    },
+    {
+      "start_ms": 302479,
+      "end_ms": 305280,
+      "start": "00:05:02.479",
+      "end": "00:05:05.280",
+      "text": "positioning would I like from everyone?"
+    },
+    {
+      "start_ms": 303919,
+      "end_ms": 307120,
+      "start": "00:05:03.919",
+      "end": "00:05:07.120",
+      "text": "Well, we're coming back from spawn, but"
+    },
+    {
+      "start_ms": 305280,
+      "end_ms": 309280,
+      "start": "00:05:05.280",
+      "end": "00:05:09.280",
+      "text": "if we have time, I want to see here. I"
+    },
+    {
+      "start_ms": 307120,
+      "end_ms": 310960,
+      "start": "00:05:07.120",
+      "end": "00:05:10.960",
+      "text": "want to see here and I want to see here."
+    },
+    {
+      "start_ms": 309280,
+      "end_ms": 314360,
+      "start": "00:05:09.280",
+      "end": "00:05:14.360",
+      "text": "Let's take a look at what SSG actually"
+    },
+    {
+      "start_ms": 310960,
+      "end_ms": 314360,
+      "start": "00:05:10.960",
+      "end": "00:05:14.360",
+      "text": "ends up seeing."
+    },
+    {
+      "start_ms": 321039,
+      "end_ms": 324880,
+      "start": "00:05:21.039",
+      "end": "00:05:24.880",
+      "text": "So, what happened? Rocket gets to set up"
+    },
+    {
+      "start_ms": 323120,
+      "end_ms": 326240,
+      "start": "00:05:23.120",
+      "end": "00:05:26.240",
+      "text": "top left. He's going to pull his blade"
+    },
+    {
+      "start_ms": 324880,
+      "end_ms": 328240,
+      "start": "00:05:24.880",
+      "end": "00:05:28.240",
+      "text": "out because we aren't able to stop his"
+    },
+    {
+      "start_ms": 326240,
+      "end_ms": 332600,
+      "start": "00:05:26.240",
+      "end": "00:05:32.600",
+      "text": "setup. And when Rocket is in the air and"
+    },
+    {
+      "start_ms": 328240,
+      "end_ms": 332600,
+      "start": "00:05:28.240",
+      "end": "00:05:32.600",
+      "text": "we hear the Genji voice line of doom,"
+    },
+    {
+      "start_ms": 332880,
+      "end_ms": 339520,
+      "start": "00:05:32.880",
+      "end": "00:05:39.520",
+      "text": "what do you think everybody sees?"
+    },
+    {
+      "start_ms": 335280,
+      "end_ms": 341199,
+      "start": "00:05:35.280",
+      "end": "00:05:41.199",
+      "text": "Nothing. Nothing. Nothing. Nothing. And"
+    },
+    {
+      "start_ms": 339520,
+      "end_ms": 342479,
+      "start": "00:05:39.520",
+      "end": "00:05:42.479",
+      "text": "nothing. Unfortunately, Rocket is"
+    },
+    {
+      "start_ms": 341199,
+      "end_ms": 345960,
+      "start": "00:05:41.199",
+      "end": "00:05:45.960",
+      "text": "invisible and he's going to kill our"
+    },
+    {
+      "start_ms": 342479,
+      "end_ms": 345960,
+      "start": "00:05:42.479",
+      "end": "00:05:45.960",
+      "text": "whole team. Now,"
+    },
+    {
+      "start_ms": 348240,
+      "end_ms": 352080,
+      "start": "00:05:48.240",
+      "end": "00:05:52.080",
+      "text": "if we want one more good example, we"
+    },
+    {
+      "start_ms": 350160,
+      "end_ms": 355880,
+      "start": "00:05:50.160",
+      "end": "00:05:55.880",
+      "text": "have to go back to GK. Here, we want to"
+    },
+    {
+      "start_ms": 352080,
+      "end_ms": 355880,
+      "start": "00:05:52.080",
+      "end": "00:05:55.880",
+      "text": "fight around the middle of Runasappi."
+    },
+    {
+      "start_ms": 358320,
+      "end_ms": 361759,
+      "start": "00:05:58.320",
+      "end": "00:06:01.759",
+      "text": "The fight was one in the middle of the"
+    },
+    {
+      "start_ms": 359680,
+      "end_ms": 363280,
+      "start": "00:05:59.680",
+      "end": "00:06:03.280",
+      "text": "map. The card is here. If you had to"
+    },
+    {
+      "start_ms": 361759,
+      "end_ms": 365039,
+      "start": "00:06:01.759",
+      "end": "00:06:05.039",
+      "text": "guess where GK is going to set up,"
+    },
+    {
+      "start_ms": 363280,
+      "end_ms": 367039,
+      "start": "00:06:03.280",
+      "end": "00:06:07.039",
+      "text": "where's it going to be? If you guessed"
+    },
+    {
+      "start_ms": 365039,
+      "end_ms": 371080,
+      "start": "00:06:05.039",
+      "end": "00:06:11.080",
+      "text": "here overclocking in spawn, then you're"
+    },
+    {
+      "start_ms": 367039,
+      "end_ms": 371080,
+      "start": "00:06:07.039",
+      "end": "00:06:11.080",
+      "text": "correct. Hello."
+    },
+    {
+      "start_ms": 372639,
+      "end_ms": 376560,
+      "start": "00:06:12.639",
+      "end": "00:06:16.560",
+      "text": "Lethal quickly sets up so he can see"
+    },
+    {
+      "start_ms": 374720,
+      "end_ms": 378319,
+      "start": "00:06:14.720",
+      "end": "00:06:18.319",
+      "text": "everybody on Liquid before anybody is"
+    },
+    {
+      "start_ms": 376560,
+      "end_ms": 380160,
+      "start": "00:06:16.560",
+      "end": "00:06:20.160",
+      "text": "able to set up. Lethal has visual"
+    },
+    {
+      "start_ms": 378319,
+      "end_ms": 381520,
+      "start": "00:06:18.319",
+      "end": "00:06:21.520",
+      "text": "control of the entire walk up. An"
+    },
+    {
+      "start_ms": 380160,
+      "end_ms": 383039,
+      "start": "00:06:20.160",
+      "end": "00:06:23.039",
+      "text": "overclock here is probably not going to"
+    },
+    {
+      "start_ms": 381520,
+      "end_ms": 385280,
+      "start": "00:06:21.520",
+      "end": "00:06:25.280",
+      "text": "get many kills, but it's going to allow"
+    },
+    {
+      "start_ms": 383039,
+      "end_ms": 387039,
+      "start": "00:06:23.039",
+      "end": "00:06:27.039",
+      "text": "GK to constantly stay in control of the"
+    },
+    {
+      "start_ms": 385280,
+      "end_ms": 388880,
+      "start": "00:06:25.280",
+      "end": "00:06:28.880",
+      "text": "setup. Liquid is forced to hide and they"
+    },
+    {
+      "start_ms": 387039,
+      "end_ms": 390560,
+      "start": "00:06:27.039",
+      "end": "00:06:30.560",
+      "text": "want to re-engage afterwards. However,"
+    },
+    {
+      "start_ms": 388880,
+      "end_ms": 392319,
+      "start": "00:06:28.880",
+      "end": "00:06:32.319",
+      "text": "because of the way GK played this early"
+    },
+    {
+      "start_ms": 390560,
+      "end_ms": 394319,
+      "start": "00:06:30.560",
+      "end": "00:06:34.319",
+      "text": "fight in the early overclock, look at"
+    },
+    {
+      "start_ms": 392319,
+      "end_ms": 397120,
+      "start": "00:06:32.319",
+      "end": "00:06:37.120",
+      "text": "what everybody on Liquid can see. Tree"
+    },
+    {
+      "start_ms": 394319,
+      "end_ms": 398960,
+      "start": "00:06:34.319",
+      "end": "00:06:38.960",
+      "text": "sees a bit. Zer sees nothing. Infected"
+    },
+    {
+      "start_ms": 397120,
+      "end_ms": 400720,
+      "start": "00:06:37.120",
+      "end": "00:06:40.720",
+      "text": "sees one person. RuPaul sees nothing."
+    },
+    {
+      "start_ms": 398960,
+      "end_ms": 402479,
+      "start": "00:06:38.960",
+      "end": "00:06:42.479",
+      "text": "And Vega sees nothing. If you've watched"
+    },
+    {
+      "start_ms": 400720,
+      "end_ms": 406440,
+      "start": "00:06:40.720",
+      "end": "00:06:46.440",
+      "text": "my video about getting off the corner,"
+    },
+    {
+      "start_ms": 402479,
+      "end_ms": 406440,
+      "start": "00:06:42.479",
+      "end": "00:06:46.440",
+      "text": "you know what's about to happen here."
+    },
+    {
+      "start_ms": 409039,
+      "end_ms": 413520,
+      "start": "00:06:49.039",
+      "end": "00:06:53.520",
+      "text": "Vega is absolutely obliterated on this"
+    },
+    {
+      "start_ms": 411360,
+      "end_ms": 415680,
+      "start": "00:06:51.360",
+      "end": "00:06:55.680",
+      "text": "corner. Let's get an instant replay of"
+    },
+    {
+      "start_ms": 413520,
+      "end_ms": 418319,
+      "start": "00:06:53.520",
+      "end": "00:06:58.319",
+      "text": "exactly what Vega was able to see before"
+    },
+    {
+      "start_ms": 415680,
+      "end_ms": 419919,
+      "start": "00:06:55.680",
+      "end": "00:06:59.919",
+      "text": "going into this fight."
+    },
+    {
+      "start_ms": 418319,
+      "end_ms": 422080,
+      "start": "00:06:58.319",
+      "end": "00:07:02.080",
+      "text": "If I'm liquid and I want to find a way"
+    },
+    {
+      "start_ms": 419919,
+      "end_ms": 423840,
+      "start": "00:06:59.919",
+      "end": "00:07:03.840",
+      "text": "to beat or rush engage here, I need to"
+    },
+    {
+      "start_ms": 422080,
+      "end_ms": 425840,
+      "start": "00:07:02.080",
+      "end": "00:07:05.840",
+      "text": "find a way to see everybody before we"
+    },
+    {
+      "start_ms": 423840,
+      "end_ms": 427680,
+      "start": "00:07:03.840",
+      "end": "00:07:07.680",
+      "text": "start fighting for setup. Tree wants to"
+    },
+    {
+      "start_ms": 425840,
+      "end_ms": 430000,
+      "start": "00:07:05.840",
+      "end": "00:07:10.000",
+      "text": "get over here. Give him some time to do"
+    },
+    {
+      "start_ms": 427680,
+      "end_ms": 431599,
+      "start": "00:07:07.680",
+      "end": "00:07:11.599",
+      "text": "it. Somebody go with him. If you find"
+    },
+    {
+      "start_ms": 430000,
+      "end_ms": 432880,
+      "start": "00:07:10.000",
+      "end": "00:07:12.880",
+      "text": "yourself struggling to fight for setups,"
+    },
+    {
+      "start_ms": 431599,
+      "end_ms": 434639,
+      "start": "00:07:11.599",
+      "end": "00:07:14.639",
+      "text": "and if you find yourself struggling to"
+    },
+    {
+      "start_ms": 432880,
+      "end_ms": 436880,
+      "start": "00:07:12.880",
+      "end": "00:07:16.880",
+      "text": "go first, go back to every fight and"
+    },
+    {
+      "start_ms": 434639,
+      "end_ms": 438639,
+      "start": "00:07:14.639",
+      "end": "00:07:18.639",
+      "text": "evaluate what your players can see. If"
+    },
+    {
+      "start_ms": 436880,
+      "end_ms": 440400,
+      "start": "00:07:16.880",
+      "end": "00:07:20.400",
+      "text": "the enemy team just went first, were you"
+    },
+    {
+      "start_ms": 438639,
+      "end_ms": 442560,
+      "start": "00:07:18.639",
+      "end": "00:07:22.560",
+      "text": "able to see them? Where should you have"
+    },
+    {
+      "start_ms": 440400,
+      "end_ms": 444160,
+      "start": "00:07:20.400",
+      "end": "00:07:24.160",
+      "text": "poked pre-fight to be able to see them?"
+    },
+    {
+      "start_ms": 442560,
+      "end_ms": 446479,
+      "start": "00:07:22.560",
+      "end": "00:07:26.479",
+      "text": "Should you have used null earlier to be"
+    },
+    {
+      "start_ms": 444160,
+      "end_ms": 448080,
+      "start": "00:07:24.160",
+      "end": "00:07:28.080",
+      "text": "able to poke? The fight winner is the"
+    },
+    {
+      "start_ms": 446479,
+      "end_ms": 449599,
+      "start": "00:07:26.479",
+      "end": "00:07:29.599",
+      "text": "team with the better setup. But the team"
+    },
+    {
+      "start_ms": 448080,
+      "end_ms": 451120,
+      "start": "00:07:28.080",
+      "end": "00:07:31.120",
+      "text": "with the better setup is almost always"
+    },
+    {
+      "start_ms": 449599,
+      "end_ms": 453039,
+      "start": "00:07:29.599",
+      "end": "00:07:33.039",
+      "text": "the team that has better sight going"
+    },
+    {
+      "start_ms": 451120,
+      "end_ms": 454400,
+      "start": "00:07:31.120",
+      "end": "00:07:34.400",
+      "text": "into the fight. My next video will"
+    },
+    {
+      "start_ms": 453039,
+      "end_ms": 455599,
+      "start": "00:07:33.039",
+      "end": "00:07:35.599",
+      "text": "probably be more in depth about how to"
+    },
+    {
+      "start_ms": 454400,
+      "end_ms": 457759,
+      "start": "00:07:34.400",
+      "end": "00:07:37.759",
+      "text": "set up and how to fight for these"
+    },
+    {
+      "start_ms": 455599,
+      "end_ms": 459919,
+      "start": "00:07:35.599",
+      "end": "00:07:39.919",
+      "text": "setups. But before you can worry about"
+    },
+    {
+      "start_ms": 457759,
+      "end_ms": 461280,
+      "start": "00:07:37.759",
+      "end": "00:07:41.280",
+      "text": "that, you need to worry about this. In"
+    },
+    {
+      "start_ms": 459919,
+      "end_ms": 462560,
+      "start": "00:07:39.919",
+      "end": "00:07:42.560",
+      "text": "order to start playing like this in your"
+    },
+    {
+      "start_ms": 461280,
+      "end_ms": 464560,
+      "start": "00:07:41.280",
+      "end": "00:07:44.560",
+      "text": "games, this is what you need to think"
+    },
+    {
+      "start_ms": 462560,
+      "end_ms": 466720,
+      "start": "00:07:42.560",
+      "end": "00:07:46.720",
+      "text": "of. Whenever you're poking in between"
+    },
+    {
+      "start_ms": 464560,
+      "end_ms": 468319,
+      "start": "00:07:44.560",
+      "end": "00:07:48.319",
+      "text": "fights, what can you see? Is there"
+    },
+    {
+      "start_ms": 466720,
+      "end_ms": 470479,
+      "start": "00:07:46.720",
+      "end": "00:07:50.479",
+      "text": "anywhere someone could set up outside"
+    },
+    {
+      "start_ms": 468319,
+      "end_ms": 471919,
+      "start": "00:07:48.319",
+      "end": "00:07:51.919",
+      "text": "your field of vision? Is there somewhere"
+    },
+    {
+      "start_ms": 470479,
+      "end_ms": 473919,
+      "start": "00:07:50.479",
+      "end": "00:07:53.919",
+      "text": "farther up you could be poking or"
+    },
+    {
+      "start_ms": 471919,
+      "end_ms": 475599,
+      "start": "00:07:51.919",
+      "end": "00:07:55.599",
+      "text": "scouting where you could see everything?"
+    },
+    {
+      "start_ms": 473919,
+      "end_ms": 478599,
+      "start": "00:07:53.919",
+      "end": "00:07:58.599",
+      "text": "Am I trying to poke from here in between"
+    },
+    {
+      "start_ms": 475599,
+      "end_ms": 478599,
+      "start": "00:07:55.599",
+      "end": "00:07:58.599",
+      "text": "fights"
+    },
+    {
+      "start_ms": 480879,
+      "end_ms": 488599,
+      "start": "00:08:00.879",
+      "end": "00:08:08.599",
+      "text": "or here? Here or here?"
+    },
+    {
+      "start_ms": 485599,
+      "end_ms": 488599,
+      "start": "00:08:05.599",
+      "end": "00:08:08.599",
+      "text": "Here"
+    },
+    {
+      "start_ms": 491919,
+      "end_ms": 496000,
+      "start": "00:08:11.919",
+      "end": "00:08:16.000",
+      "text": "or here? It's important to make sure you"
+    },
+    {
+      "start_ms": 494479,
+      "end_ms": 497759,
+      "start": "00:08:14.479",
+      "end": "00:08:17.759",
+      "text": "don't fight too hard without a good"
+    },
+    {
+      "start_ms": 496000,
+      "end_ms": 500319,
+      "start": "00:08:16.000",
+      "end": "00:08:20.319",
+      "text": "reason during this phase and back up to"
+    },
+    {
+      "start_ms": 497759,
+      "end_ms": 501919,
+      "start": "00:08:17.759",
+      "end": "00:08:21.919",
+      "text": "your real spa before you get forced out."
+    },
+    {
+      "start_ms": 500319,
+      "end_ms": 505879,
+      "start": "00:08:20.319",
+      "end": "00:08:25.879",
+      "text": "Don't use what I'm saying as an excuse"
+    },
+    {
+      "start_ms": 501919,
+      "end_ms": 505879,
+      "start": "00:08:21.919",
+      "end": "00:08:25.879",
+      "text": "to die in the enemy spawn."
+    }
+  ]
+}

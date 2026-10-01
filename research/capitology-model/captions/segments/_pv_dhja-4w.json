@@ -1,0 +1,3530 @@
+{
+  "video_id": "_pv_dhja-4w",
+  "title": "You're Never Going to Learn",
+  "url": "https://www.youtube.com/watch?v=_pv_dhja-4w",
+  "upload_date": "2026-09-29",
+  "duration_seconds": 709,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:19:14.798471+00:00",
+  "source_sha256": "45c83716830028e2631eea297f6a44cd96442d7ca771b7640ed353cadc2ddb59",
+  "source_bytes": 201899,
+  "segment_count": 501,
+  "word_count": 1803,
+  "character_count": 10004,
+  "first_segment_ms": 1305,
+  "last_segment_end_ms": 709366,
+  "leading_gap_seconds": 1.305,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 1305,
+      "end_ms": 5564,
+      "start": "00:00:01.305",
+      "end": "00:00:05.564",
+      "text": "Okay. It's been a while"
+    },
+    {
+      "start_ms": 4597,
+      "end_ms": 6852,
+      "start": "00:00:04.597",
+      "end": "00:00:06.852",
+      "text": "since I've made"
+    },
+    {
+      "start_ms": 5885,
+      "end_ms": 7974,
+      "start": "00:00:05.885",
+      "end": "00:00:07.974",
+      "text": "videos like this, sitting"
+    },
+    {
+      "start_ms": 7007,
+      "end_ms": 9262,
+      "start": "00:00:07.007",
+      "end": "00:00:09.262",
+      "text": "in front of the camera, and it's"
+    },
+    {
+      "start_ms": 8295,
+      "end_ms": 10517,
+      "start": "00:00:08.295",
+      "end": "00:00:10.517",
+      "text": "not set up for that"
+    },
+    {
+      "start_ms": 9550,
+      "end_ms": 11837,
+      "start": "00:00:09.550",
+      "end": "00:00:11.837",
+      "text": "weird glare"
+    },
+    {
+      "start_ms": 10870,
+      "end_ms": 13125,
+      "start": "00:00:10.870",
+      "end": "00:00:13.125",
+      "text": "from the windows, so maybe"
+    },
+    {
+      "start_ms": 12158,
+      "end_ms": 14116,
+      "start": "00:00:12.158",
+      "end": "00:00:14.116",
+      "text": "just listen to"
+    },
+    {
+      "start_ms": 13149,
+      "end_ms": 15304,
+      "start": "00:00:13.149",
+      "end": "00:00:15.304",
+      "text": "the audio and don't watch"
+    },
+    {
+      "start_ms": 14337,
+      "end_ms": 19206,
+      "start": "00:00:14.337",
+      "end": "00:00:19.206",
+      "text": "the video. I wanted to sit down and"
+    },
+    {
+      "start_ms": 18246,
+      "end_ms": 20561,
+      "start": "00:00:18.246",
+      "end": "00:00:20.561",
+      "text": "just talk"
+    },
+    {
+      "start_ms": 19601,
+      "end_ms": 21956,
+      "start": "00:00:19.601",
+      "end": "00:00:21.956",
+      "text": "about something for 10-15 minutes"
+    },
+    {
+      "start_ms": 20996,
+      "end_ms": 22913,
+      "start": "00:00:20.996",
+      "end": "00:00:22.913",
+      "text": "before"
+    },
+    {
+      "start_ms": 21953,
+      "end_ms": 31467,
+      "start": "00:00:21.953",
+      "end": "00:00:31.467",
+      "text": "heading to the hall. Um, I"
+    },
+    {
+      "start_ms": 30502,
+      "end_ms": 32361,
+      "start": "00:00:30.502",
+      "end": "00:00:32.361",
+      "text": "was watching an old"
+    },
+    {
+      "start_ms": 31396,
+      "end_ms": 33221,
+      "start": "00:00:31.396",
+      "end": "00:00:33.221",
+      "text": "interview where I"
+    },
+    {
+      "start_ms": 32255,
+      "end_ms": 34528,
+      "start": "00:00:32.255",
+      "end": "00:00:34.528",
+      "text": "was explaining to someone how I"
+    },
+    {
+      "start_ms": 33562,
+      "end_ms": 35697,
+      "start": "00:00:33.562",
+      "end": "00:00:35.697",
+      "text": "first learned the"
+    },
+    {
+      "start_ms": 34731,
+      "end_ms": 36591,
+      "start": "00:00:34.731",
+      "end": "00:00:36.591",
+      "text": "game and what things are"
+    },
+    {
+      "start_ms": 35625,
+      "end_ms": 37966,
+      "start": "00:00:35.625",
+      "end": "00:00:37.966",
+      "text": "important to avoid"
+    },
+    {
+      "start_ms": 37001,
+      "end_ms": 39170,
+      "start": "00:00:37.001",
+      "end": "00:00:39.170",
+      "text": "stagnation, and also about the"
+    },
+    {
+      "start_ms": 38204,
+      "end_ms": 40511,
+      "start": "00:00:38.204",
+      "end": "00:00:40.511",
+      "text": "main difficulty in"
+    },
+    {
+      "start_ms": 39545,
+      "end_ms": 41748,
+      "start": "00:00:39.545",
+      "end": "00:00:41.748",
+      "text": "learning anything:"
+    },
+    {
+      "start_ms": 40783,
+      "end_ms": 43124,
+      "start": "00:00:40.783",
+      "end": "00:00:43.124",
+      "text": "you don't know what you don't"
+    },
+    {
+      "start_ms": 42158,
+      "end_ms": 50495,
+      "start": "00:00:42.158",
+      "end": "00:00:50.495",
+      "text": "know, right? Everyone"
+    },
+    {
+      "start_ms": 50618,
+      "end_ms": 54477,
+      "start": "00:00:50.618",
+      "end": "00:00:54.477",
+      "text": "understands this to some extent. The problem is"
+    },
+    {
+      "start_ms": 53512,
+      "end_ms": 55866,
+      "start": "00:00:53.512",
+      "end": "00:00:55.866",
+      "text": "how to find out what"
+    },
+    {
+      "start_ms": 54901,
+      "end_ms": 57221,
+      "start": "00:00:54.901",
+      "end": "00:00:57.221",
+      "text": "you don't know, right?"
+    },
+    {
+      "start_ms": 59634,
+      "end_ms": 61840,
+      "start": "00:00:59.634",
+      "end": "00:01:01.840",
+      "text": "Really, think"
+    },
+    {
+      "start_ms": 60872,
+      "end_ms": 63110,
+      "start": "00:01:00.872",
+      "end": "00:01:03.110",
+      "text": "about this for a second, because"
+    },
+    {
+      "start_ms": 62142,
+      "end_ms": 64317,
+      "start": "00:01:02.142",
+      "end": "00:01:04.317",
+      "text": "it sounds obvious,"
+    },
+    {
+      "start_ms": 63348,
+      "end_ms": 65555,
+      "start": "00:01:03.348",
+      "end": "00:01:05.555",
+      "text": "but if you don't"
+    },
+    {
+      "start_ms": 64587,
+      "end_ms": 66793,
+      "start": "00:01:04.587",
+      "end": "00:01:06.793",
+      "text": "know something and you're not"
+    },
+    {
+      "start_ms": 65825,
+      "end_ms": 68031,
+      "start": "00:01:05.825",
+      "end": "00:01:08.031",
+      "text": "taught it directly,"
+    },
+    {
+      "start_ms": 67063,
+      "end_ms": 72974,
+      "start": "00:01:07.063",
+      "end": "00:01:12.974",
+      "text": "right? Because in the context of"
+    },
+    {
+      "start_ms": 72008,
+      "end_ms": 74097,
+      "start": "00:01:12.008",
+      "end": "00:01:14.097",
+      "text": "Overwatch or anything"
+    },
+    {
+      "start_ms": 73131,
+      "end_ms": 75050,
+      "start": "00:01:13.131",
+      "end": "00:01:15.050",
+      "text": "else, if you"
+    },
+    {
+      "start_ms": 74084,
+      "end_ms": 76276,
+      "start": "00:01:14.084",
+      "end": "00:01:16.276",
+      "text": "at least partially"
+    },
+    {
+      "start_ms": 75310,
+      "end_ms": 77637,
+      "start": "00:01:15.310",
+      "end": "00:01:17.637",
+      "text": "pave your own path,"
+    },
+    {
+      "start_ms": 76671,
+      "end_ms": 80615,
+      "start": "00:01:16.671",
+      "end": "00:01:20.615",
+      "text": "right? You don't have many"
+    },
+    {
+      "start_ms": 79649,
+      "end_ms": 81956,
+      "start": "00:01:19.649",
+      "end": "00:01:21.956",
+      "text": "resources, you don't have a"
+    },
+    {
+      "start_ms": 80990,
+      "end_ms": 83056,
+      "start": "00:01:20.990",
+      "end": "00:01:23.056",
+      "text": "really great"
+    },
+    {
+      "start_ms": 82091,
+      "end_ms": 85102,
+      "start": "00:01:22.091",
+      "end": "00:01:25.102",
+      "text": "teacher, right? Or is it"
+    },
+    {
+      "start_ms": 84136,
+      "end_ms": 86088,
+      "start": "00:01:24.136",
+      "end": "00:01:26.088",
+      "text": "something new and you"
+    },
+    {
+      "start_ms": 85122,
+      "end_ms": 86802,
+      "start": "00:01:25.122",
+      "end": "00:01:26.802",
+      "text": "will have to"
+    },
+    {
+      "start_ms": 85836,
+      "end_ms": 88026,
+      "start": "00:01:25.836",
+      "end": "00:01:28.026",
+      "text": "forge your own"
+    },
+    {
+      "start_ms": 87060,
+      "end_ms": 89251,
+      "start": "00:01:27.060",
+      "end": "00:01:29.251",
+      "text": "path, figuring out how"
+    },
+    {
+      "start_ms": 88285,
+      "end_ms": 90577,
+      "start": "00:01:28.285",
+      "end": "00:01:30.577",
+      "text": "to identify what you"
+    },
+    {
+      "start_ms": 89611,
+      "end_ms": 91869,
+      "start": "00:01:29.611",
+      "end": "00:01:31.869",
+      "text": "don't know and how to"
+    },
+    {
+      "start_ms": 90903,
+      "end_ms": 94319,
+      "start": "00:01:30.903",
+      "end": "00:01:34.319",
+      "text": "learn it. And the reason"
+    },
+    {
+      "start_ms": 93353,
+      "end_ms": 95428,
+      "start": "00:01:33.353",
+      "end": "00:01:35.428",
+      "text": "I was inspired to"
+    },
+    {
+      "start_ms": 94461,
+      "end_ms": 96604,
+      "start": "00:01:34.461",
+      "end": "00:01:36.604",
+      "text": "sit down and talk"
+    },
+    {
+      "start_ms": 95637,
+      "end_ms": 97947,
+      "start": "00:01:35.637",
+      "end": "00:01:37.947",
+      "text": "about this is because"
+    },
+    {
+      "start_ms": 96947,
+      "end_ms": 99190,
+      "start": "00:01:36.947",
+      "end": "00:01:39.190",
+      "text": "almost everyone I"
+    },
+    {
+      "start_ms": 98224,
+      "end_ms": 100198,
+      "start": "00:01:38.224",
+      "end": "00:01:40.198",
+      "text": "see is doing it"
+    },
+    {
+      "start_ms": 99232,
+      "end_ms": 103210,
+      "start": "00:01:39.232",
+      "end": "00:01:43.210",
+      "text": "wrong. And not"
+    },
+    {
+      "start_ms": 102241,
+      "end_ms": 104359,
+      "start": "00:01:42.241",
+      "end": "00:01:44.359",
+      "text": "just wrong,"
+    },
+    {
+      "start_ms": 103390,
+      "end_ms": 105229,
+      "start": "00:01:43.390",
+      "end": "00:01:45.229",
+      "text": "as in \"inaccurate\", but"
+    },
+    {
+      "start_ms": 104260,
+      "end_ms": 106223,
+      "start": "00:01:44.260",
+      "end": "00:01:46.223",
+      "text": "wrong, as in \"the"
+    },
+    {
+      "start_ms": 105223,
+      "end_ms": 106999,
+      "start": "00:01:45.223",
+      "end": "00:01:46.999",
+      "text": "opposite of"
+    },
+    {
+      "start_ms": 106030,
+      "end_ms": 110260,
+      "start": "00:01:46.030",
+      "end": "00:01:50.260",
+      "text": "right\". You"
+    },
+    {
+      "start_ms": 109295,
+      "end_ms": 111512,
+      "start": "00:01:49.295",
+      "end": "00:01:51.512",
+      "text": "are wasting all your"
+    },
+    {
+      "start_ms": 110548,
+      "end_ms": 112567,
+      "start": "00:01:50.548",
+      "end": "00:01:52.567",
+      "text": "time. You are actively"
+    },
+    {
+      "start_ms": 111602,
+      "end_ms": 113905,
+      "start": "00:01:51.602",
+      "end": "00:01:53.905",
+      "text": "making yourself worse."
+    },
+    {
+      "start_ms": 113876,
+      "end_ms": 118568,
+      "start": "00:01:53.876",
+      "end": "00:01:58.568",
+      "text": "Yes? And when it comes"
+    },
+    {
+      "start_ms": 117598,
+      "end_ms": 119771,
+      "start": "00:01:57.598",
+      "end": "00:01:59.771",
+      "text": "to something competitive and"
+    },
+    {
+      "start_ms": 118801,
+      "end_ms": 120552,
+      "start": "00:01:58.801",
+      "end": "00:02:00.552",
+      "text": "new, any"
+    },
+    {
+      "start_ms": 119582,
+      "end_ms": 121424,
+      "start": "00:01:59.582",
+      "end": "00:02:01.424",
+      "text": "mistakes accumulate over time"
+    },
+    {
+      "start_ms": 121266,
+      "end_ms": 123408,
+      "start": "00:02:01.266",
+      "end": "00:02:03.408",
+      "text": "compared to those who"
+    },
+    {
+      "start_ms": 122439,
+      "end_ms": 124190,
+      "start": "00:02:02.439",
+      "end": "00:02:04.190",
+      "text": "act at least"
+    },
+    {
+      "start_ms": 123220,
+      "end_ms": 128205,
+      "start": "00:02:03.220",
+      "end": "00:02:08.205",
+      "text": "neutrally. And you'll"
+    },
+    {
+      "start_ms": 127238,
+      "end_ms": 129341,
+      "start": "00:02:07.238",
+      "end": "00:02:09.341",
+      "text": "fall very far behind,"
+    },
+    {
+      "start_ms": 128373,
+      "end_ms": 130508,
+      "start": "00:02:08.373",
+      "end": "00:02:10.508",
+      "text": "no matter"
+    },
+    {
+      "start_ms": 129541,
+      "end_ms": 131611,
+      "start": "00:02:09.541",
+      "end": "00:02:11.611",
+      "text": "how hard you work,"
+    },
+    {
+      "start_ms": 130643,
+      "end_ms": 133468,
+      "start": "00:02:10.643",
+      "end": "00:02:13.468",
+      "text": "right? I think some people"
+    },
+    {
+      "start_ms": 132502,
+      "end_ms": 134679,
+      "start": "00:02:12.502",
+      "end": "00:02:14.679",
+      "text": "get upset if"
+    },
+    {
+      "start_ms": 133713,
+      "end_ms": 135855,
+      "start": "00:02:13.713",
+      "end": "00:02:15.855",
+      "text": "you imply that they're not"
+    },
+    {
+      "start_ms": 134890,
+      "end_ms": 137239,
+      "start": "00:02:14.890",
+      "end": "00:02:17.239",
+      "text": "working"
+    },
+    {
+      "start_ms": 136274,
+      "end_ms": 139311,
+      "start": "00:02:16.274",
+      "end": "00:02:19.311",
+      "text": "hard enough or something."
+    },
+    {
+      "start_ms": 138352,
+      "end_ms": 140887,
+      "start": "00:02:18.352",
+      "end": "00:02:20.887",
+      "text": "I have a video about that too."
+    },
+    {
+      "start_ms": 140442,
+      "end_ms": 142355,
+      "start": "00:02:20.442",
+      "end": "00:02:22.355",
+      "text": "You can work"
+    },
+    {
+      "start_ms": 141386,
+      "end_ms": 143236,
+      "start": "00:02:21.386",
+      "end": "00:02:23.236",
+      "text": "hard and not get"
+    },
+    {
+      "start_ms": 142268,
+      "end_ms": 144275,
+      "start": "00:02:22.268",
+      "end": "00:02:24.275",
+      "text": "results if"
+    },
+    {
+      "start_ms": 143307,
+      "end_ms": 144842,
+      "start": "00:02:23.307",
+      "end": "00:02:24.842",
+      "text": "you do it"
+    },
+    {
+      "start_ms": 143873,
+      "end_ms": 151217,
+      "start": "00:02:23.873",
+      "end": "00:02:31.217",
+      "text": "wrong. And an"
+    },
+    {
+      "start_ms": 150249,
+      "end_ms": 152185,
+      "start": "00:02:30.249",
+      "end": "00:02:32.185",
+      "text": "important part of"
+    },
+    {
+      "start_ms": 151218,
+      "end_ms": 153477,
+      "start": "00:02:31.218",
+      "end": "00:02:33.477",
+      "text": "determining what"
+    },
+    {
+      "start_ms": 152509,
+      "end_ms": 154445,
+      "start": "00:02:32.509",
+      "end": "00:02:34.445",
+      "text": "you don't know is"
+    },
+    {
+      "start_ms": 153477,
+      "end_ms": 155220,
+      "start": "00:02:33.477",
+      "end": "00:02:35.220",
+      "text": "assessing your"
+    },
+    {
+      "start_ms": 154252,
+      "end_ms": 156511,
+      "start": "00:02:34.252",
+      "end": "00:02:36.511",
+      "text": "ability to discover"
+    },
+    {
+      "start_ms": 155543,
+      "end_ms": 156898,
+      "start": "00:02:35.543",
+      "end": "00:02:36.898",
+      "text": "things from"
+    },
+    {
+      "start_ms": 155930,
+      "end_ms": 157963,
+      "start": "00:02:35.930",
+      "end": "00:02:37.963",
+      "text": "first principles, and"
+    },
+    {
+      "start_ms": 156996,
+      "end_ms": 159093,
+      "start": "00:02:36.996",
+      "end": "00:02:39.093",
+      "text": "also assessing your"
+    },
+    {
+      "start_ms": 158125,
+      "end_ms": 159868,
+      "start": "00:02:38.125",
+      "end": "00:02:39.868",
+      "text": "ability to"
+    },
+    {
+      "start_ms": 158900,
+      "end_ms": 160772,
+      "start": "00:02:38.900",
+      "end": "00:02:40.772",
+      "text": "observe,"
+    },
+    {
+      "start_ms": 159804,
+      "end_ms": 161804,
+      "start": "00:02:39.804",
+      "end": "00:02:41.804",
+      "text": "technically precise"
+    },
+    {
+      "start_ms": 160837,
+      "end_ms": 162967,
+      "start": "00:02:40.837",
+      "end": "00:02:42.967",
+      "text": "observation, right?"
+    },
+    {
+      "start_ms": 167303,
+      "end_ms": 169328,
+      "start": "00:02:47.303",
+      "end": "00:02:49.328",
+      "text": "These are two things, because these are"
+    },
+    {
+      "start_ms": 168362,
+      "end_ms": 170388,
+      "start": "00:02:48.362",
+      "end": "00:02:50.388",
+      "text": "your two paths to"
+    },
+    {
+      "start_ms": 169421,
+      "end_ms": 171579,
+      "start": "00:02:49.421",
+      "end": "00:02:51.579",
+      "text": "learning what"
+    },
+    {
+      "start_ms": 170612,
+      "end_ms": 172473,
+      "start": "00:02:50.612",
+      "end": "00:02:52.473",
+      "text": "you don't know and"
+    },
+    {
+      "start_ms": 171506,
+      "end_ms": 173796,
+      "start": "00:02:51.506",
+      "end": "00:02:53.796",
+      "text": "defining what"
+    },
+    {
+      "start_ms": 172830,
+      "end_ms": 174856,
+      "start": "00:02:52.830",
+      "end": "00:02:54.856",
+      "text": "you don't know, right?"
+    },
+    {
+      "start_ms": 174674,
+      "end_ms": 176662,
+      "start": "00:02:54.674",
+      "end": "00:02:56.662",
+      "text": "The first thing I"
+    },
+    {
+      "start_ms": 175694,
+      "end_ms": 177841,
+      "start": "00:02:55.694",
+      "end": "00:02:57.841",
+      "text": "mean by learning"
+    },
+    {
+      "start_ms": 176873,
+      "end_ms": 179021,
+      "start": "00:02:56.873",
+      "end": "00:02:59.021",
+      "text": "or discovering through"
+    },
+    {
+      "start_ms": 178052,
+      "end_ms": 180168,
+      "start": "00:02:58.052",
+      "end": "00:03:00.168",
+      "text": "first principles is"
+    },
+    {
+      "start_ms": 179200,
+      "end_ms": 181284,
+      "start": "00:02:59.200",
+      "end": "00:03:01.284",
+      "text": "how well you"
+    },
+    {
+      "start_ms": 180316,
+      "end_ms": 182336,
+      "start": "00:03:00.316",
+      "end": "00:03:02.336",
+      "text": "can reason your way"
+    },
+    {
+      "start_ms": 181368,
+      "end_ms": 183483,
+      "start": "00:03:01.368",
+      "end": "00:03:03.483",
+      "text": "through"
+    },
+    {
+      "start_ms": 182515,
+      "end_ms": 184217,
+      "start": "00:03:02.515",
+      "end": "00:03:04.217",
+      "text": "something purely"
+    },
+    {
+      "start_ms": 183248,
+      "end_ms": 185492,
+      "start": "00:03:03.248",
+      "end": "00:03:05.492",
+      "text": "through logic, right"
+    },
+    {
+      "start_ms": 184492,
+      "end_ms": 187608,
+      "start": "00:03:04.492",
+      "end": "00:03:07.608",
+      "text": "? Can you accurately"
+    },
+    {
+      "start_ms": 186642,
+      "end_ms": 188724,
+      "start": "00:03:06.642",
+      "end": "00:03:08.724",
+      "text": "simulate a game of"
+    },
+    {
+      "start_ms": 187758,
+      "end_ms": 190009,
+      "start": "00:03:07.758",
+      "end": "00:03:10.009",
+      "text": "Overwatch in your head"
+    },
+    {
+      "start_ms": 189043,
+      "end_ms": 191261,
+      "start": "00:03:09.043",
+      "end": "00:03:11.261",
+      "text": "and recreate the events"
+    },
+    {
+      "start_ms": 190294,
+      "end_ms": 192546,
+      "start": "00:03:10.294",
+      "end": "00:03:12.546",
+      "text": "as they are?"
+    },
+    {
+      "start_ms": 193507,
+      "end_ms": 195579,
+      "start": "00:03:13.507",
+      "end": "00:03:15.579",
+      "text": "If you can do that,"
+    },
+    {
+      "start_ms": 194612,
+      "end_ms": 196886,
+      "start": "00:03:14.612",
+      "end": "00:03:16.886",
+      "text": "you're theoretically able"
+    },
+    {
+      "start_ms": 195919,
+      "end_ms": 198159,
+      "start": "00:03:15.919",
+      "end": "00:03:18.159",
+      "text": "to figure out how things should"
+    },
+    {
+      "start_ms": 197193,
+      "end_ms": 199499,
+      "start": "00:03:17.193",
+      "end": "00:03:19.499",
+      "text": "work or find"
+    },
+    {
+      "start_ms": 198533,
+      "end_ms": 200739,
+      "start": "00:03:18.533",
+      "end": "00:03:20.739",
+      "text": "new ways of doing things, because"
+    },
+    {
+      "start_ms": 199773,
+      "end_ms": 202080,
+      "start": "00:03:19.773",
+      "end": "00:03:22.080",
+      "text": "you're able to play it out"
+    },
+    {
+      "start_ms": 201113,
+      "end_ms": 205533,
+      "start": "00:03:21.113",
+      "end": "00:03:25.533",
+      "text": "in your head. Here's"
+    },
+    {
+      "start_ms": 204568,
+      "end_ms": 206905,
+      "start": "00:03:24.568",
+      "end": "00:03:26.905",
+      "text": "what I'll say: anyone who"
+    },
+    {
+      "start_ms": 205940,
+      "end_ms": 207925,
+      "start": "00:03:25.940",
+      "end": "00:03:27.925",
+      "text": "does this and isn't a"
+    },
+    {
+      "start_ms": 208332,
+      "end_ms": 210246,
+      "start": "00:03:28.332",
+      "end": "00:03:30.246",
+      "text": "top-5 player or coach in your"
+    },
+    {
+      "start_ms": 209282,
+      "end_ms": 211442,
+      "start": "00:03:29.282",
+      "end": "00:03:31.442",
+      "text": "region, you're just"
+    },
+    {
+      "start_ms": 210478,
+      "end_ms": 212498,
+      "start": "00:03:30.478",
+      "end": "00:03:32.498",
+      "text": "wasting your"
+    },
+    {
+      "start_ms": 211533,
+      "end_ms": 215677,
+      "start": "00:03:31.533",
+      "end": "00:03:35.677",
+      "text": "damn time. A complete"
+    },
+    {
+      "start_ms": 214715,
+      "end_ms": 217135,
+      "start": "00:03:34.715",
+      "end": "00:03:37.135",
+      "text": "waste of time, right?"
+    },
+    {
+      "start_ms": 216623,
+      "end_ms": 218498,
+      "start": "00:03:36.623",
+      "end": "00:03:38.498",
+      "text": "You are not"
+    },
+    {
+      "start_ms": 217530,
+      "end_ms": 219536,
+      "start": "00:03:37.530",
+      "end": "00:03:39.536",
+      "text": "good enough for this."
+    },
+    {
+      "start_ms": 219417,
+      "end_ms": 221100,
+      "start": "00:03:39.417",
+      "end": "00:03:41.100",
+      "text": "If you were"
+    },
+    {
+      "start_ms": 220131,
+      "end_ms": 222279,
+      "start": "00:03:40.131",
+      "end": "00:03:42.279",
+      "text": "good enough, you would"
+    },
+    {
+      "start_ms": 221310,
+      "end_ms": 223024,
+      "start": "00:03:41.310",
+      "end": "00:03:43.024",
+      "text": "already be at the"
+    },
+    {
+      "start_ms": 222055,
+      "end_ms": 223987,
+      "start": "00:03:42.055",
+      "end": "00:03:43.987",
+      "text": "highest level,"
+    },
+    {
+      "start_ms": 223018,
+      "end_ms": 227249,
+      "start": "00:03:43.018",
+      "end": "00:03:47.249",
+      "text": "right? This is a ridiculous"
+    },
+    {
+      "start_ms": 226294,
+      "end_ms": 232054,
+      "start": "00:03:46.294",
+      "end": "00:03:52.054",
+      "text": "fallacy that is probably"
+    },
+    {
+      "start_ms": 231089,
+      "end_ms": 233202,
+      "start": "00:03:51.089",
+      "end": "00:03:53.202",
+      "text": "too tempting,"
+    },
+    {
+      "start_ms": 232237,
+      "end_ms": 235278,
+      "start": "00:03:52.237",
+      "end": "00:03:55.278",
+      "text": "right? After all, that's how"
+    },
+    {
+      "start_ms": 234311,
+      "end_ms": 236270,
+      "start": "00:03:54.311",
+      "end": "00:03:56.270",
+      "text": "we think about"
+    },
+    {
+      "start_ms": 235303,
+      "end_ms": 237361,
+      "start": "00:03:55.303",
+      "end": "00:03:57.361",
+      "text": "most things in"
+    },
+    {
+      "start_ms": 236395,
+      "end_ms": 240002,
+      "start": "00:03:56.395",
+      "end": "00:04:00.002",
+      "text": "life, isn't it? I won't"
+    },
+    {
+      "start_ms": 239035,
+      "end_ms": 241001,
+      "start": "00:03:59.035",
+      "end": "00:04:01.001",
+      "text": "go into"
+    },
+    {
+      "start_ms": 240033,
+      "end_ms": 242128,
+      "start": "00:04:00.033",
+      "end": "00:04:02.128",
+      "text": "deep philosophy,"
+    },
+    {
+      "start_ms": 241160,
+      "end_ms": 243222,
+      "start": "00:04:01.160",
+      "end": "00:04:03.222",
+      "text": "but the simple fact is"
+    },
+    {
+      "start_ms": 242255,
+      "end_ms": 244478,
+      "start": "00:04:02.255",
+      "end": "00:04:04.478",
+      "text": "that many things"
+    },
+    {
+      "start_ms": 243511,
+      "end_ms": 245380,
+      "start": "00:04:03.511",
+      "end": "00:04:05.380",
+      "text": "in life are not that"
+    },
+    {
+      "start_ms": 244412,
+      "end_ms": 246410,
+      "start": "00:04:04.412",
+      "end": "00:04:06.410",
+      "text": "complicated, and it's quite"
+    },
+    {
+      "start_ms": 245443,
+      "end_ms": 247441,
+      "start": "00:04:05.443",
+      "end": "00:04:07.441",
+      "text": "easy to do so in"
+    },
+    {
+      "start_ms": 246473,
+      "end_ms": 248600,
+      "start": "00:04:06.473",
+      "end": "00:04:08.600",
+      "text": "most cases of"
+    },
+    {
+      "start_ms": 247632,
+      "end_ms": 249856,
+      "start": "00:04:07.632",
+      "end": "00:04:09.856",
+      "text": "learning or thinking"
+    },
+    {
+      "start_ms": 248888,
+      "end_ms": 251774,
+      "start": "00:04:08.888",
+      "end": "00:04:11.774",
+      "text": "in everyday life. You"
+    },
+    {
+      "start_ms": 250808,
+      "end_ms": 252809,
+      "start": "00:04:10.808",
+      "end": "00:04:12.809",
+      "text": "can probably"
+    },
+    {
+      "start_ms": 251842,
+      "end_ms": 254044,
+      "start": "00:04:11.842",
+      "end": "00:04:14.044",
+      "text": "just think about"
+    },
+    {
+      "start_ms": 253077,
+      "end_ms": 255112,
+      "start": "00:04:13.077",
+      "end": "00:04:15.112",
+      "text": "it and figure it out."
+    },
+    {
+      "start_ms": 254406,
+      "end_ms": 256382,
+      "start": "00:04:14.406",
+      "end": "00:04:16.382",
+      "text": "Overwatch isn't that"
+    },
+    {
+      "start_ms": 255421,
+      "end_ms": 258590,
+      "start": "00:04:15.421",
+      "end": "00:04:18.590",
+      "text": "simple, right? There are"
+    },
+    {
+      "start_ms": 257622,
+      "end_ms": 259545,
+      "start": "00:04:17.622",
+      "end": "00:04:19.545",
+      "text": "so many"
+    },
+    {
+      "start_ms": 258576,
+      "end_ms": 260594,
+      "start": "00:04:18.576",
+      "end": "00:04:20.594",
+      "text": "variables, so many"
+    },
+    {
+      "start_ms": 259626,
+      "end_ms": 262998,
+      "start": "00:04:19.626",
+      "end": "00:04:22.998",
+      "text": "possibilities."
+    },
+    {
+      "start_ms": 262032,
+      "end_ms": 263824,
+      "start": "00:04:22.032",
+      "end": "00:04:23.824",
+      "text": "It's probably harder"
+    },
+    {
+      "start_ms": 262858,
+      "end_ms": 264581,
+      "start": "00:04:22.858",
+      "end": "00:04:24.581",
+      "text": "to comprehend and"
+    },
+    {
+      "start_ms": 263616,
+      "end_ms": 265855,
+      "start": "00:04:23.616",
+      "end": "00:04:25.855",
+      "text": "analyze than"
+    },
+    {
+      "start_ms": 264889,
+      "end_ms": 267094,
+      "start": "00:04:24.889",
+      "end": "00:04:27.094",
+      "text": "anything else you"
+    },
+    {
+      "start_ms": 266128,
+      "end_ms": 268333,
+      "start": "00:04:26.128",
+      "end": "00:04:28.333",
+      "text": "do in life,"
+    },
+    {
+      "start_ms": 267368,
+      "end_ms": 272614,
+      "start": "00:04:27.368",
+      "end": "00:04:32.614",
+      "text": "right? So unless you"
+    },
+    {
+      "start_ms": 271647,
+      "end_ms": 273775,
+      "start": "00:04:31.647",
+      "end": "00:04:33.775",
+      "text": "have an exceptional,"
+    },
+    {
+      "start_ms": 272808,
+      "end_ms": 275036,
+      "start": "00:04:32.808",
+      "end": "00:04:35.036",
+      "text": "exceptional talent"
+    },
+    {
+      "start_ms": 274069,
+      "end_ms": 276230,
+      "start": "00:04:34.069",
+      "end": "00:04:36.230",
+      "text": "for it, drop it,"
+    },
+    {
+      "start_ms": 275263,
+      "end_ms": 279373,
+      "start": "00:04:35.263",
+      "end": "00:04:39.373",
+      "text": "okay? This is useful from time to"
+    },
+    {
+      "start_ms": 278404,
+      "end_ms": 280279,
+      "start": "00:04:38.404",
+      "end": "00:04:40.279",
+      "text": "time as a"
+    },
+    {
+      "start_ms": 279310,
+      "end_ms": 281528,
+      "start": "00:04:39.310",
+      "end": "00:04:41.528",
+      "text": "thought experiment, and as"
+    },
+    {
+      "start_ms": 280559,
+      "end_ms": 282528,
+      "start": "00:04:40.559",
+      "end": "00:04:42.528",
+      "text": "you"
+    },
+    {
+      "start_ms": 281559,
+      "end_ms": 283590,
+      "start": "00:04:41.559",
+      "end": "00:04:43.590",
+      "text": "get better it"
+    },
+    {
+      "start_ms": 282621,
+      "end_ms": 284621,
+      "start": "00:04:42.621",
+      "end": "00:04:44.621",
+      "text": "may be necessary"
+    },
+    {
+      "start_ms": 283652,
+      "end_ms": 285776,
+      "start": "00:04:43.652",
+      "end": "00:04:45.776",
+      "text": "if you become a top"
+    },
+    {
+      "start_ms": 284776,
+      "end_ms": 286807,
+      "start": "00:04:44.776",
+      "end": "00:04:46.807",
+      "text": "pro, but generally"
+    },
+    {
+      "start_ms": 285838,
+      "end_ms": 287682,
+      "start": "00:04:45.838",
+      "end": "00:04:47.682",
+      "text": "skip it"
+    },
+    {
+      "start_ms": 286713,
+      "end_ms": 288744,
+      "start": "00:04:46.713",
+      "end": "00:04:48.744",
+      "text": "unless you have a"
+    },
+    {
+      "start_ms": 287775,
+      "end_ms": 289869,
+      "start": "00:04:47.775",
+      "end": "00:04:49.869",
+      "text": "mountain of free time."
+    },
+    {
+      "start_ms": 289376,
+      "end_ms": 291520,
+      "start": "00:04:49.376",
+      "end": "00:04:51.520",
+      "text": "Sorry, my cat"
+    },
+    {
+      "start_ms": 290559,
+      "end_ms": 294701,
+      "start": "00:04:50.559",
+      "end": "00:04:54.701",
+      "text": "grabbed the napkin. What"
+    },
+    {
+      "start_ms": 293732,
+      "end_ms": 295869,
+      "start": "00:04:53.732",
+      "end": "00:04:55.869",
+      "text": "you should do"
+    },
+    {
+      "start_ms": 294900,
+      "end_ms": 296847,
+      "start": "00:04:54.900",
+      "end": "00:04:56.847",
+      "text": "is choose the second"
+    },
+    {
+      "start_ms": 295879,
+      "end_ms": 298044,
+      "start": "00:04:55.879",
+      "end": "00:04:58.044",
+      "text": "option, right? This is"
+    },
+    {
+      "start_ms": 297082,
+      "end_ms": 299870,
+      "start": "00:04:57.082",
+      "end": "00:04:59.870",
+      "text": "an observation. This is a"
+    },
+    {
+      "start_ms": 298904,
+      "end_ms": 300900,
+      "start": "00:04:58.904",
+      "end": "00:05:00.900",
+      "text": "skill you"
+    },
+    {
+      "start_ms": 299935,
+      "end_ms": 302274,
+      "start": "00:04:59.935",
+      "end": "00:05:02.274",
+      "text": "should improve"
+    },
+    {
+      "start_ms": 301309,
+      "end_ms": 305484,
+      "start": "00:05:01.309",
+      "end": "00:05:05.484",
+      "text": "and develop. And that's what"
+    },
+    {
+      "start_ms": 304517,
+      "end_ms": 306637,
+      "start": "00:05:04.517",
+      "end": "00:05:06.637",
+      "text": "will take you from"
+    },
+    {
+      "start_ms": 305637,
+      "end_ms": 307923,
+      "start": "00:05:05.637",
+      "end": "00:05:07.923",
+      "text": "any level that isn't the"
+    },
+    {
+      "start_ms": 306955,
+      "end_ms": 309241,
+      "start": "00:05:06.955",
+      "end": "00:05:09.241",
+      "text": "absolute top to as"
+    },
+    {
+      "start_ms": 308274,
+      "end_ms": 310460,
+      "start": "00:05:08.274",
+      "end": "00:05:10.460",
+      "text": "high as you can possibly go"
+    },
+    {
+      "start_ms": 309493,
+      "end_ms": 314402,
+      "start": "00:05:09.493",
+      "end": "00:05:14.402",
+      "text": ". By"
+    },
+    {
+      "start_ms": 313435,
+      "end_ms": 315673,
+      "start": "00:05:13.435",
+      "end": "00:05:15.673",
+      "text": "observation, I"
+    },
+    {
+      "start_ms": 314705,
+      "end_ms": 316487,
+      "start": "00:05:14.705",
+      "end": "00:05:16.487",
+      "text": "mean your"
+    },
+    {
+      "start_ms": 315520,
+      "end_ms": 317595,
+      "start": "00:05:15.520",
+      "end": "00:05:17.595",
+      "text": "ability to deeply"
+    },
+    {
+      "start_ms": 316628,
+      "end_ms": 318671,
+      "start": "00:05:16.628",
+      "end": "00:05:18.671",
+      "text": "analyze a match,"
+    },
+    {
+      "start_ms": 321871,
+      "end_ms": 323581,
+      "start": "00:05:21.871",
+      "end": "00:05:23.581",
+      "text": "understand what is"
+    },
+    {
+      "start_ms": 322614,
+      "end_ms": 324873,
+      "start": "00:05:22.614",
+      "end": "00:05:24.873",
+      "text": "happening, and then"
+    },
+    {
+      "start_ms": 323906,
+      "end_ms": 325487,
+      "start": "00:05:23.906",
+      "end": "00:05:25.487",
+      "text": "learn"
+    },
+    {
+      "start_ms": 324520,
+      "end_ms": 326553,
+      "start": "00:05:24.520",
+      "end": "00:05:26.553",
+      "text": "to reproduce it and"
+    },
+    {
+      "start_ms": 325586,
+      "end_ms": 327587,
+      "start": "00:05:25.586",
+      "end": "00:05:27.587",
+      "text": "put it into"
+    },
+    {
+      "start_ms": 326619,
+      "end_ms": 329334,
+      "start": "00:05:26.619",
+      "end": "00:05:29.334",
+      "text": "practice. And those are three"
+    },
+    {
+      "start_ms": 328369,
+      "end_ms": 330623,
+      "start": "00:05:28.369",
+      "end": "00:05:30.623",
+      "text": "different levels, right?"
+    },
+    {
+      "start_ms": 329723,
+      "end_ms": 331777,
+      "start": "00:05:29.723",
+      "end": "00:05:31.777",
+      "text": "These are three different levels of what"
+    },
+    {
+      "start_ms": 330809,
+      "end_ms": 332895,
+      "start": "00:05:30.809",
+      "end": "00:05:32.895",
+      "text": "you should"
+    },
+    {
+      "start_ms": 331927,
+      "end_ms": 334083,
+      "start": "00:05:31.927",
+      "end": "00:05:34.083",
+      "text": "do. So, if you're"
+    },
+    {
+      "start_ms": 333112,
+      "end_ms": 335044,
+      "start": "00:05:33.112",
+      "end": "00:05:35.044",
+      "text": "not [ __ ] listening,"
+    },
+    {
+      "start_ms": 334074,
+      "end_ms": 336180,
+      "start": "00:05:34.074",
+      "end": "00:05:36.180",
+      "text": "if you're distracted"
+    },
+    {
+      "start_ms": 335180,
+      "end_ms": 337287,
+      "start": "00:05:35.180",
+      "end": "00:05:37.287",
+      "text": "—go back right"
+    },
+    {
+      "start_ms": 336316,
+      "end_ms": 338307,
+      "start": "00:05:36.316",
+      "end": "00:05:38.307",
+      "text": "now and watch"
+    },
+    {
+      "start_ms": 337336,
+      "end_ms": 339064,
+      "start": "00:05:37.336",
+      "end": "00:05:39.064",
+      "text": "this one-minute"
+    },
+    {
+      "start_ms": 338093,
+      "end_ms": 339792,
+      "start": "00:05:38.093",
+      "end": "00:05:39.792",
+      "text": "clip, it'll"
+    },
+    {
+      "start_ms": 338821,
+      "end_ms": 340841,
+      "start": "00:05:38.821",
+      "end": "00:05:40.841",
+      "text": "explain most of"
+    },
+    {
+      "start_ms": 339870,
+      "end_ms": 341918,
+      "start": "00:05:39.870",
+      "end": "00:05:41.918",
+      "text": "what I'm trying to"
+    },
+    {
+      "start_ms": 340948,
+      "end_ms": 343130,
+      "start": "00:05:40.948",
+      "end": "00:05:43.130",
+      "text": "say, right? If"
+    },
+    {
+      "start_ms": 342161,
+      "end_ms": 344110,
+      "start": "00:05:42.161",
+      "end": "00:05:44.110",
+      "text": "you want to learn how"
+    },
+    {
+      "start_ms": 343722,
+      "end_ms": 345885,
+      "start": "00:05:43.722",
+      "end": "00:05:45.885",
+      "text": "to observe correctly, the first"
+    },
+    {
+      "start_ms": 344916,
+      "end_ms": 346957,
+      "start": "00:05:44.916",
+      "end": "00:05:46.957",
+      "text": "level is deep"
+    },
+    {
+      "start_ms": 345987,
+      "end_ms": 347814,
+      "start": "00:05:45.987",
+      "end": "00:05:47.814",
+      "text": "observation,"
+    },
+    {
+      "start_ms": 346845,
+      "end_ms": 348952,
+      "start": "00:05:46.845",
+      "end": "00:05:48.952",
+      "text": "right? This is the"
+    },
+    {
+      "start_ms": 347988,
+      "end_ms": 350372,
+      "start": "00:05:47.988",
+      "end": "00:05:50.372",
+      "text": "hardest part. This is a"
+    },
+    {
+      "start_ms": 349406,
+      "end_ms": 351666,
+      "start": "00:05:49.406",
+      "end": "00:05:51.666",
+      "text": "barrier for most"
+    },
+    {
+      "start_ms": 350700,
+      "end_ms": 352861,
+      "start": "00:05:50.700",
+      "end": "00:05:52.861",
+      "text": "people. What does it really mean"
+    },
+    {
+      "start_ms": 353763,
+      "end_ms": 355698,
+      "start": "00:05:53.763",
+      "end": "00:05:55.698",
+      "text": "to observe"
+    },
+    {
+      "start_ms": 354730,
+      "end_ms": 357888,
+      "start": "00:05:54.730",
+      "end": "00:05:57.888",
+      "text": "something fully and deeply? I know a bunch of"
+    },
+    {
+      "start_ms": 356922,
+      "end_ms": 358667,
+      "start": "00:05:56.922",
+      "end": "00:05:58.667",
+      "text": "players who"
+    },
+    {
+      "start_ms": 357701,
+      "end_ms": 359752,
+      "start": "00:05:57.701",
+      "end": "00:05:59.752",
+      "text": "open"
+    },
+    {
+      "start_ms": 358786,
+      "end_ms": 361005,
+      "start": "00:05:58.786",
+      "end": "00:06:01.005",
+      "text": "replay codes, watch"
+    },
+    {
+      "start_ms": 360039,
+      "end_ms": 362056,
+      "start": "00:06:00.039",
+      "end": "00:06:02.056",
+      "text": "them, but don't"
+    },
+    {
+      "start_ms": 361090,
+      "end_ms": 363275,
+      "start": "00:06:01.090",
+      "end": "00:06:03.275",
+      "text": "learn anything or get"
+    },
+    {
+      "start_ms": 362309,
+      "end_ms": 364508,
+      "start": "00:06:02.309",
+      "end": "00:06:04.508",
+      "text": "better. I see this"
+    },
+    {
+      "start_ms": 363545,
+      "end_ms": 365765,
+      "start": "00:06:03.545",
+      "end": "00:06:05.765",
+      "text": "all the time, right? And these are the"
+    },
+    {
+      "start_ms": 364794,
+      "end_ms": 366641,
+      "start": "00:06:04.794",
+      "end": "00:06:06.641",
+      "text": "people who"
+    },
+    {
+      "start_ms": 365669,
+      "end_ms": 367771,
+      "start": "00:06:05.669",
+      "end": "00:06:07.771",
+      "text": "say, \"Oh, I'm working so hard"
+    },
+    {
+      "start_ms": 366800,
+      "end_ms": 368845,
+      "start": "00:06:06.800",
+      "end": "00:06:08.845",
+      "text": ", but I'm"
+    },
+    {
+      "start_ms": 367873,
+      "end_ms": 370035,
+      "start": "00:06:07.873",
+      "end": "00:06:10.035",
+      "text": "not getting results.\" Maybe that's"
+    },
+    {
+      "start_ms": 369072,
+      "end_ms": 371056,
+      "start": "00:06:09.072",
+      "end": "00:06:11.056",
+      "text": "true. Maybe you're"
+    },
+    {
+      "start_ms": 370087,
+      "end_ms": 372287,
+      "start": "00:06:10.087",
+      "end": "00:06:12.287",
+      "text": "watching every damn"
+    },
+    {
+      "start_ms": 371319,
+      "end_ms": 373171,
+      "start": "00:06:11.319",
+      "end": "00:06:13.171",
+      "text": "replay code that"
+    },
+    {
+      "start_ms": 372203,
+      "end_ms": 374150,
+      "start": "00:06:12.203",
+      "end": "00:06:14.150",
+      "text": "comes along and not"
+    },
+    {
+      "start_ms": 373181,
+      "end_ms": 375192,
+      "start": "00:06:13.181",
+      "end": "00:06:15.192",
+      "text": "getting any better, right?"
+    },
+    {
+      "start_ms": 374292,
+      "end_ms": 376571,
+      "start": "00:06:14.292",
+      "end": "00:06:16.571",
+      "text": "Probably because you don't"
+    },
+    {
+      "start_ms": 375605,
+      "end_ms": 377885,
+      "start": "00:06:15.605",
+      "end": "00:06:17.885",
+      "text": "look deeply into what's"
+    },
+    {
+      "start_ms": 376918,
+      "end_ms": 379131,
+      "start": "00:06:16.918",
+      "end": "00:06:19.131",
+      "text": "happening."
+    },
+    {
+      "start_ms": 379371,
+      "end_ms": 385111,
+      "start": "00:06:19.371",
+      "end": "00:06:25.111",
+      "text": "Here is an example. In general,"
+    },
+    {
+      "start_ms": 384144,
+      "end_ms": 386370,
+      "start": "00:06:24.144",
+      "end": "00:06:26.370",
+      "text": "before moving on"
+    },
+    {
+      "start_ms": 385403,
+      "end_ms": 387429,
+      "start": "00:06:25.403",
+      "end": "00:06:27.429",
+      "text": "to the examples, for"
+    },
+    {
+      "start_ms": 386463,
+      "end_ms": 388754,
+      "start": "00:06:26.463",
+      "end": "00:06:28.754",
+      "text": "everything I list,"
+    },
+    {
+      "start_ms": 387787,
+      "end_ms": 390079,
+      "start": "00:06:27.787",
+      "end": "00:06:30.079",
+      "text": "you should think about whether"
+    },
+    {
+      "start_ms": 389112,
+      "end_ms": 391337,
+      "start": "00:06:29.112",
+      "end": "00:06:31.337",
+      "text": "you have a knack for it"
+    },
+    {
+      "start_ms": 390370,
+      "end_ms": 392529,
+      "start": "00:06:30.370",
+      "end": "00:06:32.529",
+      "text": "or not, because that will change"
+    },
+    {
+      "start_ms": 391563,
+      "end_ms": 393788,
+      "start": "00:06:31.563",
+      "end": "00:06:33.788",
+      "text": "how much"
+    },
+    {
+      "start_ms": 392821,
+      "end_ms": 394781,
+      "start": "00:06:32.821",
+      "end": "00:06:34.781",
+      "text": "you have to"
+    },
+    {
+      "start_ms": 393815,
+      "end_ms": 395709,
+      "start": "00:06:33.815",
+      "end": "00:06:35.709",
+      "text": "consider these"
+    },
+    {
+      "start_ms": 394742,
+      "end_ms": 399584,
+      "start": "00:06:34.742",
+      "end": "00:06:39.584",
+      "text": "aspects, right? If"
+    },
+    {
+      "start_ms": 398617,
+      "end_ms": 400597,
+      "start": "00:06:38.617",
+      "end": "00:06:40.597",
+      "text": "you have a natural"
+    },
+    {
+      "start_ms": 399630,
+      "end_ms": 401186,
+      "start": "00:06:39.630",
+      "end": "00:06:41.186",
+      "text": "talent for"
+    },
+    {
+      "start_ms": 400218,
+      "end_ms": 402362,
+      "start": "00:06:40.218",
+      "end": "00:06:42.362",
+      "text": "observation, like"
+    },
+    {
+      "start_ms": 401395,
+      "end_ms": 402918,
+      "start": "00:06:41.395",
+      "end": "00:06:42.918",
+      "text": "many"
+    },
+    {
+      "start_ms": 401951,
+      "end_ms": 404095,
+      "start": "00:06:41.951",
+      "end": "00:06:44.095",
+      "text": "professionals do, right?"
+    },
+    {
+      "start_ms": 403483,
+      "end_ms": 405628,
+      "start": "00:06:43.483",
+      "end": "00:06:45.628",
+      "text": "Because that's why you"
+    },
+    {
+      "start_ms": 404660,
+      "end_ms": 406551,
+      "start": "00:06:44.660",
+      "end": "00:06:46.551",
+      "text": "succeeded so easily"
+    },
+    {
+      "start_ms": 405583,
+      "end_ms": 407538,
+      "start": "00:06:45.583",
+      "end": "00:06:47.538",
+      "text": ", and you don't"
+    },
+    {
+      "start_ms": 406570,
+      "end_ms": 408715,
+      "start": "00:06:46.570",
+      "end": "00:06:48.715",
+      "text": "have to worry about it so much"
+    },
+    {
+      "start_ms": 408193,
+      "end_ms": 410686,
+      "start": "00:06:48.193",
+      "end": "00:06:50.686",
+      "text": ". But"
+    },
+    {
+      "start_ms": 409719,
+      "end_ms": 411764,
+      "start": "00:06:49.719",
+      "end": "00:06:51.764",
+      "text": "if you're not a top"
+    },
+    {
+      "start_ms": 410764,
+      "end_ms": 412573,
+      "start": "00:06:50.764",
+      "end": "00:06:52.573",
+      "text": "player yet, you"
+    },
+    {
+      "start_ms": 411607,
+      "end_ms": 413315,
+      "start": "00:06:51.607",
+      "end": "00:06:53.315",
+      "text": "need to"
+    },
+    {
+      "start_ms": 412349,
+      "end_ms": 414394,
+      "start": "00:06:52.349",
+      "end": "00:06:54.394",
+      "text": "take that into account, right?"
+    },
+    {
+      "start_ms": 413494,
+      "end_ms": 415864,
+      "start": "00:06:53.494",
+      "end": "00:06:55.864",
+      "text": "Look at the replay code."
+    },
+    {
+      "start_ms": 415477,
+      "end_ms": 417543,
+      "start": "00:06:55.477",
+      "end": "00:06:57.543",
+      "text": "I saw one"
+    },
+    {
+      "start_ms": 416581,
+      "end_ms": 418763,
+      "start": "00:06:56.581",
+      "end": "00:06:58.763",
+      "text": "player do it."
+    },
+    {
+      "start_ms": 418647,
+      "end_ms": 420864,
+      "start": "00:06:58.647",
+      "end": "00:07:00.864",
+      "text": "Watch the replay code and"
+    },
+    {
+      "start_ms": 419897,
+      "end_ms": 422148,
+      "start": "00:06:59.897",
+      "end": "00:07:02.148",
+      "text": "literally record"
+    },
+    {
+      "start_ms": 421181,
+      "end_ms": 423431,
+      "start": "00:07:01.181",
+      "end": "00:07:03.431",
+      "text": "what's happening on a separate medium"
+    },
+    {
+      "start_ms": 422464,
+      "end_ms": 427525,
+      "start": "00:07:02.464",
+      "end": "00:07:07.525",
+      "text": ", right? Because that's the"
+    },
+    {
+      "start_ms": 426558,
+      "end_ms": 428876,
+      "start": "00:07:06.558",
+      "end": "00:07:08.876",
+      "text": "answer, if"
+    },
+    {
+      "start_ms": 427909,
+      "end_ms": 430193,
+      "start": "00:07:07.909",
+      "end": "00:07:10.193",
+      "text": "I had to choose"
+    },
+    {
+      "start_ms": 429227,
+      "end_ms": 430936,
+      "start": "00:07:09.227",
+      "end": "00:07:10.936",
+      "text": "one way"
+    },
+    {
+      "start_ms": 429970,
+      "end_ms": 432253,
+      "start": "00:07:09.970",
+      "end": "00:07:12.253",
+      "text": "to determine what you don't"
+    },
+    {
+      "start_ms": 431287,
+      "end_ms": 434563,
+      "start": "00:07:11.287",
+      "end": "00:07:14.563",
+      "text": "know, right? I'm looking at the"
+    },
+    {
+      "start_ms": 433602,
+      "end_ms": 436058,
+      "start": "00:07:13.602",
+      "end": "00:07:16.058",
+      "text": "replay code. Think"
+    },
+    {
+      "start_ms": 435095,
+      "end_ms": 439312,
+      "start": "00:07:15.095",
+      "end": "00:07:19.312",
+      "text": "about it. A replay code for"
+    },
+    {
+      "start_ms": 438351,
+      "end_ms": 440739,
+      "start": "00:07:18.351",
+      "end": "00:07:20.739",
+      "text": "Zeta against Crazy Raccoon"
+    },
+    {
+      "start_ms": 439777,
+      "end_ms": 442166,
+      "start": "00:07:19.777",
+      "end": "00:07:22.166",
+      "text": "or Twisted Minds, top"
+    },
+    {
+      "start_ms": 441204,
+      "end_ms": 443554,
+      "start": "00:07:21.204",
+      "end": "00:07:23.554",
+      "text": "teams, should contain"
+    },
+    {
+      "start_ms": 442592,
+      "end_ms": 445019,
+      "start": "00:07:22.592",
+      "end": "00:07:25.019",
+      "text": "enough knowledge to make"
+    },
+    {
+      "start_ms": 444058,
+      "end_ms": 446099,
+      "start": "00:07:24.058",
+      "end": "00:07:26.099",
+      "text": "me one of the"
+    },
+    {
+      "start_ms": 445137,
+      "end_ms": 447525,
+      "start": "00:07:25.137",
+      "end": "00:07:27.525",
+      "text": "best players in the"
+    },
+    {
+      "start_ms": 446564,
+      "end_ms": 450778,
+      "start": "00:07:26.564",
+      "end": "00:07:30.778",
+      "text": "world, right? Think"
+    },
+    {
+      "start_ms": 449815,
+      "end_ms": 453038,
+      "start": "00:07:29.815",
+      "end": "00:07:33.038",
+      "text": "about it. The things that these"
+    },
+    {
+      "start_ms": 452072,
+      "end_ms": 454399,
+      "start": "00:07:32.072",
+      "end": "00:07:34.399",
+      "text": "players do in the"
+    },
+    {
+      "start_ms": 453433,
+      "end_ms": 455692,
+      "start": "00:07:33.433",
+      "end": "00:07:35.692",
+      "text": "replay code, this code, or"
+    },
+    {
+      "start_ms": 454726,
+      "end_ms": 457019,
+      "start": "00:07:34.726",
+      "end": "00:07:37.019",
+      "text": "perhaps a series of codes,"
+    },
+    {
+      "start_ms": 456053,
+      "end_ms": 458210,
+      "start": "00:07:36.053",
+      "end": "00:07:38.210",
+      "text": "should contain the sum of"
+    },
+    {
+      "start_ms": 457244,
+      "end_ms": 459503,
+      "start": "00:07:37.244",
+      "end": "00:07:39.503",
+      "text": "everything important that's"
+    },
+    {
+      "start_ms": 458537,
+      "end_ms": 460762,
+      "start": "00:07:38.537",
+      "end": "00:07:40.762",
+      "text": "happening right now,"
+    },
+    {
+      "start_ms": 459796,
+      "end_ms": 463527,
+      "start": "00:07:39.796",
+      "end": "00:07:43.527",
+      "text": "right? Because all these players"
+    },
+    {
+      "start_ms": 462563,
+      "end_ms": 464544,
+      "start": "00:07:42.563",
+      "end": "00:07:44.544",
+      "text": "do everything that"
+    },
+    {
+      "start_ms": 463581,
+      "end_ms": 466627,
+      "start": "00:07:43.581",
+      "end": "00:07:46.627",
+      "text": "matters. So if you"
+    },
+    {
+      "start_ms": 465659,
+      "end_ms": 467810,
+      "start": "00:07:45.659",
+      "end": "00:07:47.810",
+      "text": "can't look at the"
+    },
+    {
+      "start_ms": 466842,
+      "end_ms": 469089,
+      "start": "00:07:46.842",
+      "end": "00:07:49.089",
+      "text": "replay code and learn"
+    },
+    {
+      "start_ms": 468121,
+      "end_ms": 469984,
+      "start": "00:07:48.121",
+      "end": "00:07:49.984",
+      "text": "everything important that's"
+    },
+    {
+      "start_ms": 469016,
+      "end_ms": 471167,
+      "start": "00:07:49.016",
+      "end": "00:07:51.167",
+      "text": "happening right now,"
+    },
+    {
+      "start_ms": 470199,
+      "end_ms": 472414,
+      "start": "00:07:50.199",
+      "end": "00:07:52.414",
+      "text": "then you don't have"
+    },
+    {
+      "start_ms": 471446,
+      "end_ms": 473501,
+      "start": "00:07:51.446",
+      "end": "00:07:53.501",
+      "text": "deep"
+    },
+    {
+      "start_ms": 472533,
+      "end_ms": 474652,
+      "start": "00:07:52.533",
+      "end": "00:07:54.652",
+      "text": "observation skills, right?"
+    },
+    {
+      "start_ms": 474729,
+      "end_ms": 477328,
+      "start": "00:07:54.729",
+      "end": "00:07:57.328",
+      "text": "Write this down. Look at the"
+    },
+    {
+      "start_ms": 476362,
+      "end_ms": 478427,
+      "start": "00:07:56.362",
+      "end": "00:07:58.427",
+      "text": "replay code. He"
+    },
+    {
+      "start_ms": 477464,
+      "end_ms": 479490,
+      "start": "00:07:57.464",
+      "end": "00:07:59.490",
+      "text": "went here. He"
+    },
+    {
+      "start_ms": 478523,
+      "end_ms": 480678,
+      "start": "00:07:58.523",
+      "end": "00:08:00.678",
+      "text": "used it. He"
+    },
+    {
+      "start_ms": 479711,
+      "end_ms": 481802,
+      "start": "00:07:59.711",
+      "end": "00:08:01.802",
+      "text": "did it, right? This is going to be"
+    },
+    {
+      "start_ms": 480834,
+      "end_ms": 483213,
+      "start": "00:08:00.834",
+      "end": "00:08:03.213",
+      "text": "boring as hell. This is"
+    },
+    {
+      "start_ms": 482258,
+      "end_ms": 483981,
+      "start": "00:08:02.258",
+      "end": "00:08:03.981",
+      "text": "boring. This"
+    },
+    {
+      "start_ms": 483013,
+      "end_ms": 484837,
+      "start": "00:08:03.013",
+      "end": "00:08:04.837",
+      "text": "will seem"
+    },
+    {
+      "start_ms": 483869,
+      "end_ms": 485982,
+      "start": "00:08:03.869",
+      "end": "00:08:05.982",
+      "text": "excessive. That's"
+    },
+    {
+      "start_ms": 485023,
+      "end_ms": 487787,
+      "start": "00:08:05.023",
+      "end": "00:08:07.787",
+      "text": "excessive, right? But"
+    },
+    {
+      "start_ms": 486821,
+      "end_ms": 489006,
+      "start": "00:08:06.821",
+      "end": "00:08:09.006",
+      "text": "the point is that your"
+    },
+    {
+      "start_ms": 488040,
+      "end_ms": 490326,
+      "start": "00:08:08.040",
+      "end": "00:08:10.326",
+      "text": "brain and eyes are unable to"
+    },
+    {
+      "start_ms": 489360,
+      "end_ms": 491647,
+      "start": "00:08:09.360",
+      "end": "00:08:11.647",
+      "text": "determine what you don't"
+    },
+    {
+      "start_ms": 490681,
+      "end_ms": 494102,
+      "start": "00:08:10.681",
+      "end": "00:08:14.102",
+      "text": "know. The only way to"
+    },
+    {
+      "start_ms": 493136,
+      "end_ms": 495020,
+      "start": "00:08:13.136",
+      "end": "00:08:15.020",
+      "text": "determine this is"
+    },
+    {
+      "start_ms": 494020,
+      "end_ms": 496006,
+      "start": "00:08:14.020",
+      "end": "00:08:16.006",
+      "text": "to put it all into"
+    },
+    {
+      "start_ms": 495040,
+      "end_ms": 496923,
+      "start": "00:08:15.040",
+      "end": "00:08:16.923",
+      "text": "physical form,"
+    },
+    {
+      "start_ms": 495957,
+      "end_ms": 498181,
+      "start": "00:08:15.957",
+      "end": "00:08:18.181",
+      "text": "for example, by writing it down"
+    },
+    {
+      "start_ms": 497215,
+      "end_ms": 499572,
+      "start": "00:08:17.215",
+      "end": "00:08:19.572",
+      "text": "on paper. I would"
+    },
+    {
+      "start_ms": 498605,
+      "end_ms": 500548,
+      "start": "00:08:18.605",
+      "end": "00:08:20.548",
+      "text": "literally recommend"
+    },
+    {
+      "start_ms": 499581,
+      "end_ms": 501687,
+      "start": "00:08:19.581",
+      "end": "00:08:21.687",
+      "text": "writing this by hand,"
+    },
+    {
+      "start_ms": 500720,
+      "end_ms": 503089,
+      "start": "00:08:20.720",
+      "end": "00:08:23.089",
+      "text": "right?"
+    },
+    {
+      "start_ms": 502128,
+      "end_ms": 505959,
+      "start": "00:08:22.128",
+      "end": "00:08:25.959",
+      "text": "You can also print. And then, by having a"
+    },
+    {
+      "start_ms": 504992,
+      "end_ms": 507140,
+      "start": "00:08:24.992",
+      "end": "00:08:27.140",
+      "text": "written explanation of"
+    },
+    {
+      "start_ms": 506173,
+      "end_ms": 507763,
+      "start": "00:08:26.173",
+      "end": "00:08:27.763",
+      "text": "everything that's"
+    },
+    {
+      "start_ms": 506796,
+      "end_ms": 508616,
+      "start": "00:08:26.796",
+      "end": "00:08:28.616",
+      "text": "happening,"
+    },
+    {
+      "start_ms": 507649,
+      "end_ms": 509666,
+      "start": "00:08:27.649",
+      "end": "00:08:29.666",
+      "text": "real deep"
+    },
+    {
+      "start_ms": 508699,
+      "end_ms": 510748,
+      "start": "00:08:28.699",
+      "end": "00:08:30.748",
+      "text": "observation, you'll"
+    },
+    {
+      "start_ms": 509781,
+      "end_ms": 511896,
+      "start": "00:08:29.781",
+      "end": "00:08:31.896",
+      "text": "be able to identify"
+    },
+    {
+      "start_ms": 510929,
+      "end_ms": 512979,
+      "start": "00:08:30.929",
+      "end": "00:08:32.979",
+      "text": "what you don't know."
+    },
+    {
+      "start_ms": 512879,
+      "end_ms": 514781,
+      "start": "00:08:32.879",
+      "end": "00:08:34.781",
+      "text": "The patterns"
+    },
+    {
+      "start_ms": 513813,
+      "end_ms": 516006,
+      "start": "00:08:33.813",
+      "end": "00:08:36.006",
+      "text": "will immediately catch your"
+    },
+    {
+      "start_ms": 515038,
+      "end_ms": 517423,
+      "start": "00:08:35.038",
+      "end": "00:08:37.423",
+      "text": "eye. This is the most important"
+    },
+    {
+      "start_ms": 516460,
+      "end_ms": 518515,
+      "start": "00:08:36.460",
+      "end": "00:08:38.515",
+      "text": "part. If you"
+    },
+    {
+      "start_ms": 517546,
+      "end_ms": 519454,
+      "start": "00:08:37.546",
+      "end": "00:08:39.454",
+      "text": "want to turn off"
+    },
+    {
+      "start_ms": 518485,
+      "end_ms": 520550,
+      "start": "00:08:38.485",
+      "end": "00:08:40.550",
+      "text": "the video now, that's"
+    },
+    {
+      "start_ms": 519582,
+      "end_ms": 521615,
+      "start": "00:08:39.582",
+      "end": "00:08:41.615",
+      "text": "probably enough,"
+    },
+    {
+      "start_ms": 520646,
+      "end_ms": 522552,
+      "start": "00:08:40.646",
+      "end": "00:08:42.552",
+      "text": "right? After"
+    },
+    {
+      "start_ms": 521583,
+      "end_ms": 523152,
+      "start": "00:08:41.583",
+      "end": "00:08:43.152",
+      "text": "deep"
+    },
+    {
+      "start_ms": 522184,
+      "end_ms": 524227,
+      "start": "00:08:42.184",
+      "end": "00:08:44.227",
+      "text": "observation, I would"
+    },
+    {
+      "start_ms": 523259,
+      "end_ms": 525492,
+      "start": "00:08:43.259",
+      "end": "00:08:45.492",
+      "text": "advise, I don't remember"
+    },
+    {
+      "start_ms": 524524,
+      "end_ms": 526725,
+      "start": "00:08:44.524",
+      "end": "00:08:46.725",
+      "text": "those three, I laid out the three"
+    },
+    {
+      "start_ms": 525757,
+      "end_ms": 527729,
+      "start": "00:08:45.757",
+      "end": "00:08:47.729",
+      "text": "levels earlier. It's"
+    },
+    {
+      "start_ms": 526757,
+      "end_ms": 528833,
+      "start": "00:08:46.757",
+      "end": "00:08:48.833",
+      "text": "completely unplanned"
+    },
+    {
+      "start_ms": 527862,
+      "end_ms": 529768,
+      "start": "00:08:47.862",
+      "end": "00:08:49.768",
+      "text": "and unscripted,"
+    },
+    {
+      "start_ms": 528796,
+      "end_ms": 530561,
+      "start": "00:08:48.796",
+      "end": "00:08:50.561",
+      "text": "so I don't [ __ ]"
+    },
+    {
+      "start_ms": 529589,
+      "end_ms": 531609,
+      "start": "00:08:49.589",
+      "end": "00:08:51.609",
+      "text": "remember what it was,"
+    },
+    {
+      "start_ms": 530637,
+      "end_ms": 532777,
+      "start": "00:08:50.637",
+      "end": "00:08:52.777",
+      "text": "right? This is important."
+    },
+    {
+      "start_ms": 532107,
+      "end_ms": 534339,
+      "start": "00:08:52.107",
+      "end": "00:08:54.339",
+      "text": "Make a comparison,"
+    },
+    {
+      "start_ms": 533373,
+      "end_ms": 536297,
+      "start": "00:08:53.373",
+      "end": "00:08:56.297",
+      "text": "okay? Open your"
+    },
+    {
+      "start_ms": 535331,
+      "end_ms": 537667,
+      "start": "00:08:55.331",
+      "end": "00:08:57.667",
+      "text": "code and professional code"
+    },
+    {
+      "start_ms": 536667,
+      "end_ms": 538900,
+      "start": "00:08:56.667",
+      "end": "00:08:58.900",
+      "text": ", as similar as possible."
+    },
+    {
+      "start_ms": 538000,
+      "end_ms": 540139,
+      "start": "00:08:58.000",
+      "end": "00:09:00.139",
+      "text": "Open the command"
+    },
+    {
+      "start_ms": 539170,
+      "end_ms": 541371,
+      "start": "00:08:59.170",
+      "end": "00:09:01.371",
+      "text": "code and professional code"
+    },
+    {
+      "start_ms": 540371,
+      "end_ms": 542253,
+      "start": "00:09:00.371",
+      "end": "00:09:02.253",
+      "text": ". If you can't"
+    },
+    {
+      "start_ms": 541282,
+      "end_ms": 543264,
+      "start": "00:09:01.282",
+      "end": "00:09:03.264",
+      "text": "find a comparison,"
+    },
+    {
+      "start_ms": 542293,
+      "end_ms": 544045,
+      "start": "00:09:02.293",
+      "end": "00:09:04.045",
+      "text": "create one."
+    },
+    {
+      "start_ms": 543145,
+      "end_ms": 545029,
+      "start": "00:09:03.145",
+      "end": "00:09:05.029",
+      "text": "Find the"
+    },
+    {
+      "start_ms": 544056,
+      "end_ms": 545940,
+      "start": "00:09:04.056",
+      "end": "00:09:05.940",
+      "text": "professional code first,"
+    },
+    {
+      "start_ms": 544967,
+      "end_ms": 546798,
+      "start": "00:09:04.967",
+      "end": "00:09:06.798",
+      "text": "then reproduce"
+    },
+    {
+      "start_ms": 545825,
+      "end_ms": 547590,
+      "start": "00:09:05.825",
+      "end": "00:09:07.590",
+      "text": "it, right? Oh, this"
+    },
+    {
+      "start_ms": 546616,
+      "end_ms": 548426,
+      "start": "00:09:06.616",
+      "end": "00:09:08.426",
+      "text": "team I"
+    },
+    {
+      "start_ms": 547452,
+      "end_ms": 549341,
+      "start": "00:09:07.452",
+      "end": "00:09:09.341",
+      "text": "like played"
+    },
+    {
+      "start_ms": 548367,
+      "end_ms": 550230,
+      "start": "00:09:08.367",
+      "end": "00:09:10.230",
+      "text": "this lineup on this"
+    },
+    {
+      "start_ms": 549256,
+      "end_ms": 551445,
+      "start": "00:09:09.256",
+      "end": "00:09:11.445",
+      "text": "map. We'll go to that"
+    },
+    {
+      "start_ms": 550475,
+      "end_ms": 552514,
+      "start": "00:09:10.475",
+      "end": "00:09:12.514",
+      "text": "map, play with that"
+    },
+    {
+      "start_ms": 551544,
+      "end_ms": 553702,
+      "start": "00:09:11.544",
+      "end": "00:09:13.702",
+      "text": "lineup, and compare."
+    },
+    {
+      "start_ms": 552802,
+      "end_ms": 554793,
+      "start": "00:09:12.802",
+      "end": "00:09:14.793",
+      "text": "This is another way to"
+    },
+    {
+      "start_ms": 553825,
+      "end_ms": 556041,
+      "start": "00:09:13.825",
+      "end": "00:09:16.041",
+      "text": "push yourself to"
+    },
+    {
+      "start_ms": 555073,
+      "end_ms": 557160,
+      "start": "00:09:15.073",
+      "end": "00:09:17.160",
+      "text": "realize what"
+    },
+    {
+      "start_ms": 556192,
+      "end_ms": 558440,
+      "start": "00:09:16.192",
+      "end": "00:09:18.440",
+      "text": "you don't know, right"
+    },
+    {
+      "start_ms": 557440,
+      "end_ms": 560067,
+      "start": "00:09:17.440",
+      "end": "00:09:20.067",
+      "text": "? Make the situation"
+    },
+    {
+      "start_ms": 559099,
+      "end_ms": 561361,
+      "start": "00:09:19.099",
+      "end": "00:09:21.361",
+      "text": "as similar as possible, and"
+    },
+    {
+      "start_ms": 560394,
+      "end_ms": 561944,
+      "start": "00:09:20.394",
+      "end": "00:09:21.944",
+      "text": "everything will become as"
+    },
+    {
+      "start_ms": 561721,
+      "end_ms": 563921,
+      "start": "00:09:21.721",
+      "end": "00:09:23.921",
+      "text": "obvious as possible. Oh, he"
+    },
+    {
+      "start_ms": 562960,
+      "end_ms": 565399,
+      "start": "00:09:22.960",
+      "end": "00:09:25.399",
+      "text": "went here, and I went here"
+    },
+    {
+      "start_ms": 564438,
+      "end_ms": 566917,
+      "start": "00:09:24.438",
+      "end": "00:09:26.917",
+      "text": ". That's it, right"
+    },
+    {
+      "start_ms": 565917,
+      "end_ms": 568368,
+      "start": "00:09:25.917",
+      "end": "00:09:28.368",
+      "text": "? Let it catch your"
+    },
+    {
+      "start_ms": 567406,
+      "end_ms": 570893,
+      "start": "00:09:27.406",
+      "end": "00:09:30.893",
+      "text": "eye. Of course? Um,"
+    },
+    {
+      "start_ms": 569927,
+      "end_ms": 572161,
+      "start": "00:09:29.927",
+      "end": "00:09:32.161",
+      "text": "I need to go to the gym"
+    },
+    {
+      "start_ms": 571195,
+      "end_ms": 573339,
+      "start": "00:09:31.195",
+      "end": "00:09:33.339",
+      "text": "right now. I don't"
+    },
+    {
+      "start_ms": 572370,
+      "end_ms": 574509,
+      "start": "00:09:32.370",
+      "end": "00:09:34.509",
+      "text": "remember everything I"
+    },
+    {
+      "start_ms": 573540,
+      "end_ms": 575204,
+      "start": "00:09:33.540",
+      "end": "00:09:35.204",
+      "text": "was going to"
+    },
+    {
+      "start_ms": 574236,
+      "end_ms": 576517,
+      "start": "00:09:34.236",
+      "end": "00:09:36.517",
+      "text": "tell you."
+    },
+    {
+      "start_ms": 575550,
+      "end_ms": 577532,
+      "start": "00:09:35.550",
+      "end": "00:09:37.532",
+      "text": "That's enough for me."
+    },
+    {
+      "start_ms": 577796,
+      "end_ms": 580062,
+      "start": "00:09:37.796",
+      "end": "00:09:40.062",
+      "text": "Try to determine"
+    },
+    {
+      "start_ms": 579096,
+      "end_ms": 580996,
+      "start": "00:09:39.096",
+      "end": "00:09:40.996",
+      "text": "if you are currently on the"
+    },
+    {
+      "start_ms": 580029,
+      "end_ms": 582329,
+      "start": "00:09:40.029",
+      "end": "00:09:42.329",
+      "text": "team and you are serious"
+    },
+    {
+      "start_ms": 581329,
+      "end_ms": 583669,
+      "start": "00:09:41.329",
+      "end": "00:09:43.669",
+      "text": ". If you're not serious,"
+    },
+    {
+      "start_ms": 582702,
+      "end_ms": 584641,
+      "start": "00:09:42.702",
+      "end": "00:09:44.641",
+      "text": "then, damn it, just"
+    },
+    {
+      "start_ms": 583674,
+      "end_ms": 585311,
+      "start": "00:09:43.674",
+      "end": "00:09:45.311",
+      "text": "click,"
+    },
+    {
+      "start_ms": 584344,
+      "end_ms": 586651,
+      "start": "00:09:44.344",
+      "end": "00:09:46.651",
+      "text": "watch something else,"
+    },
+    {
+      "start_ms": 585685,
+      "end_ms": 587996,
+      "start": "00:09:45.685",
+      "end": "00:09:47.996",
+      "text": "okay? This is not for you."
+    },
+    {
+      "start_ms": 587203,
+      "end_ms": 589128,
+      "start": "00:09:47.203",
+      "end": "00:09:49.128",
+      "text": "Because what I'm"
+    },
+    {
+      "start_ms": 588162,
+      "end_ms": 590190,
+      "start": "00:09:48.162",
+      "end": "00:09:50.190",
+      "text": "suggesting will take up a"
+    },
+    {
+      "start_ms": 589224,
+      "end_ms": 591492,
+      "start": "00:09:49.224",
+      "end": "00:09:51.492",
+      "text": "huge amount of"
+    },
+    {
+      "start_ms": 590526,
+      "end_ms": 592504,
+      "start": "00:09:50.526",
+      "end": "00:09:52.504",
+      "text": "your time. This will"
+    },
+    {
+      "start_ms": 591536,
+      "end_ms": 593503,
+      "start": "00:09:51.536",
+      "end": "00:09:53.503",
+      "text": "take a huge"
+    },
+    {
+      "start_ms": 592534,
+      "end_ms": 594533,
+      "start": "00:09:52.534",
+      "end": "00:09:54.533",
+      "text": "amount of effort."
+    },
+    {
+      "start_ms": 594206,
+      "end_ms": 596169,
+      "start": "00:09:54.206",
+      "end": "00:09:56.169",
+      "text": "Truth? And the only"
+    },
+    {
+      "start_ms": 595197,
+      "end_ms": 597267,
+      "start": "00:09:55.197",
+      "end": "00:09:57.267",
+      "text": "reason to do what"
+    },
+    {
+      "start_ms": 596295,
+      "end_ms": 598253,
+      "start": "00:09:56.295",
+      "end": "00:09:58.253",
+      "text": "I say is if you're"
+    },
+    {
+      "start_ms": 598267,
+      "end_ms": 600290,
+      "start": "00:09:58.267",
+      "end": "00:10:00.290",
+      "text": "serious about it. Anything"
+    },
+    {
+      "start_ms": 599324,
+      "end_ms": 601341,
+      "start": "00:09:59.324",
+      "end": "00:10:01.341",
+      "text": ", right? I'm"
+    },
+    {
+      "start_ms": 600372,
+      "end_ms": 602574,
+      "start": "00:10:00.372",
+      "end": "00:10:02.574",
+      "text": "talking about Overwatch, if"
+    },
+    {
+      "start_ms": 601605,
+      "end_ms": 603714,
+      "start": "00:10:01.605",
+      "end": "00:10:03.714",
+      "text": "you don't know, simply"
+    },
+    {
+      "start_ms": 602745,
+      "end_ms": 604762,
+      "start": "00:10:02.745",
+      "end": "00:10:04.762",
+      "text": "because that's what I've"
+    },
+    {
+      "start_ms": 603792,
+      "end_ms": 605902,
+      "start": "00:10:03.792",
+      "end": "00:10:05.902",
+      "text": "been doing, and those are examples of"
+    },
+    {
+      "start_ms": 604932,
+      "end_ms": 607103,
+      "start": "00:10:04.932",
+      "end": "00:10:07.103",
+      "text": "people doing"
+    },
+    {
+      "start_ms": 606134,
+      "end_ms": 608244,
+      "start": "00:10:06.134",
+      "end": "00:10:08.244",
+      "text": "it wrong, right?"
+    },
+    {
+      "start_ms": 607344,
+      "end_ms": 609418,
+      "start": "00:10:07.344",
+      "end": "00:10:09.418",
+      "text": "But you can do"
+    },
+    {
+      "start_ms": 608447,
+      "end_ms": 610376,
+      "start": "00:10:08.447",
+      "end": "00:10:10.376",
+      "text": "this with anything."
+    },
+    {
+      "start_ms": 609476,
+      "end_ms": 611885,
+      "start": "00:10:09.476",
+      "end": "00:10:11.885",
+      "text": "Realistic. So"
+    },
+    {
+      "start_ms": 610917,
+      "end_ms": 613061,
+      "start": "00:10:10.917",
+      "end": "00:10:13.061",
+      "text": "only do this if"
+    },
+    {
+      "start_ms": 612094,
+      "end_ms": 614288,
+      "start": "00:10:12.094",
+      "end": "00:10:14.288",
+      "text": "you are serious. Otherwise,"
+    },
+    {
+      "start_ms": 613319,
+      "end_ms": 615538,
+      "start": "00:10:13.319",
+      "end": "00:10:15.538",
+      "text": "it will be a waste of"
+    },
+    {
+      "start_ms": 614570,
+      "end_ms": 616718,
+      "start": "00:10:14.570",
+      "end": "00:10:16.718",
+      "text": "your time. If you"
+    },
+    {
+      "start_ms": 615746,
+      "end_ms": 617828,
+      "start": "00:10:15.746",
+      "end": "00:10:17.828",
+      "text": "argue, if you're"
+    },
+    {
+      "start_ms": 616856,
+      "end_ms": 618827,
+      "start": "00:10:16.856",
+      "end": "00:10:18.827",
+      "text": "trying to"
+    },
+    {
+      "start_ms": 617854,
+      "end_ms": 619839,
+      "start": "00:10:17.854",
+      "end": "00:10:19.839",
+      "text": "learn something. These are two"
+    },
+    {
+      "start_ms": 618872,
+      "end_ms": 620816,
+      "start": "00:10:18.872",
+      "end": "00:10:20.816",
+      "text": "basic"
+    },
+    {
+      "start_ms": 619848,
+      "end_ms": 621822,
+      "start": "00:10:19.848",
+      "end": "00:10:21.822",
+      "text": "learning situations, right? I'm"
+    },
+    {
+      "start_ms": 620853,
+      "end_ms": 622856,
+      "start": "00:10:20.853",
+      "end": "00:10:22.856",
+      "text": "trying to learn"
+    },
+    {
+      "start_ms": 621886,
+      "end_ms": 623980,
+      "start": "00:10:21.886",
+      "end": "00:10:23.980",
+      "text": "something on my own or"
+    },
+    {
+      "start_ms": 623011,
+      "end_ms": 625105,
+      "start": "00:10:23.011",
+      "end": "00:10:25.105",
+      "text": "arguing with someone"
+    },
+    {
+      "start_ms": 624135,
+      "end_ms": 626831,
+      "start": "00:10:24.135",
+      "end": "00:10:26.831",
+      "text": "else, right? Try to"
+    },
+    {
+      "start_ms": 625864,
+      "end_ms": 627648,
+      "start": "00:10:25.864",
+      "end": "00:10:27.648",
+      "text": "determine if"
+    },
+    {
+      "start_ms": 626681,
+      "end_ms": 628759,
+      "start": "00:10:26.681",
+      "end": "00:10:28.759",
+      "text": "we are using"
+    },
+    {
+      "start_ms": 627791,
+      "end_ms": 629739,
+      "start": "00:10:27.791",
+      "end": "00:10:29.739",
+      "text": "hypothetical"
+    },
+    {
+      "start_ms": 628771,
+      "end_ms": 630915,
+      "start": "00:10:28.771",
+      "end": "00:10:30.915",
+      "text": "reconstructions here, okay?"
+    },
+    {
+      "start_ms": 630851,
+      "end_ms": 632971,
+      "start": "00:10:30.851",
+      "end": "00:10:32.971",
+      "text": "If I'm arguing with"
+    },
+    {
+      "start_ms": 632003,
+      "end_ms": 633996,
+      "start": "00:10:32.003",
+      "end": "00:10:33.996",
+      "text": "my partner and he"
+    },
+    {
+      "start_ms": 633028,
+      "end_ms": 635084,
+      "start": "00:10:33.028",
+      "end": "00:10:35.084",
+      "text": "says, \"I think we"
+    },
+    {
+      "start_ms": 634116,
+      "end_ms": 636269,
+      "start": "00:10:34.116",
+      "end": "00:10:36.269",
+      "text": "should do this and"
+    },
+    {
+      "start_ms": 635301,
+      "end_ms": 637262,
+      "start": "00:10:35.301",
+      "end": "00:10:37.262",
+      "text": "it will work,\" and you"
+    },
+    {
+      "start_ms": 636294,
+      "end_ms": 638542,
+      "start": "00:10:36.294",
+      "end": "00:10:38.542",
+      "text": "think, \"I think we"
+    },
+    {
+      "start_ms": 637574,
+      "end_ms": 639727,
+      "start": "00:10:37.574",
+      "end": "00:10:39.727",
+      "text": "should do this and"
+    },
+    {
+      "start_ms": 638759,
+      "end_ms": 640752,
+      "start": "00:10:38.759",
+      "end": "00:10:40.752",
+      "text": "it will work,\" you're wasting"
+    },
+    {
+      "start_ms": 640584,
+      "end_ms": 642641,
+      "start": "00:10:40.584",
+      "end": "00:10:42.641",
+      "text": "your time, damn it,"
+    },
+    {
+      "start_ms": 641673,
+      "end_ms": 643665,
+      "start": "00:10:41.673",
+      "end": "00:10:43.665",
+      "text": "unless you're a"
+    },
+    {
+      "start_ms": 642697,
+      "end_ms": 644754,
+      "start": "00:10:42.697",
+      "end": "00:10:44.754",
+      "text": "cutting-edge expert at the"
+    },
+    {
+      "start_ms": 643786,
+      "end_ms": 646545,
+      "start": "00:10:43.786",
+      "end": "00:10:46.545",
+      "text": "highest level. If"
+    },
+    {
+      "start_ms": 645580,
+      "end_ms": 647936,
+      "start": "00:10:45.580",
+      "end": "00:10:47.936",
+      "text": "you're a real pro, you"
+    },
+    {
+      "start_ms": 646971,
+      "end_ms": 649077,
+      "start": "00:10:46.971",
+      "end": "00:10:49.077",
+      "text": "can say, \""
+    },
+    {
+      "start_ms": 648077,
+      "end_ms": 650432,
+      "start": "00:10:48.077",
+      "end": "00:10:50.432",
+      "text": "Okay, this is what I"
+    },
+    {
+      "start_ms": 649467,
+      "end_ms": 651858,
+      "start": "00:10:49.467",
+      "end": "00:10:51.858",
+      "text": "think should happen,\" and"
+    },
+    {
+      "start_ms": 650894,
+      "end_ms": 653178,
+      "start": "00:10:50.894",
+      "end": "00:10:53.178",
+      "text": "you can argue."
+    },
+    {
+      "start_ms": 653244,
+      "end_ms": 655470,
+      "start": "00:10:53.244",
+      "end": "00:10:55.470",
+      "text": "If not—don't waste"
+    },
+    {
+      "start_ms": 654505,
+      "end_ms": 656661,
+      "start": "00:10:54.505",
+      "end": "00:10:56.661",
+      "text": "your [ __ ] time,"
+    },
+    {
+      "start_ms": 655696,
+      "end_ms": 657992,
+      "start": "00:10:55.696",
+      "end": "00:10:57.992",
+      "text": "find an example where"
+    },
+    {
+      "start_ms": 657027,
+      "end_ms": 659253,
+      "start": "00:10:57.027",
+      "end": "00:10:59.253",
+      "text": "this has already happened,"
+    },
+    {
+      "start_ms": 658288,
+      "end_ms": 662666,
+      "start": "00:10:58.288",
+      "end": "00:11:02.666",
+      "text": "okay? Find an"
+    },
+    {
+      "start_ms": 661698,
+      "end_ms": 663790,
+      "start": "00:11:01.698",
+      "end": "00:11:03.790",
+      "text": "example of how it"
+    },
+    {
+      "start_ms": 662822,
+      "end_ms": 664945,
+      "start": "00:11:02.822",
+      "end": "00:11:04.945",
+      "text": "was done your way and"
+    },
+    {
+      "start_ms": 663977,
+      "end_ms": 666101,
+      "start": "00:11:03.977",
+      "end": "00:11:06.101",
+      "text": "it worked, then"
+    },
+    {
+      "start_ms": 665133,
+      "end_ms": 667409,
+      "start": "00:11:05.133",
+      "end": "00:11:07.409",
+      "text": "you are right. Or"
+    },
+    {
+      "start_ms": 666446,
+      "end_ms": 668854,
+      "start": "00:11:06.446",
+      "end": "00:11:08.854",
+      "text": "find…well, of course,"
+    },
+    {
+      "start_ms": 667891,
+      "end_ms": 670300,
+      "start": "00:11:07.891",
+      "end": "00:11:10.300",
+      "text": "this is all very simplified."
+    },
+    {
+      "start_ms": 669400,
+      "end_ms": 671159,
+      "start": "00:11:09.400",
+      "end": "00:11:11.159",
+      "text": "You should find"
+    },
+    {
+      "start_ms": 670184,
+      "end_ms": 671867,
+      "start": "00:11:10.184",
+      "end": "00:11:11.867",
+      "text": "a few"
+    },
+    {
+      "start_ms": 670892,
+      "end_ms": 672576,
+      "start": "00:11:10.892",
+      "end": "00:11:12.576",
+      "text": "examples like that, right?"
+    },
+    {
+      "start_ms": 671676,
+      "end_ms": 673426,
+      "start": "00:11:11.676",
+      "end": "00:11:13.426",
+      "text": "Make sure"
+    },
+    {
+      "start_ms": 672447,
+      "end_ms": 673995,
+      "start": "00:11:12.447",
+      "end": "00:11:13.995",
+      "text": "nothing"
+    },
+    {
+      "start_ms": 673015,
+      "end_ms": 674583,
+      "start": "00:11:13.015",
+      "end": "00:11:14.583",
+      "text": "stupid happens, that the"
+    },
+    {
+      "start_ms": 673603,
+      "end_ms": 675354,
+      "start": "00:11:13.603",
+      "end": "00:11:15.354",
+      "text": "enemy team, damn it"
+    },
+    {
+      "start_ms": 674375,
+      "end_ms": 676085,
+      "start": "00:11:14.375",
+      "end": "00:11:16.085",
+      "text": ", doesn't \"bleed\" the"
+    },
+    {
+      "start_ms": 675105,
+      "end_ms": 676792,
+      "start": "00:11:15.105",
+      "end": "00:11:16.792",
+      "text": "game, okay? But you"
+    },
+    {
+      "start_ms": 675818,
+      "end_ms": 677511,
+      "start": "00:11:15.818",
+      "end": "00:11:17.511",
+      "text": "should always"
+    },
+    {
+      "start_ms": 676537,
+      "end_ms": 678179,
+      "start": "00:11:16.537",
+      "end": "00:11:18.179",
+      "text": "argue and"
+    },
+    {
+      "start_ms": 677205,
+      "end_ms": 679104,
+      "start": "00:11:17.205",
+      "end": "00:11:19.104",
+      "text": "learn from the evidence."
+    },
+    {
+      "start_ms": 678204,
+      "end_ms": 679768,
+      "start": "00:11:18.204",
+      "end": "00:11:19.768",
+      "text": "If you don't"
+    },
+    {
+      "start_ms": 678800,
+      "end_ms": 680804,
+      "start": "00:11:18.800",
+      "end": "00:11:20.804",
+      "text": "argue and"
+    },
+    {
+      "start_ms": 679836,
+      "end_ms": 681934,
+      "start": "00:11:19.836",
+      "end": "00:11:21.934",
+      "text": "learn from the evidence,"
+    },
+    {
+      "start_ms": 680966,
+      "end_ms": 682907,
+      "start": "00:11:20.966",
+      "end": "00:11:22.907",
+      "text": "you're"
+    },
+    {
+      "start_ms": 681939,
+      "end_ms": 683974,
+      "start": "00:11:21.939",
+      "end": "00:11:23.974",
+      "text": "wasting your damn time,"
+    },
+    {
+      "start_ms": 683006,
+      "end_ms": 685907,
+      "start": "00:11:23.006",
+      "end": "00:11:25.907",
+      "text": "right? If you're"
+    },
+    {
+      "start_ms": 684942,
+      "end_ms": 687022,
+      "start": "00:11:24.942",
+      "end": "00:11:27.022",
+      "text": "arguing about"
+    },
+    {
+      "start_ms": 686057,
+      "end_ms": 687720,
+      "start": "00:11:26.057",
+      "end": "00:11:27.720",
+      "text": "hypotheses with"
+    },
+    {
+      "start_ms": 686755,
+      "end_ms": 689080,
+      "start": "00:11:26.755",
+      "end": "00:11:29.080",
+      "text": "your partner and neither of"
+    },
+    {
+      "start_ms": 688114,
+      "end_ms": 690404,
+      "start": "00:11:28.114",
+      "end": "00:11:30.404",
+      "text": "you knows what the"
+    },
+    {
+      "start_ms": 689439,
+      "end_ms": 691555,
+      "start": "00:11:29.439",
+      "end": "00:11:31.555",
+      "text": "hell you're talking about, you're"
+    },
+    {
+      "start_ms": 690590,
+      "end_ms": 692706,
+      "start": "00:11:30.590",
+      "end": "00:11:32.706",
+      "text": "wasting everyone's time"
+    },
+    {
+      "start_ms": 691741,
+      "end_ms": 694693,
+      "start": "00:11:31.741",
+      "end": "00:11:34.693",
+      "text": ". Of course?"
+    },
+    {
+      "start_ms": 694896,
+      "end_ms": 697041,
+      "start": "00:11:34.896",
+      "end": "00:11:37.041",
+      "text": "Honestly, if you have any"
+    },
+    {
+      "start_ms": 696078,
+      "end_ms": 698409,
+      "start": "00:11:36.078",
+      "end": "00:11:38.409",
+      "text": "questions, write them in"
+    },
+    {
+      "start_ms": 697446,
+      "end_ms": 699854,
+      "start": "00:11:37.446",
+      "end": "00:11:39.854",
+      "text": "the comments. Um, I"
+    },
+    {
+      "start_ms": 698891,
+      "end_ms": 701090,
+      "start": "00:11:38.891",
+      "end": "00:11:41.090",
+      "text": "will respond to every"
+    },
+    {
+      "start_ms": 700127,
+      "end_ms": 705959,
+      "start": "00:11:40.127",
+      "end": "00:11:45.959",
+      "text": "comment. Maybe I'm"
+    },
+    {
+      "start_ms": 705009,
+      "end_ms": 708512,
+      "start": "00:11:45.009",
+      "end": "00:11:48.512",
+      "text": "lying. Maybe I'm lying"
+    },
+    {
+      "start_ms": 707551,
+      "end_ms": 709366,
+      "start": "00:11:47.551",
+      "end": "00:11:49.366",
+      "text": "about that."
+    }
+  ]
+}

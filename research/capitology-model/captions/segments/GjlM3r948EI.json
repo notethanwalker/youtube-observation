@@ -1,0 +1,65 @@
+{
+  "video_id": "GjlM3r948EI",
+  "title": "Nico Reads Junbin Like a Book",
+  "url": "https://www.youtube.com/watch?v=GjlM3r948EI",
+  "upload_date": "2026-05-06",
+  "duration_seconds": 22,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:19:39.726417+00:00",
+  "source_sha256": "c6814cc8a72b91d727ec0aba5bdf36309a0418a5dce0bc45a734181ebb085fbc",
+  "source_bytes": 2940,
+  "segment_count": 6,
+  "word_count": 28,
+  "character_count": 135,
+  "first_segment_ms": 680,
+  "last_segment_end_ms": 23960,
+  "leading_gap_seconds": 0.68,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 680,
+      "end_ms": 4320,
+      "start": "00:00:00.680",
+      "end": "00:00:04.320",
+      "text": "But, they just got microchecked."
+    },
+    {
+      "start_ms": 5680,
+      "end_ms": 11320,
+      "start": "00:00:05.680",
+      "end": "00:00:11.320",
+      "text": "Oh my god. Did he do that on purpose?"
+    },
+    {
+      "start_ms": 15240,
+      "end_ms": 18760,
+      "start": "00:00:15.240",
+      "end": "00:00:18.760",
+      "text": "No way."
+    },
+    {
+      "start_ms": 17000,
+      "end_ms": 21040,
+      "start": "00:00:17.000",
+      "end": "00:00:21.040",
+      "text": "He's waiting."
+    },
+    {
+      "start_ms": 18760,
+      "end_ms": 23960,
+      "start": "00:00:18.760",
+      "end": "00:00:23.960",
+      "text": "Oh my god, he did do that on purpose."
+    },
+    {
+      "start_ms": 21040,
+      "end_ms": 23960,
+      "start": "00:00:21.040",
+      "end": "00:00:23.960",
+      "text": "Wow."
+    }
+  ]
+}

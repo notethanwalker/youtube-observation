@@ -1,0 +1,3432 @@
+{
+  "video_id": "jSCHyAWoUjc",
+  "title": "Rokit Makes Vendetta Look Broken",
+  "url": "https://www.youtube.com/watch?v=jSCHyAWoUjc",
+  "upload_date": "2025-12-21",
+  "duration_seconds": 977,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:20:29.764183+00:00",
+  "source_sha256": "5141cf556def0651511228dd328b2f753fb0015490e055150b3645fe9c9feb9c",
+  "source_bytes": 281077,
+  "segment_count": 487,
+  "word_count": 3330,
+  "character_count": 17393,
+  "first_segment_ms": 0,
+  "last_segment_end_ms": 973320,
+  "leading_gap_seconds": 0.0,
+  "trailing_gap_seconds": 3.68,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 0,
+      "end_ms": 2800,
+      "start": "00:00:00.000",
+      "end": "00:00:02.800",
+      "text": "We are live."
+    },
+    {
+      "start_ms": 2960,
+      "end_ms": 6240,
+      "start": "00:00:02.960",
+      "end": "00:00:06.240",
+      "text": "Trying"
+    },
+    {
+      "start_ms": 4600,
+      "end_ms": 9480,
+      "start": "00:00:04.600",
+      "end": "00:00:09.480",
+      "text": "VBR"
+    },
+    {
+      "start_ms": 6240,
+      "end_ms": 11040,
+      "start": "00:00:06.240",
+      "end": "00:00:11.040",
+      "text": "and 1600"
+    },
+    {
+      "start_ms": 9480,
+      "end_ms": 12480,
+      "start": "00:00:09.480",
+      "end": "00:00:12.480",
+      "text": "kilobits per second bitrate. Yes, you"
+    },
+    {
+      "start_ms": 11040,
+      "end_ms": 15160,
+      "start": "00:00:11.040",
+      "end": "00:00:15.160",
+      "text": "heard that correctly."
+    },
+    {
+      "start_ms": 12480,
+      "end_ms": 16320,
+      "start": "00:00:12.480",
+      "end": "00:00:16.320",
+      "text": "We have upped it from 1500 to 1600."
+    },
+    {
+      "start_ms": 15160,
+      "end_ms": 19040,
+      "start": "00:00:15.160",
+      "end": "00:00:19.040",
+      "text": "Everybody"
+    },
+    {
+      "start_ms": 16320,
+      "end_ms": 20400,
+      "start": "00:00:16.320",
+      "end": "00:00:20.400",
+      "text": "on YouTube complaining."
+    },
+    {
+      "start_ms": 19040,
+      "end_ms": 22240,
+      "start": "00:00:19.040",
+      "end": "00:00:22.240",
+      "text": "Oh, please raise the bitrate. Oh, please"
+    },
+    {
+      "start_ms": 20400,
+      "end_ms": 23920,
+      "start": "00:00:20.400",
+      "end": "00:00:23.920",
+      "text": "raise The bitrate has been raised."
+    },
+    {
+      "start_ms": 22240,
+      "end_ms": 27240,
+      "start": "00:00:22.240",
+      "end": "00:00:27.240",
+      "text": "You're welcome. We'll go through the fit"
+    },
+    {
+      "start_ms": 23920,
+      "end_ms": 28360,
+      "start": "00:00:23.920",
+      "end": "00:00:28.360",
+      "text": "one by one, also. This trench coat"
+    },
+    {
+      "start_ms": 27240,
+      "end_ms": 29840,
+      "start": "00:00:27.240",
+      "end": "00:00:29.840",
+      "text": "Actually, I don't have my gun on me,"
+    },
+    {
+      "start_ms": 28360,
+      "end_ms": 31840,
+      "start": "00:00:28.360",
+      "end": "00:00:31.840",
+      "text": "right? I can't flash that. Can I flash"
+    },
+    {
+      "start_ms": 29840,
+      "end_ms": 33800,
+      "start": "00:00:29.840",
+      "end": "00:00:33.800",
+      "text": "that on Twitch? Listed at 110, I got it"
+    },
+    {
+      "start_ms": 31840,
+      "end_ms": 35520,
+      "start": "00:00:31.840",
+      "end": "00:00:35.520",
+      "text": "for like 60. What is this? A Citizen."
+    },
+    {
+      "start_ms": 33800,
+      "end_ms": 37240,
+      "start": "00:00:33.800",
+      "end": "00:00:37.240",
+      "text": "They're pretty cheap, reasonably priced."
+    },
+    {
+      "start_ms": 35520,
+      "end_ms": 38560,
+      "start": "00:00:35.520",
+      "end": "00:00:38.560",
+      "text": "I love Citizens. I have a few of these."
+    },
+    {
+      "start_ms": 37240,
+      "end_ms": 41160,
+      "start": "00:00:37.240",
+      "end": "00:00:41.160",
+      "text": "This"
+    },
+    {
+      "start_ms": 38560,
+      "end_ms": 42880,
+      "start": "00:00:38.560",
+      "end": "00:00:42.880",
+      "text": "is an Arman. This was listed for 100,"
+    },
+    {
+      "start_ms": 41160,
+      "end_ms": 44920,
+      "start": "00:00:41.160",
+      "end": "00:00:44.920",
+      "text": "got it half off, again, cuz I'm the"
+    },
+    {
+      "start_ms": 42880,
+      "end_ms": 46720,
+      "start": "00:00:42.880",
+      "end": "00:00:46.720",
+      "text": "goat. These shoes, I don't know what the"
+    },
+    {
+      "start_ms": 44920,
+      "end_ms": 48320,
+      "start": "00:00:44.920",
+      "end": "00:00:48.320",
+      "text": "[ __ ] these are. Nobody cares. They're"
+    },
+    {
+      "start_ms": 46720,
+      "end_ms": 50800,
+      "start": "00:00:46.720",
+      "end": "00:00:50.800",
+      "text": "black. All shoes are the same. Don't"
+    },
+    {
+      "start_ms": 48320,
+      "end_ms": 53080,
+      "start": "00:00:48.320",
+      "end": "00:00:53.080",
+      "text": "ever buy expensive shoes. Let's pour"
+    },
+    {
+      "start_ms": 50800,
+      "end_ms": 55200,
+      "start": "00:00:50.800",
+      "end": "00:00:55.200",
+      "text": "glass number one. And let's get right"
+    },
+    {
+      "start_ms": 53080,
+      "end_ms": 56840,
+      "start": "00:00:53.080",
+      "end": "00:00:56.840",
+      "text": "into it. Oh, that is beautiful. The one"
+    },
+    {
+      "start_ms": 55200,
+      "end_ms": 61000,
+      "start": "00:00:55.200",
+      "end": "00:01:01.000",
+      "text": "thing that's most important, this"
+    },
+    {
+      "start_ms": 56840,
+      "end_ms": 63160,
+      "start": "00:00:56.840",
+      "end": "00:01:03.160",
+      "text": "character has basically infinity"
+    },
+    {
+      "start_ms": 61000,
+      "end_ms": 65600,
+      "start": "00:01:01.000",
+      "end": "00:01:05.600",
+      "text": "possible options for decision-making at"
+    },
+    {
+      "start_ms": 63160,
+      "end_ms": 69080,
+      "start": "00:01:03.160",
+      "end": "00:01:09.080",
+      "text": "any point. The problem is that you have"
+    },
+    {
+      "start_ms": 65600,
+      "end_ms": 70960,
+      "start": "00:01:05.600",
+      "end": "00:01:10.960",
+      "text": "infinitely many more mistakes to make."
+    },
+    {
+      "start_ms": 69080,
+      "end_ms": 72240,
+      "start": "00:01:09.080",
+      "end": "00:01:12.240",
+      "text": "It's very fun to fly across the map and"
+    },
+    {
+      "start_ms": 70960,
+      "end_ms": 74240,
+      "start": "00:01:10.960",
+      "end": "00:01:14.240",
+      "text": "one-shot someone, right? Like, let's"
+    },
+    {
+      "start_ms": 72240,
+      "end_ms": 75560,
+      "start": "00:01:12.240",
+      "end": "00:01:15.560",
+      "text": "just be honest. It's incredibly fun,"
+    },
+    {
+      "start_ms": 74240,
+      "end_ms": 77880,
+      "start": "00:01:14.240",
+      "end": "00:01:17.880",
+      "text": "even if you go one for one. So,"
+    },
+    {
+      "start_ms": 75560,
+      "end_ms": 80440,
+      "start": "00:01:15.560",
+      "end": "00:01:20.440",
+      "text": "resisting those urges is number one,"
+    },
+    {
+      "start_ms": 77880,
+      "end_ms": 81800,
+      "start": "00:01:17.880",
+      "end": "00:01:21.800",
+      "text": "right? So, I'm looking for how committed"
+    },
+    {
+      "start_ms": 80440,
+      "end_ms": 83720,
+      "start": "00:01:20.440",
+      "end": "00:01:23.720",
+      "text": "he wants to be all the time, basically,"
+    },
+    {
+      "start_ms": 81800,
+      "end_ms": 85320,
+      "start": "00:01:21.800",
+      "end": "00:01:25.320",
+      "text": "right? Like, when are we committing? How"
+    },
+    {
+      "start_ms": 83720,
+      "end_ms": 87080,
+      "start": "00:01:23.720",
+      "end": "00:01:27.080",
+      "text": "hard of a commitment is it? What are we"
+    },
+    {
+      "start_ms": 85320,
+      "end_ms": 89480,
+      "start": "00:01:25.320",
+      "end": "00:01:29.480",
+      "text": "getting out of it? How many firestrikes"
+    },
+    {
+      "start_ms": 87080,
+      "end_ms": 90720,
+      "start": "00:01:27.080",
+      "end": "00:01:30.720",
+      "text": "are we using? Cuz I've watched like in"
+    },
+    {
+      "start_ms": 89480,
+      "end_ms": 92960,
+      "start": "00:01:29.480",
+      "end": "00:01:32.960",
+      "text": "anytime I've been in Dead of Winter some"
+    },
+    {
+      "start_ms": 90720,
+      "end_ms": 94520,
+      "start": "00:01:30.720",
+      "end": "00:01:34.520",
+      "text": "Chad in GM5, he throws three firestrikes"
+    },
+    {
+      "start_ms": 92960,
+      "end_ms": 95720,
+      "start": "00:01:32.960",
+      "end": "00:01:35.720",
+      "text": "instantly and just dies, right? Like,"
+    },
+    {
+      "start_ms": 94520,
+      "end_ms": 98160,
+      "start": "00:01:34.520",
+      "end": "00:01:38.160",
+      "text": "it's very clear that that's not the"
+    },
+    {
+      "start_ms": 95720,
+      "end_ms": 98160,
+      "start": "00:01:35.720",
+      "end": "00:01:38.160",
+      "text": "answer."
+    },
+    {
+      "start_ms": 99520,
+      "end_ms": 103440,
+      "start": "00:01:39.520",
+      "end": "00:01:43.440",
+      "text": "This, like, space-taking on side makes a"
+    },
+    {
+      "start_ms": 101360,
+      "end_ms": 104840,
+      "start": "00:01:41.360",
+      "end": "00:01:44.840",
+      "text": "lot of sense. He goes for the the damage"
+    },
+    {
+      "start_ms": 103440,
+      "end_ms": 106040,
+      "start": "00:01:43.440",
+      "end": "00:01:46.040",
+      "text": "on this guy, but as soon as people look"
+    },
+    {
+      "start_ms": 104840,
+      "end_ms": 109400,
+      "start": "00:01:44.840",
+      "end": "00:01:49.400",
+      "text": "at him, right? This is like one of the"
+    },
+    {
+      "start_ms": 106040,
+      "end_ms": 110720,
+      "start": "00:01:46.040",
+      "end": "00:01:50.720",
+      "text": "most important Flex DPS concepts is um"
+    },
+    {
+      "start_ms": 109400,
+      "end_ms": 111520,
+      "start": "00:01:49.400",
+      "end": "00:01:51.520",
+      "text": "understanding how not to greed. Like, I"
+    },
+    {
+      "start_ms": 110720,
+      "end_ms": 113360,
+      "start": "00:01:50.720",
+      "end": "00:01:53.360",
+      "text": "know a lot of people that would have"
+    },
+    {
+      "start_ms": 111520,
+      "end_ms": 114720,
+      "start": "00:01:51.520",
+      "end": "00:01:54.720",
+      "text": "just got rocked here and died, right?"
+    },
+    {
+      "start_ms": 113360,
+      "end_ms": 116720,
+      "start": "00:01:53.360",
+      "end": "00:01:56.720",
+      "text": "The goal in a lot of early fights is"
+    },
+    {
+      "start_ms": 114720,
+      "end_ms": 117960,
+      "start": "00:01:54.720",
+      "end": "00:01:57.960",
+      "text": "going to be if you're trying to flank,"
+    },
+    {
+      "start_ms": 116720,
+      "end_ms": 119640,
+      "start": "00:01:56.720",
+      "end": "00:01:59.640",
+      "text": "if you're trying to be the initiator,"
+    },
+    {
+      "start_ms": 117960,
+      "end_ms": 121760,
+      "start": "00:01:57.960",
+      "end": "00:02:01.760",
+      "text": "you're trying to take attention,"
+    },
+    {
+      "start_ms": 119640,
+      "end_ms": 125360,
+      "start": "00:01:59.640",
+      "end": "00:02:05.360",
+      "text": "this is a very, very concept. Listen"
+    },
+    {
+      "start_ms": 121760,
+      "end_ms": 127040,
+      "start": "00:02:01.760",
+      "end": "00:02:07.040",
+      "text": "very closely. Do not play your health"
+    },
+    {
+      "start_ms": 125360,
+      "end_ms": 128520,
+      "start": "00:02:05.360",
+      "end": "00:02:08.520",
+      "text": "bar. If you are trying to be the"
+    },
+    {
+      "start_ms": 127040,
+      "end_ms": 132120,
+      "start": "00:02:07.040",
+      "end": "00:02:12.120",
+      "text": "initiator, if you're trying to take"
+    },
+    {
+      "start_ms": 128520,
+      "end_ms": 133880,
+      "start": "00:02:08.520",
+      "end": "00:02:13.880",
+      "text": "aggro, don't go in until you get low and"
+    },
+    {
+      "start_ms": 132120,
+      "end_ms": 135040,
+      "start": "00:02:12.120",
+      "end": "00:02:15.040",
+      "text": "then go out. This is a terrible idea,"
+    },
+    {
+      "start_ms": 133880,
+      "end_ms": 136680,
+      "start": "00:02:13.880",
+      "end": "00:02:16.680",
+      "text": "cuz what will happen is you'll get"
+    },
+    {
+      "start_ms": 135040,
+      "end_ms": 138480,
+      "start": "00:02:15.040",
+      "end": "00:02:18.480",
+      "text": "one-shot or you'll get hit by a very"
+    },
+    {
+      "start_ms": 136680,
+      "end_ms": 139480,
+      "start": "00:02:16.680",
+      "end": "00:02:19.480",
+      "text": "important and strong cooldown, cuz"
+    },
+    {
+      "start_ms": 138480,
+      "end_ms": 141320,
+      "start": "00:02:18.480",
+      "end": "00:02:21.320",
+      "text": "you're trying to take cooldowns, right?"
+    },
+    {
+      "start_ms": 139480,
+      "end_ms": 142920,
+      "start": "00:02:19.480",
+      "end": "00:02:22.920",
+      "text": "I'm trying to bait the Sigrock. Don't"
+    },
+    {
+      "start_ms": 141320,
+      "end_ms": 145240,
+      "start": "00:02:21.320",
+      "end": "00:02:25.240",
+      "text": "bait the Sigrock and then get hit by the"
+    },
+    {
+      "start_ms": 142920,
+      "end_ms": 146800,
+      "start": "00:02:22.920",
+      "end": "00:02:26.800",
+      "text": "Sigrock, right? Is the lesson. Don't"
+    },
+    {
+      "start_ms": 145240,
+      "end_ms": 147960,
+      "start": "00:02:25.240",
+      "end": "00:02:27.960",
+      "text": "bait three people to look at you and"
+    },
+    {
+      "start_ms": 146800,
+      "end_ms": 150640,
+      "start": "00:02:26.800",
+      "end": "00:02:30.640",
+      "text": "then take three people's worth of"
+    },
+    {
+      "start_ms": 147960,
+      "end_ms": 152400,
+      "start": "00:02:27.960",
+      "end": "00:02:32.400",
+      "text": "damage, right? What you do is take their"
+    },
+    {
+      "start_ms": 150640,
+      "end_ms": 154000,
+      "start": "00:02:30.640",
+      "end": "00:02:34.000",
+      "text": "attention and then when they look at"
+    },
+    {
+      "start_ms": 152400,
+      "end_ms": 155120,
+      "start": "00:02:32.400",
+      "end": "00:02:35.120",
+      "text": "you, play the visual aggro. This is what"
+    },
+    {
+      "start_ms": 154000,
+      "end_ms": 156640,
+      "start": "00:02:34.000",
+      "end": "00:02:36.640",
+      "text": "we're playing. Not playing the health"
+    },
+    {
+      "start_ms": 155120,
+      "end_ms": 158200,
+      "start": "00:02:35.120",
+      "end": "00:02:38.200",
+      "text": "bar, playing the visual aggro, right?"
+    },
+    {
+      "start_ms": 156640,
+      "end_ms": 160160,
+      "start": "00:02:36.640",
+      "end": "00:02:40.160",
+      "text": "Three people are looking at me, I'm"
+    },
+    {
+      "start_ms": 158200,
+      "end_ms": 162160,
+      "start": "00:02:38.200",
+      "end": "00:02:42.160",
+      "text": "blocking, and now I'm leaving, right?"
+    },
+    {
+      "start_ms": 160160,
+      "end_ms": 163720,
+      "start": "00:02:40.160",
+      "end": "00:02:43.720",
+      "text": "When he gets his second set of"
+    },
+    {
+      "start_ms": 162160,
+      "end_ms": 166080,
+      "start": "00:02:42.160",
+      "end": "00:02:46.080",
+      "text": "cooldowns, especially because he just"
+    },
+    {
+      "start_ms": 163720,
+      "end_ms": 168400,
+      "start": "00:02:43.720",
+      "end": "00:02:48.400",
+      "text": "used his shift to leave, he takes a less"
+    },
+    {
+      "start_ms": 166080,
+      "end_ms": 169920,
+      "start": "00:02:46.080",
+      "end": "00:02:49.920",
+      "text": "direct pathing option, and instead of"
+    },
+    {
+      "start_ms": 168400,
+      "end_ms": 171680,
+      "start": "00:02:48.400",
+      "end": "00:02:51.680",
+      "text": "like just peaking this again and E'ing"
+    },
+    {
+      "start_ms": 169920,
+      "end_ms": 173560,
+      "start": "00:02:49.920",
+      "end": "00:02:53.560",
+      "text": "again in the second set of cooldowns, he"
+    },
+    {
+      "start_ms": 171680,
+      "end_ms": 175240,
+      "start": "00:02:51.680",
+      "end": "00:02:55.240",
+      "text": "just gets out over here, like to a a"
+    },
+    {
+      "start_ms": 173560,
+      "end_ms": 177320,
+      "start": "00:02:53.560",
+      "end": "00:02:57.320",
+      "text": "very indirect pathing spot where I have"
+    },
+    {
+      "start_ms": 175240,
+      "end_ms": 179280,
+      "start": "00:02:55.240",
+      "end": "00:02:59.280",
+      "text": "plenty of time to look around. He waits"
+    },
+    {
+      "start_ms": 177320,
+      "end_ms": 180920,
+      "start": "00:02:57.320",
+      "end": "00:03:00.920",
+      "text": "for the shift back."
+    },
+    {
+      "start_ms": 179280,
+      "end_ms": 182640,
+      "start": "00:02:59.280",
+      "end": "00:03:02.640",
+      "text": "Now he catches his bap and rotate, and"
+    },
+    {
+      "start_ms": 180920,
+      "end_ms": 184560,
+      "start": "00:03:00.920",
+      "end": "00:03:04.560",
+      "text": "he's just he's just"
+    },
+    {
+      "start_ms": 182640,
+      "end_ms": 185960,
+      "start": "00:03:02.640",
+      "end": "00:03:05.960",
+      "text": "He's just in a nice scouting spot where"
+    },
+    {
+      "start_ms": 184560,
+      "end_ms": 187800,
+      "start": "00:03:04.560",
+      "end": "00:03:07.800",
+      "text": "he can pay attention to what's going on"
+    },
+    {
+      "start_ms": 185960,
+      "end_ms": 188880,
+      "start": "00:03:05.960",
+      "end": "00:03:08.880",
+      "text": "and react to things effectively."
+    },
+    {
+      "start_ms": 187800,
+      "end_ms": 190760,
+      "start": "00:03:07.800",
+      "end": "00:03:10.760",
+      "text": "Then he catches him again when he goes"
+    },
+    {
+      "start_ms": 188880,
+      "end_ms": 191960,
+      "start": "00:03:08.880",
+      "end": "00:03:11.960",
+      "text": "high."
+    },
+    {
+      "start_ms": 190760,
+      "end_ms": 193760,
+      "start": "00:03:10.760",
+      "end": "00:03:13.760",
+      "text": "Boom."
+    },
+    {
+      "start_ms": 191960,
+      "end_ms": 195400,
+      "start": "00:03:11.960",
+      "end": "00:03:15.400",
+      "text": "Easy. Characters have a really strong"
+    },
+    {
+      "start_ms": 193760,
+      "end_ms": 196840,
+      "start": "00:03:13.760",
+      "end": "00:03:16.840",
+      "text": "engage potential, right? But when you"
+    },
+    {
+      "start_ms": 195400,
+      "end_ms": 198280,
+      "start": "00:03:15.400",
+      "end": "00:03:18.280",
+      "text": "start to take space, you need to pay"
+    },
+    {
+      "start_ms": 196840,
+      "end_ms": 199840,
+      "start": "00:03:16.840",
+      "end": "00:03:19.840",
+      "text": "attention to what the enemy's reaction"
+    },
+    {
+      "start_ms": 198280,
+      "end_ms": 201480,
+      "start": "00:03:18.280",
+      "end": "00:03:21.480",
+      "text": "to you taking space is. If they're"
+    },
+    {
+      "start_ms": 199840,
+      "end_ms": 203200,
+      "start": "00:03:19.840",
+      "end": "00:03:23.200",
+      "text": "fighting you, usually it's pretty cut"
+    },
+    {
+      "start_ms": 201480,
+      "end_ms": 204800,
+      "start": "00:03:21.480",
+      "end": "00:03:24.800",
+      "text": "and dry, right? Fight them back. If"
+    },
+    {
+      "start_ms": 203200,
+      "end_ms": 206000,
+      "start": "00:03:23.200",
+      "end": "00:03:26.000",
+      "text": "people are spacing you properly, you"
+    },
+    {
+      "start_ms": 204800,
+      "end_ms": 207120,
+      "start": "00:03:24.800",
+      "end": "00:03:27.120",
+      "text": "need to take a different approach. And"
+    },
+    {
+      "start_ms": 206000,
+      "end_ms": 209400,
+      "start": "00:03:26.000",
+      "end": "00:03:29.400",
+      "text": "all of these players are spacing"
+    },
+    {
+      "start_ms": 207120,
+      "end_ms": 212400,
+      "start": "00:03:27.120",
+      "end": "00:03:32.400",
+      "text": "properly, right? Your next move is to"
+    },
+    {
+      "start_ms": 209400,
+      "end_ms": 214160,
+      "start": "00:03:29.400",
+      "end": "00:03:34.160",
+      "text": "try and take more space and make it"
+    },
+    {
+      "start_ms": 212400,
+      "end_ms": 215680,
+      "start": "00:03:32.400",
+      "end": "00:03:35.680",
+      "text": "difficult for them to space you properly"
+    },
+    {
+      "start_ms": 214160,
+      "end_ms": 217760,
+      "start": "00:03:34.160",
+      "end": "00:03:37.760",
+      "text": "instead of actually doing your engage,"
+    },
+    {
+      "start_ms": 215680,
+      "end_ms": 219320,
+      "start": "00:03:35.680",
+      "end": "00:03:39.320",
+      "text": "right? Put your engage on hold and make"
+    },
+    {
+      "start_ms": 217760,
+      "end_ms": 220920,
+      "start": "00:03:37.760",
+      "end": "00:03:40.920",
+      "text": "them scared. The downside of them"
+    },
+    {
+      "start_ms": 219320,
+      "end_ms": 222760,
+      "start": "00:03:39.320",
+      "end": "00:03:42.760",
+      "text": "spacing you properly is they end up"
+    },
+    {
+      "start_ms": 220920,
+      "end_ms": 224120,
+      "start": "00:03:40.920",
+      "end": "00:03:44.120",
+      "text": "giving a lot of space, right?"
+    },
+    {
+      "start_ms": 222760,
+      "end_ms": 225960,
+      "start": "00:03:42.760",
+      "end": "00:03:45.960",
+      "text": "He waits for the Sojourn to slide away"
+    },
+    {
+      "start_ms": 224120,
+      "end_ms": 227720,
+      "start": "00:03:44.120",
+      "end": "00:03:47.720",
+      "text": "first, cuz I can make that Sojourn"
+    },
+    {
+      "start_ms": 225960,
+      "end_ms": 229680,
+      "start": "00:03:45.960",
+      "end": "00:03:49.680",
+      "text": "scared. The longer I hold that engage"
+    },
+    {
+      "start_ms": 227720,
+      "end_ms": 231440,
+      "start": "00:03:47.720",
+      "end": "00:03:51.440",
+      "text": "over the Sojourn's head, the less he"
+    },
+    {
+      "start_ms": 229680,
+      "end_ms": 233080,
+      "start": "00:03:49.680",
+      "end": "00:03:53.080",
+      "text": "wants to keep being there and poking me,"
+    },
+    {
+      "start_ms": 231440,
+      "end_ms": 235880,
+      "start": "00:03:51.440",
+      "end": "00:03:55.880",
+      "text": "cuz the chance that I can one-shot him"
+    },
+    {
+      "start_ms": 233080,
+      "end_ms": 237960,
+      "start": "00:03:53.080",
+      "end": "00:03:57.960",
+      "text": "is rising. And now I can go top."
+    },
+    {
+      "start_ms": 235880,
+      "end_ms": 239960,
+      "start": "00:03:55.880",
+      "end": "00:03:59.960",
+      "text": "The slide's already forced."
+    },
+    {
+      "start_ms": 237960,
+      "end_ms": 242680,
+      "start": "00:03:57.960",
+      "end": "00:04:02.680",
+      "text": "I'm way closer. Luckily, his Hog gets"
+    },
+    {
+      "start_ms": 239960,
+      "end_ms": 242680,
+      "start": "00:03:59.960",
+      "end": "00:04:02.680",
+      "text": "something, right?"
+    },
+    {
+      "start_ms": 242840,
+      "end_ms": 245520,
+      "start": "00:04:02.840",
+      "end": "00:04:05.520",
+      "text": "Boom."
+    },
+    {
+      "start_ms": 247000,
+      "end_ms": 253200,
+      "start": "00:04:07.000",
+      "end": "00:04:13.200",
+      "text": "Ah, nothing wrong with just fighting the"
+    },
+    {
+      "start_ms": 250960,
+      "end_ms": 254680,
+      "start": "00:04:10.960",
+      "end": "00:04:14.680",
+      "text": "enemy tank and stacking with your team"
+    },
+    {
+      "start_ms": 253200,
+      "end_ms": 255800,
+      "start": "00:04:13.200",
+      "end": "00:04:15.800",
+      "text": "when it makes sense, right? This is a"
+    },
+    {
+      "start_ms": 254680,
+      "end_ms": 257560,
+      "start": "00:04:14.680",
+      "end": "00:04:17.560",
+      "text": "fight where we already have a ton of"
+    },
+    {
+      "start_ms": 255800,
+      "end_ms": 259079,
+      "start": "00:04:15.800",
+      "end": "00:04:19.079",
+      "text": "space. There's no angle that I really"
+    },
+    {
+      "start_ms": 257560,
+      "end_ms": 261079,
+      "start": "00:04:17.560",
+      "end": "00:04:21.079",
+      "text": "care about, right? I don't need to go on"
+    },
+    {
+      "start_ms": 259079,
+      "end_ms": 262720,
+      "start": "00:04:19.079",
+      "end": "00:04:22.720",
+      "text": "the angle. And if you don't need to, the"
+    },
+    {
+      "start_ms": 261079,
+      "end_ms": 263840,
+      "start": "00:04:21.079",
+      "end": "00:04:23.840",
+      "text": "enemy team doesn't have any good angles,"
+    },
+    {
+      "start_ms": 262720,
+      "end_ms": 265440,
+      "start": "00:04:22.720",
+      "end": "00:04:25.440",
+      "text": "just"
+    },
+    {
+      "start_ms": 263840,
+      "end_ms": 266600,
+      "start": "00:04:23.840",
+      "end": "00:04:26.600",
+      "text": "shoot their tank as hard as you can. I"
+    },
+    {
+      "start_ms": 265440,
+      "end_ms": 268520,
+      "start": "00:04:25.440",
+      "end": "00:04:28.520",
+      "text": "mean, slice their tank, right? You don't"
+    },
+    {
+      "start_ms": 266600,
+      "end_ms": 270040,
+      "start": "00:04:26.600",
+      "end": "00:04:30.040",
+      "text": "have a gun. But, you do an insane amount"
+    },
+    {
+      "start_ms": 268520,
+      "end_ms": 271520,
+      "start": "00:04:28.520",
+      "end": "00:04:31.520",
+      "text": "of damage to tanks. If there's no"
+    },
+    {
+      "start_ms": 270040,
+      "end_ms": 273320,
+      "start": "00:04:30.040",
+      "end": "00:04:33.320",
+      "text": "angles, there's no reason for you to be"
+    },
+    {
+      "start_ms": 271520,
+      "end_ms": 274920,
+      "start": "00:04:31.520",
+      "end": "00:04:34.920",
+      "text": "going out of your way to to do less"
+    },
+    {
+      "start_ms": 273320,
+      "end_ms": 275960,
+      "start": "00:04:33.320",
+      "end": "00:04:35.960",
+      "text": "damage, right? Look how much damage he"
+    },
+    {
+      "start_ms": 274920,
+      "end_ms": 277000,
+      "start": "00:04:34.920",
+      "end": "00:04:37.000",
+      "text": "does here."
+    },
+    {
+      "start_ms": 275960,
+      "end_ms": 279240,
+      "start": "00:04:35.960",
+      "end": "00:04:39.240",
+      "text": "One."
+    },
+    {
+      "start_ms": 277000,
+      "end_ms": 280480,
+      "start": "00:04:37.000",
+      "end": "00:04:40.480",
+      "text": "Boom. Boom."
+    },
+    {
+      "start_ms": 279240,
+      "end_ms": 281720,
+      "start": "00:04:39.240",
+      "end": "00:04:41.720",
+      "text": "That's more damage than any other"
+    },
+    {
+      "start_ms": 280480,
+      "end_ms": 282760,
+      "start": "00:04:40.480",
+      "end": "00:04:42.760",
+      "text": "character's going to do if you just sit"
+    },
+    {
+      "start_ms": 281720,
+      "end_ms": 284160,
+      "start": "00:04:41.720",
+      "end": "00:04:44.160",
+      "text": "with your tank, right? Just make sure"
+    },
+    {
+      "start_ms": 282760,
+      "end_ms": 286600,
+      "start": "00:04:42.760",
+      "end": "00:04:46.600",
+      "text": "there's a a good reason to be doing it."
+    },
+    {
+      "start_ms": 284160,
+      "end_ms": 288120,
+      "start": "00:04:44.160",
+      "end": "00:04:48.120",
+      "text": "I do appreciate that he is somewhere"
+    },
+    {
+      "start_ms": 286600,
+      "end_ms": 290240,
+      "start": "00:04:46.600",
+      "end": "00:04:50.240",
+      "text": "very flexible. This is something that a"
+    },
+    {
+      "start_ms": 288120,
+      "end_ms": 291680,
+      "start": "00:04:48.120",
+      "end": "00:04:51.680",
+      "text": "lot of Flex DPS struggle with. I was"
+    },
+    {
+      "start_ms": 290240,
+      "end_ms": 294200,
+      "start": "00:04:50.240",
+      "end": "00:04:54.200",
+      "text": "actually talking about this in a recent"
+    },
+    {
+      "start_ms": 291680,
+      "end_ms": 297240,
+      "start": "00:04:51.680",
+      "end": "00:04:57.240",
+      "text": "review I did of Team Liquid. The way"
+    },
+    {
+      "start_ms": 294200,
+      "end_ms": 299280,
+      "start": "00:04:54.200",
+      "end": "00:04:59.280",
+      "text": "that Zera plays Echo on Shambali is a"
+    },
+    {
+      "start_ms": 297240,
+      "end_ms": 301920,
+      "start": "00:04:57.240",
+      "end": "00:05:01.920",
+      "text": "very similar concept. There are great"
+    },
+    {
+      "start_ms": 299280,
+      "end_ms": 303560,
+      "start": "00:04:59.280",
+      "end": "00:05:03.560",
+      "text": "spots on the map for you as a Flex DPS"
+    },
+    {
+      "start_ms": 301920,
+      "end_ms": 305200,
+      "start": "00:05:01.920",
+      "end": "00:05:05.200",
+      "text": "with high burst potential, right? I want"
+    },
+    {
+      "start_ms": 303560,
+      "end_ms": 307160,
+      "start": "00:05:03.560",
+      "end": "00:05:07.160",
+      "text": "to get to the back line, right? So, a"
+    },
+    {
+      "start_ms": 305200,
+      "end_ms": 309760,
+      "start": "00:05:05.200",
+      "end": "00:05:09.760",
+      "text": "lot of Flex DPS get kind of"
+    },
+    {
+      "start_ms": 307160,
+      "end_ms": 311440,
+      "start": "00:05:07.160",
+      "end": "00:05:11.440",
+      "text": "mind-controlled into"
+    },
+    {
+      "start_ms": 309760,
+      "end_ms": 314000,
+      "start": "00:05:09.760",
+      "end": "00:05:14.000",
+      "text": "starting in the best spot on the map."
+    },
+    {
+      "start_ms": 311440,
+      "end_ms": 315600,
+      "start": "00:05:11.440",
+      "end": "00:05:15.600",
+      "text": "So, for example, this spot here would be"
+    },
+    {
+      "start_ms": 314000,
+      "end_ms": 317800,
+      "start": "00:05:14.000",
+      "end": "00:05:17.800",
+      "text": "an awesome spot to one-shot a back"
+    },
+    {
+      "start_ms": 315600,
+      "end_ms": 319720,
+      "start": "00:05:15.600",
+      "end": "00:05:19.720",
+      "text": "liner. This spot here."
+    },
+    {
+      "start_ms": 317800,
+      "end_ms": 322240,
+      "start": "00:05:17.800",
+      "end": "00:05:22.240",
+      "text": "This spot here maybe, right? In this"
+    },
+    {
+      "start_ms": 319720,
+      "end_ms": 324560,
+      "start": "00:05:19.720",
+      "end": "00:05:24.560",
+      "text": "kind of hiding. The problem with this is"
+    },
+    {
+      "start_ms": 322240,
+      "end_ms": 327000,
+      "start": "00:05:22.240",
+      "end": "00:05:27.000",
+      "text": "it becomes possible for the enemy team"
+    },
+    {
+      "start_ms": 324560,
+      "end_ms": 328840,
+      "start": "00:05:24.560",
+      "end": "00:05:28.840",
+      "text": "to start to fight by playing passively"
+    },
+    {
+      "start_ms": 327000,
+      "end_ms": 330560,
+      "start": "00:05:27.000",
+      "end": "00:05:30.560",
+      "text": "and scouting and clearing you out of the"
+    },
+    {
+      "start_ms": 328840,
+      "end_ms": 332400,
+      "start": "00:05:28.840",
+      "end": "00:05:32.400",
+      "text": "spot. And if you get cleared out of the"
+    },
+    {
+      "start_ms": 330560,
+      "end_ms": 334320,
+      "start": "00:05:30.560",
+      "end": "00:05:34.320",
+      "text": "spot as the first action in the fight,"
+    },
+    {
+      "start_ms": 332400,
+      "end_ms": 335840,
+      "start": "00:05:32.400",
+      "end": "00:05:35.840",
+      "text": "your team has the 5v4 without you. And"
+    },
+    {
+      "start_ms": 334320,
+      "end_ms": 337400,
+      "start": "00:05:34.320",
+      "end": "00:05:37.400",
+      "text": "that really sucks. And that's best-case"
+    },
+    {
+      "start_ms": 335840,
+      "end_ms": 339320,
+      "start": "00:05:35.840",
+      "end": "00:05:39.320",
+      "text": "scenario. Worst-case scenario is you"
+    },
+    {
+      "start_ms": 337400,
+      "end_ms": 340960,
+      "start": "00:05:37.400",
+      "end": "00:05:40.960",
+      "text": "die. So, the way that good Flex DPS get"
+    },
+    {
+      "start_ms": 339320,
+      "end_ms": 342160,
+      "start": "00:05:39.320",
+      "end": "00:05:42.160",
+      "text": "around this, Rocket, Zera is doing a"
+    },
+    {
+      "start_ms": 340960,
+      "end_ms": 344800,
+      "start": "00:05:40.960",
+      "end": "00:05:44.800",
+      "text": "very similar thing on Shambali if you"
+    },
+    {
+      "start_ms": 342160,
+      "end_ms": 346560,
+      "start": "00:05:42.160",
+      "end": "00:05:46.560",
+      "text": "watch the Echo POV. You actually delay"
+    },
+    {
+      "start_ms": 344800,
+      "end_ms": 348560,
+      "start": "00:05:44.800",
+      "end": "00:05:48.560",
+      "text": "taking the best position on the map. And"
+    },
+    {
+      "start_ms": 346560,
+      "end_ms": 350000,
+      "start": "00:05:46.560",
+      "end": "00:05:50.000",
+      "text": "you just keep it in mind, right? As"
+    },
+    {
+      "start_ms": 348560,
+      "end_ms": 350720,
+      "start": "00:05:48.560",
+      "end": "00:05:50.720",
+      "text": "you're in a flexible position, cuz first"
+    },
+    {
+      "start_ms": 350000,
+      "end_ms": 351760,
+      "start": "00:05:50.000",
+      "end": "00:05:51.760",
+      "text": "of all, you don't know where they're"
+    },
+    {
+      "start_ms": 350720,
+      "end_ms": 353440,
+      "start": "00:05:50.720",
+      "end": "00:05:53.440",
+      "text": "rotating. We don't know if they're going"
+    },
+    {
+      "start_ms": 351760,
+      "end_ms": 354960,
+      "start": "00:05:51.760",
+      "end": "00:05:54.960",
+      "text": "here or if they're going here, right?"
+    },
+    {
+      "start_ms": 353440,
+      "end_ms": 356840,
+      "start": "00:05:53.440",
+      "end": "00:05:56.840",
+      "text": "And if I set up in this spot and they"
+    },
+    {
+      "start_ms": 354960,
+      "end_ms": 358560,
+      "start": "00:05:54.960",
+      "end": "00:05:58.560",
+      "text": "path around me, cuz they're a good team,"
+    },
+    {
+      "start_ms": 356840,
+      "end_ms": 359920,
+      "start": "00:05:56.840",
+      "end": "00:05:59.920",
+      "text": "then oh, I'm [ __ ] I got to catch up."
+    },
+    {
+      "start_ms": 358560,
+      "end_ms": 362280,
+      "start": "00:05:58.560",
+      "end": "00:06:02.280",
+      "text": "It's already over, right? Good team is"
+    },
+    {
+      "start_ms": 359920,
+      "end_ms": 364720,
+      "start": "00:05:59.920",
+      "end": "00:06:04.720",
+      "text": "way past you. So, flexible spot where I"
+    },
+    {
+      "start_ms": 362280,
+      "end_ms": 365840,
+      "start": "00:06:02.280",
+      "end": "00:06:05.840",
+      "text": "can react to a lot of things, right? I'm"
+    },
+    {
+      "start_ms": 364720,
+      "end_ms": 368120,
+      "start": "00:06:04.720",
+      "end": "00:06:08.120",
+      "text": "not going to get poked out. I can do"
+    },
+    {
+      "start_ms": 365840,
+      "end_ms": 370600,
+      "start": "00:06:05.840",
+      "end": "00:06:10.600",
+      "text": "good scouting. And then I can quickly"
+    },
+    {
+      "start_ms": 368120,
+      "end_ms": 372760,
+      "start": "00:06:08.120",
+      "end": "00:06:12.760",
+      "text": "take the best spot on the map as soon as"
+    },
+    {
+      "start_ms": 370600,
+      "end_ms": 374880,
+      "start": "00:06:10.600",
+      "end": "00:06:14.880",
+      "text": "the fight starts. As long as you're very"
+    },
+    {
+      "start_ms": 372760,
+      "end_ms": 376360,
+      "start": "00:06:12.760",
+      "end": "00:06:16.360",
+      "text": "quick about this, and this is is easier"
+    },
+    {
+      "start_ms": 374880,
+      "end_ms": 377840,
+      "start": "00:06:14.880",
+      "end": "00:06:17.840",
+      "text": "said than done. Now they've rotated"
+    },
+    {
+      "start_ms": 376360,
+      "end_ms": 379120,
+      "start": "00:06:16.360",
+      "end": "00:06:19.120",
+      "text": "through."
+    },
+    {
+      "start_ms": 377840,
+      "end_ms": 380920,
+      "start": "00:06:17.840",
+      "end": "00:06:20.920",
+      "text": "Notice he's taking zero damage right"
+    },
+    {
+      "start_ms": 379120,
+      "end_ms": 383640,
+      "start": "00:06:19.120",
+      "end": "00:06:23.640",
+      "text": "now, too. He's only 5 HP. Exactly what I"
+    },
+    {
+      "start_ms": 380920,
+      "end_ms": 385880,
+      "start": "00:06:20.920",
+      "end": "00:06:25.880",
+      "text": "want to see. The Sojourn rails him."
+    },
+    {
+      "start_ms": 383640,
+      "end_ms": 388640,
+      "start": "00:06:23.640",
+      "end": "00:06:28.640",
+      "text": "He uses the old behind cover here."
+    },
+    {
+      "start_ms": 385880,
+      "end_ms": 390080,
+      "start": "00:06:25.880",
+      "end": "00:06:30.080",
+      "text": "Boom, right? It's a very successful tail"
+    },
+    {
+      "start_ms": 388640,
+      "end_ms": 392320,
+      "start": "00:06:28.640",
+      "end": "00:06:32.320",
+      "text": "chase from Rocket. I really appreciate"
+    },
+    {
+      "start_ms": 390080,
+      "end_ms": 392320,
+      "start": "00:06:30.080",
+      "end": "00:06:32.320",
+      "text": "this."
+    },
+    {
+      "start_ms": 394240,
+      "end_ms": 397600,
+      "start": "00:06:34.240",
+      "end": "00:06:37.600",
+      "text": "Pathing right, pathing deep outside of"
+    },
+    {
+      "start_ms": 395880,
+      "end_ms": 399000,
+      "start": "00:06:35.880",
+      "end": "00:06:39.000",
+      "text": "the map. This is very important, by the"
+    },
+    {
+      "start_ms": 397600,
+      "end_ms": 400720,
+      "start": "00:06:37.600",
+      "end": "00:06:40.720",
+      "text": "way. We're going to take a second. There"
+    },
+    {
+      "start_ms": 399000,
+      "end_ms": 402760,
+      "start": "00:06:39.000",
+      "end": "00:06:42.760",
+      "text": "is outsides of the map that normal"
+    },
+    {
+      "start_ms": 400720,
+      "end_ms": 404560,
+      "start": "00:06:40.720",
+      "end": "00:06:44.560",
+      "text": "players don't use. They forget to use,"
+    },
+    {
+      "start_ms": 402760,
+      "end_ms": 406280,
+      "start": "00:06:42.760",
+      "end": "00:06:46.280",
+      "text": "right? Cuz it's complicated. It's not"
+    },
+    {
+      "start_ms": 404560,
+      "end_ms": 407640,
+      "start": "00:06:44.560",
+      "end": "00:06:47.640",
+      "text": "directly in front of your eyes. And who"
+    },
+    {
+      "start_ms": 406280,
+      "end_ms": 409160,
+      "start": "00:06:46.280",
+      "end": "00:06:49.160",
+      "text": "can remember something that's not"
+    },
+    {
+      "start_ms": 407640,
+      "end_ms": 412440,
+      "start": "00:06:47.640",
+      "end": "00:06:52.440",
+      "text": "directly in front of their eyes, right?"
+    },
+    {
+      "start_ms": 409160,
+      "end_ms": 414640,
+      "start": "00:06:49.160",
+      "end": "00:06:54.640",
+      "text": "If you just widen your vision just a"
+    },
+    {
+      "start_ms": 412440,
+      "end_ms": 416280,
+      "start": "00:06:52.440",
+      "end": "00:06:56.280",
+      "text": "little bit, you'll actually realize that"
+    },
+    {
+      "start_ms": 414640,
+      "end_ms": 418440,
+      "start": "00:06:54.640",
+      "end": "00:06:58.440",
+      "text": "there are pieces of the map you've never"
+    },
+    {
+      "start_ms": 416280,
+      "end_ms": 420880,
+      "start": "00:06:56.280",
+      "end": "00:07:00.880",
+      "text": "even thought of before. And nobody will"
+    },
+    {
+      "start_ms": 418440,
+      "end_ms": 423200,
+      "start": "00:06:58.440",
+      "end": "00:07:03.200",
+      "text": "mark you. Nobody will see you coming,"
+    },
+    {
+      "start_ms": 420880,
+      "end_ms": 425240,
+      "start": "00:07:00.880",
+      "end": "00:07:05.240",
+      "text": "and your engage will be [ __ ] awesome."
+    },
+    {
+      "start_ms": 423200,
+      "end_ms": 426920,
+      "start": "00:07:03.200",
+      "end": "00:07:06.920",
+      "text": "And also, if people do mark you in these"
+    },
+    {
+      "start_ms": 425240,
+      "end_ms": 428960,
+      "start": "00:07:05.240",
+      "end": "00:07:08.960",
+      "text": "outside edges of the map, it sucks for"
+    },
+    {
+      "start_ms": 426920,
+      "end_ms": 430560,
+      "start": "00:07:06.920",
+      "end": "00:07:10.560",
+      "text": "them, right? Imagine you're this guy and"
+    },
+    {
+      "start_ms": 428960,
+      "end_ms": 432040,
+      "start": "00:07:08.960",
+      "end": "00:07:12.040",
+      "text": "you're marking this guy and you can't"
+    },
+    {
+      "start_ms": 430560,
+      "end_ms": 433400,
+      "start": "00:07:10.560",
+      "end": "00:07:13.400",
+      "text": "shoot the enemy tank. You can't see"
+    },
+    {
+      "start_ms": 432040,
+      "end_ms": 434840,
+      "start": "00:07:12.040",
+      "end": "00:07:14.840",
+      "text": "what's going on on point, right? If"
+    },
+    {
+      "start_ms": 433400,
+      "end_ms": 437080,
+      "start": "00:07:13.400",
+      "end": "00:07:17.080",
+      "text": "people get dragged to these outside"
+    },
+    {
+      "start_ms": 434840,
+      "end_ms": 438040,
+      "start": "00:07:14.840",
+      "end": "00:07:18.040",
+      "text": "edges of the map, it [ __ ] sucks."
+    },
+    {
+      "start_ms": 437080,
+      "end_ms": 439360,
+      "start": "00:07:17.080",
+      "end": "00:07:19.360",
+      "text": "There's something really important to me"
+    },
+    {
+      "start_ms": 438040,
+      "end_ms": 441840,
+      "start": "00:07:18.040",
+      "end": "00:07:21.840",
+      "text": "about the way Rocket paths this fight,"
+    },
+    {
+      "start_ms": 439360,
+      "end_ms": 445600,
+      "start": "00:07:19.360",
+      "end": "00:07:25.600",
+      "text": "right? If you draw the line,"
+    },
+    {
+      "start_ms": 441840,
+      "end_ms": 447560,
+      "start": "00:07:21.840",
+      "end": "00:07:27.560",
+      "text": "Rocket is trying more pathing options"
+    },
+    {
+      "start_ms": 445600,
+      "end_ms": 449080,
+      "start": "00:07:25.600",
+      "end": "00:07:29.080",
+      "text": "per fight than than average players"
+    },
+    {
+      "start_ms": 447560,
+      "end_ms": 450240,
+      "start": "00:07:27.560",
+      "end": "00:07:30.240",
+      "text": "would do. Think about all the pathing"
+    },
+    {
+      "start_ms": 449080,
+      "end_ms": 452280,
+      "start": "00:07:29.080",
+      "end": "00:07:32.280",
+      "text": "options that are available to you,"
+    },
+    {
+      "start_ms": 450240,
+      "end_ms": 454800,
+      "start": "00:07:30.240",
+      "end": "00:07:34.800",
+      "text": "right? So, on this map, there's a lot of"
+    },
+    {
+      "start_ms": 452280,
+      "end_ms": 456920,
+      "start": "00:07:32.280",
+      "end": "00:07:36.920",
+      "text": "them, right? First of all, your ability"
+    },
+    {
+      "start_ms": 454800,
+      "end_ms": 459600,
+      "start": "00:07:34.800",
+      "end": "00:07:39.600",
+      "text": "to recognize correctly all the different"
+    },
+    {
+      "start_ms": 456920,
+      "end_ms": 461280,
+      "start": "00:07:36.920",
+      "end": "00:07:41.280",
+      "text": "pathing options is is a limiting factor,"
+    },
+    {
+      "start_ms": 459600,
+      "end_ms": 462400,
+      "start": "00:07:39.600",
+      "end": "00:07:42.400",
+      "text": "right? Are you actually thinking about"
+    },
+    {
+      "start_ms": 461280,
+      "end_ms": 464360,
+      "start": "00:07:41.280",
+      "end": "00:07:44.360",
+      "text": "all the pathing options that are"
+    },
+    {
+      "start_ms": 462400,
+      "end_ms": 467400,
+      "start": "00:07:42.400",
+      "end": "00:07:47.400",
+      "text": "available to you? Probably not. Because"
+    },
+    {
+      "start_ms": 464360,
+      "end_ms": 468520,
+      "start": "00:07:44.360",
+      "end": "00:07:48.520",
+      "text": "here, how many do we have? 67676 Yeah, I"
+    },
+    {
+      "start_ms": 467400,
+      "end_ms": 470160,
+      "start": "00:07:47.400",
+      "end": "00:07:50.160",
+      "text": "should have expected you guys to spam"
+    },
+    {
+      "start_ms": 468520,
+      "end_ms": 472120,
+      "start": "00:07:48.520",
+      "end": "00:07:52.120",
+      "text": "67. That's honestly that's on me. The"
+    },
+    {
+      "start_ms": 470160,
+      "end_ms": 474280,
+      "start": "00:07:50.160",
+      "end": "00:07:54.280",
+      "text": "answer is five. The average player I"
+    },
+    {
+      "start_ms": 472120,
+      "end_ms": 476400,
+      "start": "00:07:52.120",
+      "end": "00:07:56.400",
+      "text": "would see two. I would see this or I"
+    },
+    {
+      "start_ms": 474280,
+      "end_ms": 478440,
+      "start": "00:07:54.280",
+      "end": "00:07:58.440",
+      "text": "would see this. Rocket or Zera, these"
+    },
+    {
+      "start_ms": 476400,
+      "end_ms": 480600,
+      "start": "00:07:56.400",
+      "end": "00:08:00.600",
+      "text": "top Flex DPS, there's five options"
+    },
+    {
+      "start_ms": 478440,
+      "end_ms": 483800,
+      "start": "00:07:58.440",
+      "end": "00:08:03.800",
+      "text": "available to these players. This lane,"
+    },
+    {
+      "start_ms": 480600,
+      "end_ms": 485560,
+      "start": "00:08:00.600",
+      "end": "00:08:05.560",
+      "text": "this lane, this outside lane, this lane,"
+    },
+    {
+      "start_ms": 483800,
+      "end_ms": 487520,
+      "start": "00:08:03.800",
+      "end": "00:08:07.520",
+      "text": "and this lane at the far outside left of"
+    },
+    {
+      "start_ms": 485560,
+      "end_ms": 489080,
+      "start": "00:08:05.560",
+      "end": "00:08:09.080",
+      "text": "the map. What you want to do depends a"
+    },
+    {
+      "start_ms": 487520,
+      "end_ms": 490440,
+      "start": "00:08:07.520",
+      "end": "00:08:10.440",
+      "text": "lot on what the enemy team is doing and"
+    },
+    {
+      "start_ms": 489080,
+      "end_ms": 491560,
+      "start": "00:08:09.080",
+      "end": "00:08:11.560",
+      "text": "what options are available to you. Like,"
+    },
+    {
+      "start_ms": 490440,
+      "end_ms": 493240,
+      "start": "00:08:10.440",
+      "end": "00:08:13.240",
+      "text": "you don't have a very"
+    },
+    {
+      "start_ms": 491560,
+      "end_ms": 494800,
+      "start": "00:08:11.560",
+      "end": "00:08:14.800",
+      "text": "how good players play the game. I'll get"
+    },
+    {
+      "start_ms": 493240,
+      "end_ms": 498920,
+      "start": "00:08:13.240",
+      "end": "00:08:18.920",
+      "text": "to whoever's punishable and I'll punish"
+    },
+    {
+      "start_ms": 494800,
+      "end_ms": 498920,
+      "start": "00:08:14.800",
+      "end": "00:08:18.920",
+      "text": "them. That's a a way better mindset."
+    },
+    {
+      "start_ms": 501200,
+      "end_ms": 503680,
+      "start": "00:08:21.200",
+      "end": "00:08:23.680",
+      "text": "Over here?"
+    },
+    {
+      "start_ms": 518880,
+      "end_ms": 522560,
+      "start": "00:08:38.880",
+      "end": "00:08:42.560",
+      "text": "This ends now."
+    },
+    {
+      "start_ms": 531120,
+      "end_ms": 533720,
+      "start": "00:08:51.120",
+      "end": "00:08:53.720",
+      "text": "This is where he gets these two kills,"
+    },
+    {
+      "start_ms": 532200,
+      "end_ms": 535920,
+      "start": "00:08:52.200",
+      "end": "00:08:55.920",
+      "text": "right? So, we'll we'll end it here. My"
+    },
+    {
+      "start_ms": 533720,
+      "end_ms": 538400,
+      "start": "00:08:53.720",
+      "end": "00:08:58.400",
+      "text": "theory is that if you showed me just a"
+    },
+    {
+      "start_ms": 535920,
+      "end_ms": 540920,
+      "start": "00:08:55.920",
+      "end": "00:09:00.920",
+      "text": "line of this, I could tell you probably"
+    },
+    {
+      "start_ms": 538400,
+      "end_ms": 542760,
+      "start": "00:08:58.400",
+      "end": "00:09:02.760",
+      "text": "within a couple divisions what rank the"
+    },
+    {
+      "start_ms": 540920,
+      "end_ms": 544760,
+      "start": "00:09:00.920",
+      "end": "00:09:04.760",
+      "text": "player is. This ult is kind of hard to"
+    },
+    {
+      "start_ms": 542760,
+      "end_ms": 545720,
+      "start": "00:09:02.760",
+      "end": "00:09:05.720",
+      "text": "use. It's very strong, but it's kind of"
+    },
+    {
+      "start_ms": 544760,
+      "end_ms": 547480,
+      "start": "00:09:04.760",
+      "end": "00:09:07.480",
+      "text": "hard to use cuz you're like it's"
+    },
+    {
+      "start_ms": 545720,
+      "end_ms": 548960,
+      "start": "00:09:05.720",
+      "end": "00:09:08.960",
+      "text": "basically like barrage and maybe Reaper"
+    },
+    {
+      "start_ms": 547480,
+      "end_ms": 551640,
+      "start": "00:09:07.480",
+      "end": "00:09:11.640",
+      "text": "ult is the are the comparisons that I"
+    },
+    {
+      "start_ms": 548960,
+      "end_ms": 553600,
+      "start": "00:09:08.960",
+      "end": "00:09:13.600",
+      "text": "would make in that since you have to be"
+    },
+    {
+      "start_ms": 551640,
+      "end_ms": 555520,
+      "start": "00:09:11.640",
+      "end": "00:09:15.520",
+      "text": "stuck, any ult that freezes you in"
+    },
+    {
+      "start_ms": 553600,
+      "end_ms": 557120,
+      "start": "00:09:13.600",
+      "end": "00:09:17.120",
+      "text": "place, you should expect to die unless"
+    },
+    {
+      "start_ms": 555520,
+      "end_ms": 559560,
+      "start": "00:09:15.520",
+      "end": "00:09:19.560",
+      "text": "you're very careful about how you use"
+    },
+    {
+      "start_ms": 557120,
+      "end_ms": 561320,
+      "start": "00:09:17.120",
+      "end": "00:09:21.320",
+      "text": "it. He's very carefully using the E and"
+    },
+    {
+      "start_ms": 559560,
+      "end_ms": 562520,
+      "start": "00:09:19.560",
+      "end": "00:09:22.520",
+      "text": "some map geometry. Like like think about"
+    },
+    {
+      "start_ms": 561320,
+      "end_ms": 564160,
+      "start": "00:09:21.320",
+      "end": "00:09:24.160",
+      "text": "the map geometry that you're ulting"
+    },
+    {
+      "start_ms": 562520,
+      "end_ms": 565880,
+      "start": "00:09:22.520",
+      "end": "00:09:25.880",
+      "text": "from. You know all the people are lined"
+    },
+    {
+      "start_ms": 564160,
+      "end_ms": 567000,
+      "start": "00:09:24.160",
+      "end": "00:09:27.000",
+      "text": "up. A lot of you would be tempted to pop"
+    },
+    {
+      "start_ms": 565880,
+      "end_ms": 568680,
+      "start": "00:09:25.880",
+      "end": "00:09:28.680",
+      "text": "it right now. See if I can hit all these"
+    },
+    {
+      "start_ms": 567000,
+      "end_ms": 570520,
+      "start": "00:09:27.000",
+      "end": "00:09:30.520",
+      "text": "people. How awesome would that be? But,"
+    },
+    {
+      "start_ms": 568680,
+      "end_ms": 572960,
+      "start": "00:09:28.680",
+      "end": "00:09:32.960",
+      "text": "he's not tempted in the same way, right?"
+    },
+    {
+      "start_ms": 570520,
+      "end_ms": 574560,
+      "start": "00:09:30.520",
+      "end": "00:09:34.560",
+      "text": "Again, resisting the urge to make one of"
+    },
+    {
+      "start_ms": 572960,
+      "end_ms": 576120,
+      "start": "00:09:32.960",
+      "end": "00:09:36.120",
+      "text": "the infinite mistakes that's available"
+    },
+    {
+      "start_ms": 574560,
+      "end_ms": 578080,
+      "start": "00:09:34.560",
+      "end": "00:09:38.080",
+      "text": "to you."
+    },
+    {
+      "start_ms": 576120,
+      "end_ms": 580640,
+      "start": "00:09:36.120",
+      "end": "00:09:40.640",
+      "text": "Instead, he just goes top right. Plenty"
+    },
+    {
+      "start_ms": 578080,
+      "end_ms": 582560,
+      "start": "00:09:38.080",
+      "end": "00:09:42.560",
+      "text": "of This is so safe, right? Really nice,"
+    },
+    {
+      "start_ms": 580640,
+      "end_ms": 585200,
+      "start": "00:09:40.640",
+      "end": "00:09:45.200",
+      "text": "creative. I can see everything, and I"
+    },
+    {
+      "start_ms": 582560,
+      "end_ms": 588560,
+      "start": "00:09:42.560",
+      "end": "00:09:48.560",
+      "text": "love this ult. This is incredible."
+    },
+    {
+      "start_ms": 585200,
+      "end_ms": 590360,
+      "start": "00:09:45.200",
+      "end": "00:09:50.360",
+      "text": "I just do a ton of damage to this guy."
+    },
+    {
+      "start_ms": 588560,
+      "end_ms": 592360,
+      "start": "00:09:48.560",
+      "end": "00:09:52.360",
+      "text": "Boom. That guy's dead. Through the beat."
+    },
+    {
+      "start_ms": 590360,
+      "end_ms": 594000,
+      "start": "00:09:50.360",
+      "end": "00:09:54.000",
+      "text": "Holy [ __ ] that did a lot of damage."
+    },
+    {
+      "start_ms": 592360,
+      "end_ms": 596840,
+      "start": "00:09:52.360",
+      "end": "00:09:56.840",
+      "text": "Often times, people will ask me"
+    },
+    {
+      "start_ms": 594000,
+      "end_ms": 598320,
+      "start": "00:09:54.000",
+      "end": "00:09:58.320",
+      "text": "questions like, \"When do I flank? When"
+    },
+    {
+      "start_ms": 596840,
+      "end_ms": 600160,
+      "start": "00:09:56.840",
+      "end": "00:10:00.160",
+      "text": "do I stack with team? That's a very"
+    },
+    {
+      "start_ms": 598320,
+      "end_ms": 601520,
+      "start": "00:09:58.320",
+      "end": "00:10:01.520",
+      "text": "common question for for DPS players,"
+    },
+    {
+      "start_ms": 600160,
+      "end_ms": 604320,
+      "start": "00:10:00.160",
+      "end": "00:10:04.320",
+      "text": "right? Especially for a character like"
+    },
+    {
+      "start_ms": 601520,
+      "end_ms": 606480,
+      "start": "00:10:01.520",
+      "end": "00:10:06.480",
+      "text": "this that does a lot of damage to tanks,"
+    },
+    {
+      "start_ms": 604320,
+      "end_ms": 608080,
+      "start": "00:10:04.320",
+      "end": "00:10:08.080",
+      "text": "but also one shots back liners. How do"
+    },
+    {
+      "start_ms": 606480,
+      "end_ms": 610240,
+      "start": "00:10:06.480",
+      "end": "00:10:10.240",
+      "text": "you decide what to do? The answer is if"
+    },
+    {
+      "start_ms": 608080,
+      "end_ms": 612440,
+      "start": "00:10:08.080",
+      "end": "00:10:12.440",
+      "text": "you're a good player, you're fluidly"
+    },
+    {
+      "start_ms": 610240,
+      "end_ms": 614480,
+      "start": "00:10:10.240",
+      "end": "00:10:14.480",
+      "text": "doing both of them all the time, right?"
+    },
+    {
+      "start_ms": 612440,
+      "end_ms": 616760,
+      "start": "00:10:12.440",
+      "end": "00:10:16.760",
+      "text": "It's not cut and dry. You can't tell"
+    },
+    {
+      "start_ms": 614480,
+      "end_ms": 618720,
+      "start": "00:10:14.480",
+      "end": "00:10:18.720",
+      "text": "someone I hate it when people ask me in"
+    },
+    {
+      "start_ms": 616760,
+      "end_ms": 620640,
+      "start": "00:10:16.760",
+      "end": "00:10:20.640",
+      "text": "a cut and dry manner, right? Oh, should"
+    },
+    {
+      "start_ms": 618720,
+      "end_ms": 623880,
+      "start": "00:10:18.720",
+      "end": "00:10:23.880",
+      "text": "I flank or should I"
+    },
+    {
+      "start_ms": 620640,
+      "end_ms": 625720,
+      "start": "00:10:20.640",
+      "end": "00:10:25.720",
+      "text": "whole so you roll. It depends."
+    },
+    {
+      "start_ms": 623880,
+      "end_ms": 627720,
+      "start": "00:10:23.880",
+      "end": "00:10:27.720",
+      "text": "And not just it depends on a couple"
+    },
+    {
+      "start_ms": 625720,
+      "end_ms": 629640,
+      "start": "00:10:25.720",
+      "end": "00:10:29.640",
+      "text": "things. It depends on everything."
+    },
+    {
+      "start_ms": 627720,
+      "end_ms": 631360,
+      "start": "00:10:27.720",
+      "end": "00:10:31.360",
+      "text": "There's infinitely many scenarios that"
+    },
+    {
+      "start_ms": 629640,
+      "end_ms": 633160,
+      "start": "00:10:29.640",
+      "end": "00:10:33.160",
+      "text": "could happen in this fight. If you're"
+    },
+    {
+      "start_ms": 631360,
+      "end_ms": 635560,
+      "start": "00:10:31.360",
+      "end": "00:10:35.560",
+      "text": "not fluidly reacting to what's in front"
+    },
+    {
+      "start_ms": 633160,
+      "end_ms": 637280,
+      "start": "00:10:33.160",
+      "end": "00:10:37.280",
+      "text": "of you, then nothing I can tell you, no"
+    },
+    {
+      "start_ms": 635560,
+      "end_ms": 639240,
+      "start": "00:10:35.560",
+      "end": "00:10:39.240",
+      "text": "predictions that you or I can make are"
+    },
+    {
+      "start_ms": 637280,
+      "end_ms": 641760,
+      "start": "00:10:37.280",
+      "end": "00:10:41.760",
+      "text": "going to matter at all. So, don't get"
+    },
+    {
+      "start_ms": 639240,
+      "end_ms": 643000,
+      "start": "00:10:39.240",
+      "end": "00:10:43.000",
+      "text": "this preset play style in your head. Oh,"
+    },
+    {
+      "start_ms": 641760,
+      "end_ms": 645800,
+      "start": "00:10:41.760",
+      "end": "00:10:45.800",
+      "text": "I need to flank and kill the back line."
+    },
+    {
+      "start_ms": 643000,
+      "end_ms": 647800,
+      "start": "00:10:43.000",
+      "end": "00:10:47.800",
+      "text": "Oh, I need to stack. Learn how to set"
+    },
+    {
+      "start_ms": 645800,
+      "end_ms": 649760,
+      "start": "00:10:45.800",
+      "end": "00:10:49.760",
+      "text": "yourself up to react to things in in"
+    },
+    {
+      "start_ms": 647800,
+      "end_ms": 652200,
+      "start": "00:10:47.800",
+      "end": "00:10:52.200",
+      "text": "that way, right? The point of the line"
+    },
+    {
+      "start_ms": 649760,
+      "end_ms": 654240,
+      "start": "00:10:49.760",
+      "end": "00:10:54.240",
+      "text": "of Rocket's line on that second point is"
+    },
+    {
+      "start_ms": 652200,
+      "end_ms": 656320,
+      "start": "00:10:52.200",
+      "end": "00:10:56.320",
+      "text": "that he sees way more, right? The more"
+    },
+    {
+      "start_ms": 654240,
+      "end_ms": 658120,
+      "start": "00:10:54.240",
+      "end": "00:10:58.120",
+      "text": "you see, the more you can react to. If I"
+    },
+    {
+      "start_ms": 656320,
+      "end_ms": 659280,
+      "start": "00:10:56.320",
+      "end": "00:10:59.280",
+      "text": "had just gone bottom right and committed"
+    },
+    {
+      "start_ms": 658120,
+      "end_ms": 661000,
+      "start": "00:10:58.120",
+      "end": "00:11:01.000",
+      "text": "to that, I wouldn't have seen"
+    },
+    {
+      "start_ms": 659280,
+      "end_ms": 662960,
+      "start": "00:10:59.280",
+      "end": "00:11:02.960",
+      "text": "everything. Even though it's kind of on"
+    },
+    {
+      "start_ms": 661000,
+      "end_ms": 664720,
+      "start": "00:11:01.000",
+      "end": "00:11:04.720",
+      "text": "paper, it's a good option. And I can"
+    },
+    {
+      "start_ms": 662960,
+      "end_ms": 665720,
+      "start": "00:11:02.960",
+      "end": "00:11:05.720",
+      "text": "reach the back line. What if the back"
+    },
+    {
+      "start_ms": 664720,
+      "end_ms": 667760,
+      "start": "00:11:04.720",
+      "end": "00:11:07.760",
+      "text": "line's not there? You don't know where"
+    },
+    {
+      "start_ms": 665720,
+      "end_ms": 670200,
+      "start": "00:11:05.720",
+      "end": "00:11:10.200",
+      "text": "people are. When I was talking about not"
+    },
+    {
+      "start_ms": 667760,
+      "end_ms": 671839,
+      "start": "00:11:07.760",
+      "end": "00:11:11.839",
+      "text": "starting the fight in the most powerful"
+    },
+    {
+      "start_ms": 670200,
+      "end_ms": 672920,
+      "start": "00:11:10.200",
+      "end": "00:11:12.920",
+      "text": "spot,"
+    },
+    {
+      "start_ms": 671839,
+      "end_ms": 674520,
+      "start": "00:11:11.839",
+      "end": "00:11:14.520",
+      "text": "there's a way"
+    },
+    {
+      "start_ms": 672920,
+      "end_ms": 676160,
+      "start": "00:11:12.920",
+      "end": "00:11:16.160",
+      "text": "around this."
+    },
+    {
+      "start_ms": 674520,
+      "end_ms": 678839,
+      "start": "00:11:14.520",
+      "end": "00:11:18.839",
+      "text": "And there's an important thing. Don't"
+    },
+    {
+      "start_ms": 676160,
+      "end_ms": 680560,
+      "start": "00:11:16.160",
+      "end": "00:11:20.560",
+      "text": "just sit on point because I told you not"
+    },
+    {
+      "start_ms": 678839,
+      "end_ms": 682600,
+      "start": "00:11:18.839",
+      "end": "00:11:22.600",
+      "text": "to start in the most powerful spot."
+    },
+    {
+      "start_ms": 680560,
+      "end_ms": 684800,
+      "start": "00:11:20.560",
+      "end": "00:11:24.800",
+      "text": "Usually the better way to do it is in"
+    },
+    {
+      "start_ms": 682600,
+      "end_ms": 687680,
+      "start": "00:11:22.600",
+      "end": "00:11:27.680",
+      "text": "between fights, take the powerful"
+    },
+    {
+      "start_ms": 684800,
+      "end_ms": 689320,
+      "start": "00:11:24.800",
+      "end": "00:11:29.320",
+      "text": "position, poke on them, throw your cool"
+    },
+    {
+      "start_ms": 687680,
+      "end_ms": 691720,
+      "start": "00:11:27.680",
+      "end": "00:11:31.720",
+      "text": "downs at them, see what you can force"
+    },
+    {
+      "start_ms": 689320,
+      "end_ms": 694280,
+      "start": "00:11:29.320",
+      "end": "00:11:34.280",
+      "text": "here, see if you can pick someone, make"
+    },
+    {
+      "start_ms": 691720,
+      "end_ms": 695640,
+      "start": "00:11:31.720",
+      "end": "00:11:35.640",
+      "text": "the walk up difficult, but then before"
+    },
+    {
+      "start_ms": 694280,
+      "end_ms": 697240,
+      "start": "00:11:34.280",
+      "end": "00:11:37.240",
+      "text": "they get to the spot where they can"
+    },
+    {
+      "start_ms": 695640,
+      "end_ms": 699880,
+      "start": "00:11:35.640",
+      "end": "00:11:39.880",
+      "text": "clear you. So, for example, maybe the"
+    },
+    {
+      "start_ms": 697240,
+      "end_ms": 701720,
+      "start": "00:11:37.240",
+      "end": "00:11:41.720",
+      "text": "most powerful spot on the map is"
+    },
+    {
+      "start_ms": 699880,
+      "end_ms": 702920,
+      "start": "00:11:39.880",
+      "end": "00:11:42.920",
+      "text": "somewhere around here."
+    },
+    {
+      "start_ms": 701720,
+      "end_ms": 704880,
+      "start": "00:11:41.720",
+      "end": "00:11:44.880",
+      "text": "Right? This is the most powerful spot on"
+    },
+    {
+      "start_ms": 702920,
+      "end_ms": 707360,
+      "start": "00:11:42.920",
+      "end": "00:11:47.360",
+      "text": "the map. In between fights, what"
+    },
+    {
+      "start_ms": 704880,
+      "end_ms": 709839,
+      "start": "00:11:44.880",
+      "end": "00:11:49.839",
+      "text": "Rocket's doing, go and poke here, go and"
+    },
+    {
+      "start_ms": 707360,
+      "end_ms": 711520,
+      "start": "00:11:47.360",
+      "end": "00:11:51.520",
+      "text": "poke here. You should always do this."
+    },
+    {
+      "start_ms": 709839,
+      "end_ms": 713240,
+      "start": "00:11:49.839",
+      "end": "00:11:53.240",
+      "text": "There's always pre-fight time unless you"
+    },
+    {
+      "start_ms": 711520,
+      "end_ms": 715560,
+      "start": "00:11:51.520",
+      "end": "00:11:55.560",
+      "text": "died or someone got traded or something."
+    },
+    {
+      "start_ms": 713240,
+      "end_ms": 717200,
+      "start": "00:11:53.240",
+      "end": "00:11:57.200",
+      "text": "There's usually pre-fight time for you"
+    },
+    {
+      "start_ms": 715560,
+      "end_ms": 718880,
+      "start": "00:11:55.560",
+      "end": "00:11:58.880",
+      "text": "to be abusing this, right? Poke the"
+    },
+    {
+      "start_ms": 717200,
+      "end_ms": 720160,
+      "start": "00:11:57.200",
+      "end": "00:12:00.160",
+      "text": "spawn hard, make the walk up hard, force"
+    },
+    {
+      "start_ms": 718880,
+      "end_ms": 723240,
+      "start": "00:11:58.880",
+      "end": "00:12:03.240",
+      "text": "the cool downs, force the ults in bad"
+    },
+    {
+      "start_ms": 720160,
+      "end_ms": 724920,
+      "start": "00:12:00.160",
+      "end": "00:12:04.920",
+      "text": "space, look for that pick. But before"
+    },
+    {
+      "start_ms": 723240,
+      "end_ms": 726520,
+      "start": "00:12:03.240",
+      "end": "00:12:06.520",
+      "text": "they get to the clearing position,"
+    },
+    {
+      "start_ms": 724920,
+      "end_ms": 728240,
+      "start": "00:12:04.920",
+      "end": "00:12:08.240",
+      "text": "right? So, for example, they're going to"
+    },
+    {
+      "start_ms": 726520,
+      "end_ms": 729800,
+      "start": "00:12:06.520",
+      "end": "00:12:09.800",
+      "text": "clear me when they peak this, they're"
+    },
+    {
+      "start_ms": 728240,
+      "end_ms": 731560,
+      "start": "00:12:08.240",
+      "end": "00:12:11.560",
+      "text": "going to clear me when they peak this."
+    },
+    {
+      "start_ms": 729800,
+      "end_ms": 734160,
+      "start": "00:12:09.800",
+      "end": "00:12:14.160",
+      "text": "Before they get to these positions, I'd"
+    },
+    {
+      "start_ms": 731560,
+      "end_ms": 735960,
+      "start": "00:12:11.560",
+      "end": "00:12:15.960",
+      "text": "leave. So, you should be able to get the"
+    },
+    {
+      "start_ms": 734160,
+      "end_ms": 738839,
+      "start": "00:12:14.160",
+      "end": "00:12:18.839",
+      "text": "benefits of both. I should be able to"
+    },
+    {
+      "start_ms": 735960,
+      "end_ms": 741160,
+      "start": "00:12:15.960",
+      "end": "00:12:21.160",
+      "text": "poke hard pre-fight, then back up to a"
+    },
+    {
+      "start_ms": 738839,
+      "end_ms": 742400,
+      "start": "00:12:18.839",
+      "end": "00:12:22.400",
+      "text": "flexible position as they're entering"
+    },
+    {
+      "start_ms": 741160,
+      "end_ms": 744200,
+      "start": "00:12:21.160",
+      "end": "00:12:24.200",
+      "text": "these clearing spots where they can"
+    },
+    {
+      "start_ms": 742400,
+      "end_ms": 745800,
+      "start": "00:12:22.400",
+      "end": "00:12:25.800",
+      "text": "clear me. Then when they start to walk"
+    },
+    {
+      "start_ms": 744200,
+      "end_ms": 747640,
+      "start": "00:12:24.200",
+      "end": "00:12:27.640",
+      "text": "out, I can see where people are going, I"
+    },
+    {
+      "start_ms": 745800,
+      "end_ms": 749400,
+      "start": "00:12:25.800",
+      "end": "00:12:29.400",
+      "text": "can make an informed decision based on"
+    },
+    {
+      "start_ms": 747640,
+      "end_ms": 751720,
+      "start": "00:12:27.640",
+      "end": "00:12:31.720",
+      "text": "rotations, based on how they're split,"
+    },
+    {
+      "start_ms": 749400,
+      "end_ms": 754160,
+      "start": "00:12:29.400",
+      "end": "00:12:34.160",
+      "text": "based on what cool downs I see. And then"
+    },
+    {
+      "start_ms": 751720,
+      "end_ms": 755880,
+      "start": "00:12:31.720",
+      "end": "00:12:35.880",
+      "text": "I can retake the power position"
+    },
+    {
+      "start_ms": 754160,
+      "end_ms": 758240,
+      "start": "00:12:34.160",
+      "end": "00:12:38.240",
+      "text": "at the appropriate time without getting"
+    },
+    {
+      "start_ms": 755880,
+      "end_ms": 758240,
+      "start": "00:12:35.880",
+      "end": "00:12:38.240",
+      "text": "cleared."
+    },
+    {
+      "start_ms": 758520,
+      "end_ms": 763240,
+      "start": "00:12:38.520",
+      "end": "00:12:43.240",
+      "text": "Also, only one fire strike. Keep that."
+    },
+    {
+      "start_ms": 761480,
+      "end_ms": 765000,
+      "start": "00:12:41.480",
+      "end": "00:12:45.000",
+      "text": "That's That's maybe more important than"
+    },
+    {
+      "start_ms": 763240,
+      "end_ms": 766480,
+      "start": "00:12:43.240",
+      "end": "00:12:46.480",
+      "text": "I'm giving it credit for. Goes over the"
+    },
+    {
+      "start_ms": 765000,
+      "end_ms": 767839,
+      "start": "00:12:45.000",
+      "end": "00:12:47.839",
+      "text": "top from main, kind of passive engage,"
+    },
+    {
+      "start_ms": 766480,
+      "end_ms": 768640,
+      "start": "00:12:46.480",
+      "end": "00:12:48.640",
+      "text": "gets out."
+    },
+    {
+      "start_ms": 767839,
+      "end_ms": 771040,
+      "start": "00:12:47.839",
+      "end": "00:12:51.040",
+      "text": "This is something that's really"
+    },
+    {
+      "start_ms": 768640,
+      "end_ms": 774720,
+      "start": "00:12:48.640",
+      "end": "00:12:54.720",
+      "text": "important. When you know"
+    },
+    {
+      "start_ms": 771040,
+      "end_ms": 776960,
+      "start": "00:12:51.040",
+      "end": "00:12:56.960",
+      "text": "a strong push is incoming and the enemy"
+    },
+    {
+      "start_ms": 774720,
+      "end_ms": 779280,
+      "start": "00:12:54.720",
+      "end": "00:12:59.280",
+      "text": "team is baiting your push, right? Why is"
+    },
+    {
+      "start_ms": 776960,
+      "end_ms": 780839,
+      "start": "00:12:56.960",
+      "end": "00:13:00.839",
+      "text": "the enemy team poking us here so early?"
+    },
+    {
+      "start_ms": 779280,
+      "end_ms": 782320,
+      "start": "00:12:59.280",
+      "end": "00:13:02.320",
+      "text": "Does anybody know?"
+    },
+    {
+      "start_ms": 780839,
+      "end_ms": 783320,
+      "start": "00:13:00.839",
+      "end": "00:13:03.320",
+      "text": "I'll clue you in instead of waiting for"
+    },
+    {
+      "start_ms": 782320,
+      "end_ms": 785560,
+      "start": "00:13:02.320",
+      "end": "00:13:05.560",
+      "text": "you guys cuz I don't know how much of a"
+    },
+    {
+      "start_ms": 783320,
+      "end_ms": 787280,
+      "start": "00:13:03.320",
+      "end": "00:13:07.280",
+      "text": "delay I'm on. But we have beat and they"
+    },
+    {
+      "start_ms": 785560,
+      "end_ms": 789640,
+      "start": "00:13:05.560",
+      "end": "00:13:09.640",
+      "text": "definitely know that cuz they have"
+    },
+    {
+      "start_ms": 787280,
+      "end_ms": 792320,
+      "start": "00:13:07.280",
+      "end": "00:13:12.320",
+      "text": "Zeshan, the best ult tracker in North"
+    },
+    {
+      "start_ms": 789640,
+      "end_ms": 794960,
+      "start": "00:13:09.640",
+      "end": "00:13:14.960",
+      "text": "America. Sorry, Vega and Lep. How do you"
+    },
+    {
+      "start_ms": 792320,
+      "end_ms": 796920,
+      "start": "00:13:12.320",
+      "end": "00:13:16.920",
+      "text": "still get value if the enemy team is"
+    },
+    {
+      "start_ms": 794960,
+      "end_ms": 798760,
+      "start": "00:13:14.960",
+      "end": "00:13:18.760",
+      "text": "baiting you, right?"
+    },
+    {
+      "start_ms": 796920,
+      "end_ms": 799920,
+      "start": "00:13:16.920",
+      "end": "00:13:19.920",
+      "text": "Well, there's a really easy way and"
+    },
+    {
+      "start_ms": 798760,
+      "end_ms": 801760,
+      "start": "00:13:18.760",
+      "end": "00:13:21.760",
+      "text": "something I really appreciate that"
+    },
+    {
+      "start_ms": 799920,
+      "end_ms": 803560,
+      "start": "00:13:19.920",
+      "end": "00:13:23.560",
+      "text": "Rocket did here, which is that he has"
+    },
+    {
+      "start_ms": 801760,
+      "end_ms": 805880,
+      "start": "00:13:21.760",
+      "end": "00:13:25.880",
+      "text": "the E right now and the beat just came"
+    },
+    {
+      "start_ms": 803560,
+      "end_ms": 807440,
+      "start": "00:13:23.560",
+      "end": "00:13:27.440",
+      "text": "out, right? This Sojourn on your screen"
+    },
+    {
+      "start_ms": 805880,
+      "end_ms": 809839,
+      "start": "00:13:25.880",
+      "end": "00:13:29.839",
+      "text": "right now"
+    },
+    {
+      "start_ms": 807440,
+      "end_ms": 812040,
+      "start": "00:13:27.440",
+      "end": "00:13:32.040",
+      "text": "is baiting you, right? So, what should"
+    },
+    {
+      "start_ms": 809839,
+      "end_ms": 813880,
+      "start": "00:13:29.839",
+      "end": "00:13:33.880",
+      "text": "you be thinking right now? But when the"
+    },
+    {
+      "start_ms": 812040,
+      "end_ms": 814960,
+      "start": "00:13:32.040",
+      "end": "00:13:34.960",
+      "text": "enemy team is baiting you, is again,"
+    },
+    {
+      "start_ms": 813880,
+      "end_ms": 816720,
+      "start": "00:13:33.880",
+      "end": "00:13:36.720",
+      "text": "this is the first play. Remember when"
+    },
+    {
+      "start_ms": 814960,
+      "end_ms": 818800,
+      "start": "00:13:34.960",
+      "end": "00:13:38.800",
+      "text": "he's going through bottom left?"
+    },
+    {
+      "start_ms": 816720,
+      "end_ms": 820160,
+      "start": "00:13:36.720",
+      "end": "00:13:40.160",
+      "text": "And he doesn't E on that Sojourn and he"
+    },
+    {
+      "start_ms": 818800,
+      "end_ms": 822920,
+      "start": "00:13:38.800",
+      "end": "00:13:42.920",
+      "text": "just scares him and the Sojourn slides"
+    },
+    {
+      "start_ms": 820160,
+      "end_ms": 824880,
+      "start": "00:13:40.160",
+      "end": "00:13:44.880",
+      "text": "away before he engages, right? Hold this"
+    },
+    {
+      "start_ms": 822920,
+      "end_ms": 826680,
+      "start": "00:13:42.920",
+      "end": "00:13:46.680",
+      "text": "engage over his head and walk at him,"
+    },
+    {
+      "start_ms": 824880,
+      "end_ms": 830240,
+      "start": "00:13:44.880",
+      "end": "00:13:50.240",
+      "text": "right? And maybe shoot him with your"
+    },
+    {
+      "start_ms": 826680,
+      "end_ms": 832920,
+      "start": "00:13:46.680",
+      "end": "00:13:52.920",
+      "text": "fire strike. Make him slide and then"
+    },
+    {
+      "start_ms": 830240,
+      "end_ms": 835800,
+      "start": "00:13:50.240",
+      "end": "00:13:55.800",
+      "text": "after he slides, punish him for sliding."
+    },
+    {
+      "start_ms": 832920,
+      "end_ms": 837400,
+      "start": "00:13:52.920",
+      "end": "00:13:57.400",
+      "text": "If you E on this guy,"
+    },
+    {
+      "start_ms": 835800,
+      "end_ms": 839240,
+      "start": "00:13:55.800",
+      "end": "00:13:59.240",
+      "text": "right? Again, you're distracted by how"
+    },
+    {
+      "start_ms": 837400,
+      "end_ms": 840480,
+      "start": "00:13:57.400",
+      "end": "00:14:00.480",
+      "text": "fun the character is and how wide your"
+    },
+    {
+      "start_ms": 839240,
+      "end_ms": 842360,
+      "start": "00:13:59.240",
+      "end": "00:14:02.360",
+      "text": "options are and you E right onto the"
+    },
+    {
+      "start_ms": 840480,
+      "end_ms": 843760,
+      "start": "00:14:00.480",
+      "end": "00:14:03.760",
+      "text": "Sojourn, he's going to slide onto point"
+    },
+    {
+      "start_ms": 842360,
+      "end_ms": 845360,
+      "start": "00:14:02.360",
+      "end": "00:14:05.360",
+      "text": "and you're going to be stuck out here"
+    },
+    {
+      "start_ms": 843760,
+      "end_ms": 847360,
+      "start": "00:14:03.760",
+      "end": "00:14:07.360",
+      "text": "like a useless little chad. But he"
+    },
+    {
+      "start_ms": 845360,
+      "end_ms": 849040,
+      "start": "00:14:05.360",
+      "end": "00:14:09.040",
+      "text": "doesn't E at this guy. He walks at him,"
+    },
+    {
+      "start_ms": 847360,
+      "end_ms": 852640,
+      "start": "00:14:07.360",
+      "end": "00:14:12.640",
+      "text": "right? And what does he have to do? He"
+    },
+    {
+      "start_ms": 849040,
+      "end_ms": 855320,
+      "start": "00:14:09.040",
+      "end": "00:14:15.320",
+      "text": "has to slide and now I E, boom! 400"
+    },
+    {
+      "start_ms": 852640,
+      "end_ms": 857720,
+      "start": "00:14:12.640",
+      "end": "00:14:17.720",
+      "text": "damage to this guy. Look how important"
+    },
+    {
+      "start_ms": 855320,
+      "end_ms": 860120,
+      "start": "00:14:15.320",
+      "end": "00:14:20.120",
+      "text": "this is, right? So, he just chills, goes"
+    },
+    {
+      "start_ms": 857720,
+      "end_ms": 862000,
+      "start": "00:14:17.720",
+      "end": "00:14:22.000",
+      "text": "over the top. Big ult."
+    },
+    {
+      "start_ms": 860120,
+      "end_ms": 865280,
+      "start": "00:14:20.120",
+      "end": "00:14:25.280",
+      "text": "Big ult with creative use of map"
+    },
+    {
+      "start_ms": 862000,
+      "end_ms": 867720,
+      "start": "00:14:22.000",
+      "end": "00:14:27.720",
+      "text": "geometry. I really appreciate this."
+    },
+    {
+      "start_ms": 865280,
+      "end_ms": 869680,
+      "start": "00:14:25.280",
+      "end": "00:14:29.680",
+      "text": "Forces the TP. And also this kind of"
+    },
+    {
+      "start_ms": 867720,
+      "end_ms": 871320,
+      "start": "00:14:27.720",
+      "end": "00:14:31.320",
+      "text": "ult, if you go up in the air and you"
+    },
+    {
+      "start_ms": 869680,
+      "end_ms": 873600,
+      "start": "00:14:29.680",
+      "end": "00:14:33.600",
+      "text": "hold this ult, actually, you know what"
+    },
+    {
+      "start_ms": 871320,
+      "end_ms": 876040,
+      "start": "00:14:31.320",
+      "end": "00:14:36.040",
+      "text": "comparison I would make? Sigma flux is a"
+    },
+    {
+      "start_ms": 873600,
+      "end_ms": 878280,
+      "start": "00:14:33.600",
+      "end": "00:14:38.280",
+      "text": "very similar concept. When you flux on"
+    },
+    {
+      "start_ms": 876040,
+      "end_ms": 880160,
+      "start": "00:14:36.040",
+      "end": "00:14:40.160",
+      "text": "Sig, one of the best tips that I can"
+    },
+    {
+      "start_ms": 878280,
+      "end_ms": 881880,
+      "start": "00:14:38.280",
+      "end": "00:14:41.880",
+      "text": "give Sigma players, oh, how do I avoid"
+    },
+    {
+      "start_ms": 880160,
+      "end_ms": 883560,
+      "start": "00:14:40.160",
+      "end": "00:14:43.560",
+      "text": "brooding? When so many people can move"
+    },
+    {
+      "start_ms": 881880,
+      "end_ms": 885040,
+      "start": "00:14:41.880",
+      "end": "00:14:45.040",
+      "text": "out of the flux. If you flux and then"
+    },
+    {
+      "start_ms": 883560,
+      "end_ms": 887200,
+      "start": "00:14:43.560",
+      "end": "00:14:47.200",
+      "text": "you hold it on someone's feet for a"
+    },
+    {
+      "start_ms": 885040,
+      "end_ms": 888600,
+      "start": "00:14:45.040",
+      "end": "00:14:48.600",
+      "text": "second, flux is a lot of time. People"
+    },
+    {
+      "start_ms": 887200,
+      "end_ms": 890560,
+      "start": "00:14:47.200",
+      "end": "00:14:50.560",
+      "text": "don't realize how much time you have to"
+    },
+    {
+      "start_ms": 888600,
+      "end_ms": 891839,
+      "start": "00:14:48.600",
+      "end": "00:14:51.839",
+      "text": "flux. You have 10 [ __ ] It's not"
+    },
+    {
+      "start_ms": 890560,
+      "end_ms": 894600,
+      "start": "00:14:50.560",
+      "end": "00:14:54.600",
+      "text": "actually 10 seconds, right? We have a"
+    },
+    {
+      "start_ms": 891839,
+      "end_ms": 896920,
+      "start": "00:14:51.839",
+      "end": "00:14:56.920",
+      "text": "long time before you have to press the"
+    },
+    {
+      "start_ms": 894600,
+      "end_ms": 898839,
+      "start": "00:14:54.600",
+      "end": "00:14:58.839",
+      "text": "the cast button on flux. If you hold it"
+    },
+    {
+      "start_ms": 896920,
+      "end_ms": 900640,
+      "start": "00:14:56.920",
+      "end": "00:15:00.640",
+      "text": "on people's feet, they'll use their CDs"
+    },
+    {
+      "start_ms": 898839,
+      "end_ms": 902079,
+      "start": "00:14:58.839",
+      "end": "00:15:02.079",
+      "text": "to dodge it. And then if you hold it on"
+    },
+    {
+      "start_ms": 900640,
+      "end_ms": 904440,
+      "start": "00:15:00.640",
+      "end": "00:15:04.440",
+      "text": "his feet and the brig bashes out of your"
+    },
+    {
+      "start_ms": 902079,
+      "end_ms": 905880,
+      "start": "00:15:02.079",
+      "end": "00:15:05.880",
+      "text": "flux, then you can follow him, right?"
+    },
+    {
+      "start_ms": 904440,
+      "end_ms": 907280,
+      "start": "00:15:04.440",
+      "end": "00:15:07.280",
+      "text": "The Kiriko TP's away, then you can"
+    },
+    {
+      "start_ms": 905880,
+      "end_ms": 910360,
+      "start": "00:15:05.880",
+      "end": "00:15:10.360",
+      "text": "follow him. It's the same with this ult,"
+    },
+    {
+      "start_ms": 907280,
+      "end_ms": 912680,
+      "start": "00:15:07.280",
+      "end": "00:15:12.680",
+      "text": "right? But look at what he does here."
+    },
+    {
+      "start_ms": 910360,
+      "end_ms": 915040,
+      "start": "00:15:10.360",
+      "end": "00:15:15.040",
+      "text": "There's a Kiriko, right? Hold this over"
+    },
+    {
+      "start_ms": 912680,
+      "end_ms": 916720,
+      "start": "00:15:12.680",
+      "end": "00:15:16.720",
+      "text": "people. Hold it over them and make them"
+    },
+    {
+      "start_ms": 915040,
+      "end_ms": 918880,
+      "start": "00:15:15.040",
+      "end": "00:15:18.880",
+      "text": "use some cool downs, make them make some"
+    },
+    {
+      "start_ms": 916720,
+      "end_ms": 920940,
+      "start": "00:15:16.720",
+      "end": "00:15:20.940",
+      "text": "decisions. You have a lot of time,"
+    },
+    {
+      "start_ms": 918880,
+      "end_ms": 921680,
+      "start": "00:15:18.880",
+      "end": "00:15:21.680",
+      "text": "right?"
+    },
+    {
+      "start_ms": 920940,
+      "end_ms": 923760,
+      "start": "00:15:20.940",
+      "end": "00:15:23.760",
+      "text": ">> [screaming]"
+    },
+    {
+      "start_ms": 921680,
+      "end_ms": 925800,
+      "start": "00:15:21.680",
+      "end": "00:15:25.800",
+      "text": ">> Then he forces the TP. Huge amount of"
+    },
+    {
+      "start_ms": 923760,
+      "end_ms": 927000,
+      "start": "00:15:23.760",
+      "end": "00:15:27.000",
+      "text": "damage to this guy and this guy."
+    },
+    {
+      "start_ms": 925800,
+      "end_ms": 928760,
+      "start": "00:15:25.800",
+      "end": "00:15:28.760",
+      "text": "In fact, he's definitely going to die"
+    },
+    {
+      "start_ms": 927000,
+      "end_ms": 931040,
+      "start": "00:15:27.000",
+      "end": "00:15:31.040",
+      "text": "here."
+    },
+    {
+      "start_ms": 928760,
+      "end_ms": 932400,
+      "start": "00:15:28.760",
+      "end": "00:15:32.400",
+      "text": "Yeah, exactly."
+    },
+    {
+      "start_ms": 931040,
+      "end_ms": 934600,
+      "start": "00:15:31.040",
+      "end": "00:15:34.600",
+      "text": "Look at this. The enemy team beat"
+    },
+    {
+      "start_ms": 932400,
+      "end_ms": 937280,
+      "start": "00:15:32.400",
+      "end": "00:15:37.280",
+      "text": "engages, he chills and bides his time."
+    },
+    {
+      "start_ms": 934600,
+      "end_ms": 939200,
+      "start": "00:15:34.600",
+      "end": "00:15:39.200",
+      "text": "We punish this guy. That's one kill. But"
+    },
+    {
+      "start_ms": 937280,
+      "end_ms": 941400,
+      "start": "00:15:37.280",
+      "end": "00:15:41.400",
+      "text": "the enemy Sojourn overclocks. Look at"
+    },
+    {
+      "start_ms": 939200,
+      "end_ms": 943839,
+      "start": "00:15:39.200",
+      "end": "00:15:43.839",
+      "text": "this patience. Throw one fire strike."
+    },
+    {
+      "start_ms": 941400,
+      "end_ms": 946280,
+      "start": "00:15:41.400",
+      "end": "00:15:46.280",
+      "text": "Finds his way deep into the mid fight"
+    },
+    {
+      "start_ms": 943839,
+      "end_ms": 948000,
+      "start": "00:15:43.839",
+      "end": "00:15:48.000",
+      "text": "through left."
+    },
+    {
+      "start_ms": 946280,
+      "end_ms": 949720,
+      "start": "00:15:46.280",
+      "end": "00:15:49.720",
+      "text": "Boom! Hits one."
+    },
+    {
+      "start_ms": 948000,
+      "end_ms": 951000,
+      "start": "00:15:48.000",
+      "end": "00:15:51.000",
+      "text": "Hits this Lucio."
+    },
+    {
+      "start_ms": 949720,
+      "end_ms": 952880,
+      "start": "00:15:49.720",
+      "end": "00:15:52.880",
+      "text": "They've already rotated and the enemy"
+    },
+    {
+      "start_ms": 951000,
+      "end_ms": 953920,
+      "start": "00:15:51.000",
+      "end": "00:15:53.920",
+      "text": "team is heavily committed"
+    },
+    {
+      "start_ms": 952880,
+      "end_ms": 956440,
+      "start": "00:15:52.880",
+      "end": "00:15:56.440",
+      "text": "to"
+    },
+    {
+      "start_ms": 953920,
+      "end_ms": 957680,
+      "start": "00:15:53.920",
+      "end": "00:15:57.680",
+      "text": "He killed three people this fight."
+    },
+    {
+      "start_ms": 956440,
+      "end_ms": 959079,
+      "start": "00:15:56.440",
+      "end": "00:15:59.079",
+      "text": "He's going to kill this guy. He missed"
+    },
+    {
+      "start_ms": 957680,
+      "end_ms": 961760,
+      "start": "00:15:57.680",
+      "end": "00:16:01.760",
+      "text": "that slash."
+    },
+    {
+      "start_ms": 959079,
+      "end_ms": 964920,
+      "start": "00:15:59.079",
+      "end": "00:16:04.920",
+      "text": "That counts. This is a 5K. Oh my god,"
+    },
+    {
+      "start_ms": 961760,
+      "end_ms": 966320,
+      "start": "00:16:01.760",
+      "end": "00:16:06.320",
+      "text": "infected is swapping. That's a 5K."
+    },
+    {
+      "start_ms": 964920,
+      "end_ms": 968000,
+      "start": "00:16:04.920",
+      "end": "00:16:08.000",
+      "text": "One more point. Dude, I'm going to be"
+    },
+    {
+      "start_ms": 966320,
+      "end_ms": 973320,
+      "start": "00:16:06.320",
+      "end": "00:16:13.320",
+      "text": "honest, guys. I have to go to the"
+    },
+    {
+      "start_ms": 968000,
+      "end_ms": 973320,
+      "start": "00:16:08.000",
+      "end": "00:16:13.320",
+      "text": "bathroom so bad. I will be back."
+    }
+  ]
+}

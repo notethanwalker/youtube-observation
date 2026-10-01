@@ -1,0 +1,6855 @@
+{
+  "video_id": "nddeTxFzT6Q",
+  "title": "How to Play the Easiest Role in Overwatch (Hitscan)",
+  "url": "https://www.youtube.com/watch?v=nddeTxFzT6Q",
+  "upload_date": "2024-11-19",
+  "duration_seconds": 1152,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:22:18.038527+00:00",
+  "source_sha256": "346a3404c497556e406c3a4bab9cc1d4fba650aeee18e839a5d1d10a9bceba8c",
+  "source_bytes": 395139,
+  "segment_count": 976,
+  "word_count": 3581,
+  "character_count": 19262,
+  "first_segment_ms": 1315,
+  "last_segment_end_ms": 1152820,
+  "leading_gap_seconds": 1.315,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 1315,
+      "end_ms": 3784,
+      "start": "00:00:01.315",
+      "end": "00:00:03.784",
+      "text": "Hey guys, it's me,"
+    },
+    {
+      "start_ms": 2825,
+      "end_ms": 5375,
+      "start": "00:00:02.825",
+      "end": "00:00:05.375",
+      "text": "Cap, former head"
+    },
+    {
+      "start_ms": 4416,
+      "end_ms": 6804,
+      "start": "00:00:04.416",
+      "end": "00:00:06.804",
+      "text": "coach of TSM from"
+    },
+    {
+      "start_ms": 5845,
+      "end_ms": 8314,
+      "start": "00:00:05.845",
+      "end": "00:00:08.314",
+      "text": "Overwatch 2, as well as Wisp and"
+    },
+    {
+      "start_ms": 7355,
+      "end_ms": 9561,
+      "start": "00:00:07.355",
+      "end": "00:00:09.561",
+      "text": "Contenders. Today I"
+    },
+    {
+      "start_ms": 8595,
+      "end_ms": 10841,
+      "start": "00:00:08.595",
+      "end": "00:00:10.841",
+      "text": "want to talk about what"
+    },
+    {
+      "start_ms": 9875,
+      "end_ms": 12051,
+      "start": "00:00:09.875",
+      "end": "00:00:12.051",
+      "text": "some consider to be the"
+    },
+    {
+      "start_ms": 11086,
+      "end_ms": 13193,
+      "start": "00:00:11.086",
+      "end": "00:00:13.193",
+      "text": "easiest role in"
+    },
+    {
+      "start_ms": 12228,
+      "end_ms": 14884,
+      "start": "00:00:12.228",
+      "end": "00:00:14.884",
+      "text": "Overwatch. This headline is,"
+    },
+    {
+      "start_ms": 13919,
+      "end_ms": 15742,
+      "start": "00:00:13.919",
+      "end": "00:00:15.742",
+      "text": "of course, a bit"
+    },
+    {
+      "start_ms": 14776,
+      "end_ms": 17123,
+      "start": "00:00:14.776",
+      "end": "00:00:17.123",
+      "text": "clickbait. Although"
+    },
+    {
+      "start_ms": 16157,
+      "end_ms": 18300,
+      "start": "00:00:16.157",
+      "end": "00:00:18.300",
+      "text": "I'll only go over"
+    },
+    {
+      "start_ms": 17334,
+      "end_ms": 19409,
+      "start": "00:00:17.334",
+      "end": "00:00:19.409",
+      "text": "two things today, two"
+    },
+    {
+      "start_ms": 18443,
+      "end_ms": 20754,
+      "start": "00:00:18.443",
+      "end": "00:00:20.754",
+      "text": "main keys that I"
+    },
+    {
+      "start_ms": 19787,
+      "end_ms": 22098,
+      "start": "00:00:19.787",
+      "end": "00:00:22.098",
+      "text": "think apply to"
+    },
+    {
+      "start_ms": 21132,
+      "end_ms": 23409,
+      "start": "00:00:21.132",
+      "end": "00:00:23.409",
+      "text": "most hitscans,"
+    },
+    {
+      "start_ms": 22443,
+      "end_ms": 24149,
+      "start": "00:00:22.443",
+      "end": "00:00:24.149",
+      "text": "they're pretty"
+    },
+    {
+      "start_ms": 23182,
+      "end_ms": 25325,
+      "start": "00:00:23.182",
+      "end": "00:00:25.325",
+      "text": "relevant for this"
+    },
+    {
+      "start_ms": 24359,
+      "end_ms": 26722,
+      "start": "00:00:24.359",
+      "end": "00:00:26.722",
+      "text": "purpose, right? But this"
+    },
+    {
+      "start_ms": 25754,
+      "end_ms": 27918,
+      "start": "00:00:25.754",
+      "end": "00:00:27.918",
+      "text": "still applies to"
+    },
+    {
+      "start_ms": 26950,
+      "end_ms": 29291,
+      "start": "00:00:26.950",
+      "end": "00:00:29.291",
+      "text": "hitscans in general. These"
+    },
+    {
+      "start_ms": 28326,
+      "end_ms": 30454,
+      "start": "00:00:28.326",
+      "end": "00:00:30.454",
+      "text": "things are not that"
+    },
+    {
+      "start_ms": 29489,
+      "end_ms": 32340,
+      "start": "00:00:29.489",
+      "end": "00:00:32.340",
+      "text": "simple. Especially"
+    },
+    {
+      "start_ms": 31376,
+      "end_ms": 33577,
+      "start": "00:00:31.376",
+      "end": "00:00:33.577",
+      "text": "the second one, it is quite"
+    },
+    {
+      "start_ms": 32614,
+      "end_ms": 36395,
+      "start": "00:00:32.614",
+      "end": "00:00:36.395",
+      "text": "deep. Hitscan is a"
+    },
+    {
+      "start_ms": 35426,
+      "end_ms": 37012,
+      "start": "00:00:35.426",
+      "end": "00:00:37.012",
+      "text": "role where you"
+    },
+    {
+      "start_ms": 36043,
+      "end_ms": 37938,
+      "start": "00:00:36.043",
+      "end": "00:00:37.938",
+      "text": "are under a"
+    },
+    {
+      "start_ms": 36969,
+      "end_ms": 38956,
+      "start": "00:00:36.969",
+      "end": "00:00:38.956",
+      "text": "lot of pressure as the"
+    },
+    {
+      "start_ms": 37987,
+      "end_ms": 39943,
+      "start": "00:00:37.987",
+      "end": "00:00:39.943",
+      "text": "primary source of"
+    },
+    {
+      "start_ms": 38974,
+      "end_ms": 40962,
+      "start": "00:00:38.974",
+      "end": "00:00:40.962",
+      "text": "damage in most"
+    },
+    {
+      "start_ms": 39992,
+      "end_ms": 43005,
+      "start": "00:00:39.992",
+      "end": "00:00:43.005",
+      "text": "compositions, right? You are kind of the"
+    },
+    {
+      "start_ms": 42629,
+      "end_ms": 44610,
+      "start": "00:00:42.629",
+      "end": "00:00:44.610",
+      "text": "biggest"
+    },
+    {
+      "start_ms": 43639,
+      "end_ms": 45144,
+      "start": "00:00:43.639",
+      "end": "00:00:45.144",
+      "text": "influencer on a"
+    },
+    {
+      "start_ms": 44174,
+      "end_ms": 46339,
+      "start": "00:00:44.174",
+      "end": "00:00:46.339",
+      "text": "neutral fight. Well,"
+    },
+    {
+      "start_ms": 45374,
+      "end_ms": 47660,
+      "start": "00:00:45.374",
+      "end": "00:00:47.660",
+      "text": "maybe except for your"
+    },
+    {
+      "start_ms": 46694,
+      "end_ms": 48651,
+      "start": "00:00:46.694",
+      "end": "00:00:48.651",
+      "text": "tank. So you have a"
+    },
+    {
+      "start_ms": 47678,
+      "end_ms": 49337,
+      "start": "00:00:47.678",
+      "end": "00:00:49.337",
+      "text": "great"
+    },
+    {
+      "start_ms": 48363,
+      "end_ms": 50207,
+      "start": "00:00:48.363",
+      "end": "00:00:50.207",
+      "text": "responsibility"
+    },
+    {
+      "start_ms": 49233,
+      "end_ms": 51319,
+      "start": "00:00:49.233",
+      "end": "00:00:51.319",
+      "text": "to cause harm. But it's"
+    },
+    {
+      "start_ms": 50351,
+      "end_ms": 51837,
+      "start": "00:00:50.351",
+      "end": "00:00:51.837",
+      "text": "no less of"
+    },
+    {
+      "start_ms": 50869,
+      "end_ms": 53132,
+      "start": "00:00:50.869",
+      "end": "00:00:53.132",
+      "text": "a responsibility to not"
+    },
+    {
+      "start_ms": 52164,
+      "end_ms": 54403,
+      "start": "00:00:52.164",
+      "end": "00:00:54.403",
+      "text": "die, right? Like a"
+    },
+    {
+      "start_ms": 53449,
+      "end_ms": 56028,
+      "start": "00:00:53.449",
+      "end": "00:00:56.028",
+      "text": "hitscan. Often you are the"
+    },
+    {
+      "start_ms": 55060,
+      "end_ms": 57221,
+      "start": "00:00:55.060",
+      "end": "00:00:57.221",
+      "text": "easiest target in a"
+    },
+    {
+      "start_ms": 56253,
+      "end_ms": 58448,
+      "start": "00:00:56.253",
+      "end": "00:00:58.448",
+      "text": "neutral fight. And"
+    },
+    {
+      "start_ms": 57480,
+      "end_ms": 59462,
+      "start": "00:00:57.480",
+      "end": "00:00:59.462",
+      "text": "if you go even a little bit"
+    },
+    {
+      "start_ms": 58493,
+      "end_ms": 60476,
+      "start": "00:00:58.493",
+      "end": "00:01:00.476",
+      "text": "beyond that, it"
+    },
+    {
+      "start_ms": 59507,
+      "end_ms": 61363,
+      "start": "00:00:59.507",
+      "end": "00:01:01.363",
+      "text": "seems like you're going to"
+    },
+    {
+      "start_ms": 60394,
+      "end_ms": 62472,
+      "start": "00:01:00.394",
+      "end": "00:01:02.472",
+      "text": "die right away, right?"
+    },
+    {
+      "start_ms": 61572,
+      "end_ms": 63315,
+      "start": "00:01:01.572",
+      "end": "00:01:03.315",
+      "text": "Many times as a"
+    },
+    {
+      "start_ms": 62342,
+      "end_ms": 63846,
+      "start": "00:01:02.342",
+      "end": "00:01:03.846",
+      "text": "hitscan you"
+    },
+    {
+      "start_ms": 62873,
+      "end_ms": 64563,
+      "start": "00:01:02.873",
+      "end": "00:01:04.563",
+      "text": "feel like you're not doing"
+    },
+    {
+      "start_ms": 63590,
+      "end_ms": 65626,
+      "start": "00:01:03.590",
+      "end": "00:01:05.626",
+      "text": "enough"
+    },
+    {
+      "start_ms": 64652,
+      "end_ms": 66627,
+      "start": "00:01:04.652",
+      "end": "00:01:06.627",
+      "text": "damage. I need to"
+    },
+    {
+      "start_ms": 65658,
+      "end_ms": 67885,
+      "start": "00:01:05.658",
+      "end": "00:01:07.885",
+      "text": "take this corner. I"
+    },
+    {
+      "start_ms": 66915,
+      "end_ms": 68899,
+      "start": "00:01:06.915",
+      "end": "00:01:08.899",
+      "text": "need to hit this"
+    },
+    {
+      "start_ms": 67928,
+      "end_ms": 70277,
+      "start": "00:01:07.928",
+      "end": "00:01:10.277",
+      "text": "person, right? You take a"
+    },
+    {
+      "start_ms": 69314,
+      "end_ms": 71595,
+      "start": "00:01:09.314",
+      "end": "00:01:11.595",
+      "text": "step to the side—and immediately"
+    },
+    {
+      "start_ms": 70632,
+      "end_ms": 72694,
+      "start": "00:01:10.632",
+      "end": "00:01:12.694",
+      "text": "get a"
+    },
+    {
+      "start_ms": 71730,
+      "end_ms": 73866,
+      "start": "00:01:11.730",
+      "end": "00:01:13.866",
+      "text": "Genji dash, or Orisa"
+    },
+    {
+      "start_ms": 72902,
+      "end_ms": 75257,
+      "start": "00:01:12.902",
+      "end": "00:01:15.257",
+      "text": "spears you,"
+    },
+    {
+      "start_ms": 74294,
+      "end_ms": 76961,
+      "start": "00:01:14.294",
+      "end": "00:01:16.961",
+      "text": "and that's GG, right? So"
+    },
+    {
+      "start_ms": 75995,
+      "end_ms": 77776,
+      "start": "00:01:15.995",
+      "end": "00:01:17.776",
+      "text": "how do you deal"
+    },
+    {
+      "start_ms": 76809,
+      "end_ms": 79031,
+      "start": "00:01:16.809",
+      "end": "00:01:19.031",
+      "text": "maximum damage"
+    },
+    {
+      "start_ms": 78065,
+      "end_ms": 80352,
+      "start": "00:01:18.065",
+      "end": "00:01:20.352",
+      "text": "without dying? This is the"
+    },
+    {
+      "start_ms": 79387,
+      "end_ms": 81633,
+      "start": "00:01:19.387",
+      "end": "00:01:21.633",
+      "text": "main question for"
+    },
+    {
+      "start_ms": 80668,
+      "end_ms": 82732,
+      "start": "00:01:20.668",
+      "end": "00:01:22.732",
+      "text": "hitscan. I want"
+    },
+    {
+      "start_ms": 81766,
+      "end_ms": 84063,
+      "start": "00:01:21.766",
+      "end": "00:01:24.063",
+      "text": "to highlight two key"
+    },
+    {
+      "start_ms": 83097,
+      "end_ms": 85459,
+      "start": "00:01:23.097",
+      "end": "00:01:25.459",
+      "text": "points. The first is"
+    },
+    {
+      "start_ms": 84459,
+      "end_ms": 86402,
+      "start": "00:01:24.459",
+      "end": "00:01:26.402",
+      "text": "to punish enemy"
+    },
+    {
+      "start_ms": 85437,
+      "end_ms": 87694,
+      "start": "00:01:25.437",
+      "end": "00:01:27.694",
+      "text": "tanks simply for"
+    },
+    {
+      "start_ms": 86729,
+      "end_ms": 89696,
+      "start": "00:01:26.729",
+      "end": "00:01:29.696",
+      "text": "existing. I would"
+    },
+    {
+      "start_ms": 88739,
+      "end_ms": 91275,
+      "start": "00:01:28.739",
+      "end": "00:01:31.275",
+      "text": "say it's 75% of the role,"
+    },
+    {
+      "start_ms": 90318,
+      "end_ms": 92983,
+      "start": "00:01:30.318",
+      "end": "00:01:32.983",
+      "text": "maybe a little more or"
+    },
+    {
+      "start_ms": 92025,
+      "end_ms": 94391,
+      "start": "00:01:32.025",
+      "end": "00:01:34.391",
+      "text": "less depending on the"
+    },
+    {
+      "start_ms": 93434,
+      "end_ms": 95715,
+      "start": "00:01:33.434",
+      "end": "00:01:35.715",
+      "text": "specific goal."
+    },
+    {
+      "start_ms": 96295,
+      "end_ms": 98566,
+      "start": "00:01:36.295",
+      "end": "00:01:38.566",
+      "text": "Especially in warehouses"
+    },
+    {
+      "start_ms": 97603,
+      "end_ms": 101060,
+      "start": "00:01:37.603",
+      "end": "00:01:41.060",
+      "text": "where there are no shields. Like in"
+    },
+    {
+      "start_ms": 100095,
+      "end_ms": 102221,
+      "start": "00:01:40.095",
+      "end": "00:01:42.221",
+      "text": "this meta with Orisa,"
+    },
+    {
+      "start_ms": 101257,
+      "end_ms": 103524,
+      "start": "00:01:41.257",
+      "end": "00:01:43.524",
+      "text": "Mauga, or the"
+    },
+    {
+      "start_ms": 102559,
+      "end_ms": 105452,
+      "start": "00:01:42.559",
+      "end": "00:01:45.452",
+      "text": "Vulture Queen. Objectives"
+    },
+    {
+      "start_ms": 104485,
+      "end_ms": 106522,
+      "start": "00:01:44.485",
+      "end": "00:01:46.522",
+      "text": "where tanks have no"
+    },
+    {
+      "start_ms": 105556,
+      "end_ms": 107593,
+      "start": "00:01:45.556",
+      "end": "00:01:47.593",
+      "text": "easy way"
+    },
+    {
+      "start_ms": 106627,
+      "end_ms": 108831,
+      "start": "00:01:46.627",
+      "end": "00:01:48.831",
+      "text": "to defend themselves, punishing"
+    },
+    {
+      "start_ms": 107865,
+      "end_ms": 109601,
+      "start": "00:01:47.865",
+      "end": "00:01:49.601",
+      "text": "them for trying"
+    },
+    {
+      "start_ms": 108634,
+      "end_ms": 110471,
+      "start": "00:01:48.634",
+      "end": "00:01:50.471",
+      "text": "to advance and"
+    },
+    {
+      "start_ms": 109504,
+      "end_ms": 111709,
+      "start": "00:01:49.504",
+      "end": "00:01:51.709",
+      "text": "take up space—this is a"
+    },
+    {
+      "start_ms": 110742,
+      "end_ms": 112846,
+      "start": "00:01:50.742",
+      "end": "00:01:52.846",
+      "text": "huge part of"
+    },
+    {
+      "start_ms": 111880,
+      "end_ms": 113984,
+      "start": "00:01:51.880",
+      "end": "00:01:53.984",
+      "text": "mini-maximizing"
+    },
+    {
+      "start_ms": 113017,
+      "end_ms": 115390,
+      "start": "00:01:53.017",
+      "end": "00:01:55.390",
+      "text": "your role. And although I"
+    },
+    {
+      "start_ms": 114425,
+      "end_ms": 116593,
+      "start": "00:01:54.425",
+      "end": "00:01:56.593",
+      "text": "said earlier that it's"
+    },
+    {
+      "start_ms": 115627,
+      "end_ms": 117692,
+      "start": "00:01:55.627",
+      "end": "00:01:57.692",
+      "text": "hard, this part is"
+    },
+    {
+      "start_ms": 116726,
+      "end_ms": 118928,
+      "start": "00:01:56.726",
+      "end": "00:01:58.928",
+      "text": "pretty simple if"
+    },
+    {
+      "start_ms": 117962,
+      "end_ms": 119959,
+      "start": "00:01:57.962",
+      "end": "00:01:59.959",
+      "text": "you understand it. A"
+    },
+    {
+      "start_ms": 119059,
+      "end_ms": 121064,
+      "start": "00:01:59.059",
+      "end": "00:02:01.064",
+      "text": "big mistake people make is"
+    },
+    {
+      "start_ms": 120090,
+      "end_ms": 121778,
+      "start": "00:02:00.090",
+      "end": "00:02:01.778",
+      "text": "that they"
+    },
+    {
+      "start_ms": 120805,
+      "end_ms": 122625,
+      "start": "00:02:00.805",
+      "end": "00:02:02.625",
+      "text": "consider hitscan to be a"
+    },
+    {
+      "start_ms": 121651,
+      "end_ms": 123683,
+      "start": "00:02:01.651",
+      "end": "00:02:03.683",
+      "text": "role only about accurate"
+    },
+    {
+      "start_ms": 122710,
+      "end_ms": 124615,
+      "start": "00:02:02.710",
+      "end": "00:02:04.615",
+      "text": "shooting. Me, I"
+    },
+    {
+      "start_ms": 123645,
+      "end_ms": 125741,
+      "start": "00:02:03.645",
+      "end": "00:02:05.741",
+      "text": "need to aim, I"
+    },
+    {
+      "start_ms": 124771,
+      "end_ms": 126868,
+      "start": "00:02:04.771",
+      "end": "00:02:06.868",
+      "text": "need to hit, well, you get"
+    },
+    {
+      "start_ms": 125897,
+      "end_ms": 127905,
+      "start": "00:02:05.897",
+      "end": "00:02:07.905",
+      "text": "the idea. Um, this"
+    },
+    {
+      "start_ms": 126940,
+      "end_ms": 128836,
+      "start": "00:02:06.940",
+      "end": "00:02:08.836",
+      "text": "part of the"
+    },
+    {
+      "start_ms": 127871,
+      "end_ms": 130112,
+      "start": "00:02:07.871",
+      "end": "00:02:10.112",
+      "text": "hitscan game is about how"
+    },
+    {
+      "start_ms": 129147,
+      "end_ms": 131388,
+      "start": "00:02:09.147",
+      "end": "00:02:11.388",
+      "text": "to exploit the fact that"
+    },
+    {
+      "start_ms": 130422,
+      "end_ms": 132457,
+      "start": "00:02:10.422",
+      "end": "00:02:12.457",
+      "text": "tanks don't have, um,"
+    },
+    {
+      "start_ms": 131491,
+      "end_ms": 133698,
+      "start": "00:02:11.491",
+      "end": "00:02:13.698",
+      "text": "complex"
+    },
+    {
+      "start_ms": 132733,
+      "end_ms": 134802,
+      "start": "00:02:12.733",
+      "end": "00:02:14.802",
+      "text": "movement options, right?"
+    },
+    {
+      "start_ms": 133902,
+      "end_ms": 135860,
+      "start": "00:02:13.902",
+      "end": "00:02:15.860",
+      "text": "Trying to hit"
+    },
+    {
+      "start_ms": 134885,
+      "end_ms": 136667,
+      "start": "00:02:14.885",
+      "end": "00:02:16.667",
+      "text": "Genji or other \""
+    },
+    {
+      "start_ms": 135667,
+      "end_ms": 137550,
+      "start": "00:02:15.667",
+      "end": "00:02:17.550",
+      "text": "thin\" characters is"
+    },
+    {
+      "start_ms": 136575,
+      "end_ms": 138357,
+      "start": "00:02:16.575",
+      "end": "00:02:18.357",
+      "text": "hard because, you know,"
+    },
+    {
+      "start_ms": 137383,
+      "end_ms": 139089,
+      "start": "00:02:17.383",
+      "end": "00:02:19.089",
+      "text": "if they"
+    },
+    {
+      "start_ms": 138114,
+      "end_ms": 139947,
+      "start": "00:02:18.114",
+      "end": "00:02:19.947",
+      "text": "move well, if they're"
+    },
+    {
+      "start_ms": 138972,
+      "end_ms": 140779,
+      "start": "00:02:18.972",
+      "end": "00:02:20.779",
+      "text": "good players, um, it"
+    },
+    {
+      "start_ms": 139804,
+      "end_ms": 141637,
+      "start": "00:02:19.804",
+      "end": "00:02:21.637",
+      "text": "becomes difficult"
+    },
+    {
+      "start_ms": 140662,
+      "end_ms": 142794,
+      "start": "00:02:20.662",
+      "end": "00:02:22.794",
+      "text": "to hit them, right? Tanks"
+    },
+    {
+      "start_ms": 141794,
+      "end_ms": 143876,
+      "start": "00:02:21.794",
+      "end": "00:02:23.876",
+      "text": ", on the other hand, with their"
+    },
+    {
+      "start_ms": 142907,
+      "end_ms": 144586,
+      "start": "00:02:22.907",
+      "end": "00:02:24.586",
+      "text": "huge"
+    },
+    {
+      "start_ms": 143617,
+      "end_ms": 145699,
+      "start": "00:02:23.617",
+      "end": "00:02:25.699",
+      "text": "headboxes, um, and also"
+    },
+    {
+      "start_ms": 145657,
+      "end_ms": 147831,
+      "start": "00:02:25.657",
+      "end": "00:02:27.831",
+      "text": "tank players, who often, um,"
+    },
+    {
+      "start_ms": 146862,
+      "end_ms": 148943,
+      "start": "00:02:26.862",
+      "end": "00:02:28.943",
+      "text": "have terrible movement, are"
+    },
+    {
+      "start_ms": 147974,
+      "end_ms": 150179,
+      "start": "00:02:27.974",
+      "end": "00:02:30.179",
+      "text": "very easily punished,"
+    },
+    {
+      "start_ms": 149210,
+      "end_ms": 151229,
+      "start": "00:02:29.210",
+      "end": "00:02:31.229",
+      "text": "um, so, you know,"
+    },
+    {
+      "start_ms": 150260,
+      "end_ms": 152465,
+      "start": "00:02:30.260",
+      "end": "00:02:32.465",
+      "text": "aiming at them is not at all"
+    },
+    {
+      "start_ms": 151496,
+      "end_ms": 153672,
+      "start": "00:02:31.496",
+      "end": "00:02:33.672",
+      "text": "difficult, right? So"
+    },
+    {
+      "start_ms": 152695,
+      "end_ms": 154536,
+      "start": "00:02:32.695",
+      "end": "00:02:34.536",
+      "text": "this key, um, in this"
+    },
+    {
+      "start_ms": 153559,
+      "end_ms": 155096,
+      "start": "00:02:33.559",
+      "end": "00:02:35.096",
+      "text": "video that we're"
+    },
+    {
+      "start_ms": 154120,
+      "end_ms": 155610,
+      "start": "00:02:34.120",
+      "end": "00:02:35.610",
+      "text": "going to watch, is"
+    },
+    {
+      "start_ms": 154634,
+      "end_ms": 156428,
+      "start": "00:02:34.634",
+      "end": "00:02:36.428",
+      "text": "focused on, uh,"
+    },
+    {
+      "start_ms": 156152,
+      "end_ms": 157969,
+      "start": "00:02:36.152",
+      "end": "00:02:37.969",
+      "text": "motion aiming, or what"
+    },
+    {
+      "start_ms": 156993,
+      "end_ms": 158577,
+      "start": "00:02:36.993",
+      "end": "00:02:38.577",
+      "text": "some people"
+    },
+    {
+      "start_ms": 157600,
+      "end_ms": 158997,
+      "start": "00:02:37.600",
+      "end": "00:02:38.997",
+      "text": "call \""
+    },
+    {
+      "start_ms": 158628,
+      "end_ms": 160506,
+      "start": "00:02:38.628",
+      "end": "00:02:40.506",
+      "text": "keyboard aiming.\" Um, and"
+    },
+    {
+      "start_ms": 159530,
+      "end_ms": 161380,
+      "start": "00:02:39.530",
+      "end": "00:02:41.380",
+      "text": "if you watch or"
+    },
+    {
+      "start_ms": 160404,
+      "end_ms": 162108,
+      "start": "00:02:40.404",
+      "end": "00:02:42.108",
+      "text": "ask top"
+    },
+    {
+      "start_ms": 161133,
+      "end_ms": 163080,
+      "start": "00:02:41.133",
+      "end": "00:02:43.080",
+      "text": "players on hitscans,"
+    },
+    {
+      "start_ms": 162104,
+      "end_ms": 163978,
+      "start": "00:02:42.104",
+      "end": "00:02:43.978",
+      "text": "um, how they land"
+    },
+    {
+      "start_ms": 163002,
+      "end_ms": 164901,
+      "start": "00:02:43.002",
+      "end": "00:02:44.901",
+      "text": "those shots, um, you"
+    },
+    {
+      "start_ms": 163925,
+      "end_ms": 165799,
+      "start": "00:02:43.925",
+      "end": "00:02:45.799",
+      "text": "might see a"
+    },
+    {
+      "start_ms": 164824,
+      "end_ms": 166552,
+      "start": "00:02:44.824",
+      "end": "00:02:46.552",
+      "text": "high-level play and"
+    },
+    {
+      "start_ms": 165576,
+      "end_ms": 167256,
+      "start": "00:02:45.576",
+      "end": "00:02:47.256",
+      "text": "think, \"Oh, that does"
+    },
+    {
+      "start_ms": 166281,
+      "end_ms": 168203,
+      "start": "00:02:46.281",
+      "end": "00:02:48.203",
+      "text": "n't look that"
+    },
+    {
+      "start_ms": 167228,
+      "end_ms": 169126,
+      "start": "00:02:47.228",
+      "end": "00:02:49.126",
+      "text": "difficult, his aiming is"
+    },
+    {
+      "start_ms": 168150,
+      "end_ms": 170025,
+      "start": "00:02:48.150",
+      "end": "00:02:50.025",
+      "text": "so smooth, right?\""
+    },
+    {
+      "start_ms": 169125,
+      "end_ms": 171246,
+      "start": "00:02:49.125",
+      "end": "00:02:51.246",
+      "text": "Um, the thing is,"
+    },
+    {
+      "start_ms": 170277,
+      "end_ms": 172274,
+      "start": "00:02:50.277",
+      "end": "00:02:52.274",
+      "text": "they don't really"
+    },
+    {
+      "start_ms": 171305,
+      "end_ms": 173520,
+      "start": "00:02:51.305",
+      "end": "00:02:53.520",
+      "text": "use their right"
+    },
+    {
+      "start_ms": 172551,
+      "end_ms": 174579,
+      "start": "00:02:52.551",
+      "end": "00:02:54.579",
+      "text": "hand, uh, to do"
+    },
+    {
+      "start_ms": 173610,
+      "end_ms": 175638,
+      "start": "00:02:53.610",
+      "end": "00:02:55.638",
+      "text": "any kind of sharp jerks,"
+    },
+    {
+      "start_ms": 174669,
+      "end_ms": 176340,
+      "start": "00:02:54.669",
+      "end": "00:02:56.340",
+      "text": "right? Of course,"
+    },
+    {
+      "start_ms": 175367,
+      "end_ms": 177398,
+      "start": "00:02:55.367",
+      "end": "00:02:57.398",
+      "text": "micro-corrections still"
+    },
+    {
+      "start_ms": 176425,
+      "end_ms": 178293,
+      "start": "00:02:56.425",
+      "end": "00:02:58.293",
+      "text": "happen, but"
+    },
+    {
+      "start_ms": 177320,
+      "end_ms": 179053,
+      "start": "00:02:57.320",
+      "end": "00:02:59.053",
+      "text": "for the most part it's"
+    },
+    {
+      "start_ms": 178080,
+      "end_ms": 180002,
+      "start": "00:02:58.080",
+      "end": "00:03:00.002",
+      "text": "just tracking the"
+    },
+    {
+      "start_ms": 179029,
+      "end_ms": 181087,
+      "start": "00:02:59.029",
+      "end": "00:03:01.087",
+      "text": "enemy tank's movement"
+    },
+    {
+      "start_ms": 180114,
+      "end_ms": 182091,
+      "start": "00:03:00.114",
+      "end": "00:03:02.091",
+      "text": "as it moves forward."
+    },
+    {
+      "start_ms": 181191,
+      "end_ms": 183216,
+      "start": "00:03:01.191",
+      "end": "00:03:03.216",
+      "text": "Um, and using"
+    },
+    {
+      "start_ms": 182247,
+      "end_ms": 184272,
+      "start": "00:03:02.247",
+      "end": "00:03:04.272",
+      "text": "your own movement to"
+    },
+    {
+      "start_ms": 183303,
+      "end_ms": 185266,
+      "start": "00:03:03.303",
+      "end": "00:03:05.266",
+      "text": "simply align"
+    },
+    {
+      "start_ms": 184297,
+      "end_ms": 186416,
+      "start": "00:03:04.297",
+      "end": "00:03:06.416",
+      "text": "your sight with theirs,"
+    },
+    {
+      "start_ms": 185447,
+      "end_ms": 187348,
+      "start": "00:03:05.447",
+      "end": "00:03:07.348",
+      "text": "keeping the sight"
+    },
+    {
+      "start_ms": 186379,
+      "end_ms": 188249,
+      "start": "00:03:06.379",
+      "end": "00:03:08.249",
+      "text": "strictly at"
+    },
+    {
+      "start_ms": 187280,
+      "end_ms": 189274,
+      "start": "00:03:07.280",
+      "end": "00:03:09.274",
+      "text": "head level while moving"
+    },
+    {
+      "start_ms": 188305,
+      "end_ms": 190455,
+      "start": "00:03:08.305",
+      "end": "00:03:10.455",
+      "text": "left or right."
+    },
+    {
+      "start_ms": 189555,
+      "end_ms": 191496,
+      "start": "00:03:09.555",
+      "end": "00:03:11.496",
+      "text": "Yes? So, this"
+    },
+    {
+      "start_ms": 190526,
+      "end_ms": 192610,
+      "start": "00:03:10.526",
+      "end": "00:03:12.610",
+      "text": "aiming is strictly"
+    },
+    {
+      "start_ms": 191640,
+      "end_ms": 193725,
+      "start": "00:03:11.640",
+      "end": "00:03:13.725",
+      "text": "left-right movements."
+    },
+    {
+      "start_ms": 192825,
+      "end_ms": 194885,
+      "start": "00:03:12.825",
+      "end": "00:03:14.885",
+      "text": "Um, we'll watch that"
+    },
+    {
+      "start_ms": 193913,
+      "end_ms": 196002,
+      "start": "00:03:13.913",
+      "end": "00:03:16.002",
+      "text": "clip, yeah, where Lip lands"
+    },
+    {
+      "start_ms": 195030,
+      "end_ms": 196979,
+      "start": "00:03:15.030",
+      "end": "00:03:16.979",
+      "text": "ten shots in"
+    },
+    {
+      "start_ms": 196007,
+      "end_ms": 197845,
+      "start": "00:03:16.007",
+      "end": "00:03:17.845",
+      "text": "the head of Hanbman in that"
+    },
+    {
+      "start_ms": 196873,
+      "end_ms": 198850,
+      "start": "00:03:16.873",
+      "end": "00:03:18.850",
+      "text": "first neutral"
+    },
+    {
+      "start_ms": 197878,
+      "end_ms": 199883,
+      "start": "00:03:17.878",
+      "end": "00:03:19.883",
+      "text": "phase and just keeps the"
+    },
+    {
+      "start_ms": 198911,
+      "end_ms": 200860,
+      "start": "00:03:18.911",
+      "end": "00:03:20.860",
+      "text": "Falcons from getting ahead,"
+    },
+    {
+      "start_ms": 199888,
+      "end_ms": 202104,
+      "start": "00:03:19.888",
+      "end": "00:03:22.104",
+      "text": "right? Um, so"
+    },
+    {
+      "start_ms": 201136,
+      "end_ms": 203216,
+      "start": "00:03:21.136",
+      "end": "00:03:23.216",
+      "text": "let's watch it at full"
+    },
+    {
+      "start_ms": 202247,
+      "end_ms": 206223,
+      "start": "00:03:22.247",
+      "end": "00:03:26.223",
+      "text": "speed first. One, two,"
+    },
+    {
+      "start_ms": 205273,
+      "end_ms": 219101,
+      "start": "00:03:25.273",
+      "end": "00:03:39.101",
+      "text": "three, right? Now, this"
+    },
+    {
+      "start_ms": 218132,
+      "end_ms": 220100,
+      "start": "00:03:38.132",
+      "end": "00:03:40.100",
+      "text": "really does"
+    },
+    {
+      "start_ms": 219131,
+      "end_ms": 221287,
+      "start": "00:03:39.131",
+      "end": "00:03:41.287",
+      "text": "n't look like much fun for"
+    },
+    {
+      "start_ms": 220318,
+      "end_ms": 222492,
+      "start": "00:03:40.318",
+      "end": "00:03:42.492",
+      "text": "Hanbman, does it? Um, and the Falcons"
+    },
+    {
+      "start_ms": 221519,
+      "end_ms": 223203,
+      "start": "00:03:41.519",
+      "end": "00:03:43.203",
+      "text": "can't capture"
+    },
+    {
+      "start_ms": 222230,
+      "end_ms": 224160,
+      "start": "00:03:42.230",
+      "end": "00:03:44.160",
+      "text": "any space in"
+    },
+    {
+      "start_ms": 223187,
+      "end_ms": 225254,
+      "start": "00:03:43.187",
+      "end": "00:03:45.254",
+      "text": "this neutral phase."
+    },
+    {
+      "start_ms": 224354,
+      "end_ms": 226347,
+      "start": "00:03:44.354",
+      "end": "00:03:46.347",
+      "text": "Um, and this battle, to be honest"
+    },
+    {
+      "start_ms": 225376,
+      "end_ms": 227428,
+      "start": "00:03:45.376",
+      "end": "00:03:47.428",
+      "text": ", is essentially won"
+    },
+    {
+      "start_ms": 226457,
+      "end_ms": 228509,
+      "start": "00:03:46.457",
+      "end": "00:03:48.509",
+      "text": "because of this,"
+    },
+    {
+      "start_ms": 227538,
+      "end_ms": 229435,
+      "start": "00:03:47.538",
+      "end": "00:03:49.435",
+      "text": "right? I mean, of course,"
+    },
+    {
+      "start_ms": 228458,
+      "end_ms": 230358,
+      "start": "00:03:48.458",
+      "end": "00:03:50.358",
+      "text": "it's not finished yet,"
+    },
+    {
+      "start_ms": 229382,
+      "end_ms": 231211,
+      "start": "00:03:49.382",
+      "end": "00:03:51.211",
+      "text": "but with the space in the"
+    },
+    {
+      "start_ms": 230235,
+      "end_ms": 231993,
+      "start": "00:03:50.235",
+      "end": "00:03:51.993",
+      "text": "white room, um,"
+    },
+    {
+      "start_ms": 231016,
+      "end_ms": 232940,
+      "start": "00:03:51.016",
+      "end": "00:03:52.940",
+      "text": "now the Falcons will have to"
+    },
+    {
+      "start_ms": 231964,
+      "end_ms": 233651,
+      "start": "00:03:51.964",
+      "end": "00:03:53.651",
+      "text": "go through the"
+    },
+    {
+      "start_ms": 232674,
+      "end_ms": 234551,
+      "start": "00:03:52.674",
+      "end": "00:03:54.551",
+      "text": "point, right? If Hanbman"
+    },
+    {
+      "start_ms": 233571,
+      "end_ms": 235264,
+      "start": "00:03:53.571",
+      "end": "00:03:55.264",
+      "text": "wanted to hold that"
+    },
+    {
+      "start_ms": 234285,
+      "end_ms": 235774,
+      "start": "00:03:54.285",
+      "end": "00:03:55.774",
+      "text": "space, he would have had to"
+    },
+    {
+      "start_ms": 235202,
+      "end_ms": 236875,
+      "start": "00:03:55.202",
+      "end": "00:03:56.875",
+      "text": "use his \""
+    },
+    {
+      "start_ms": 235875,
+      "end_ms": 237649,
+      "start": "00:03:55.875",
+      "end": "00:03:57.649",
+      "text": "spin\" earlier or"
+    },
+    {
+      "start_ms": 236670,
+      "end_ms": 238465,
+      "start": "00:03:56.670",
+      "end": "00:03:58.465",
+      "text": "something, and that's basically"
+    },
+    {
+      "start_ms": 237465,
+      "end_ms": 239512,
+      "start": "00:03:57.465",
+      "end": "00:03:59.512",
+      "text": "GG, right? Many tanks"
+    },
+    {
+      "start_ms": 238540,
+      "end_ms": 240500,
+      "start": "00:03:58.540",
+      "end": "00:04:00.500",
+      "text": "do that. Hanbman is"
+    },
+    {
+      "start_ms": 239526,
+      "end_ms": 241365,
+      "start": "00:03:59.526",
+      "end": "00:04:01.365",
+      "text": "very good, so"
+    },
+    {
+      "start_ms": 240390,
+      "end_ms": 242306,
+      "start": "00:04:00.390",
+      "end": "00:04:02.306",
+      "text": "he didn't do it."
+    },
+    {
+      "start_ms": 241406,
+      "end_ms": 243273,
+      "start": "00:04:01.406",
+      "end": "00:04:03.273",
+      "text": "But, um, let's"
+    },
+    {
+      "start_ms": 242304,
+      "end_ms": 244296,
+      "start": "00:04:02.304",
+      "end": "00:04:04.296",
+      "text": "go over this, uh,"
+    },
+    {
+      "start_ms": 243327,
+      "end_ms": 245582,
+      "start": "00:04:03.327",
+      "end": "00:04:05.582",
+      "text": "a little slower. Um,"
+    },
+    {
+      "start_ms": 244615,
+      "end_ms": 246889,
+      "start": "00:04:04.615",
+      "end": "00:04:06.889",
+      "text": "if you watch these"
+    },
+    {
+      "start_ms": 245921,
+      "end_ms": 247673,
+      "start": "00:04:05.921",
+      "end": "00:04:07.673",
+      "text": "clips, I want"
+    },
+    {
+      "start_ms": 246705,
+      "end_ms": 248620,
+      "start": "00:04:06.705",
+      "end": "00:04:08.620",
+      "text": "to emphasize: Lip is"
+    },
+    {
+      "start_ms": 247653,
+      "end_ms": 249846,
+      "start": "00:04:07.653",
+      "end": "00:04:09.846",
+      "text": "cool, right? Um,"
+    },
+    {
+      "start_ms": 248846,
+      "end_ms": 250823,
+      "start": "00:04:08.846",
+      "end": "00:04:10.823",
+      "text": "any of these hitscans"
+    },
+    {
+      "start_ms": 249850,
+      "end_ms": 251692,
+      "start": "00:04:09.850",
+      "end": "00:04:11.692",
+      "text": "you see are"
+    },
+    {
+      "start_ms": 250692,
+      "end_ms": 252669,
+      "start": "00:04:10.692",
+      "end": "00:04:12.669",
+      "text": "incredible players with"
+    },
+    {
+      "start_ms": 251696,
+      "end_ms": 253619,
+      "start": "00:04:11.696",
+      "end": "00:04:13.619",
+      "text": "incredible aim,"
+    },
+    {
+      "start_ms": 252646,
+      "end_ms": 254488,
+      "start": "00:04:12.646",
+      "end": "00:04:14.488",
+      "text": "but they're not difficult"
+    },
+    {
+      "start_ms": 253515,
+      "end_ms": 255416,
+      "start": "00:04:13.515",
+      "end": "00:04:15.416",
+      "text": "shots, right? Um, the"
+    },
+    {
+      "start_ms": 254441,
+      "end_ms": 256422,
+      "start": "00:04:14.441",
+      "end": "00:04:16.422",
+      "text": "average"
+    },
+    {
+      "start_ms": 256085,
+      "end_ms": 258018,
+      "start": "00:04:16.085",
+      "end": "00:04:18.018",
+      "text": "Master player can hit"
+    },
+    {
+      "start_ms": 257042,
+      "end_ms": 258779,
+      "start": "00:04:17.042",
+      "end": "00:04:18.779",
+      "text": "most of these"
+    },
+    {
+      "start_ms": 257803,
+      "end_ms": 259490,
+      "start": "00:04:17.803",
+      "end": "00:04:19.490",
+      "text": "shots if"
+    },
+    {
+      "start_ms": 258515,
+      "end_ms": 260472,
+      "start": "00:04:18.515",
+      "end": "00:04:20.472",
+      "text": "they do everything right,"
+    },
+    {
+      "start_ms": 259497,
+      "end_ms": 261542,
+      "start": "00:04:19.497",
+      "end": "00:04:21.542",
+      "text": "right? Um, the problem is that"
+    },
+    {
+      "start_ms": 260573,
+      "end_ms": 262748,
+      "start": "00:04:20.573",
+      "end": "00:04:22.748",
+      "text": "most of"
+    },
+    {
+      "start_ms": 261779,
+      "end_ms": 263459,
+      "start": "00:04:21.779",
+      "end": "00:04:23.459",
+      "text": "you are"
+    },
+    {
+      "start_ms": 262490,
+      "end_ms": 264729,
+      "start": "00:04:22.490",
+      "end": "00:04:24.729",
+      "text": "making things complicated for yourself. Uh, either the way"
+    },
+    {
+      "start_ms": 263762,
+      "end_ms": 265847,
+      "start": "00:04:23.762",
+      "end": "00:04:25.847",
+      "text": "you aim"
+    },
+    {
+      "start_ms": 264880,
+      "end_ms": 266604,
+      "start": "00:04:24.880",
+      "end": "00:04:26.604",
+      "text": "or the way you"
+    },
+    {
+      "start_ms": 265636,
+      "end_ms": 267755,
+      "start": "00:04:25.636",
+      "end": "00:04:27.755",
+      "text": "move is preventing"
+    },
+    {
+      "start_ms": 266788,
+      "end_ms": 269037,
+      "start": "00:04:26.788",
+      "end": "00:04:29.037",
+      "text": "you from hitting, that's why"
+    },
+    {
+      "start_ms": 268070,
+      "end_ms": 269925,
+      "start": "00:04:28.070",
+      "end": "00:04:29.925",
+      "text": "it's so"
+    },
+    {
+      "start_ms": 268958,
+      "end_ms": 271262,
+      "start": "00:04:28.958",
+      "end": "00:04:31.262",
+      "text": "hard for you, right? Um, so"
+    },
+    {
+      "start_ms": 270299,
+      "end_ms": 272603,
+      "start": "00:04:30.299",
+      "end": "00:04:32.603",
+      "text": "let's look"
+    },
+    {
+      "start_ms": 271640,
+      "end_ms": 277565,
+      "start": "00:04:31.640",
+      "end": "00:04:37.565",
+      "text": "at the speed of 0.5. There are"
+    },
+    {
+      "start_ms": 276595,
+      "end_ms": 278731,
+      "start": "00:04:36.595",
+      "end": "00:04:38.731",
+      "text": "n't really that"
+    },
+    {
+      "start_ms": 277762,
+      "end_ms": 279898,
+      "start": "00:04:37.762",
+      "end": "00:04:39.898",
+      "text": "many flicks here, are there?"
+    },
+    {
+      "start_ms": 279094,
+      "end_ms": 281278,
+      "start": "00:04:39.094",
+      "end": "00:04:41.278",
+      "text": "All he does is"
+    },
+    {
+      "start_ms": 280278,
+      "end_ms": 282399,
+      "start": "00:04:40.278",
+      "end": "00:04:42.399",
+      "text": "keep his sights at"
+    },
+    {
+      "start_ms": 281431,
+      "end_ms": 283327,
+      "start": "00:04:41.431",
+      "end": "00:04:43.327",
+      "text": "head level and"
+    },
+    {
+      "start_ms": 282359,
+      "end_ms": 284416,
+      "start": "00:04:42.359",
+      "end": "00:04:44.416",
+      "text": "use his"
+    },
+    {
+      "start_ms": 283448,
+      "end_ms": 284896,
+      "start": "00:04:43.448",
+      "end": "00:04:44.896",
+      "text": "movement to"
+    },
+    {
+      "start_ms": 283928,
+      "end_ms": 286049,
+      "start": "00:04:43.928",
+      "end": "00:04:46.049",
+      "text": "adjust to"
+    },
+    {
+      "start_ms": 285081,
+      "end_ms": 289106,
+      "start": "00:04:45.081",
+      "end": "00:04:49.106",
+      "text": "Hanban's movement. Do you see"
+    },
+    {
+      "start_ms": 288145,
+      "end_ms": 293855,
+      "start": "00:04:48.145",
+      "end": "00:04:53.855",
+      "text": "this moment? He"
+    },
+    {
+      "start_ms": 292887,
+      "end_ms": 295108,
+      "start": "00:04:52.887",
+      "end": "00:04:55.108",
+      "text": "just allows the movement to"
+    },
+    {
+      "start_ms": 294140,
+      "end_ms": 296136,
+      "start": "00:04:54.140",
+      "end": "00:04:56.136",
+      "text": "smoothly align"
+    },
+    {
+      "start_ms": 295168,
+      "end_ms": 297196,
+      "start": "00:04:55.168",
+      "end": "00:04:57.196",
+      "text": "the sight with"
+    },
+    {
+      "start_ms": 296228,
+      "end_ms": 298330,
+      "start": "00:04:56.228",
+      "end": "00:04:58.330",
+      "text": "Hone's head, right? Um, I won't"
+    },
+    {
+      "start_ms": 297365,
+      "end_ms": 299529,
+      "start": "00:04:57.365",
+      "end": "00:04:59.529",
+      "text": "give a bunch of"
+    },
+    {
+      "start_ms": 298563,
+      "end_ms": 300384,
+      "start": "00:04:58.563",
+      "end": "00:05:00.384",
+      "text": "examples because"
+    },
+    {
+      "start_ms": 299418,
+      "end_ms": 301651,
+      "start": "00:04:59.418",
+      "end": "00:05:01.651",
+      "text": "I hope this is"
+    },
+    {
+      "start_ms": 300685,
+      "end_ms": 302986,
+      "start": "00:05:00.685",
+      "end": "00:05:02.986",
+      "text": "clear, but this is your"
+    },
+    {
+      "start_ms": 302020,
+      "end_ms": 304286,
+      "start": "00:05:02.020",
+      "end": "00:05:04.286",
+      "text": "main tool"
+    },
+    {
+      "start_ms": 303321,
+      "end_ms": 305519,
+      "start": "00:05:03.321",
+      "end": "00:05:05.519",
+      "text": "for causing damage,"
+    },
+    {
+      "start_ms": 304553,
+      "end_ms": 306643,
+      "start": "00:05:04.553",
+      "end": "00:05:06.643",
+      "text": "right? Um, people without"
+    },
+    {
+      "start_ms": 305677,
+      "end_ms": 307694,
+      "start": "00:05:05.677",
+      "end": "00:05:07.694",
+      "text": "good movement or"
+    },
+    {
+      "start_ms": 306728,
+      "end_ms": 308779,
+      "start": "00:05:06.728",
+      "end": "00:05:08.779",
+      "text": "characters who don't"
+    },
+    {
+      "start_ms": 307813,
+      "end_ms": 310101,
+      "start": "00:05:07.813",
+      "end": "00:05:10.101",
+      "text": "have the ability for"
+    },
+    {
+      "start_ms": 309135,
+      "end_ms": 311221,
+      "start": "00:05:09.135",
+      "end": "00:05:11.221",
+      "text": "good movement, right?"
+    },
+    {
+      "start_ms": 310321,
+      "end_ms": 312649,
+      "start": "00:05:10.321",
+      "end": "00:05:12.649",
+      "text": "Enemy Kas, enemy"
+    },
+    {
+      "start_ms": 311687,
+      "end_ms": 313977,
+      "start": "00:05:11.687",
+      "end": "00:05:13.977",
+      "text": "Brig, enemy tanks,"
+    },
+    {
+      "start_ms": 313015,
+      "end_ms": 315191,
+      "start": "00:05:13.015",
+      "end": "00:05:15.191",
+      "text": "you know, almost all of"
+    },
+    {
+      "start_ms": 314229,
+      "end_ms": 316562,
+      "start": "00:05:14.229",
+      "end": "00:05:16.562",
+      "text": "them. This is how you will"
+    },
+    {
+      "start_ms": 315593,
+      "end_ms": 317872,
+      "start": "00:05:15.593",
+      "end": "00:05:17.872",
+      "text": "kill these people. Um,"
+    },
+    {
+      "start_ms": 316905,
+      "end_ms": 319088,
+      "start": "00:05:16.905",
+      "end": "00:05:19.088",
+      "text": "and I would just, you know,"
+    },
+    {
+      "start_ms": 318121,
+      "end_ms": 320239,
+      "start": "00:05:18.121",
+      "end": "00:05:20.239",
+      "text": "go into Vaxa or"
+    },
+    {
+      "start_ms": 319272,
+      "end_ms": 320929,
+      "start": "00:05:19.272",
+      "end": "00:05:20.929",
+      "text": "wherever and"
+    },
+    {
+      "start_ms": 319962,
+      "end_ms": 322080,
+      "start": "00:05:19.962",
+      "end": "00:05:22.080",
+      "text": "practice it, right?"
+    },
+    {
+      "start_ms": 321180,
+      "end_ms": 322719,
+      "start": "00:05:21.180",
+      "end": "00:05:22.719",
+      "text": "Just learn"
+    },
+    {
+      "start_ms": 321739,
+      "end_ms": 323338,
+      "start": "00:05:21.739",
+      "end": "00:05:23.338",
+      "text": "to use"
+    },
+    {
+      "start_ms": 322358,
+      "end_ms": 323898,
+      "start": "00:05:22.358",
+      "end": "00:05:23.898",
+      "text": "the keyboard to"
+    },
+    {
+      "start_ms": 322918,
+      "end_ms": 324577,
+      "start": "00:05:22.918",
+      "end": "00:05:24.577",
+      "text": "aim, and don't"
+    },
+    {
+      "start_ms": 323597,
+      "end_ms": 325296,
+      "start": "00:05:23.597",
+      "end": "00:05:25.296",
+      "text": "try to do"
+    },
+    {
+      "start_ms": 324316,
+      "end_ms": 325916,
+      "start": "00:05:24.316",
+      "end": "00:05:25.916",
+      "text": "it with just your right"
+    },
+    {
+      "start_ms": 324936,
+      "end_ms": 326461,
+      "start": "00:05:24.936",
+      "end": "00:05:26.461",
+      "text": "hand. Um, and"
+    },
+    {
+      "start_ms": 325486,
+      "end_ms": 327282,
+      "start": "00:05:25.486",
+      "end": "00:05:27.282",
+      "text": "see how it"
+    },
+    {
+      "start_ms": 326308,
+      "end_ms": 328155,
+      "start": "00:05:26.308",
+      "end": "00:05:28.155",
+      "text": "feels, right?"
+    },
+    {
+      "start_ms": 327255,
+      "end_ms": 328555,
+      "start": "00:05:27.255",
+      "end": "00:05:28.555",
+      "text": "Try to"
+    },
+    {
+      "start_ms": 327571,
+      "end_ms": 329189,
+      "start": "00:05:27.571",
+      "end": "00:05:29.189",
+      "text": "mirror the"
+    },
+    {
+      "start_ms": 328205,
+      "end_ms": 329739,
+      "start": "00:05:28.205",
+      "end": "00:05:29.739",
+      "text": "enemy's movement, try to"
+    },
+    {
+      "start_ms": 328756,
+      "end_ms": 330389,
+      "start": "00:05:28.756",
+      "end": "00:05:30.389",
+      "text": "counterstrafe when"
+    },
+    {
+      "start_ms": 329406,
+      "end_ms": 331057,
+      "start": "00:05:29.406",
+      "end": "00:05:31.057",
+      "text": "they are strafe, anything"
+    },
+    {
+      "start_ms": 330057,
+      "end_ms": 331917,
+      "start": "00:05:30.057",
+      "end": "00:05:31.917",
+      "text": "that works. There"
+    },
+    {
+      "start_ms": 330944,
+      "end_ms": 332975,
+      "start": "00:05:30.944",
+      "end": "00:05:32.975",
+      "text": "are probably many better videos"
+    },
+    {
+      "start_ms": 332001,
+      "end_ms": 333861,
+      "start": "00:05:32.001",
+      "end": "00:05:33.861",
+      "text": "about this. I won't,"
+    },
+    {
+      "start_ms": 332887,
+      "end_ms": 334225,
+      "start": "00:05:32.887",
+      "end": "00:05:34.225",
+      "text": "you know,"
+    },
+    {
+      "start_ms": 333251,
+      "end_ms": 335187,
+      "start": "00:05:33.251",
+      "end": "00:05:35.187",
+      "text": "go into it"
+    },
+    {
+      "start_ms": 334213,
+      "end_ms": 336247,
+      "start": "00:05:34.213",
+      "end": "00:05:36.247",
+      "text": "too much. Um, but"
+    },
+    {
+      "start_ms": 335273,
+      "end_ms": 337179,
+      "start": "00:05:35.273",
+      "end": "00:05:37.179",
+      "text": "I want to emphasize"
+    },
+    {
+      "start_ms": 336204,
+      "end_ms": 338033,
+      "start": "00:05:36.204",
+      "end": "00:05:38.033",
+      "text": "that Lip doesn't hit these"
+    },
+    {
+      "start_ms": 337058,
+      "end_ms": 339068,
+      "start": "00:05:37.058",
+      "end": "00:05:39.068",
+      "text": "shots because"
+    },
+    {
+      "start_ms": 338094,
+      "end_ms": 340077,
+      "start": "00:05:38.094",
+      "end": "00:05:40.077",
+      "text": "he has better aim than"
+    },
+    {
+      "start_ms": 339103,
+      "end_ms": 341057,
+      "start": "00:05:39.103",
+      "end": "00:05:41.057",
+      "text": "you. He hits"
+    },
+    {
+      "start_ms": 340086,
+      "end_ms": 341890,
+      "start": "00:05:40.086",
+      "end": "00:05:41.890",
+      "text": "because he has"
+    },
+    {
+      "start_ms": 340920,
+      "end_ms": 343051,
+      "start": "00:05:40.920",
+      "end": "00:05:43.051",
+      "text": "better movement than you."
+    },
+    {
+      "start_ms": 342151,
+      "end_ms": 345291,
+      "start": "00:05:42.151",
+      "end": "00:05:45.291",
+      "text": "Um, and that's the first thing. The"
+    },
+    {
+      "start_ms": 344324,
+      "end_ms": 346454,
+      "start": "00:05:44.324",
+      "end": "00:05:46.454",
+      "text": "second thing, and this is what"
+    },
+    {
+      "start_ms": 346423,
+      "end_ms": 348683,
+      "start": "00:05:46.423",
+      "end": "00:05:48.683",
+      "text": "most of the video will be based on,"
+    },
+    {
+      "start_ms": 347715,
+      "end_ms": 349619,
+      "start": "00:05:47.715",
+      "end": "00:05:49.619",
+      "text": "because it's harder"
+    },
+    {
+      "start_ms": 348652,
+      "end_ms": 350750,
+      "start": "00:05:48.652",
+      "end": "00:05:50.750",
+      "text": "to understand—is being"
+    },
+    {
+      "start_ms": 349782,
+      "end_ms": 352871,
+      "start": "00:05:49.782",
+      "end": "00:05:52.871",
+      "text": "unattainable. Um, I"
+    },
+    {
+      "start_ms": 351904,
+      "end_ms": 353892,
+      "start": "00:05:51.904",
+      "end": "00:05:53.892",
+      "text": "have another video that"
+    },
+    {
+      "start_ms": 352925,
+      "end_ms": 355177,
+      "start": "00:05:52.925",
+      "end": "00:05:55.177",
+      "text": "kind of covers"
+    },
+    {
+      "start_ms": 354210,
+      "end_ms": 356462,
+      "start": "00:05:54.210",
+      "end": "00:05:56.462",
+      "text": "this in a macro sense, it's"
+    },
+    {
+      "start_ms": 355495,
+      "end_ms": 357681,
+      "start": "00:05:55.495",
+      "end": "00:05:57.681",
+      "text": "called \"Out of the"
+    },
+    {
+      "start_ms": 356714,
+      "end_ms": 359062,
+      "start": "00:05:56.714",
+      "end": "00:05:59.062",
+      "text": "Corner.\" Um, and it's a very"
+    },
+    {
+      "start_ms": 358103,
+      "end_ms": 360743,
+      "start": "00:05:58.103",
+      "end": "00:06:00.743",
+      "text": "similar concept. Um,"
+    },
+    {
+      "start_ms": 359778,
+      "end_ms": 362140,
+      "start": "00:05:59.778",
+      "end": "00:06:02.140",
+      "text": "but I want to emphasize"
+    },
+    {
+      "start_ms": 361175,
+      "end_ms": 363223,
+      "start": "00:06:01.175",
+      "end": "00:06:03.223",
+      "text": "something that's a little"
+    },
+    {
+      "start_ms": 362258,
+      "end_ms": 364411,
+      "start": "00:06:02.258",
+      "end": "00:06:04.411",
+      "text": "different from"
+    },
+    {
+      "start_ms": 363446,
+      "end_ms": 365703,
+      "start": "00:06:03.446",
+      "end": "00:06:05.703",
+      "text": "the idea of that video: for"
+    },
+    {
+      "start_ms": 364738,
+      "end_ms": 366716,
+      "start": "00:06:04.738",
+      "end": "00:06:06.716",
+      "text": "hitscans, it doesn't"
+    },
+    {
+      "start_ms": 365751,
+      "end_ms": 368114,
+      "start": "00:06:05.751",
+      "end": "00:06:08.114",
+      "text": "mean hiding, right"
+    },
+    {
+      "start_ms": 367114,
+      "end_ms": 369386,
+      "start": "00:06:07.114",
+      "end": "00:06:09.386",
+      "text": "? Of course, I can be"
+    },
+    {
+      "start_ms": 368417,
+      "end_ms": 370505,
+      "start": "00:06:08.417",
+      "end": "00:06:10.505",
+      "text": "hard to reach for the"
+    },
+    {
+      "start_ms": 369536,
+      "end_ms": 371749,
+      "start": "00:06:09.536",
+      "end": "00:06:11.749",
+      "text": "enemy tank and DPS"
+    },
+    {
+      "start_ms": 370749,
+      "end_ms": 372930,
+      "start": "00:06:10.749",
+      "end": "00:06:12.930",
+      "text": "if I just hide"
+    },
+    {
+      "start_ms": 371961,
+      "end_ms": 374081,
+      "start": "00:06:11.961",
+      "end": "00:06:14.081",
+      "text": "around corners, right?"
+    },
+    {
+      "start_ms": 373181,
+      "end_ms": 375209,
+      "start": "00:06:13.181",
+      "end": "00:06:15.209",
+      "text": "The problem is, you're"
+    },
+    {
+      "start_ms": 374236,
+      "end_ms": 376186,
+      "start": "00:06:14.236",
+      "end": "00:06:16.186",
+      "text": "not doing any harm in the end"
+    },
+    {
+      "start_ms": 375212,
+      "end_ms": 377215,
+      "start": "00:06:15.212",
+      "end": "00:06:17.215",
+      "text": ", right?"
+    },
+    {
+      "start_ms": 376315,
+      "end_ms": 378330,
+      "start": "00:06:16.315",
+      "end": "00:06:18.330",
+      "text": "Um, like hitscans, my"
+    },
+    {
+      "start_ms": 377359,
+      "end_ms": 379346,
+      "start": "00:06:17.359",
+      "end": "00:06:19.346",
+      "text": "damage is needed,"
+    },
+    {
+      "start_ms": 378346,
+      "end_ms": 380449,
+      "start": "00:06:18.346",
+      "end": "00:06:20.449",
+      "text": "first of all, to take the pressure off"
+    },
+    {
+      "start_ms": 379478,
+      "end_ms": 381610,
+      "start": "00:06:19.478",
+      "end": "00:06:21.610",
+      "text": "my frontliners,"
+    },
+    {
+      "start_ms": 380639,
+      "end_ms": 382488,
+      "start": "00:06:20.639",
+      "end": "00:06:22.488",
+      "text": "right? But, secondly,"
+    },
+    {
+      "start_ms": 381511,
+      "end_ms": 383170,
+      "start": "00:06:21.511",
+      "end": "00:06:23.170",
+      "text": "if I don't deal"
+    },
+    {
+      "start_ms": 382192,
+      "end_ms": 383851,
+      "start": "00:06:22.192",
+      "end": "00:06:23.851",
+      "text": "damage and the enemy"
+    },
+    {
+      "start_ms": 382874,
+      "end_ms": 384624,
+      "start": "00:06:22.874",
+      "end": "00:06:24.624",
+      "text": "hitscan does, it doesn't"
+    },
+    {
+      "start_ms": 383647,
+      "end_ms": 385419,
+      "start": "00:06:23.647",
+      "end": "00:06:25.419",
+      "text": "matter if we"
+    },
+    {
+      "start_ms": 384442,
+      "end_ms": 386260,
+      "start": "00:06:24.442",
+      "end": "00:06:26.260",
+      "text": "switch players,"
+    },
+    {
+      "start_ms": 385283,
+      "end_ms": 386940,
+      "start": "00:06:25.283",
+      "end": "00:06:26.940",
+      "text": "you know? We're"
+    },
+    {
+      "start_ms": 385971,
+      "end_ms": 387880,
+      "start": "00:06:25.971",
+      "end": "00:06:27.880",
+      "text": "basically, I'm like"
+    },
+    {
+      "start_ms": 386912,
+      "end_ms": 389003,
+      "start": "00:06:26.912",
+      "end": "00:06:29.003",
+      "text": "dead, right? I might as well"
+    },
+    {
+      "start_ms": 389113,
+      "end_ms": 391054,
+      "start": "00:06:29.113",
+      "end": "00:06:31.054",
+      "text": "not play at all. So how do you"
+    },
+    {
+      "start_ms": 390087,
+      "end_ms": 392071,
+      "start": "00:06:30.087",
+      "end": "00:06:32.071",
+      "text": "do damage while"
+    },
+    {
+      "start_ms": 391104,
+      "end_ms": 392826,
+      "start": "00:06:31.104",
+      "end": "00:06:32.826",
+      "text": "remaining"
+    },
+    {
+      "start_ms": 391858,
+      "end_ms": 394060,
+      "start": "00:06:31.858",
+      "end": "00:06:34.060",
+      "text": "elusive? Well,"
+    },
+    {
+      "start_ms": 393090,
+      "end_ms": 395082,
+      "start": "00:06:33.090",
+      "end": "00:06:35.082",
+      "text": "to paraphrase"
+    },
+    {
+      "start_ms": 394112,
+      "end_ms": 396225,
+      "start": "00:06:34.112",
+      "end": "00:06:36.225",
+      "text": "the point of that video, I'm not"
+    },
+    {
+      "start_ms": 395255,
+      "end_ms": 397368,
+      "start": "00:06:35.255",
+      "end": "00:06:37.368",
+      "text": "going to go"
+    },
+    {
+      "start_ms": 396398,
+      "end_ms": 398451,
+      "start": "00:06:36.398",
+      "end": "00:06:38.451",
+      "text": "into that part, okay?"
+    },
+    {
+      "start_ms": 397551,
+      "end_ms": 399951,
+      "start": "00:06:37.551",
+      "end": "00:06:39.951",
+      "text": "Because there's a whole video about it"
+    },
+    {
+      "start_ms": 398951,
+      "end_ms": 401042,
+      "start": "00:06:38.951",
+      "end": "00:06:41.042",
+      "text": ". But the first part"
+    },
+    {
+      "start_ms": 400042,
+      "end_ms": 402053,
+      "start": "00:06:40.042",
+      "end": "00:06:42.053",
+      "text": "is to get away from this"
+    },
+    {
+      "start_ms": 401080,
+      "end_ms": 403087,
+      "start": "00:06:41.080",
+      "end": "00:06:43.087",
+      "text": "corner, you know? At"
+    },
+    {
+      "start_ms": 402115,
+      "end_ms": 404084,
+      "start": "00:06:42.115",
+      "end": "00:06:44.084",
+      "text": "any corner where an"
+    },
+    {
+      "start_ms": 403113,
+      "end_ms": 405168,
+      "start": "00:06:43.113",
+      "end": "00:06:45.168",
+      "text": "enemy tank is,"
+    },
+    {
+      "start_ms": 404196,
+      "end_ms": 406052,
+      "start": "00:06:44.196",
+      "end": "00:06:46.052",
+      "text": "when I go out, I"
+    },
+    {
+      "start_ms": 405080,
+      "end_ms": 406964,
+      "start": "00:06:45.080",
+      "end": "00:06:46.964",
+      "text": "never play on the"
+    },
+    {
+      "start_ms": 405992,
+      "end_ms": 408104,
+      "start": "00:06:45.992",
+      "end": "00:06:48.104",
+      "text": "same corner as"
+    },
+    {
+      "start_ms": 407133,
+      "end_ms": 409090,
+      "start": "00:06:47.133",
+      "end": "00:06:49.090",
+      "text": "him, right? I always stay"
+    },
+    {
+      "start_ms": 408119,
+      "end_ms": 410179,
+      "start": "00:06:48.119",
+      "end": "00:06:50.179",
+      "text": "away from his corner"
+    },
+    {
+      "start_ms": 409207,
+      "end_ms": 411267,
+      "start": "00:06:49.207",
+      "end": "00:06:51.267",
+      "text": "and come out of the most"
+    },
+    {
+      "start_ms": 410296,
+      "end_ms": 412413,
+      "start": "00:06:50.296",
+      "end": "00:06:52.413",
+      "text": "open spot I"
+    },
+    {
+      "start_ms": 411441,
+      "end_ms": 413631,
+      "start": "00:06:51.441",
+      "end": "00:06:53.631",
+      "text": "can find. Part of"
+    },
+    {
+      "start_ms": 412664,
+      "end_ms": 414747,
+      "start": "00:06:52.664",
+      "end": "00:06:54.747",
+      "text": "this that I didn't"
+    },
+    {
+      "start_ms": 413780,
+      "end_ms": 416060,
+      "start": "00:06:53.780",
+      "end": "00:06:56.060",
+      "text": "talk about in the video and that I'll"
+    },
+    {
+      "start_ms": 415092,
+      "end_ms": 417110,
+      "start": "00:06:55.092",
+      "end": "00:06:57.110",
+      "text": "go into here: in"
+    },
+    {
+      "start_ms": 416143,
+      "end_ms": 418390,
+      "start": "00:06:56.143",
+      "end": "00:06:58.390",
+      "text": "the middle of a fight, of course,"
+    },
+    {
+      "start_ms": 417423,
+      "end_ms": 419637,
+      "start": "00:06:57.423",
+      "end": "00:06:59.637",
+      "text": "in the beginning you want"
+    },
+    {
+      "start_ms": 418670,
+      "end_ms": 420950,
+      "start": "00:06:58.670",
+      "end": "00:07:00.950",
+      "text": "to be hard to reach"
+    },
+    {
+      "start_ms": 419950,
+      "end_ms": 422164,
+      "start": "00:06:59.950",
+      "end": "00:07:02.164",
+      "text": ", that's easy to understand,"
+    },
+    {
+      "start_ms": 421197,
+      "end_ms": 423059,
+      "start": "00:07:01.197",
+      "end": "00:07:03.059",
+      "text": "right? But when I"
+    },
+    {
+      "start_ms": 422089,
+      "end_ms": 424036,
+      "start": "00:07:02.089",
+      "end": "00:07:04.036",
+      "text": "get the benefits,"
+    },
+    {
+      "start_ms": 423066,
+      "end_ms": 425013,
+      "start": "00:07:03.066",
+      "end": "00:07:05.013",
+      "text": "let's say my movement and"
+    },
+    {
+      "start_ms": 424043,
+      "end_ms": 426168,
+      "start": "00:07:04.043",
+      "end": "00:07:06.168",
+      "text": "aiming are great."
+    },
+    {
+      "start_ms": 425268,
+      "end_ms": 427326,
+      "start": "00:07:05.268",
+      "end": "00:07:07.326",
+      "text": "I hit the"
+    },
+    {
+      "start_ms": 426354,
+      "end_ms": 428212,
+      "start": "00:07:06.354",
+      "end": "00:07:08.212",
+      "text": "enemy Orisa in the head four times"
+    },
+    {
+      "start_ms": 427241,
+      "end_ms": 429281,
+      "start": "00:07:07.241",
+      "end": "00:07:09.281",
+      "text": ". We force her"
+    },
+    {
+      "start_ms": 428305,
+      "end_ms": 429907,
+      "start": "00:07:08.305",
+      "end": "00:07:09.907",
+      "text": "to use"
+    },
+    {
+      "start_ms": 428907,
+      "end_ms": 430822,
+      "start": "00:07:08.907",
+      "end": "00:07:10.822",
+      "text": "Pinwheel or Golden"
+    },
+    {
+      "start_ms": 429846,
+      "end_ms": 431496,
+      "start": "00:07:09.846",
+      "end": "00:07:11.496",
+      "text": "Form, or my"
+    },
+    {
+      "start_ms": 430520,
+      "end_ms": 432314,
+      "start": "00:07:10.520",
+      "end": "00:07:12.314",
+      "text": "team wants to go on the"
+    },
+    {
+      "start_ms": 431338,
+      "end_ms": 433052,
+      "start": "00:07:11.338",
+      "end": "00:07:13.052",
+      "text": "offensive, right? We"
+    },
+    {
+      "start_ms": 432080,
+      "end_ms": 434141,
+      "start": "00:07:12.080",
+      "end": "00:07:14.141",
+      "text": "start to move"
+    },
+    {
+      "start_ms": 433169,
+      "end_ms": 435094,
+      "start": "00:07:13.169",
+      "end": "00:07:15.094",
+      "text": "into the middle of the battle, where"
+    },
+    {
+      "start_ms": 434121,
+      "end_ms": 435884,
+      "start": "00:07:14.121",
+      "end": "00:07:15.884",
+      "text": "we use"
+    },
+    {
+      "start_ms": 434911,
+      "end_ms": 436942,
+      "start": "00:07:14.911",
+      "end": "00:07:16.942",
+      "text": "the advantages. How do I"
+    },
+    {
+      "start_ms": 435978,
+      "end_ms": 438167,
+      "start": "00:07:15.978",
+      "end": "00:07:18.167",
+      "text": "push without becoming"
+    },
+    {
+      "start_ms": 437203,
+      "end_ms": 439536,
+      "start": "00:07:17.203",
+      "end": "00:07:19.536",
+      "text": "easily accessible, right?"
+    },
+    {
+      "start_ms": 439099,
+      "end_ms": 441311,
+      "start": "00:07:19.099",
+      "end": "00:07:21.311",
+      "text": "And this fight is a great"
+    },
+    {
+      "start_ms": 440347,
+      "end_ms": 443532,
+      "start": "00:07:20.347",
+      "end": "00:07:23.532",
+      "text": "example. The key is"
+    },
+    {
+      "start_ms": 442532,
+      "end_ms": 444630,
+      "start": "00:07:22.532",
+      "end": "00:07:24.630",
+      "text": "to find ways"
+    },
+    {
+      "start_ms": 443664,
+      "end_ms": 445796,
+      "start": "00:07:23.664",
+      "end": "00:07:25.796",
+      "text": "to cause damage and"
+    },
+    {
+      "start_ms": 444829,
+      "end_ms": 446828,
+      "start": "00:07:24.829",
+      "end": "00:07:26.828",
+      "text": "take"
+    },
+    {
+      "start_ms": 445861,
+      "end_ms": 447594,
+      "start": "00:07:25.861",
+      "end": "00:07:27.594",
+      "text": "advantage without"
+    },
+    {
+      "start_ms": 446627,
+      "end_ms": 448859,
+      "start": "00:07:26.627",
+      "end": "00:07:28.859",
+      "text": "physically pushing"
+    },
+    {
+      "start_ms": 447893,
+      "end_ms": 449992,
+      "start": "00:07:27.893",
+      "end": "00:07:29.992",
+      "text": "forward, you know?"
+    },
+    {
+      "start_ms": 450158,
+      "end_ms": 452008,
+      "start": "00:07:30.158",
+      "end": "00:07:32.008",
+      "text": "Maintaining that"
+    },
+    {
+      "start_ms": 451042,
+      "end_ms": 453096,
+      "start": "00:07:31.042",
+      "end": "00:07:33.096",
+      "text": "security throughout"
+    },
+    {
+      "start_ms": 452130,
+      "end_ms": 454456,
+      "start": "00:07:32.130",
+      "end": "00:07:34.456",
+      "text": "the middle and end of the battle"
+    },
+    {
+      "start_ms": 453456,
+      "end_ms": 455623,
+      "start": "00:07:33.456",
+      "end": "00:07:35.623",
+      "text": ", right? So if we"
+    },
+    {
+      "start_ms": 454656,
+      "end_ms": 456814,
+      "start": "00:07:34.656",
+      "end": "00:07:36.814",
+      "text": "look at this fight,"
+    },
+    {
+      "start_ms": 459738,
+      "end_ms": 461596,
+      "start": "00:07:39.738",
+      "end": "00:07:41.596",
+      "text": "Mera understands that"
+    },
+    {
+      "start_ms": 460626,
+      "end_ms": 462455,
+      "start": "00:07:40.626",
+      "end": "00:07:42.455",
+      "text": "Infected and his"
+    },
+    {
+      "start_ms": 461484,
+      "end_ms": 463521,
+      "start": "00:07:41.484",
+      "end": "00:07:43.521",
+      "text": "team are going to"
+    },
+    {
+      "start_ms": 462550,
+      "end_ms": 464498,
+      "start": "00:07:42.550",
+      "end": "00:07:44.498",
+      "text": "go on the offensive with this"
+    },
+    {
+      "start_ms": 463528,
+      "end_ms": 465750,
+      "start": "00:07:43.528",
+      "end": "00:07:45.750",
+      "text": "Junker Queen, right? And"
+    },
+    {
+      "start_ms": 464778,
+      "end_ms": 466881,
+      "start": "00:07:44.778",
+      "end": "00:07:46.881",
+      "text": "as soon as that happens"
+    },
+    {
+      "start_ms": 465881,
+      "end_ms": 467899,
+      "start": "00:07:45.881",
+      "end": "00:07:47.899",
+      "text": ", Infected is standing on"
+    },
+    {
+      "start_ms": 466927,
+      "end_ms": 469030,
+      "start": "00:07:46.927",
+      "end": "00:07:49.030",
+      "text": "this corner, you know"
+    },
+    {
+      "start_ms": 468030,
+      "end_ms": 470180,
+      "start": "00:07:48.030",
+      "end": "00:07:50.180",
+      "text": "? And maybe Zero is"
+    },
+    {
+      "start_ms": 469210,
+      "end_ms": 471319,
+      "start": "00:07:49.210",
+      "end": "00:07:51.319",
+      "text": "standing on this corner too,"
+    },
+    {
+      "start_ms": 470348,
+      "end_ms": 472234,
+      "start": "00:07:50.348",
+      "end": "00:07:52.234",
+      "text": "right? So when his"
+    },
+    {
+      "start_ms": 471258,
+      "end_ms": 473106,
+      "start": "00:07:51.258",
+      "end": "00:07:53.106",
+      "text": "team gets going,"
+    },
+    {
+      "start_ms": 472130,
+      "end_ms": 473905,
+      "start": "00:07:52.130",
+      "end": "00:07:53.905",
+      "text": "they probably won't"
+    },
+    {
+      "start_ms": 472929,
+      "end_ms": 474826,
+      "start": "00:07:52.929",
+      "end": "00:07:54.826",
+      "text": "be able to hold them back."
+    },
+    {
+      "start_ms": 473926,
+      "end_ms": 475725,
+      "start": "00:07:53.926",
+      "end": "00:07:55.725",
+      "text": "They'll try to"
+    },
+    {
+      "start_ms": 474747,
+      "end_ms": 476460,
+      "start": "00:07:54.747",
+      "end": "00:07:56.460",
+      "text": "get Meru if"
+    },
+    {
+      "start_ms": 475482,
+      "end_ms": 477325,
+      "start": "00:07:55.482",
+      "end": "00:07:57.325",
+      "text": "he's easy to kill, right?"
+    },
+    {
+      "start_ms": 476425,
+      "end_ms": 478465,
+      "start": "00:07:56.425",
+      "end": "00:07:58.465",
+      "text": "And they will exchange him"
+    },
+    {
+      "start_ms": 477492,
+      "end_ms": 479434,
+      "start": "00:07:57.492",
+      "end": "00:07:59.434",
+      "text": "for death. So how do"
+    },
+    {
+      "start_ms": 478460,
+      "end_ms": 480312,
+      "start": "00:07:58.460",
+      "end": "00:08:00.312",
+      "text": "I sustain"
+    },
+    {
+      "start_ms": 479337,
+      "end_ms": 481112,
+      "start": "00:07:59.337",
+      "end": "00:08:01.112",
+      "text": "damage and at the same time"
+    },
+    {
+      "start_ms": 480138,
+      "end_ms": 482119,
+      "start": "00:08:00.138",
+      "end": "00:08:02.119",
+      "text": "stay safe"
+    },
+    {
+      "start_ms": 481144,
+      "end_ms": 482924,
+      "start": "00:08:01.144",
+      "end": "00:08:02.924",
+      "text": "in this battle? Well,"
+    },
+    {
+      "start_ms": 481951,
+      "end_ms": 483583,
+      "start": "00:08:01.951",
+      "end": "00:08:03.583",
+      "text": "he"
+    },
+    {
+      "start_ms": 482610,
+      "end_ms": 484572,
+      "start": "00:08:02.610",
+      "end": "00:08:04.572",
+      "text": "comes out ahead first,"
+    },
+    {
+      "start_ms": 483599,
+      "end_ms": 485637,
+      "start": "00:08:03.599",
+      "end": "00:08:05.637",
+      "text": "right? But during"
+    },
+    {
+      "start_ms": 484667,
+      "end_ms": 486813,
+      "start": "00:08:04.667",
+      "end": "00:08:06.813",
+      "text": "the fight, he retreats. And"
+    },
+    {
+      "start_ms": 485835,
+      "end_ms": 487608,
+      "start": "00:08:05.835",
+      "end": "00:08:07.608",
+      "text": "by the way, for all the"
+    },
+    {
+      "start_ms": 486629,
+      "end_ms": 488424,
+      "start": "00:08:06.629",
+      "end": "00:08:08.424",
+      "text": "players on Brigitte:"
+    },
+    {
+      "start_ms": 487445,
+      "end_ms": 489132,
+      "start": "00:08:07.445",
+      "end": "00:08:09.132",
+      "text": "his Brigitte is also"
+    },
+    {
+      "start_ms": 488154,
+      "end_ms": 489927,
+      "start": "00:08:08.154",
+      "end": "00:08:09.927",
+      "text": "staying behind"
+    },
+    {
+      "start_ms": 488948,
+      "end_ms": 490700,
+      "start": "00:08:08.948",
+      "end": "00:08:10.700",
+      "text": "to help him,"
+    },
+    {
+      "start_ms": 489721,
+      "end_ms": 491108,
+      "start": "00:08:09.721",
+      "end": "00:08:11.108",
+      "text": "while"
+    },
+    {
+      "start_ms": 490129,
+      "end_ms": 491666,
+      "start": "00:08:10.129",
+      "end": "00:08:11.666",
+      "text": "maintaining"
+    },
+    {
+      "start_ms": 490666,
+      "end_ms": 492203,
+      "start": "00:08:10.666",
+      "end": "00:08:12.203",
+      "text": "Inspiration and"
+    },
+    {
+      "start_ms": 491224,
+      "end_ms": 492954,
+      "start": "00:08:11.224",
+      "end": "00:08:12.954",
+      "text": "activity in this"
+    },
+    {
+      "start_ms": 491976,
+      "end_ms": 493964,
+      "start": "00:08:11.976",
+      "end": "00:08:13.964",
+      "text": "battle, right? Uh, but"
+    },
+    {
+      "start_ms": 492998,
+      "end_ms": 494873,
+      "start": "00:08:12.998",
+      "end": "00:08:14.873",
+      "text": "this is about"
+    },
+    {
+      "start_ms": 493906,
+      "end_ms": 495959,
+      "start": "00:08:13.906",
+      "end": "00:08:15.959",
+      "text": "hitscan, right?"
+    },
+    {
+      "start_ms": 494992,
+      "end_ms": 497209,
+      "start": "00:08:14.992",
+      "end": "00:08:17.209",
+      "text": "Merritt is really hard"
+    },
+    {
+      "start_ms": 496243,
+      "end_ms": 498494,
+      "start": "00:08:16.243",
+      "end": "00:08:18.494",
+      "text": "to get to, isn't it?"
+    },
+    {
+      "start_ms": 498791,
+      "end_ms": 500510,
+      "start": "00:08:18.791",
+      "end": "00:08:20.510",
+      "text": "And now that"
+    },
+    {
+      "start_ms": 499541,
+      "end_ms": 501261,
+      "start": "00:08:19.541",
+      "end": "00:08:21.261",
+      "text": "this initial exchange has taken place"
+    },
+    {
+      "start_ms": 500292,
+      "end_ms": 502513,
+      "start": "00:08:20.292",
+      "end": "00:08:22.513",
+      "text": ", where"
+    },
+    {
+      "start_ms": 501544,
+      "end_ms": 503483,
+      "start": "00:08:21.544",
+      "end": "00:08:23.483",
+      "text": "his team goes"
+    },
+    {
+      "start_ms": 502514,
+      "end_ms": 504234,
+      "start": "00:08:22.514",
+      "end": "00:08:24.234",
+      "text": "ahead and he"
+    },
+    {
+      "start_ms": 503265,
+      "end_ms": 505047,
+      "start": "00:08:23.265",
+      "end": "00:08:25.047",
+      "text": "stays out of"
+    },
+    {
+      "start_ms": 504079,
+      "end_ms": 505923,
+      "start": "00:08:24.079",
+      "end": "00:08:25.923",
+      "text": "reach and"
+    },
+    {
+      "start_ms": 504955,
+      "end_ms": 506674,
+      "start": "00:08:24.955",
+      "end": "00:08:26.674",
+      "text": "passes this"
+    },
+    {
+      "start_ms": 506457,
+      "end_ms": 508458,
+      "start": "00:08:26.457",
+      "end": "00:08:28.458",
+      "text": "skill check, he"
+    },
+    {
+      "start_ms": 507489,
+      "end_ms": 509709,
+      "start": "00:08:27.489",
+      "end": "00:08:29.709",
+      "text": "can do whatever he wants in combat"
+    },
+    {
+      "start_ms": 508741,
+      "end_ms": 511030,
+      "start": "00:08:28.741",
+      "end": "00:08:31.030",
+      "text": ". Truth?"
+    },
+    {
+      "start_ms": 510130,
+      "end_ms": 512228,
+      "start": "00:08:30.130",
+      "end": "00:08:32.228",
+      "text": "Now he can"
+    },
+    {
+      "start_ms": 511256,
+      "end_ms": 513327,
+      "start": "00:08:31.256",
+      "end": "00:08:33.327",
+      "text": "shoot freely and deal"
+    },
+    {
+      "start_ms": 512355,
+      "end_ms": 514172,
+      "start": "00:08:32.355",
+      "end": "00:08:34.172",
+      "text": "a ton of damage in this"
+    },
+    {
+      "start_ms": 513200,
+      "end_ms": 515243,
+      "start": "00:08:33.200",
+      "end": "00:08:35.243",
+      "text": "mid-battle. Sugarfree"
+    },
+    {
+      "start_ms": 514273,
+      "end_ms": 516013,
+      "start": "00:08:34.273",
+      "end": "00:08:36.013",
+      "text": "can easily"
+    },
+    {
+      "start_ms": 515042,
+      "end_ms": 517078,
+      "start": "00:08:35.042",
+      "end": "00:08:37.078",
+      "text": "pull this blade fight off"
+    },
+    {
+      "start_ms": 516108,
+      "end_ms": 518286,
+      "start": "00:08:36.108",
+      "end": "00:08:38.286",
+      "text": ", right? Let's"
+    },
+    {
+      "start_ms": 517314,
+      "end_ms": 519420,
+      "start": "00:08:37.314",
+      "end": "00:08:39.420",
+      "text": "go over this again"
+    },
+    {
+      "start_ms": 518448,
+      "end_ms": 520498,
+      "start": "00:08:38.448",
+      "end": "00:08:40.498",
+      "text": "without my comments."
+    },
+    {
+      "start_ms": 532565,
+      "end_ms": 534294,
+      "start": "00:08:52.565",
+      "end": "00:08:54.294",
+      "text": "Now Merritt"
+    },
+    {
+      "start_ms": 533323,
+      "end_ms": 535228,
+      "start": "00:08:53.323",
+      "end": "00:08:55.228",
+      "text": "actually did"
+    },
+    {
+      "start_ms": 534257,
+      "end_ms": 536367,
+      "start": "00:08:54.257",
+      "end": "00:08:56.367",
+      "text": "little in this fight."
+    },
+    {
+      "start_ms": 535467,
+      "end_ms": 537458,
+      "start": "00:08:55.467",
+      "end": "00:08:57.458",
+      "text": "Sure, this was the fight"
+    },
+    {
+      "start_ms": 536458,
+      "end_ms": 538169,
+      "start": "00:08:56.458",
+      "end": "00:08:58.169",
+      "text": "where Juno and Blade"
+    },
+    {
+      "start_ms": 537194,
+      "end_ms": 539008,
+      "start": "00:08:57.194",
+      "end": "00:08:59.008",
+      "text": "pulled out all the"
+    },
+    {
+      "start_ms": 538033,
+      "end_ms": 539922,
+      "start": "00:08:58.033",
+      "end": "00:08:59.922",
+      "text": "stops, but if it hadn't"
+    },
+    {
+      "start_ms": 538948,
+      "end_ms": 540939,
+      "start": "00:08:58.948",
+      "end": "00:09:00.939",
+      "text": "been a blade fight, or"
+    },
+    {
+      "start_ms": 539964,
+      "end_ms": 541396,
+      "start": "00:08:59.964",
+      "end": "00:09:01.396",
+      "text": "if they"
+    },
+    {
+      "start_ms": 540422,
+      "end_ms": 542387,
+      "start": "00:09:00.422",
+      "end": "00:09:02.387",
+      "text": "had used the blade and"
+    },
+    {
+      "start_ms": 541413,
+      "end_ms": 543251,
+      "start": "00:09:01.413",
+      "end": "00:09:03.251",
+      "text": "achieved nothing,"
+    },
+    {
+      "start_ms": 542277,
+      "end_ms": 544268,
+      "start": "00:09:02.277",
+      "end": "00:09:04.268",
+      "text": "Merritt was in a great"
+    },
+    {
+      "start_ms": 543293,
+      "end_ms": 545284,
+      "start": "00:09:03.293",
+      "end": "00:09:05.284",
+      "text": "position to decide the"
+    },
+    {
+      "start_ms": 544309,
+      "end_ms": 546307,
+      "start": "00:09:04.309",
+      "end": "00:09:06.307",
+      "text": "fate of this fight. And, more"
+    },
+    {
+      "start_ms": 545333,
+      "end_ms": 547285,
+      "start": "00:09:05.333",
+      "end": "00:09:07.285",
+      "text": "importantly, he was in a"
+    },
+    {
+      "start_ms": 546312,
+      "end_ms": 548290,
+      "start": "00:09:06.312",
+      "end": "00:09:08.290",
+      "text": "great position"
+    },
+    {
+      "start_ms": 547316,
+      "end_ms": 549242,
+      "start": "00:09:07.316",
+      "end": "00:09:09.242",
+      "text": "not to be traded,"
+    },
+    {
+      "start_ms": 548268,
+      "end_ms": 550437,
+      "start": "00:09:08.268",
+      "end": "00:09:10.437",
+      "text": "right? Uh, the"
+    },
+    {
+      "start_ms": 549473,
+      "end_ms": 551676,
+      "start": "00:09:09.473",
+      "end": "00:09:11.676",
+      "text": "victory condition for Nightmare is"
+    },
+    {
+      "start_ms": 550712,
+      "end_ms": 553090,
+      "start": "00:09:10.712",
+      "end": "00:09:13.090",
+      "text": "here. Of course, they're not"
+    },
+    {
+      "start_ms": 552124,
+      "end_ms": 554244,
+      "start": "00:09:12.124",
+      "end": "00:09:14.244",
+      "text": "going to just"
+    },
+    {
+      "start_ms": 553278,
+      "end_ms": 555568,
+      "start": "00:09:13.278",
+      "end": "00:09:15.568",
+      "text": "go head-on into"
+    },
+    {
+      "start_ms": 554602,
+      "end_ms": 556824,
+      "start": "00:09:14.602",
+      "end": "00:09:16.824",
+      "text": "Juno, Blade, and Orisa and"
+    },
+    {
+      "start_ms": 555858,
+      "end_ms": 558090,
+      "start": "00:09:15.858",
+      "end": "00:09:18.090",
+      "text": "win. Their plan"
+    },
+    {
+      "start_ms": 557090,
+      "end_ms": 558679,
+      "start": "00:09:17.090",
+      "end": "00:09:18.679",
+      "text": "is to try"
+    },
+    {
+      "start_ms": 557705,
+      "end_ms": 559679,
+      "start": "00:09:17.705",
+      "end": "00:09:19.679",
+      "text": "to trade Merritt"
+    },
+    {
+      "start_ms": 558704,
+      "end_ms": 560422,
+      "start": "00:09:18.704",
+      "end": "00:09:20.422",
+      "text": "if he's in a"
+    },
+    {
+      "start_ms": 560345,
+      "end_ms": 562347,
+      "start": "00:09:20.345",
+      "end": "00:09:22.347",
+      "text": "position that's convenient for trading, right? If we"
+    },
+    {
+      "start_ms": 561371,
+      "end_ms": 563164,
+      "start": "00:09:21.371",
+      "end": "00:09:23.164",
+      "text": "look at it from the"
+    },
+    {
+      "start_ms": 562188,
+      "end_ms": 563933,
+      "start": "00:09:22.188",
+      "end": "00:09:23.933",
+      "text": "Infected's perspective in"
+    },
+    {
+      "start_ms": 562957,
+      "end_ms": 564894,
+      "start": "00:09:22.957",
+      "end": "00:09:24.894",
+      "text": "that \""
+    },
+    {
+      "start_ms": 563918,
+      "end_ms": 565759,
+      "start": "00:09:23.918",
+      "end": "00:09:25.759",
+      "text": "corner exit\" video I advised"
+    },
+    {
+      "start_ms": 564783,
+      "end_ms": 566456,
+      "start": "00:09:24.783",
+      "end": "00:09:26.456",
+      "text": "watching from the"
+    },
+    {
+      "start_ms": 565480,
+      "end_ms": 567321,
+      "start": "00:09:25.480",
+      "end": "00:09:27.321",
+      "text": "enemy tank's side to"
+    },
+    {
+      "start_ms": 566345,
+      "end_ms": 568210,
+      "start": "00:09:26.345",
+      "end": "00:09:28.210",
+      "text": "see how"
+    },
+    {
+      "start_ms": 567234,
+      "end_ms": 568931,
+      "start": "00:09:27.234",
+      "end": "00:09:28.931",
+      "text": "easy it is to get killed."
+    },
+    {
+      "start_ms": 568031,
+      "end_ms": 570160,
+      "start": "00:09:28.031",
+      "end": "00:09:30.160",
+      "text": "Let's look"
+    },
+    {
+      "start_ms": 569192,
+      "end_ms": 571161,
+      "start": "00:09:29.192",
+      "end": "00:09:31.161",
+      "text": "at this through the eyes of Infected."
+    },
+    {
+      "start_ms": 570261,
+      "end_ms": 572489,
+      "start": "00:09:30.261",
+      "end": "00:09:32.489",
+      "text": "Truth? So here he"
+    },
+    {
+      "start_ms": 571517,
+      "end_ms": 573543,
+      "start": "00:09:31.517",
+      "end": "00:09:33.543",
+      "text": "clearly knows, judging by"
+    },
+    {
+      "start_ms": 572571,
+      "end_ms": 574426,
+      "start": "00:09:32.571",
+      "end": "00:09:34.426",
+      "text": "Sugarfree's stance, that"
+    },
+    {
+      "start_ms": 573454,
+      "end_ms": 575451,
+      "start": "00:09:33.454",
+      "end": "00:09:35.451",
+      "text": "Toronto is going to"
+    },
+    {
+      "start_ms": 574479,
+      "end_ms": 576456,
+      "start": "00:09:34.479",
+      "end": "00:09:36.456",
+      "text": "go on the attack, right? And"
+    },
+    {
+      "start_ms": 575481,
+      "end_ms": 576958,
+      "start": "00:09:35.481",
+      "end": "00:09:36.958",
+      "text": "based on"
+    },
+    {
+      "start_ms": 575983,
+      "end_ms": 577535,
+      "start": "00:09:35.983",
+      "end": "00:09:37.535",
+      "text": "tracking"
+    },
+    {
+      "start_ms": 576560,
+      "end_ms": 578363,
+      "start": "00:09:36.560",
+      "end": "00:09:38.363",
+      "text": "the ultimates, they"
+    },
+    {
+      "start_ms": 577388,
+      "end_ms": 579241,
+      "start": "00:09:37.388",
+      "end": "00:09:39.241",
+      "text": "also know they're"
+    },
+    {
+      "start_ms": 578267,
+      "end_ms": 580045,
+      "start": "00:09:38.267",
+      "end": "00:09:40.045",
+      "text": "getting ready, right?"
+    },
+    {
+      "start_ms": 579145,
+      "end_ms": 580936,
+      "start": "00:09:39.145",
+      "end": "00:09:40.936",
+      "text": "I guess they"
+    },
+    {
+      "start_ms": 579972,
+      "end_ms": 582376,
+      "start": "00:09:39.972",
+      "end": "00:09:42.376",
+      "text": "tracked down that they have"
+    },
+    {
+      "start_ms": 581412,
+      "end_ms": 583816,
+      "start": "00:09:41.412",
+      "end": "00:09:43.816",
+      "text": "Juno, Orisa, and Blade, right"
+    },
+    {
+      "start_ms": 582816,
+      "end_ms": 585019,
+      "start": "00:09:42.816",
+      "end": "00:09:45.019",
+      "text": "? So as soon as they go"
+    },
+    {
+      "start_ms": 584048,
+      "end_ms": 586173,
+      "start": "00:09:44.048",
+      "end": "00:09:46.173",
+      "text": "on the attack, he doesn't even"
+    },
+    {
+      "start_ms": 585202,
+      "end_ms": 587286,
+      "start": "00:09:45.202",
+      "end": "00:09:47.286",
+      "text": "look at them. He"
+    },
+    {
+      "start_ms": 586311,
+      "end_ms": 588048,
+      "start": "00:09:46.311",
+      "end": "00:09:48.048",
+      "text": "looks behind their"
+    },
+    {
+      "start_ms": 587073,
+      "end_ms": 588958,
+      "start": "00:09:47.073",
+      "end": "00:09:48.958",
+      "text": "backs to see"
+    },
+    {
+      "start_ms": 587982,
+      "end_ms": 589941,
+      "start": "00:09:47.982",
+      "end": "00:09:49.941",
+      "text": "if it's easy to swap out the \""
+    },
+    {
+      "start_ms": 588941,
+      "end_ms": 590752,
+      "start": "00:09:48.941",
+      "end": "00:09:50.752",
+      "text": "thin\" heroes, because"
+    },
+    {
+      "start_ms": 589777,
+      "end_ms": 591465,
+      "start": "00:09:49.777",
+      "end": "00:09:51.465",
+      "text": "if so—he can"
+    },
+    {
+      "start_ms": 590489,
+      "end_ms": 592374,
+      "start": "00:09:50.489",
+      "end": "00:09:52.374",
+      "text": "swap them out right"
+    },
+    {
+      "start_ms": 591399,
+      "end_ms": 593500,
+      "start": "00:09:51.399",
+      "end": "00:09:53.500",
+      "text": "now, right? But he"
+    },
+    {
+      "start_ms": 592529,
+      "end_ms": 594629,
+      "start": "00:09:52.529",
+      "end": "00:09:54.629",
+      "text": "sees Merritt here."
+    },
+    {
+      "start_ms": 593729,
+      "end_ms": 595661,
+      "start": "00:09:53.729",
+      "end": "00:09:55.661",
+      "text": "He's looking for a spear, and"
+    },
+    {
+      "start_ms": 594692,
+      "end_ms": 596905,
+      "start": "00:09:54.692",
+      "end": "00:09:56.905",
+      "text": "Merritt isn't so easy"
+    },
+    {
+      "start_ms": 595936,
+      "end_ms": 598135,
+      "start": "00:09:55.936",
+      "end": "00:09:58.135",
+      "text": "to trade. So his"
+    },
+    {
+      "start_ms": 597165,
+      "end_ms": 599177,
+      "start": "00:09:57.165",
+      "end": "00:09:59.177",
+      "text": "only option is to"
+    },
+    {
+      "start_ms": 598207,
+      "end_ms": 600041,
+      "start": "00:09:58.207",
+      "end": "00:10:00.041",
+      "text": "turn around and,"
+    },
+    {
+      "start_ms": 599071,
+      "end_ms": 601053,
+      "start": "00:09:59.071",
+      "end": "00:10:01.053",
+      "text": "you know, shoot the"
+    },
+    {
+      "start_ms": 600083,
+      "end_ms": 602287,
+      "start": "00:10:00.083",
+      "end": "00:10:02.287",
+      "text": "golden Orisa. But that"
+    },
+    {
+      "start_ms": 601322,
+      "end_ms": 603703,
+      "start": "00:10:01.322",
+      "end": "00:10:03.703",
+      "text": "doesn't do anything, does it?"
+    },
+    {
+      "start_ms": 602803,
+      "end_ms": 605128,
+      "start": "00:10:02.803",
+      "end": "00:10:05.128",
+      "text": "Because it's already over,"
+    },
+    {
+      "start_ms": 605765,
+      "end_ms": 608008,
+      "start": "00:10:05.765",
+      "end": "00:10:08.008",
+      "text": "isn't it? Let's"
+    },
+    {
+      "start_ms": 607038,
+      "end_ms": 609168,
+      "start": "00:10:07.038",
+      "end": "00:10:09.168",
+      "text": "watch this again"
+    },
+    {
+      "start_ms": 608198,
+      "end_ms": 610328,
+      "start": "00:10:08.198",
+      "end": "00:10:10.328",
+      "text": "without my comments."
+    },
+    {
+      "start_ms": 611813,
+      "end_ms": 614027,
+      "start": "00:10:11.813",
+      "end": "00:10:14.027",
+      "text": "You see how"
+    },
+    {
+      "start_ms": 613060,
+      "end_ms": 615012,
+      "start": "00:10:13.060",
+      "end": "00:10:15.012",
+      "text": "complicated this is, right?"
+    },
+    {
+      "start_ms": 614112,
+      "end_ms": 615782,
+      "start": "00:10:14.112",
+      "end": "00:10:15.782",
+      "text": "Merritt seems to"
+    },
+    {
+      "start_ms": 614811,
+      "end_ms": 616860,
+      "start": "00:10:14.811",
+      "end": "00:10:16.860",
+      "text": "be in a position"
+    },
+    {
+      "start_ms": 615890,
+      "end_ms": 618026,
+      "start": "00:10:15.890",
+      "end": "00:10:18.026",
+      "text": "to trade, but he's"
+    },
+    {
+      "start_ms": 617055,
+      "end_ms": 621002,
+      "start": "00:10:17.055",
+      "end": "00:10:21.002",
+      "text": "not. And just by"
+    },
+    {
+      "start_ms": 620033,
+      "end_ms": 621907,
+      "start": "00:10:20.033",
+      "end": "00:10:21.907",
+      "text": "shedding his"
+    },
+    {
+      "start_ms": 620938,
+      "end_ms": 622999,
+      "start": "00:10:20.938",
+      "end": "00:10:22.999",
+      "text": "initial aggression,"
+    },
+    {
+      "start_ms": 622030,
+      "end_ms": 623748,
+      "start": "00:10:22.030",
+      "end": "00:10:23.748",
+      "text": "Merritt can"
+    },
+    {
+      "start_ms": 622779,
+      "end_ms": 624997,
+      "start": "00:10:22.779",
+      "end": "00:10:24.997",
+      "text": "come back and, you know"
+    },
+    {
+      "start_ms": 623997,
+      "end_ms": 626183,
+      "start": "00:10:23.997",
+      "end": "00:10:26.183",
+      "text": ", contribute"
+    },
+    {
+      "start_ms": 625214,
+      "end_ms": 628127,
+      "start": "00:10:25.214",
+      "end": "00:10:28.127",
+      "text": "to this fight. Now"
+    },
+    {
+      "start_ms": 627160,
+      "end_ms": 629397,
+      "start": "00:10:27.160",
+      "end": "00:10:29.397",
+      "text": "let's look at"
+    },
+    {
+      "start_ms": 628429,
+      "end_ms": 631889,
+      "start": "00:10:28.429",
+      "end": "00:10:31.889",
+      "text": "another example. It's a"
+    },
+    {
+      "start_ms": 630926,
+      "end_ms": 633337,
+      "start": "00:10:30.926",
+      "end": "00:10:33.337",
+      "text": "small fight, right"
+    },
+    {
+      "start_ms": 632337,
+      "end_ms": 634866,
+      "start": "00:10:32.337",
+      "end": "00:10:34.866",
+      "text": "? We are back in Lijiang."
+    },
+    {
+      "start_ms": 633966,
+      "end_ms": 636072,
+      "start": "00:10:33.966",
+      "end": "00:10:36.072",
+      "text": "This is right after that aiming practice"
+    },
+    {
+      "start_ms": 635102,
+      "end_ms": 636610,
+      "start": "00:10:35.102",
+      "end": "00:10:36.610",
+      "text": "moment"
+    },
+    {
+      "start_ms": 636328,
+      "end_ms": 638494,
+      "start": "00:10:36.328",
+      "end": "00:10:38.494",
+      "text": "we"
+    },
+    {
+      "start_ms": 637524,
+      "end_ms": 639970,
+      "start": "00:10:37.524",
+      "end": "00:10:39.970",
+      "text": "saw earlier."
+    },
+    {
+      "start_ms": 639007,
+      "end_ms": 641101,
+      "start": "00:10:39.007",
+      "end": "00:10:41.101",
+      "text": "Hanbin captures"
+    },
+    {
+      "start_ms": 640138,
+      "end_ms": 642702,
+      "start": "00:10:40.138",
+      "end": "00:10:42.702",
+      "text": "the point here, right? It's as if they are"
+    },
+    {
+      "start_ms": 641733,
+      "end_ms": 643932,
+      "start": "00:10:41.733",
+      "end": "00:10:43.932",
+      "text": "forced not to go through the \""
+    },
+    {
+      "start_ms": 642932,
+      "end_ms": 644923,
+      "start": "00:10:42.932",
+      "end": "00:10:44.923",
+      "text": "white\". They just"
+    },
+    {
+      "start_ms": 643951,
+      "end_ms": 645841,
+      "start": "00:10:43.951",
+      "end": "00:10:45.841",
+      "text": "come to the point from the side"
+    },
+    {
+      "start_ms": 644869,
+      "end_ms": 646917,
+      "start": "00:10:44.869",
+      "end": "00:10:46.917",
+      "text": ". They shoot"
+    },
+    {
+      "start_ms": 645941,
+      "end_ms": 647822,
+      "start": "00:10:45.941",
+      "end": "00:10:47.822",
+      "text": "Hanbin and force"
+    },
+    {
+      "start_ms": 646846,
+      "end_ms": 648631,
+      "start": "00:10:46.846",
+      "end": "00:10:48.631",
+      "text": "him to use \""
+    },
+    {
+      "start_ms": 647631,
+      "end_ms": 649532,
+      "start": "00:10:47.631",
+      "end": "00:10:49.532",
+      "text": "gold\", right? This"
+    },
+    {
+      "start_ms": 648566,
+      "end_ms": 650812,
+      "start": "00:10:48.566",
+      "end": "00:10:50.812",
+      "text": "gives a big advantage."
+    },
+    {
+      "start_ms": 649912,
+      "end_ms": 651771,
+      "start": "00:10:49.912",
+      "end": "00:10:51.771",
+      "text": "If you were anyone and"
+    },
+    {
+      "start_ms": 650798,
+      "end_ms": 652577,
+      "start": "00:10:50.798",
+      "end": "00:10:52.577",
+      "text": "saw Orisa"
+    },
+    {
+      "start_ms": 651604,
+      "end_ms": 653652,
+      "start": "00:10:51.604",
+      "end": "00:10:53.652",
+      "text": "using \"gold\""
+    },
+    {
+      "start_ms": 652679,
+      "end_ms": 654646,
+      "start": "00:10:52.679",
+      "end": "00:10:54.646",
+      "text": "right in front of you, what would"
+    },
+    {
+      "start_ms": 653673,
+      "end_ms": 655437,
+      "start": "00:10:53.673",
+      "end": "00:10:55.437",
+      "text": "you do? You will"
+    },
+    {
+      "start_ms": 654469,
+      "end_ms": 656608,
+      "start": "00:10:54.469",
+      "end": "00:10:56.608",
+      "text": "want to press,"
+    },
+    {
+      "start_ms": 655639,
+      "end_ms": 657636,
+      "start": "00:10:55.639",
+      "end": "00:10:57.636",
+      "text": "it is natural. But"
+    },
+    {
+      "start_ms": 656670,
+      "end_ms": 658673,
+      "start": "00:10:56.670",
+      "end": "00:10:58.673",
+      "text": "good teams and"
+    },
+    {
+      "start_ms": 657706,
+      "end_ms": 659676,
+      "start": "00:10:57.706",
+      "end": "00:10:59.676",
+      "text": "good hitscans"
+    },
+    {
+      "start_ms": 658709,
+      "end_ms": 660679,
+      "start": "00:10:58.709",
+      "end": "00:11:00.679",
+      "text": "do this: my"
+    },
+    {
+      "start_ms": 659712,
+      "end_ms": 661916,
+      "start": "00:10:59.712",
+      "end": "00:11:01.916",
+      "text": "Orisa realizes her"
+    },
+    {
+      "start_ms": 660949,
+      "end_ms": 663291,
+      "start": "00:11:00.949",
+      "end": "00:11:03.291",
+      "text": "advantage. My Genji"
+    },
+    {
+      "start_ms": 662326,
+      "end_ms": 664212,
+      "start": "00:11:02.326",
+      "end": "00:11:04.212",
+      "text": "will take advantage of this"
+    },
+    {
+      "start_ms": 663248,
+      "end_ms": 665524,
+      "start": "00:11:03.248",
+      "end": "00:11:05.524",
+      "text": ", but I will"
+    },
+    {
+      "start_ms": 664559,
+      "end_ms": 666887,
+      "start": "00:11:04.559",
+      "end": "00:11:06.887",
+      "text": "act differently, okay? There are"
+    },
+    {
+      "start_ms": 665934,
+      "end_ms": 668380,
+      "start": "00:11:05.934",
+      "end": "00:11:08.380",
+      "text": "two ways. Or, if I"
+    },
+    {
+      "start_ms": 667407,
+      "end_ms": 669017,
+      "start": "00:11:07.407",
+      "end": "00:11:09.017",
+      "text": "think it's"
+    },
+    {
+      "start_ms": 668043,
+      "end_ms": 669892,
+      "start": "00:11:08.043",
+      "end": "00:11:09.892",
+      "text": "safe and Genji"
+    },
+    {
+      "start_ms": 668918,
+      "end_ms": 670820,
+      "start": "00:11:08.918",
+      "end": "00:11:10.820",
+      "text": "isn't around, I'll go"
+    },
+    {
+      "start_ms": 669847,
+      "end_ms": 671748,
+      "start": "00:11:09.847",
+      "end": "00:11:11.748",
+      "text": "left, and while my"
+    },
+    {
+      "start_ms": 670775,
+      "end_ms": 672729,
+      "start": "00:11:10.775",
+      "end": "00:11:12.729",
+      "text": "tank forces the enemies"
+    },
+    {
+      "start_ms": 671756,
+      "end_ms": 673684,
+      "start": "00:11:11.756",
+      "end": "00:11:13.684",
+      "text": "to retreat, I'll start"
+    },
+    {
+      "start_ms": 672710,
+      "end_ms": 674639,
+      "start": "00:11:12.710",
+      "end": "00:11:14.639",
+      "text": "shooting at the targets in the"
+    },
+    {
+      "start_ms": 673665,
+      "end_ms": 675818,
+      "start": "00:11:13.665",
+      "end": "00:11:15.818",
+      "text": "back line. Maybe"
+    },
+    {
+      "start_ms": 674818,
+      "end_ms": 676769,
+      "start": "00:11:14.818",
+      "end": "00:11:16.769",
+      "text": "I'll commit murder."
+    },
+    {
+      "start_ms": 675869,
+      "end_ms": 677591,
+      "start": "00:11:15.869",
+      "end": "00:11:17.591",
+      "text": "Maybe I'll make you"
+    },
+    {
+      "start_ms": 676619,
+      "end_ms": 678424,
+      "start": "00:11:16.619",
+      "end": "00:11:18.424",
+      "text": "spend extra"
+    },
+    {
+      "start_ms": 677452,
+      "end_ms": 679520,
+      "start": "00:11:17.452",
+      "end": "00:11:19.520",
+      "text": "cooldowns, right? Or do I"
+    },
+    {
+      "start_ms": 678551,
+      "end_ms": 680616,
+      "start": "00:11:18.551",
+      "end": "00:11:20.616",
+      "text": "let them push,"
+    },
+    {
+      "start_ms": 679647,
+      "end_ms": 681743,
+      "start": "00:11:19.647",
+      "end": "00:11:21.743",
+      "text": "go to the point myself, and"
+    },
+    {
+      "start_ms": 680773,
+      "end_ms": 682626,
+      "start": "00:11:20.773",
+      "end": "00:11:22.626",
+      "text": "keep"
+    },
+    {
+      "start_ms": 681656,
+      "end_ms": 683843,
+      "start": "00:11:21.656",
+      "end": "00:11:23.843",
+      "text": "dealing damage while"
+    },
+    {
+      "start_ms": 682874,
+      "end_ms": 684909,
+      "start": "00:11:22.874",
+      "end": "00:11:24.909",
+      "text": "they advance,"
+    },
+    {
+      "start_ms": 683939,
+      "end_ms": 686066,
+      "start": "00:11:23.939",
+      "end": "00:11:26.066",
+      "text": "taking control"
+    },
+    {
+      "start_ms": 685096,
+      "end_ms": 687411,
+      "start": "00:11:25.096",
+      "end": "00:11:27.411",
+      "text": "of that area, right? And that's what"
+    },
+    {
+      "start_ms": 686445,
+      "end_ms": 688220,
+      "start": "00:11:26.445",
+      "end": "00:11:28.220",
+      "text": "he"
+    },
+    {
+      "start_ms": 687254,
+      "end_ms": 689535,
+      "start": "00:11:27.254",
+      "end": "00:11:29.535",
+      "text": "ends up doing, right?"
+    },
+    {
+      "start_ms": 689587,
+      "end_ms": 691849,
+      "start": "00:11:29.587",
+      "end": "00:11:31.849",
+      "text": "You see Junbin and"
+    },
+    {
+      "start_ms": 690884,
+      "end_ms": 692831,
+      "start": "00:11:30.884",
+      "end": "00:11:32.831",
+      "text": "Hiang flying"
+    },
+    {
+      "start_ms": 691866,
+      "end_ms": 694126,
+      "start": "00:11:31.866",
+      "end": "00:11:34.126",
+      "text": "inside, right? They"
+    },
+    {
+      "start_ms": 693153,
+      "end_ms": 694897,
+      "start": "00:11:33.153",
+      "end": "00:11:34.897",
+      "text": "will press,"
+    },
+    {
+      "start_ms": 693923,
+      "end_ms": 695800,
+      "start": "00:11:33.923",
+      "end": "00:11:35.800",
+      "text": "using this"
+    },
+    {
+      "start_ms": 694827,
+      "end_ms": 696515,
+      "start": "00:11:34.827",
+      "end": "00:11:36.515",
+      "text": "advantage. This is"
+    },
+    {
+      "start_ms": 695549,
+      "end_ms": 697727,
+      "start": "00:11:35.549",
+      "end": "00:11:37.727",
+      "text": "normal. Junbin"
+    },
+    {
+      "start_ms": 696757,
+      "end_ms": 698961,
+      "start": "00:11:36.757",
+      "end": "00:11:38.961",
+      "text": "activates \"gold\" and walks"
+    },
+    {
+      "start_ms": 697992,
+      "end_ms": 700076,
+      "start": "00:11:37.992",
+      "end": "00:11:40.076",
+      "text": "ahead of everyone. But"
+    },
+    {
+      "start_ms": 699106,
+      "end_ms": 701192,
+      "start": "00:11:39.106",
+      "end": "00:11:41.192",
+      "text": "Lip doesn't just push,"
+    },
+    {
+      "start_ms": 700223,
+      "end_ms": 702068,
+      "start": "00:11:40.223",
+      "end": "00:11:42.068",
+      "text": "he bypasses that"
+    },
+    {
+      "start_ms": 701098,
+      "end_ms": 703192,
+      "start": "00:11:41.098",
+      "end": "00:11:43.192",
+      "text": "advantage, right? And this is"
+    },
+    {
+      "start_ms": 702227,
+      "end_ms": 704221,
+      "start": "00:11:42.227",
+      "end": "00:11:44.221",
+      "text": "very important: it does"
+    },
+    {
+      "start_ms": 703255,
+      "end_ms": 705420,
+      "start": "00:11:43.255",
+      "end": "00:11:45.420",
+      "text": "n't just apply to"
+    },
+    {
+      "start_ms": 704455,
+      "end_ms": 706552,
+      "start": "00:11:44.455",
+      "end": "00:11:46.552",
+      "text": "this goal, right?"
+    },
+    {
+      "start_ms": 705786,
+      "end_ms": 708070,
+      "start": "00:11:45.786",
+      "end": "00:11:48.070",
+      "text": "Any target: whether it's"
+    },
+    {
+      "start_ms": 707106,
+      "end_ms": 709537,
+      "start": "00:11:47.106",
+      "end": "00:11:49.537",
+      "text": "Mauga, or the Queen, or"
+    },
+    {
+      "start_ms": 708574,
+      "end_ms": 711214,
+      "start": "00:11:48.574",
+      "end": "00:11:51.214",
+      "text": "Ramattra, right? You are"
+    },
+    {
+      "start_ms": 710214,
+      "end_ms": 712262,
+      "start": "00:11:50.214",
+      "end": "00:11:52.262",
+      "text": "the easiest target to"
+    },
+    {
+      "start_ms": 711294,
+      "end_ms": 713539,
+      "start": "00:11:51.294",
+      "end": "00:11:53.539",
+      "text": "kill in this fight,"
+    },
+    {
+      "start_ms": 712571,
+      "end_ms": 714559,
+      "start": "00:11:52.571",
+      "end": "00:11:54.559",
+      "text": "right? That cooldown that gave"
+    },
+    {
+      "start_ms": 713589,
+      "end_ms": 715488,
+      "start": "00:11:53.589",
+      "end": "00:11:55.488",
+      "text": "us the"
+    },
+    {
+      "start_ms": 714518,
+      "end_ms": 716476,
+      "start": "00:11:54.518",
+      "end": "00:11:56.476",
+      "text": "advantage"
+    },
+    {
+      "start_ms": 715506,
+      "end_ms": 717578,
+      "start": "00:11:55.506",
+      "end": "00:11:57.578",
+      "text": "will return. And more"
+    },
+    {
+      "start_ms": 716602,
+      "end_ms": 718499,
+      "start": "00:11:56.602",
+      "end": "00:11:58.499",
+      "text": "importantly, if it's not a"
+    },
+    {
+      "start_ms": 717523,
+      "end_ms": 719421,
+      "start": "00:11:57.523",
+      "end": "00:11:59.421",
+      "text": "neutral situation,"
+    },
+    {
+      "start_ms": 718444,
+      "end_ms": 720318,
+      "start": "00:11:58.444",
+      "end": "00:12:00.318",
+      "text": "if it's an ult, even,"
+    },
+    {
+      "start_ms": 719342,
+      "end_ms": 721051,
+      "start": "00:11:59.342",
+      "end": "00:12:01.051",
+      "text": "you know, forced"
+    },
+    {
+      "start_ms": 720074,
+      "end_ms": 721996,
+      "start": "00:12:00.074",
+      "end": "00:12:01.996",
+      "text": "gold, that doesn't mean"
+    },
+    {
+      "start_ms": 721019,
+      "end_ms": 722657,
+      "start": "00:12:01.019",
+      "end": "00:12:02.657",
+      "text": "you can't be"
+    },
+    {
+      "start_ms": 721681,
+      "end_ms": 723579,
+      "start": "00:12:01.681",
+      "end": "00:12:03.579",
+      "text": "traded in the middle of a"
+    },
+    {
+      "start_ms": 722602,
+      "end_ms": 724403,
+      "start": "00:12:02.602",
+      "end": "00:12:04.403",
+      "text": "fight. When Orisa"
+    },
+    {
+      "start_ms": 723431,
+      "end_ms": 725389,
+      "start": "00:12:03.431",
+      "end": "00:12:05.389",
+      "text": "uses her ultimate,"
+    },
+    {
+      "start_ms": 724417,
+      "end_ms": 726110,
+      "start": "00:12:04.417",
+      "end": "00:12:06.110",
+      "text": "right? When Brig"
+    },
+    {
+      "start_ms": 725133,
+      "end_ms": 727017,
+      "start": "00:12:05.133",
+      "end": "00:12:07.017",
+      "text": "uses Rally,"
+    },
+    {
+      "start_ms": 726040,
+      "end_ms": 727482,
+      "start": "00:12:06.040",
+      "end": "00:12:07.482",
+      "text": "when someone"
+    },
+    {
+      "start_ms": 726506,
+      "end_ms": 728413,
+      "start": "00:12:06.506",
+      "end": "00:12:08.413",
+      "text": "uses Blade"
+    },
+    {
+      "start_ms": 727413,
+      "end_ms": 729191,
+      "start": "00:12:07.413",
+      "end": "00:12:09.191",
+      "text": ", right? You'll die"
+    },
+    {
+      "start_ms": 728214,
+      "end_ms": 730037,
+      "start": "00:12:08.214",
+      "end": "00:12:10.037",
+      "text": "first if you"
+    },
+    {
+      "start_ms": 729060,
+      "end_ms": 730861,
+      "start": "00:12:09.060",
+      "end": "00:12:10.861",
+      "text": "press for an advantage"
+    },
+    {
+      "start_ms": 729883,
+      "end_ms": 731485,
+      "start": "00:12:09.883",
+      "end": "00:12:11.485",
+      "text": "early in the fight"
+    },
+    {
+      "start_ms": 730507,
+      "end_ms": 732175,
+      "start": "00:12:10.507",
+      "end": "00:12:12.175",
+      "text": "instead of"
+    },
+    {
+      "start_ms": 731197,
+      "end_ms": 732820,
+      "start": "00:12:11.197",
+      "end": "00:12:12.820",
+      "text": "playing it off,"
+    },
+    {
+      "start_ms": 731843,
+      "end_ms": 733590,
+      "start": "00:12:11.843",
+      "end": "00:12:13.590",
+      "text": "you know? So,"
+    },
+    {
+      "start_ms": 732615,
+      "end_ms": 734390,
+      "start": "00:12:12.615",
+      "end": "00:12:14.390",
+      "text": "from here he"
+    },
+    {
+      "start_ms": 733415,
+      "end_ms": 735390,
+      "start": "00:12:13.415",
+      "end": "00:12:15.390",
+      "text": "can still cause damage."
+    },
+    {
+      "start_ms": 734490,
+      "end_ms": 736312,
+      "start": "00:12:14.490",
+      "end": "00:12:16.312",
+      "text": "He can go even further"
+    },
+    {
+      "start_ms": 735339,
+      "end_ms": 737417,
+      "start": "00:12:15.339",
+      "end": "00:12:17.417",
+      "text": "if he wants. He"
+    },
+    {
+      "start_ms": 736439,
+      "end_ms": 738022,
+      "start": "00:12:16.439",
+      "end": "00:12:18.022",
+      "text": "can help"
+    },
+    {
+      "start_ms": 737044,
+      "end_ms": 738627,
+      "start": "00:12:17.044",
+      "end": "00:12:18.627",
+      "text": "remove this"
+    },
+    {
+      "start_ms": 737648,
+      "end_ms": 739469,
+      "start": "00:12:17.648",
+      "end": "00:12:19.469",
+      "text": "Genji from the point. He is"
+    },
+    {
+      "start_ms": 738492,
+      "end_ms": 740339,
+      "start": "00:12:18.492",
+      "end": "00:12:20.339",
+      "text": "forced to stay"
+    },
+    {
+      "start_ms": 739362,
+      "end_ms": 741232,
+      "start": "00:12:19.362",
+      "end": "00:12:21.232",
+      "text": "in this area because it"
+    },
+    {
+      "start_ms": 740255,
+      "end_ms": 742034,
+      "start": "00:12:20.255",
+      "end": "00:12:22.034",
+      "text": "was forced, right?"
+    },
+    {
+      "start_ms": 741134,
+      "end_ms": 742925,
+      "start": "00:12:21.134",
+      "end": "00:12:22.925",
+      "text": "So he doesn't have \""
+    },
+    {
+      "start_ms": 741925,
+      "end_ms": 743716,
+      "start": "00:12:21.925",
+      "end": "00:12:23.716",
+      "text": "tunnel vision\" and"
+    },
+    {
+      "start_ms": 742740,
+      "end_ms": 744647,
+      "start": "00:12:22.740",
+      "end": "00:12:24.647",
+      "text": "he doesn't lose his mind"
+    },
+    {
+      "start_ms": 743671,
+      "end_ms": 745369,
+      "start": "00:12:23.671",
+      "end": "00:12:25.369",
+      "text": "from this golden"
+    },
+    {
+      "start_ms": 744392,
+      "end_ms": 746254,
+      "start": "00:12:24.392",
+      "end": "00:12:26.254",
+      "text": "advantage, you know?"
+    },
+    {
+      "start_ms": 745354,
+      "end_ms": 747089,
+      "start": "00:12:25.354",
+      "end": "00:12:27.089",
+      "text": "He keeps a"
+    },
+    {
+      "start_ms": 746121,
+      "end_ms": 748312,
+      "start": "00:12:26.121",
+      "end": "00:12:28.312",
+      "text": "cool head. It"
+    },
+    {
+      "start_ms": 747345,
+      "end_ms": 749164,
+      "start": "00:12:27.345",
+      "end": "00:12:29.164",
+      "text": "just takes up"
+    },
+    {
+      "start_ms": 748197,
+      "end_ms": 750416,
+      "start": "00:12:28.197",
+      "end": "00:12:30.416",
+      "text": "part of the map. They"
+    },
+    {
+      "start_ms": 749449,
+      "end_ms": 751751,
+      "start": "00:12:29.449",
+      "end": "00:12:31.751",
+      "text": "capture the point, right"
+    },
+    {
+      "start_ms": 750751,
+      "end_ms": 753177,
+      "start": "00:12:30.751",
+      "end": "00:12:33.177",
+      "text": "? And now he's in a"
+    },
+    {
+      "start_ms": 752213,
+      "end_ms": 755377,
+      "start": "00:12:32.213",
+      "end": "00:12:35.377",
+      "text": "place where it's damn"
+    },
+    {
+      "start_ms": 755582,
+      "end_ms": 757892,
+      "start": "00:12:35.582",
+      "end": "00:12:37.892",
+      "text": "hard to get to, right?"
+    },
+    {
+      "start_ms": 757516,
+      "end_ms": 759447,
+      "start": "00:12:37.516",
+      "end": "00:12:39.447",
+      "text": "They are trying to"
+    },
+    {
+      "start_ms": 758477,
+      "end_ms": 760682,
+      "start": "00:12:38.477",
+      "end": "00:12:40.682",
+      "text": "reach him. And"
+    },
+    {
+      "start_ms": 759709,
+      "end_ms": 761541,
+      "start": "00:12:39.709",
+      "end": "00:12:41.541",
+      "text": "now he's in a"
+    },
+    {
+      "start_ms": 760568,
+      "end_ms": 762614,
+      "start": "00:12:40.568",
+      "end": "00:12:42.614",
+      "text": "position where, you know, it"
+    },
+    {
+      "start_ms": 761641,
+      "end_ms": 763661,
+      "start": "00:12:41.641",
+      "end": "00:12:43.661",
+      "text": "might seem like they're"
+    },
+    {
+      "start_ms": 762687,
+      "end_ms": 764358,
+      "start": "00:12:42.687",
+      "end": "00:12:44.358",
+      "text": "giving him a"
+    },
+    {
+      "start_ms": 763385,
+      "end_ms": 765405,
+      "start": "00:12:43.385",
+      "end": "00:12:45.405",
+      "text": "piece of the map where he's"
+    },
+    {
+      "start_ms": 764432,
+      "end_ms": 766478,
+      "start": "00:12:44.432",
+      "end": "00:12:46.478",
+      "text": "in a very advantageous spot"
+    },
+    {
+      "start_ms": 765505,
+      "end_ms": 767706,
+      "start": "00:12:45.505",
+      "end": "00:12:47.706",
+      "text": "for \"noon.\" Panbin"
+    },
+    {
+      "start_ms": 766735,
+      "end_ms": 768686,
+      "start": "00:12:46.735",
+      "end": "00:12:48.686",
+      "text": "really can't"
+    },
+    {
+      "start_ms": 767715,
+      "end_ms": 769580,
+      "start": "00:12:47.715",
+      "end": "00:12:49.580",
+      "text": "reach him."
+    },
+    {
+      "start_ms": 768680,
+      "end_ms": 770515,
+      "start": "00:12:48.680",
+      "end": "00:12:50.515",
+      "text": "No one can"
+    },
+    {
+      "start_ms": 769543,
+      "end_ms": 771638,
+      "start": "00:12:49.543",
+      "end": "00:12:51.638",
+      "text": "reach him, right?"
+    },
+    {
+      "start_ms": 770738,
+      "end_ms": 772637,
+      "start": "00:12:50.738",
+      "end": "00:12:52.637",
+      "text": "And in the end, he"
+    },
+    {
+      "start_ms": 771668,
+      "end_ms": 773817,
+      "start": "00:12:51.668",
+      "end": "00:12:53.817",
+      "text": "pulls out this midfight."
+    },
+    {
+      "start_ms": 772917,
+      "end_ms": 775345,
+      "start": "00:12:52.917",
+      "end": "00:12:55.345",
+      "text": "He does so much"
+    },
+    {
+      "start_ms": 774345,
+      "end_ms": 778426,
+      "start": "00:12:54.345",
+      "end": "00:12:58.426",
+      "text": ", yet he's never"
+    },
+    {
+      "start_ms": 777452,
+      "end_ms": 779134,
+      "start": "00:12:57.452",
+      "end": "00:12:59.134",
+      "text": "in"
+    },
+    {
+      "start_ms": 778160,
+      "end_ms": 780105,
+      "start": "00:12:58.160",
+      "end": "00:13:00.105",
+      "text": "real danger,"
+    },
+    {
+      "start_ms": 779131,
+      "end_ms": 780814,
+      "start": "00:12:59.131",
+      "end": "00:13:00.814",
+      "text": "right? Let's"
+    },
+    {
+      "start_ms": 779843,
+      "end_ms": 781842,
+      "start": "00:12:59.843",
+      "end": "00:13:01.842",
+      "text": "look at this again"
+    },
+    {
+      "start_ms": 780871,
+      "end_ms": 782527,
+      "start": "00:13:00.871",
+      "end": "00:13:02.527",
+      "text": ", without my"
+    },
+    {
+      "start_ms": 781556,
+      "end_ms": 783711,
+      "start": "00:13:01.556",
+      "end": "00:13:03.711",
+      "text": "comments. And just"
+    },
+    {
+      "start_ms": 782741,
+      "end_ms": 784863,
+      "start": "00:13:02.741",
+      "end": "00:13:04.863",
+      "text": "look how hard it is to"
+    },
+    {
+      "start_ms": 783894,
+      "end_ms": 785956,
+      "start": "00:13:03.894",
+      "end": "00:13:05.956",
+      "text": "get to."
+    },
+    {
+      "start_ms": 802170,
+      "end_ms": 804589,
+      "start": "00:13:22.170",
+      "end": "00:13:24.589",
+      "text": "He makes two frags,"
+    },
+    {
+      "start_ms": 805378,
+      "end_ms": 807380,
+      "start": "00:13:25.378",
+      "end": "00:13:27.380",
+      "text": "right? Um, and the important"
+    },
+    {
+      "start_ms": 806406,
+      "end_ms": 808076,
+      "start": "00:13:26.406",
+      "end": "00:13:28.076",
+      "text": "part of it,"
+    },
+    {
+      "start_ms": 807102,
+      "end_ms": 809057,
+      "start": "00:13:27.102",
+      "end": "00:13:29.057",
+      "text": "you know, you can"
+    },
+    {
+      "start_ms": 808082,
+      "end_ms": 810088,
+      "start": "00:13:28.082",
+      "end": "00:13:30.088",
+      "text": "see these fights: in this"
+    },
+    {
+      "start_ms": 809114,
+      "end_ms": 811120,
+      "start": "00:13:29.114",
+      "end": "00:13:31.120",
+      "text": "fight, Lip \"led,\" and in the"
+    },
+    {
+      "start_ms": 810146,
+      "end_ms": 811843,
+      "start": "00:13:30.146",
+      "end": "00:13:31.843",
+      "text": "other one that we"
+    },
+    {
+      "start_ms": 810868,
+      "end_ms": 812746,
+      "start": "00:13:30.868",
+      "end": "00:13:32.746",
+      "text": "looked at, Merritt"
+    },
+    {
+      "start_ms": 811771,
+      "end_ms": 813442,
+      "start": "00:13:31.771",
+      "end": "00:13:33.442",
+      "text": "didn't really \""
+    },
+    {
+      "start_ms": 812442,
+      "end_ms": 814397,
+      "start": "00:13:32.442",
+      "end": "00:13:34.397",
+      "text": "led,\" he just"
+    },
+    {
+      "start_ms": 813422,
+      "end_ms": 815310,
+      "start": "00:13:33.422",
+      "end": "00:13:35.310",
+      "text": "survived, right? But I"
+    },
+    {
+      "start_ms": 814343,
+      "end_ms": 816105,
+      "start": "00:13:34.343",
+      "end": "00:13:36.105",
+      "text": "really want to"
+    },
+    {
+      "start_ms": 815138,
+      "end_ms": 816998,
+      "start": "00:13:35.138",
+      "end": "00:13:36.998",
+      "text": "emphasize that"
+    },
+    {
+      "start_ms": 816031,
+      "end_ms": 818189,
+      "start": "00:13:36.031",
+      "end": "00:13:38.189",
+      "text": "regardless of"
+    },
+    {
+      "start_ms": 817222,
+      "end_ms": 819381,
+      "start": "00:13:37.222",
+      "end": "00:13:39.381",
+      "text": "whether you're \"controlling\" this"
+    },
+    {
+      "start_ms": 818414,
+      "end_ms": 820572,
+      "start": "00:13:38.414",
+      "end": "00:13:40.572",
+      "text": "midfight or not, not"
+    },
+    {
+      "start_ms": 819605,
+      "end_ms": 821730,
+      "start": "00:13:39.605",
+      "end": "00:13:41.730",
+      "text": "dying early in the"
+    },
+    {
+      "start_ms": 820763,
+      "end_ms": 823054,
+      "start": "00:13:40.763",
+      "end": "00:13:43.054",
+      "text": "fight and being able to"
+    },
+    {
+      "start_ms": 822087,
+      "end_ms": 824344,
+      "start": "00:13:42.087",
+      "end": "00:13:44.344",
+      "text": "pull out the mid"
+    },
+    {
+      "start_ms": 823344,
+      "end_ms": 825635,
+      "start": "00:13:43.344",
+      "end": "00:13:45.635",
+      "text": "is really, really important,"
+    },
+    {
+      "start_ms": 824668,
+      "end_ms": 827355,
+      "start": "00:13:44.668",
+      "end": "00:13:47.355",
+      "text": "you know? Because"
+    },
+    {
+      "start_ms": 826388,
+      "end_ms": 828534,
+      "start": "00:13:46.388",
+      "end": "00:13:48.534",
+      "text": "regardless of"
+    },
+    {
+      "start_ms": 827567,
+      "end_ms": 829484,
+      "start": "00:13:47.567",
+      "end": "00:13:49.484",
+      "text": "whether your"
+    },
+    {
+      "start_ms": 828516,
+      "end_ms": 830400,
+      "start": "00:13:48.516",
+      "end": "00:13:50.400",
+      "text": "front lane gets its"
+    },
+    {
+      "start_ms": 829433,
+      "end_ms": 831710,
+      "start": "00:13:49.433",
+      "end": "00:13:51.710",
+      "text": "kills or value, the"
+    },
+    {
+      "start_ms": 830743,
+      "end_ms": 832954,
+      "start": "00:13:50.743",
+      "end": "00:13:52.954",
+      "text": "fact that you don't"
+    },
+    {
+      "start_ms": 831987,
+      "end_ms": 834068,
+      "start": "00:13:51.987",
+      "end": "00:13:54.068",
+      "text": "waste a lot of"
+    },
+    {
+      "start_ms": 833100,
+      "end_ms": 835345,
+      "start": "00:13:53.100",
+      "end": "00:13:55.345",
+      "text": "resources in the first place is incredibly"
+    },
+    {
+      "start_ms": 834377,
+      "end_ms": 836490,
+      "start": "00:13:54.377",
+      "end": "00:13:56.490",
+      "text": "important. Um,"
+    },
+    {
+      "start_ms": 835519,
+      "end_ms": 837637,
+      "start": "00:13:55.519",
+      "end": "00:13:57.637",
+      "text": "leaving those resources"
+    },
+    {
+      "start_ms": 836667,
+      "end_ms": 838755,
+      "start": "00:13:56.667",
+      "end": "00:13:58.755",
+      "text": "for your front lane,"
+    },
+    {
+      "start_ms": 837785,
+      "end_ms": 839344,
+      "start": "00:13:57.785",
+      "end": "00:13:59.344",
+      "text": "and secondly,"
+    },
+    {
+      "start_ms": 838373,
+      "end_ms": 840315,
+      "start": "00:13:58.373",
+      "end": "00:14:00.315",
+      "text": "making sure that"
+    },
+    {
+      "start_ms": 839344,
+      "end_ms": 841492,
+      "start": "00:13:59.344",
+      "end": "00:14:01.492",
+      "text": "if my front lane isn't"
+    },
+    {
+      "start_ms": 840521,
+      "end_ms": 842610,
+      "start": "00:14:00.521",
+      "end": "00:14:02.610",
+      "text": "doing any good, I'm"
+    },
+    {
+      "start_ms": 841639,
+      "end_ms": 843757,
+      "start": "00:14:01.639",
+      "end": "00:14:03.757",
+      "text": "here as a backup plan,"
+    },
+    {
+      "start_ms": 842787,
+      "end_ms": 844835,
+      "start": "00:14:02.787",
+      "end": "00:14:04.835",
+      "text": "right? Or just as a"
+    },
+    {
+      "start_ms": 843866,
+      "end_ms": 846043,
+      "start": "00:14:03.866",
+      "end": "00:14:06.043",
+      "text": "supporting character."
+    },
+    {
+      "start_ms": 845143,
+      "end_ms": 846904,
+      "start": "00:14:05.143",
+      "end": "00:14:06.904",
+      "text": "I just do"
+    },
+    {
+      "start_ms": 845932,
+      "end_ms": 847639,
+      "start": "00:14:05.932",
+      "end": "00:14:07.639",
+      "text": "as much damage as I"
+    },
+    {
+      "start_ms": 846666,
+      "end_ms": 848564,
+      "start": "00:14:06.666",
+      "end": "00:14:08.564",
+      "text": "can whenever I"
+    },
+    {
+      "start_ms": 847591,
+      "end_ms": 849108,
+      "start": "00:14:07.591",
+      "end": "00:14:09.108",
+      "text": "get the"
+    },
+    {
+      "start_ms": 848135,
+      "end_ms": 850184,
+      "start": "00:14:08.135",
+      "end": "00:14:10.184",
+      "text": "chance, right? And I'm"
+    },
+    {
+      "start_ms": 849216,
+      "end_ms": 851203,
+      "start": "00:14:09.216",
+      "end": "00:14:11.203",
+      "text": "just maintaining"
+    },
+    {
+      "start_ms": 850235,
+      "end_ms": 852095,
+      "start": "00:14:10.235",
+      "end": "00:14:12.095",
+      "text": "my ability to"
+    },
+    {
+      "start_ms": 851127,
+      "end_ms": 853146,
+      "start": "00:14:11.127",
+      "end": "00:14:13.146",
+      "text": "do that for as long as possible"
+    },
+    {
+      "start_ms": 852178,
+      "end_ms": 854357,
+      "start": "00:14:12.178",
+      "end": "00:14:14.357",
+      "text": ". Um, let's"
+    },
+    {
+      "start_ms": 853394,
+      "end_ms": 855632,
+      "start": "00:14:13.394",
+      "end": "00:14:15.632",
+      "text": "watch one more"
+    },
+    {
+      "start_ms": 854669,
+      "end_ms": 856726,
+      "start": "00:14:14.669",
+      "end": "00:14:16.726",
+      "text": "fight and I'll be"
+    },
+    {
+      "start_ms": 855762,
+      "end_ms": 858391,
+      "start": "00:14:15.762",
+      "end": "00:14:18.391",
+      "text": "done with that. It's a very"
+    },
+    {
+      "start_ms": 857423,
+      "end_ms": 859585,
+      "start": "00:14:17.423",
+      "end": "00:14:19.585",
+      "text": "similar fight, where now"
+    },
+    {
+      "start_ms": 858617,
+      "end_ms": 860617,
+      "start": "00:14:18.617",
+      "end": "00:14:20.617",
+      "text": "they're the team"
+    },
+    {
+      "start_ms": 859650,
+      "end_ms": 861893,
+      "start": "00:14:19.650",
+      "end": "00:14:21.893",
+      "text": "doing the retake. Um, the"
+    },
+    {
+      "start_ms": 860893,
+      "end_ms": 862503,
+      "start": "00:14:20.893",
+      "end": "00:14:22.503",
+      "text": "Falcons"
+    },
+    {
+      "start_ms": 861541,
+      "end_ms": 863913,
+      "start": "00:14:21.541",
+      "end": "00:14:23.913",
+      "text": "controlled the point."
+    },
+    {
+      "start_ms": 863013,
+      "end_ms": 865689,
+      "start": "00:14:23.013",
+      "end": "00:14:25.689",
+      "text": "Um, and they have three ultimates"
+    },
+    {
+      "start_ms": 864689,
+      "end_ms": 866747,
+      "start": "00:14:24.689",
+      "end": "00:14:26.747",
+      "text": ", right? So they're not"
+    },
+    {
+      "start_ms": 865776,
+      "end_ms": 867376,
+      "start": "00:14:25.776",
+      "end": "00:14:27.376",
+      "text": "necessarily"
+    },
+    {
+      "start_ms": 866404,
+      "end_ms": 868433,
+      "start": "00:14:26.404",
+      "end": "00:14:28.433",
+      "text": "imposing an advantage"
+    },
+    {
+      "start_ms": 867462,
+      "end_ms": 869548,
+      "start": "00:14:27.462",
+      "end": "00:14:29.548",
+      "text": "here, but Jun Bin still"
+    },
+    {
+      "start_ms": 868576,
+      "end_ms": 870662,
+      "start": "00:14:28.576",
+      "end": "00:14:30.662",
+      "text": "wants to push because he can"
+    },
+    {
+      "start_ms": 869691,
+      "end_ms": 871805,
+      "start": "00:14:29.691",
+      "end": "00:14:31.805",
+      "text": "do something with his"
+    },
+    {
+      "start_ms": 870805,
+      "end_ms": 873649,
+      "start": "00:14:30.805",
+      "end": "00:14:33.649",
+      "text": ", right? So, Jun Bin is pushing."
+    },
+    {
+      "start_ms": 872749,
+      "end_ms": 874882,
+      "start": "00:14:32.749",
+      "end": "00:14:34.882",
+      "text": "He's talking about jerks,"
+    },
+    {
+      "start_ms": 873915,
+      "end_ms": 876235,
+      "start": "00:14:33.915",
+      "end": "00:14:36.235",
+      "text": "right? So they push."
+    },
+    {
+      "start_ms": 875335,
+      "end_ms": 877169,
+      "start": "00:14:35.335",
+      "end": "00:14:37.169",
+      "text": "Uh, and maybe they're,"
+    },
+    {
+      "start_ms": 876193,
+      "end_ms": 877958,
+      "start": "00:14:36.193",
+      "end": "00:14:37.958",
+      "text": "you know, baiting,"
+    },
+    {
+      "start_ms": 876981,
+      "end_ms": 878886,
+      "start": "00:14:36.981",
+      "end": "00:14:38.886",
+      "text": "pretending they're going to"
+    },
+    {
+      "start_ms": 877909,
+      "end_ms": 879721,
+      "start": "00:14:37.909",
+      "end": "00:14:39.721",
+      "text": "use a blade"
+    },
+    {
+      "start_ms": 878744,
+      "end_ms": 880746,
+      "start": "00:14:38.744",
+      "end": "00:14:40.746",
+      "text": "or something. But this is"
+    },
+    {
+      "start_ms": 879779,
+      "end_ms": 882123,
+      "start": "00:14:39.779",
+      "end": "00:14:42.123",
+      "text": "preparation, right? Um,"
+    },
+    {
+      "start_ms": 881159,
+      "end_ms": 883257,
+      "start": "00:14:41.159",
+      "end": "00:14:43.257",
+      "text": "your first line"
+    },
+    {
+      "start_ms": 882294,
+      "end_ms": 884575,
+      "start": "00:14:42.294",
+      "end": "00:14:44.575",
+      "text": "is pressing, and Lip retains"
+    },
+    {
+      "start_ms": 883612,
+      "end_ms": 885820,
+      "start": "00:14:43.612",
+      "end": "00:14:45.820",
+      "text": "the ability to"
+    },
+    {
+      "start_ms": 884856,
+      "end_ms": 886954,
+      "start": "00:14:44.856",
+      "end": "00:14:46.954",
+      "text": "contribute to this fight while"
+    },
+    {
+      "start_ms": 885991,
+      "end_ms": 887906,
+      "start": "00:14:45.991",
+      "end": "00:14:47.906",
+      "text": "staying"
+    },
+    {
+      "start_ms": 886943,
+      "end_ms": 889422,
+      "start": "00:14:46.943",
+      "end": "00:14:49.422",
+      "text": "safe, right? Um, and he"
+    },
+    {
+      "start_ms": 888458,
+      "end_ms": 890498,
+      "start": "00:14:48.458",
+      "end": "00:14:50.498",
+      "text": "uses that"
+    },
+    {
+      "start_ms": 889534,
+      "end_ms": 891716,
+      "start": "00:14:49.534",
+      "end": "00:14:51.716",
+      "text": "advantage. He's not"
+    },
+    {
+      "start_ms": 890759,
+      "end_ms": 893330,
+      "start": "00:14:50.759",
+      "end": "00:14:53.330",
+      "text": "forcing it, is he? So"
+    },
+    {
+      "start_ms": 892365,
+      "end_ms": 894386,
+      "start": "00:14:52.365",
+      "end": "00:14:54.386",
+      "text": "watch what he"
+    },
+    {
+      "start_ms": 893422,
+      "end_ms": 897133,
+      "start": "00:14:53.422",
+      "end": "00:14:57.133",
+      "text": "does. He shoots"
+    },
+    {
+      "start_ms": 896176,
+      "end_ms": 901598,
+      "start": "00:14:56.176",
+      "end": "00:15:01.598",
+      "text": "at Hanbin. He mercilessly"
+    },
+    {
+      "start_ms": 900639,
+      "end_ms": 905158,
+      "start": "00:15:00.639",
+      "end": "00:15:05.158",
+      "text": "shoots Hanbin. Now"
+    },
+    {
+      "start_ms": 904191,
+      "end_ms": 907589,
+      "start": "00:15:04.191",
+      "end": "00:15:07.589",
+      "text": "look at this. There"
+    },
+    {
+      "start_ms": 906624,
+      "end_ms": 909006,
+      "start": "00:15:06.624",
+      "end": "00:15:09.006",
+      "text": "are two little things here, so to"
+    },
+    {
+      "start_ms": 908041,
+      "end_ms": 910491,
+      "start": "00:15:08.041",
+      "end": "00:15:10.491",
+      "text": "speak. First: by"
+    },
+    {
+      "start_ms": 909527,
+      "end_ms": 911907,
+      "start": "00:15:09.527",
+      "end": "00:15:11.907",
+      "text": "shooting at Hanbin, he"
+    },
+    {
+      "start_ms": 910943,
+      "end_ms": 913105,
+      "start": "00:15:10.943",
+      "end": "00:15:13.105",
+      "text": "understands that although it's"
+    },
+    {
+      "start_ms": 912142,
+      "end_ms": 913904,
+      "start": "00:15:12.142",
+      "end": "00:15:13.904",
+      "text": "hard"
+    },
+    {
+      "start_ms": 912941,
+      "end_ms": 914994,
+      "start": "00:15:12.941",
+      "end": "00:15:14.994",
+      "text": "to reach him, it's not"
+    },
+    {
+      "start_ms": 914030,
+      "end_ms": 916011,
+      "start": "00:15:14.030",
+      "end": "00:15:16.011",
+      "text": "impossible, right?"
+    },
+    {
+      "start_ms": 915111,
+      "end_ms": 917323,
+      "start": "00:15:15.111",
+      "end": "00:15:17.323",
+      "text": "Especially in this combo,"
+    },
+    {
+      "start_ms": 916354,
+      "end_ms": 918248,
+      "start": "00:15:16.354",
+      "end": "00:15:18.248",
+      "text": "where there's a huge"
+    },
+    {
+      "start_ms": 917279,
+      "end_ms": 919489,
+      "start": "00:15:17.279",
+      "end": "00:15:19.489",
+      "text": "range, right? Um, and"
+    },
+    {
+      "start_ms": 918516,
+      "end_ms": 920434,
+      "start": "00:15:18.516",
+      "end": "00:15:20.434",
+      "text": "that goes for all the"
+    },
+    {
+      "start_ms": 919461,
+      "end_ms": 921487,
+      "start": "00:15:19.461",
+      "end": "00:15:21.487",
+      "text": "combinations I was"
+    },
+    {
+      "start_ms": 920514,
+      "end_ms": 922486,
+      "start": "00:15:20.514",
+      "end": "00:15:22.486",
+      "text": "talking about—with a huge"
+    },
+    {
+      "start_ms": 921513,
+      "end_ms": 923566,
+      "start": "00:15:21.513",
+      "end": "00:15:23.566",
+      "text": "amount of abilities"
+    },
+    {
+      "start_ms": 922593,
+      "end_ms": 924512,
+      "start": "00:15:22.593",
+      "end": "00:15:24.512",
+      "text": "for rapprochement, right? A"
+    },
+    {
+      "start_ms": 923612,
+      "end_ms": 925708,
+      "start": "00:15:23.612",
+      "end": "00:15:25.708",
+      "text": "combo with Queen and Genji has a"
+    },
+    {
+      "start_ms": 924738,
+      "end_ms": 926715,
+      "start": "00:15:24.738",
+      "end": "00:15:26.715",
+      "text": "huge range"
+    },
+    {
+      "start_ms": 925745,
+      "end_ms": 927488,
+      "start": "00:15:25.745",
+      "end": "00:15:27.488",
+      "text": ". Mala also has a"
+    },
+    {
+      "start_ms": 926519,
+      "end_ms": 928544,
+      "start": "00:15:26.519",
+      "end": "00:15:28.544",
+      "text": "huge range"
+    },
+    {
+      "start_ms": 927575,
+      "end_ms": 929816,
+      "start": "00:15:27.575",
+      "end": "00:15:29.816",
+      "text": ", right? So, that alone isn't"
+    },
+    {
+      "start_ms": 928847,
+      "end_ms": 930889,
+      "start": "00:15:28.847",
+      "end": "00:15:30.889",
+      "text": "enough,"
+    },
+    {
+      "start_ms": 929920,
+      "end_ms": 931628,
+      "start": "00:15:29.920",
+      "end": "00:15:31.628",
+      "text": "right? If you"
+    },
+    {
+      "start_ms": 930658,
+      "end_ms": 932445,
+      "start": "00:15:30.658",
+      "end": "00:15:32.445",
+      "text": "look at what's"
+    },
+    {
+      "start_ms": 931475,
+      "end_ms": 933473,
+      "start": "00:15:31.475",
+      "end": "00:15:33.473",
+      "text": "happening very"
+    },
+    {
+      "start_ms": 932503,
+      "end_ms": 934683,
+      "start": "00:15:32.503",
+      "end": "00:15:34.683",
+      "text": "quickly, he sees that"
+    },
+    {
+      "start_ms": 933713,
+      "end_ms": 935621,
+      "start": "00:15:33.713",
+      "end": "00:15:35.621",
+      "text": "his tank has almost"
+    },
+    {
+      "start_ms": 934651,
+      "end_ms": 936939,
+      "start": "00:15:34.651",
+      "end": "00:15:36.939",
+      "text": "been taken out. Uh, and Hanbin from"
+    },
+    {
+      "start_ms": 935975,
+      "end_ms": 938251,
+      "start": "00:15:35.975",
+      "end": "00:15:38.251",
+      "text": "Proper is starting to move a little to"
+    },
+    {
+      "start_ms": 937286,
+      "end_ms": 939634,
+      "start": "00:15:37.286",
+      "end": "00:15:39.634",
+      "text": "the left."
+    },
+    {
+      "start_ms": 938734,
+      "end_ms": 940427,
+      "start": "00:15:38.734",
+      "end": "00:15:40.427",
+      "text": "And he"
+    },
+    {
+      "start_ms": 939456,
+      "end_ms": 941467,
+      "start": "00:15:39.456",
+      "end": "00:15:41.467",
+      "text": "leaves immediately before"
+    },
+    {
+      "start_ms": 940496,
+      "end_ms": 942536,
+      "start": "00:15:40.496",
+      "end": "00:15:42.536",
+      "text": "he gets punished, right?"
+    },
+    {
+      "start_ms": 941636,
+      "end_ms": 943780,
+      "start": "00:15:41.636",
+      "end": "00:15:43.780",
+      "text": "He doesn't even take"
+    },
+    {
+      "start_ms": 942810,
+      "end_ms": 944896,
+      "start": "00:15:42.810",
+      "end": "00:15:44.896",
+      "text": "damage, but he sees"
+    },
+    {
+      "start_ms": 943925,
+      "end_ms": 945717,
+      "start": "00:15:43.925",
+      "end": "00:15:45.717",
+      "text": "them starting to"
+    },
+    {
+      "start_ms": 944747,
+      "end_ms": 946944,
+      "start": "00:15:44.747",
+      "end": "00:15:46.944",
+      "text": "advance. So now"
+    },
+    {
+      "start_ms": 945976,
+      "end_ms": 947770,
+      "start": "00:15:45.976",
+      "end": "00:15:47.770",
+      "text": "he moves"
+    },
+    {
+      "start_ms": 946801,
+      "end_ms": 948786,
+      "start": "00:15:46.801",
+      "end": "00:15:48.786",
+      "text": "to the right until he"
+    },
+    {
+      "start_ms": 947817,
+      "end_ms": 949611,
+      "start": "00:15:47.817",
+      "end": "00:15:49.611",
+      "text": "sees that everything is"
+    },
+    {
+      "start_ms": 948643,
+      "end_ms": 950841,
+      "start": "00:15:48.643",
+      "end": "00:15:50.841",
+      "text": "calm, right? But"
+    },
+    {
+      "start_ms": 949874,
+      "end_ms": 951859,
+      "start": "00:15:49.874",
+      "end": "00:15:51.859",
+      "text": "then again, he"
+    },
+    {
+      "start_ms": 950892,
+      "end_ms": 953074,
+      "start": "00:15:50.892",
+      "end": "00:15:53.074",
+      "text": "does this as soon as he"
+    },
+    {
+      "start_ms": 952107,
+      "end_ms": 954355,
+      "start": "00:15:52.107",
+      "end": "00:15:54.355",
+      "text": "sees his tank"
+    },
+    {
+      "start_ms": 953387,
+      "end_ms": 955746,
+      "start": "00:15:53.387",
+      "end": "00:15:55.746",
+      "text": "being removed. Um, and he's not"
+    },
+    {
+      "start_ms": 954781,
+      "end_ms": 956796,
+      "start": "00:15:54.781",
+      "end": "00:15:56.796",
+      "text": "waiting for them to"
+    },
+    {
+      "start_ms": 955831,
+      "end_ms": 958126,
+      "start": "00:15:55.831",
+      "end": "00:15:58.126",
+      "text": "start punishing him, is"
+    },
+    {
+      "start_ms": 957161,
+      "end_ms": 959333,
+      "start": "00:15:57.161",
+      "end": "00:15:59.333",
+      "text": "he? When his tank"
+    },
+    {
+      "start_ms": 958363,
+      "end_ms": 960190,
+      "start": "00:15:58.363",
+      "end": "00:16:00.190",
+      "text": "is cleaned, he"
+    },
+    {
+      "start_ms": 959220,
+      "end_ms": 961166,
+      "start": "00:15:59.220",
+      "end": "00:16:01.166",
+      "text": "simply walks away."
+    },
+    {
+      "start_ms": 961004,
+      "end_ms": 963094,
+      "start": "00:16:01.004",
+      "end": "00:16:03.094",
+      "text": "Now I can play"
+    },
+    {
+      "start_ms": 962127,
+      "end_ms": 964284,
+      "start": "00:16:02.127",
+      "end": "00:16:04.284",
+      "text": "from my Brig, not"
+    },
+    {
+      "start_ms": 963317,
+      "end_ms": 966174,
+      "start": "00:16:03.317",
+      "end": "00:16:06.174",
+      "text": "my tank. And he"
+    },
+    {
+      "start_ms": 965204,
+      "end_ms": 967370,
+      "start": "00:16:05.204",
+      "end": "00:16:07.370",
+      "text": "deals so much damage"
+    },
+    {
+      "start_ms": 966401,
+      "end_ms": 968506,
+      "start": "00:16:06.401",
+      "end": "00:16:08.506",
+      "text": "to Hanbin that it is literally"
+    },
+    {
+      "start_ms": 967536,
+      "end_ms": 969703,
+      "start": "00:16:07.536",
+      "end": "00:16:09.703",
+      "text": "impossible for them to win this"
+    },
+    {
+      "start_ms": 968733,
+      "end_ms": 971003,
+      "start": "00:16:08.733",
+      "end": "00:16:11.003",
+      "text": "fight. Even though"
+    },
+    {
+      "start_ms": 970034,
+      "end_ms": 972146,
+      "start": "00:16:10.034",
+      "end": "00:16:12.146",
+      "text": "they kill"
+    },
+    {
+      "start_ms": 971176,
+      "end_ms": 973073,
+      "start": "00:16:11.176",
+      "end": "00:16:13.073",
+      "text": "Junbin. Lip commits"
+    },
+    {
+      "start_ms": 972109,
+      "end_ms": 974325,
+      "start": "00:16:12.109",
+      "end": "00:16:14.325",
+      "text": "murder of Hanbin. He"
+    },
+    {
+      "start_ms": 973366,
+      "end_ms": 975487,
+      "start": "00:16:13.366",
+      "end": "00:16:15.487",
+      "text": "kills Proper. He's"
+    },
+    {
+      "start_ms": 974521,
+      "end_ms": 976795,
+      "start": "00:16:14.521",
+      "end": "00:16:16.795",
+      "text": "hurting Shia, right?"
+    },
+    {
+      "start_ms": 975895,
+      "end_ms": 977900,
+      "start": "00:16:15.895",
+      "end": "00:16:17.900",
+      "text": "And Lip ends up killing"
+    },
+    {
+      "start_ms": 976929,
+      "end_ms": 978905,
+      "start": "00:16:16.929",
+      "end": "00:16:18.905",
+      "text": "three in this long"
+    },
+    {
+      "start_ms": 977935,
+      "end_ms": 979979,
+      "start": "00:16:17.935",
+      "end": "00:16:19.979",
+      "text": "fight, right? So,"
+    },
+    {
+      "start_ms": 979008,
+      "end_ms": 981035,
+      "start": "00:16:19.008",
+      "end": "00:16:21.035",
+      "text": "let's take"
+    },
+    {
+      "start_ms": 980064,
+      "end_ms": 981885,
+      "start": "00:16:20.064",
+      "end": "00:16:21.885",
+      "text": "another look, without my"
+    },
+    {
+      "start_ms": 980915,
+      "end_ms": 1009442,
+      "start": "00:16:20.915",
+      "end": "00:16:49.442",
+      "text": "comments. Yes. So,"
+    },
+    {
+      "start_ms": 1008469,
+      "end_ms": 1010082,
+      "start": "00:16:48.469",
+      "end": "00:16:50.082",
+      "text": "to quickly"
+    },
+    {
+      "start_ms": 1009108,
+      "end_ms": 1010854,
+      "start": "00:16:49.108",
+      "end": "00:16:50.854",
+      "text": "summarize: point"
+    },
+    {
+      "start_ms": 1009881,
+      "end_ms": 1011813,
+      "start": "00:16:49.881",
+      "end": "00:16:51.813",
+      "text": "one, and where"
+    },
+    {
+      "start_ms": 1010840,
+      "end_ms": 1012453,
+      "start": "00:16:50.840",
+      "end": "00:16:52.453",
+      "text": "you get"
+    },
+    {
+      "start_ms": 1011479,
+      "end_ms": 1013438,
+      "start": "00:16:51.479",
+      "end": "00:16:53.438",
+      "text": "the most value,"
+    },
+    {
+      "start_ms": 1012465,
+      "end_ms": 1014344,
+      "start": "00:16:52.465",
+      "end": "00:16:54.344",
+      "text": "is punishing enemy"
+    },
+    {
+      "start_ms": 1013371,
+      "end_ms": 1015270,
+      "start": "00:16:53.371",
+      "end": "00:16:55.270",
+      "text": "tanks, right? And this is"
+    },
+    {
+      "start_ms": 1014297,
+      "end_ms": 1016229,
+      "start": "00:16:54.297",
+      "end": "00:16:56.229",
+      "text": "doubly true"
+    },
+    {
+      "start_ms": 1015256,
+      "end_ms": 1017268,
+      "start": "00:16:55.256",
+      "end": "00:16:57.268",
+      "text": "for setups where there are no"
+    },
+    {
+      "start_ms": 1016294,
+      "end_ms": 1018079,
+      "start": "00:16:56.294",
+      "end": "00:16:58.079",
+      "text": "shields, right? And it"
+    },
+    {
+      "start_ms": 1017105,
+      "end_ms": 1019024,
+      "start": "00:16:57.105",
+      "end": "00:16:59.024",
+      "text": "depends on your"
+    },
+    {
+      "start_ms": 1018050,
+      "end_ms": 1019944,
+      "start": "00:16:58.050",
+      "end": "00:16:59.944",
+      "text": "aiming through"
+    },
+    {
+      "start_ms": 1018969,
+      "end_ms": 1020814,
+      "start": "00:16:58.969",
+      "end": "00:17:00.814",
+      "text": "movement, right? The ability"
+    },
+    {
+      "start_ms": 1019844,
+      "end_ms": 1021776,
+      "start": "00:16:59.844",
+      "end": "00:17:01.776",
+      "text": "to predict"
+    },
+    {
+      "start_ms": 1020807,
+      "end_ms": 1022476,
+      "start": "00:17:00.807",
+      "end": "00:17:02.476",
+      "text": "tank movements. Just"
+    },
+    {
+      "start_ms": 1021496,
+      "end_ms": 1023171,
+      "start": "00:17:01.496",
+      "end": "00:17:03.171",
+      "text": "keep your sights at"
+    },
+    {
+      "start_ms": 1022191,
+      "end_ms": 1023925,
+      "start": "00:17:02.191",
+      "end": "00:17:03.925",
+      "text": "their head level while"
+    },
+    {
+      "start_ms": 1022945,
+      "end_ms": 1024660,
+      "start": "00:17:02.945",
+      "end": "00:17:04.660",
+      "text": "moving left and"
+    },
+    {
+      "start_ms": 1023680,
+      "end_ms": 1025018,
+      "start": "00:17:03.680",
+      "end": "00:17:05.018",
+      "text": "right."
+    },
+    {
+      "start_ms": 1024118,
+      "end_ms": 1025925,
+      "start": "00:17:04.118",
+      "end": "00:17:05.925",
+      "text": "Use your"
+    },
+    {
+      "start_ms": 1024947,
+      "end_ms": 1026252,
+      "start": "00:17:04.947",
+      "end": "00:17:06.252",
+      "text": "movement to"
+    },
+    {
+      "start_ms": 1025274,
+      "end_ms": 1027038,
+      "start": "00:17:05.274",
+      "end": "00:17:07.038",
+      "text": "adapt to the"
+    },
+    {
+      "start_ms": 1026060,
+      "end_ms": 1027868,
+      "start": "00:17:06.060",
+      "end": "00:17:07.868",
+      "text": "enemy tank's movements."
+    },
+    {
+      "start_ms": 1026968,
+      "end_ms": 1028956,
+      "start": "00:17:06.968",
+      "end": "00:17:08.956",
+      "text": "And just hit them in"
+    },
+    {
+      "start_ms": 1027984,
+      "end_ms": 1029578,
+      "start": "00:17:07.984",
+      "end": "00:17:09.578",
+      "text": "the head, okay?"
+    },
+    {
+      "start_ms": 1028678,
+      "end_ms": 1030890,
+      "start": "00:17:08.678",
+      "end": "00:17:10.890",
+      "text": "Practice this. If"
+    },
+    {
+      "start_ms": 1029914,
+      "end_ms": 1031849,
+      "start": "00:17:09.914",
+      "end": "00:17:11.849",
+      "text": "you're playing a gitscan"
+    },
+    {
+      "start_ms": 1030849,
+      "end_ms": 1032784,
+      "start": "00:17:10.849",
+      "end": "00:17:12.784",
+      "text": ", don't worry about"
+    },
+    {
+      "start_ms": 1031808,
+      "end_ms": 1033695,
+      "start": "00:17:11.808",
+      "end": "00:17:13.695",
+      "text": "going into Widow Vaxa"
+    },
+    {
+      "start_ms": 1032719,
+      "end_ms": 1034558,
+      "start": "00:17:12.719",
+      "end": "00:17:14.558",
+      "text": "and shooting a"
+    },
+    {
+      "start_ms": 1033582,
+      "end_ms": 1035421,
+      "start": "00:17:13.582",
+      "end": "00:17:15.421",
+      "text": "constantly"
+    },
+    {
+      "start_ms": 1034445,
+      "end_ms": 1036332,
+      "start": "00:17:14.445",
+      "end": "00:17:16.332",
+      "text": "jumping Genji or a"
+    },
+    {
+      "start_ms": 1035356,
+      "end_ms": 1037410,
+      "start": "00:17:15.356",
+      "end": "00:17:17.410",
+      "text": "flying Farry in the head, okay? It doesn't matter much"
+    },
+    {
+      "start_ms": 1036441,
+      "end_ms": 1038730,
+      "start": "00:17:16.441",
+      "end": "00:17:18.730",
+      "text": ". This is the"
+    },
+    {
+      "start_ms": 1037763,
+      "end_ms": 1039516,
+      "start": "00:17:17.763",
+      "end": "00:17:19.516",
+      "text": "basis of your"
+    },
+    {
+      "start_ms": 1038549,
+      "end_ms": 1040630,
+      "start": "00:17:18.549",
+      "end": "00:17:20.630",
+      "text": "effectiveness, right? A"
+    },
+    {
+      "start_ms": 1039730,
+      "end_ms": 1041632,
+      "start": "00:17:19.730",
+      "end": "00:17:21.632",
+      "text": "huge part of"
+    },
+    {
+      "start_ms": 1040659,
+      "end_ms": 1042343,
+      "start": "00:17:20.659",
+      "end": "00:17:22.343",
+      "text": "your benefit"
+    },
+    {
+      "start_ms": 1041371,
+      "end_ms": 1043355,
+      "start": "00:17:21.371",
+      "end": "00:17:23.355",
+      "text": "lies in"
+    },
+    {
+      "start_ms": 1042383,
+      "end_ms": 1044519,
+      "start": "00:17:22.383",
+      "end": "00:17:24.519",
+      "text": "doing just that. The second"
+    },
+    {
+      "start_ms": 1043549,
+      "end_ms": 1045608,
+      "start": "00:17:23.549",
+      "end": "00:17:25.608",
+      "text": "point: maintaining"
+    },
+    {
+      "start_ms": 1044637,
+      "end_ms": 1046696,
+      "start": "00:17:24.637",
+      "end": "00:17:26.696",
+      "text": "your own safety"
+    },
+    {
+      "start_ms": 1045725,
+      "end_ms": 1047373,
+      "start": "00:17:25.725",
+      "end": "00:17:27.373",
+      "text": "during fights."
+    },
+    {
+      "start_ms": 1046473,
+      "end_ms": 1048497,
+      "start": "00:17:26.473",
+      "end": "00:17:28.497",
+      "text": "Understanding that"
+    },
+    {
+      "start_ms": 1047528,
+      "end_ms": 1049118,
+      "start": "00:17:27.528",
+      "end": "00:17:29.118",
+      "text": "yes, I want"
+    },
+    {
+      "start_ms": 1048149,
+      "end_ms": 1050236,
+      "start": "00:17:28.149",
+      "end": "00:17:30.236",
+      "text": "to punish enemies as much as possible"
+    },
+    {
+      "start_ms": 1049267,
+      "end_ms": 1051012,
+      "start": "00:17:29.267",
+      "end": "00:17:31.012",
+      "text": "for these"
+    },
+    {
+      "start_ms": 1050043,
+      "end_ms": 1052254,
+      "start": "00:17:30.043",
+      "end": "00:17:32.254",
+      "text": "advantages I get"
+    },
+    {
+      "start_ms": 1051254,
+      "end_ms": 1053061,
+      "start": "00:17:31.254",
+      "end": "00:17:33.061",
+      "text": ", but at the same time"
+    },
+    {
+      "start_ms": 1052092,
+      "end_ms": 1054147,
+      "start": "00:17:32.092",
+      "end": "00:17:34.147",
+      "text": "stay safe,"
+    },
+    {
+      "start_ms": 1053178,
+      "end_ms": 1054799,
+      "start": "00:17:33.178",
+      "end": "00:17:34.799",
+      "text": "stay"
+    },
+    {
+      "start_ms": 1053830,
+      "end_ms": 1055948,
+      "start": "00:17:33.830",
+      "end": "00:17:35.948",
+      "text": "hard to reach, and not"
+    },
+    {
+      "start_ms": 1054979,
+      "end_ms": 1056817,
+      "start": "00:17:34.979",
+      "end": "00:17:36.817",
+      "text": "allow myself"
+    },
+    {
+      "start_ms": 1055848,
+      "end_ms": 1057842,
+      "start": "00:17:35.848",
+      "end": "00:17:37.842",
+      "text": "to be traded during"
+    },
+    {
+      "start_ms": 1056873,
+      "end_ms": 1058991,
+      "start": "00:17:36.873",
+      "end": "00:17:38.991",
+      "text": "long fights, right?"
+    },
+    {
+      "start_ms": 1058091,
+      "end_ms": 1060039,
+      "start": "00:17:38.091",
+      "end": "00:17:40.039",
+      "text": "What I would advise—"
+    },
+    {
+      "start_ms": 1059039,
+      "end_ms": 1061325,
+      "start": "00:17:39.039",
+      "end": "00:17:41.325",
+      "text": "of course, you understand"
+    },
+    {
+      "start_ms": 1060359,
+      "end_ms": 1062511,
+      "start": "00:17:40.359",
+      "end": "00:17:42.511",
+      "text": "that this video alone won't"
+    },
+    {
+      "start_ms": 1061544,
+      "end_ms": 1063831,
+      "start": "00:17:41.544",
+      "end": "00:17:43.831",
+      "text": "make you a master of"
+    },
+    {
+      "start_ms": 1062865,
+      "end_ms": 1065065,
+      "start": "00:17:42.865",
+      "end": "00:17:45.065",
+      "text": "gitscans. So when"
+    },
+    {
+      "start_ms": 1064096,
+      "end_ms": 1066192,
+      "start": "00:17:44.096",
+      "end": "00:17:46.192",
+      "text": "you watch replays of"
+    },
+    {
+      "start_ms": 1065223,
+      "end_ms": 1067411,
+      "start": "00:17:45.223",
+      "end": "00:17:47.411",
+      "text": "games of strong players,"
+    },
+    {
+      "start_ms": 1066441,
+      "end_ms": 1068798,
+      "start": "00:17:46.441",
+      "end": "00:17:48.798",
+      "text": "right? Pay attention"
+    },
+    {
+      "start_ms": 1067834,
+      "end_ms": 1069698,
+      "start": "00:17:47.834",
+      "end": "00:17:49.698",
+      "text": "to how they"
+    },
+    {
+      "start_ms": 1068734,
+      "end_ms": 1072324,
+      "start": "00:17:48.734",
+      "end": "00:17:52.324",
+      "text": "move, okay? It's"
+    },
+    {
+      "start_ms": 1071359,
+      "end_ms": 1073618,
+      "start": "00:17:51.359",
+      "end": "00:17:53.618",
+      "text": "similar to what I"
+    },
+    {
+      "start_ms": 1072653,
+      "end_ms": 1074876,
+      "start": "00:17:52.653",
+      "end": "00:17:54.876",
+      "text": "was talking about in the"
+    },
+    {
+      "start_ms": 1073911,
+      "end_ms": 1076274,
+      "start": "00:17:53.911",
+      "end": "00:17:56.274",
+      "text": "Genji video: you don't wait to be"
+    },
+    {
+      "start_ms": 1075309,
+      "end_ms": 1077533,
+      "start": "00:17:55.309",
+      "end": "00:17:57.533",
+      "text": "punished,"
+    },
+    {
+      "start_ms": 1076568,
+      "end_ms": 1080793,
+      "start": "00:17:56.568",
+      "end": "00:18:00.793",
+      "text": "right? You understand what"
+    },
+    {
+      "start_ms": 1079826,
+      "end_ms": 1081458,
+      "start": "00:17:59.826",
+      "end": "00:18:01.458",
+      "text": "makes you"
+    },
+    {
+      "start_ms": 1080491,
+      "end_ms": 1082422,
+      "start": "00:18:00.491",
+      "end": "00:18:02.422",
+      "text": "invulnerable, and you"
+    },
+    {
+      "start_ms": 1081456,
+      "end_ms": 1083753,
+      "start": "00:18:01.456",
+      "end": "00:18:03.753",
+      "text": "act on"
+    },
+    {
+      "start_ms": 1082786,
+      "end_ms": 1085050,
+      "start": "00:18:02.786",
+      "end": "00:18:05.050",
+      "text": "that understanding, right?"
+    },
+    {
+      "start_ms": 1084763,
+      "end_ms": 1087102,
+      "start": "00:18:04.763",
+      "end": "00:18:07.102",
+      "text": "Like Junbin here, or"
+    },
+    {
+      "start_ms": 1086102,
+      "end_ms": 1088166,
+      "start": "00:18:06.102",
+      "end": "00:18:08.166",
+      "text": ", you know, sometimes it's"
+    },
+    {
+      "start_ms": 1087200,
+      "end_ms": 1089505,
+      "start": "00:18:07.200",
+      "end": "00:18:09.505",
+      "text": "Brig in this setup—"
+    },
+    {
+      "start_ms": 1088505,
+      "end_ms": 1090535,
+      "start": "00:18:08.505",
+      "end": "00:18:10.535",
+      "text": "the people you"
+    },
+    {
+      "start_ms": 1089569,
+      "end_ms": 1091496,
+      "start": "00:18:09.569",
+      "end": "00:18:11.496",
+      "text": "play off of, because they"
+    },
+    {
+      "start_ms": 1090531,
+      "end_ms": 1092767,
+      "start": "00:18:10.531",
+      "end": "00:18:12.767",
+      "text": "take the fire"
+    },
+    {
+      "start_ms": 1091801,
+      "end_ms": 1093897,
+      "start": "00:18:11.801",
+      "end": "00:18:13.897",
+      "text": ", right? They need to"
+    },
+    {
+      "start_ms": 1092924,
+      "end_ms": 1094832,
+      "start": "00:18:12.924",
+      "end": "00:18:14.832",
+      "text": "eliminate him"
+    },
+    {
+      "start_ms": 1093859,
+      "end_ms": 1095684,
+      "start": "00:18:13.859",
+      "end": "00:18:15.684",
+      "text": "before they can"
+    },
+    {
+      "start_ms": 1094711,
+      "end_ms": 1096619,
+      "start": "00:18:14.711",
+      "end": "00:18:16.619",
+      "text": "get to me,"
+    },
+    {
+      "start_ms": 1095646,
+      "end_ms": 1097899,
+      "start": "00:18:15.646",
+      "end": "00:18:17.899",
+      "text": "right? And he understands this"
+    },
+    {
+      "start_ms": 1096932,
+      "end_ms": 1099145,
+      "start": "00:18:16.932",
+      "end": "00:18:19.145",
+      "text": "during the fight, right? When"
+    },
+    {
+      "start_ms": 1098173,
+      "end_ms": 1100217,
+      "start": "00:18:18.173",
+      "end": "00:18:20.217",
+      "text": "Junbin goes ahead, I"
+    },
+    {
+      "start_ms": 1099245,
+      "end_ms": 1101290,
+      "start": "00:18:19.245",
+      "end": "00:18:21.290",
+      "text": "can freely go out"
+    },
+    {
+      "start_ms": 1100317,
+      "end_ms": 1102087,
+      "start": "00:18:20.317",
+      "end": "00:18:22.087",
+      "text": "and do whatever I"
+    },
+    {
+      "start_ms": 1101114,
+      "end_ms": 1103102,
+      "start": "00:18:21.114",
+      "end": "00:18:23.102",
+      "text": "want. And I see this"
+    },
+    {
+      "start_ms": 1102130,
+      "end_ms": 1104051,
+      "start": "00:18:22.130",
+      "end": "00:18:24.051",
+      "text": "window of opportunity"
+    },
+    {
+      "start_ms": 1103079,
+      "end_ms": 1105079,
+      "start": "00:18:23.079",
+      "end": "00:18:25.079",
+      "text": "in front of me, right? I"
+    },
+    {
+      "start_ms": 1104110,
+      "end_ms": 1105979,
+      "start": "00:18:24.110",
+      "end": "00:18:25.979",
+      "text": "know that when this is"
+    },
+    {
+      "start_ms": 1105010,
+      "end_ms": 1107065,
+      "start": "00:18:25.010",
+      "end": "00:18:27.065",
+      "text": "over, when"
+    },
+    {
+      "start_ms": 1106096,
+      "end_ms": 1108121,
+      "start": "00:18:26.096",
+      "end": "00:18:28.121",
+      "text": "he is eliminated, he"
+    },
+    {
+      "start_ms": 1107152,
+      "end_ms": 1109363,
+      "start": "00:18:27.152",
+      "end": "00:18:29.363",
+      "text": "has to step back a little."
+    },
+    {
+      "start_ms": 1108463,
+      "end_ms": 1110978,
+      "start": "00:18:28.463",
+      "end": "00:18:30.978",
+      "text": "I use this. Oh,"
+    },
+    {
+      "start_ms": 1110018,
+      "end_ms": 1112411,
+      "start": "00:18:30.018",
+      "end": "00:18:32.411",
+      "text": "my tank is gone, right?"
+    },
+    {
+      "start_ms": 1111511,
+      "end_ms": 1114091,
+      "start": "00:18:31.511",
+      "end": "00:18:34.091",
+      "text": "He was removed. Now I"
+    },
+    {
+      "start_ms": 1113127,
+      "end_ms": 1115228,
+      "start": "00:18:33.127",
+      "end": "00:18:35.228",
+      "text": "have to go, right? I'm not"
+    },
+    {
+      "start_ms": 1114259,
+      "end_ms": 1116287,
+      "start": "00:18:34.259",
+      "end": "00:18:36.287",
+      "text": "waiting for Hanbin to"
+    },
+    {
+      "start_ms": 1115319,
+      "end_ms": 1117316,
+      "start": "00:18:35.319",
+      "end": "00:18:37.316",
+      "text": "come up close and"
+    },
+    {
+      "start_ms": 1116347,
+      "end_ms": 1118400,
+      "start": "00:18:36.347",
+      "end": "00:18:38.400",
+      "text": "kill me, okay? Or"
+    },
+    {
+      "start_ms": 1117429,
+      "end_ms": 1119357,
+      "start": "00:18:37.429",
+      "end": "00:18:39.357",
+      "text": "even before he starts"
+    },
+    {
+      "start_ms": 1118386,
+      "end_ms": 1120430,
+      "start": "00:18:38.386",
+      "end": "00:18:40.430",
+      "text": "shooting, before I"
+    },
+    {
+      "start_ms": 1119459,
+      "end_ms": 1121561,
+      "start": "00:18:39.459",
+      "end": "00:18:41.561",
+      "text": "start walking away, right?"
+    },
+    {
+      "start_ms": 1120661,
+      "end_ms": 1122525,
+      "start": "00:18:40.661",
+      "end": "00:18:42.525",
+      "text": "Yes, if you"
+    },
+    {
+      "start_ms": 1121555,
+      "end_ms": 1123718,
+      "start": "00:18:41.555",
+      "end": "00:18:43.718",
+      "text": "do these two things, you"
+    },
+    {
+      "start_ms": 1122748,
+      "end_ms": 1124881,
+      "start": "00:18:42.748",
+      "end": "00:18:44.881",
+      "text": "can win these"
+    },
+    {
+      "start_ms": 1123911,
+      "end_ms": 1125656,
+      "start": "00:18:43.911",
+      "end": "00:18:45.656",
+      "text": "long battles on"
+    },
+    {
+      "start_ms": 1124686,
+      "end_ms": 1126888,
+      "start": "00:18:44.686",
+      "end": "00:18:46.888",
+      "text": "your own. you"
+    },
+    {
+      "start_ms": 1125916,
+      "end_ms": 1127986,
+      "start": "00:18:45.916",
+      "end": "00:18:47.986",
+      "text": "will eventually severely punish"
+    },
+    {
+      "start_ms": 1127014,
+      "end_ms": 1129056,
+      "start": "00:18:47.014",
+      "end": "00:18:49.056",
+      "text": "these tanks for trying"
+    },
+    {
+      "start_ms": 1128084,
+      "end_ms": 1130237,
+      "start": "00:18:48.084",
+      "end": "00:18:50.237",
+      "text": "to get close to you. And the"
+    },
+    {
+      "start_ms": 1129271,
+      "end_ms": 1131350,
+      "start": "00:18:49.271",
+      "end": "00:18:51.350",
+      "text": "enemy tank will"
+    },
+    {
+      "start_ms": 1130383,
+      "end_ms": 1132631,
+      "start": "00:18:50.383",
+      "end": "00:18:52.631",
+      "text": "think, \"Why, why"
+    },
+    {
+      "start_ms": 1131665,
+      "end_ms": 1134041,
+      "start": "00:18:51.665",
+      "end": "00:18:54.041",
+      "text": "can't I go?\" \"Why do I..."
+    },
+    {
+      "start_ms": 1133041,
+      "end_ms": 1135106,
+      "start": "00:18:53.041",
+      "end": "00:18:55.106",
+      "text": "why do they do"
+    },
+    {
+      "start_ms": 1134137,
+      "end_ms": 1136429,
+      "start": "00:18:54.137",
+      "end": "00:18:56.429",
+      "text": "more damage than me?\","
+    },
+    {
+      "start_ms": 1135463,
+      "end_ms": 1137434,
+      "start": "00:18:55.463",
+      "end": "00:18:57.434",
+      "text": "right? And hopefully,"
+    },
+    {
+      "start_ms": 1136460,
+      "end_ms": 1138094,
+      "start": "00:18:56.460",
+      "end": "00:18:58.094",
+      "text": "if you"
+    },
+    {
+      "start_ms": 1137121,
+      "end_ms": 1139046,
+      "start": "00:18:57.121",
+      "end": "00:18:59.046",
+      "text": "master it well, enemy"
+    },
+    {
+      "start_ms": 1138072,
+      "end_ms": 1139891,
+      "start": "00:18:58.072",
+      "end": "00:18:59.891",
+      "text": "hitscans will start"
+    },
+    {
+      "start_ms": 1138918,
+      "end_ms": 1140949,
+      "start": "00:18:58.918",
+      "end": "00:19:00.949",
+      "text": "getting nuts."
+    },
+    {
+      "start_ms": 1140049,
+      "end_ms": 1142135,
+      "start": "00:19:00.049",
+      "end": "00:19:02.135",
+      "text": "In scrums and matches,"
+    },
+    {
+      "start_ms": 1141164,
+      "end_ms": 1142707,
+      "start": "00:19:01.164",
+      "end": "00:19:02.707",
+      "text": "the tank will start"
+    },
+    {
+      "start_ms": 1141735,
+      "end_ms": 1143479,
+      "start": "00:19:01.735",
+      "end": "00:19:03.479",
+      "text": "blaming"
+    },
+    {
+      "start_ms": 1142507,
+      "end_ms": 1144479,
+      "start": "00:19:02.507",
+      "end": "00:19:04.479",
+      "text": "the hitscan. The team"
+    },
+    {
+      "start_ms": 1143506,
+      "end_ms": 1145469,
+      "start": "00:19:03.506",
+      "end": "00:19:05.469",
+      "text": "will simply collapse"
+    },
+    {
+      "start_ms": 1144497,
+      "end_ms": 1146268,
+      "start": "00:19:04.497",
+      "end": "00:19:06.268",
+      "text": "morally. And you"
+    },
+    {
+      "start_ms": 1145298,
+      "end_ms": 1147142,
+      "start": "00:19:05.298",
+      "end": "00:19:07.142",
+      "text": "will win only"
+    },
+    {
+      "start_ms": 1146171,
+      "end_ms": 1148162,
+      "start": "00:19:06.171",
+      "end": "00:19:08.162",
+      "text": "because of that, right?"
+    },
+    {
+      "start_ms": 1147262,
+      "end_ms": 1149044,
+      "start": "00:19:07.262",
+      "end": "00:19:09.044",
+      "text": "So, if you"
+    },
+    {
+      "start_ms": 1148078,
+      "end_ms": 1150404,
+      "start": "00:19:08.078",
+      "end": "00:19:10.404",
+      "text": "enjoyed this video,"
+    },
+    {
+      "start_ms": 1149438,
+      "end_ms": 1151561,
+      "start": "00:19:09.438",
+      "end": "00:19:11.561",
+      "text": "check out the others, and"
+    },
+    {
+      "start_ms": 1150595,
+      "end_ms": 1152820,
+      "start": "00:19:10.595",
+      "end": "00:19:12.820",
+      "text": "I'll see you later."
+    }
+  ]
+}

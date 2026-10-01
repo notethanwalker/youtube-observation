@@ -1,0 +1,2060 @@
+{
+  "video_id": "aHwWbiUE4KQ",
+  "title": "Ultimate Economy Does Not Matter",
+  "url": "https://www.youtube.com/watch?v=aHwWbiUE4KQ",
+  "upload_date": "2026-01-08",
+  "duration_seconds": 584,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:20:22.727581+00:00",
+  "source_sha256": "e6c0a981ff1ab5c7720e24b53ec998e6ecb493cb5c65bde297186786a9b8cae0",
+  "source_bytes": 216319,
+  "segment_count": 291,
+  "word_count": 2041,
+  "character_count": 11111,
+  "first_segment_ms": 880,
+  "last_segment_end_ms": 585360,
+  "leading_gap_seconds": 0.88,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 880,
+      "end_ms": 4640,
+      "start": "00:00:00.880",
+      "end": "00:00:04.640",
+      "text": "Today I'm going to be explaining"
+    },
+    {
+      "start_ms": 2399,
+      "end_ms": 7200,
+      "start": "00:00:02.399",
+      "end": "00:00:07.200",
+      "text": "something kind of controversial in"
+    },
+    {
+      "start_ms": 4640,
+      "end_ms": 8880,
+      "start": "00:00:04.640",
+      "end": "00:00:08.880",
+      "text": "Overwatch 2 that's responsible for a lot"
+    },
+    {
+      "start_ms": 7200,
+      "end_ms": 10080,
+      "start": "00:00:07.200",
+      "end": "00:00:10.080",
+      "text": "of personal headaches of mine when I"
+    },
+    {
+      "start_ms": 8880,
+      "end_ms": 13280,
+      "start": "00:00:08.880",
+      "end": "00:00:13.280",
+      "text": "have to listen to other people talk"
+    },
+    {
+      "start_ms": 10080,
+      "end_ms": 15920,
+      "start": "00:00:10.080",
+      "end": "00:00:15.920",
+      "text": "about the game. Ult economy. Now in"
+    },
+    {
+      "start_ms": 13280,
+      "end_ms": 17680,
+      "start": "00:00:13.280",
+      "end": "00:00:17.680",
+      "text": "Overwatch 1, economy was incredibly real"
+    },
+    {
+      "start_ms": 15920,
+      "end_ms": 19199,
+      "start": "00:00:15.920",
+      "end": "00:00:19.199",
+      "text": "and an important concept. It was a"
+    },
+    {
+      "start_ms": 17680,
+      "end_ms": 20960,
+      "start": "00:00:17.680",
+      "end": "00:00:20.960",
+      "text": "highly defining aspect of how the game"
+    },
+    {
+      "start_ms": 19199,
+      "end_ms": 22800,
+      "start": "00:00:19.199",
+      "end": "00:00:22.800",
+      "text": "was played. You could argue that it was"
+    },
+    {
+      "start_ms": 20960,
+      "end_ms": 24640,
+      "start": "00:00:20.960",
+      "end": "00:00:24.640",
+      "text": "the single most important defining"
+    },
+    {
+      "start_ms": 22800,
+      "end_ms": 26560,
+      "start": "00:00:22.800",
+      "end": "00:00:26.560",
+      "text": "aspect of the game. Ultimates were much"
+    },
+    {
+      "start_ms": 24640,
+      "end_ms": 29359,
+      "start": "00:00:24.640",
+      "end": "00:00:29.359",
+      "text": "more consistent. They were farmed much"
+    },
+    {
+      "start_ms": 26560,
+      "end_ms": 30720,
+      "start": "00:00:26.560",
+      "end": "00:00:30.720",
+      "text": "faster and the game was much fairer to"
+    },
+    {
+      "start_ms": 29359,
+      "end_ms": 33440,
+      "start": "00:00:29.359",
+      "end": "00:00:33.440",
+      "text": "the point where properly playing alt"
+    },
+    {
+      "start_ms": 30720,
+      "end_ms": 34960,
+      "start": "00:00:30.720",
+      "end": "00:00:34.960",
+      "text": "cycles, not overusing ults, and using"
+    },
+    {
+      "start_ms": 33440,
+      "end_ms": 36719,
+      "start": "00:00:33.440",
+      "end": "00:00:36.719",
+      "text": "the proper ults for the specific"
+    },
+    {
+      "start_ms": 34960,
+      "end_ms": 39280,
+      "start": "00:00:34.960",
+      "end": "00:00:39.280",
+      "text": "situation was the most important part of"
+    },
+    {
+      "start_ms": 36719,
+      "end_ms": 41600,
+      "start": "00:00:36.719",
+      "end": "00:00:41.600",
+      "text": "the game. This is not how it works in"
+    },
+    {
+      "start_ms": 39280,
+      "end_ms": 43840,
+      "start": "00:00:39.280",
+      "end": "00:00:43.840",
+      "text": "Overwatch 2 most of the time. Now, ult"
+    },
+    {
+      "start_ms": 41600,
+      "end_ms": 45520,
+      "start": "00:00:41.600",
+      "end": "00:00:45.520",
+      "text": "economy does still exist contrary to"
+    },
+    {
+      "start_ms": 43840,
+      "end_ms": 47120,
+      "start": "00:00:43.840",
+      "end": "00:00:47.120",
+      "text": "what I said in the title, but overall"
+    },
+    {
+      "start_ms": 45520,
+      "end_ms": 48719,
+      "start": "00:00:45.520",
+      "end": "00:00:48.719",
+      "text": "it's a minor sticking point compared to"
+    },
+    {
+      "start_ms": 47120,
+      "end_ms": 51520,
+      "start": "00:00:47.120",
+      "end": "00:00:51.520",
+      "text": "the real important aspects of the game."
+    },
+    {
+      "start_ms": 48719,
+      "end_ms": 52960,
+      "start": "00:00:48.719",
+      "end": "00:00:52.960",
+      "text": "Now, what changed? Why did this happen?"
+    },
+    {
+      "start_ms": 51520,
+      "end_ms": 55039,
+      "start": "00:00:51.520",
+      "end": "00:00:55.039",
+      "text": "Do we need to let it go? Now, I do want"
+    },
+    {
+      "start_ms": 52960,
+      "end_ms": 56800,
+      "start": "00:00:52.960",
+      "end": "00:00:56.800",
+      "text": "to put a disclaimer. There are certain"
+    },
+    {
+      "start_ms": 55039,
+      "end_ms": 59120,
+      "start": "00:00:55.039",
+      "end": "00:00:59.120",
+      "text": "comps where it is still a major defining"
+    },
+    {
+      "start_ms": 56800,
+      "end_ms": 61760,
+      "start": "00:00:56.800",
+      "end": "00:01:01.760",
+      "text": "factor, mostly offtank comps such as the"
+    },
+    {
+      "start_ms": 59120,
+      "end_ms": 63039,
+      "start": "00:00:59.120",
+      "end": "00:01:03.039",
+      "text": "D.VA sim comp and Zarya comps. EU is"
+    },
+    {
+      "start_ms": 61760,
+      "end_ms": 65439,
+      "start": "00:01:01.760",
+      "end": "00:01:05.439",
+      "text": "playing a lot of these comps in the last"
+    },
+    {
+      "start_ms": 63039,
+      "end_ms": 66720,
+      "start": "00:01:03.039",
+      "end": "00:01:06.720",
+      "text": "state of 2025 and Alcasia and Twisted"
+    },
+    {
+      "start_ms": 65439,
+      "end_ms": 68479,
+      "start": "00:01:05.439",
+      "end": "00:01:08.479",
+      "text": "Minds were playing these comps at the"
+    },
+    {
+      "start_ms": 66720,
+      "end_ms": 69920,
+      "start": "00:01:06.720",
+      "end": "00:01:09.920",
+      "text": "world finals. They still treat this"
+    },
+    {
+      "start_ms": 68479,
+      "end_ms": 71360,
+      "start": "00:01:08.479",
+      "end": "00:01:11.360",
+      "text": "concept with really high importance,"
+    },
+    {
+      "start_ms": 69920,
+      "end_ms": 73439,
+      "start": "00:01:09.920",
+      "end": "00:01:13.439",
+      "text": "which is what allows them to thrive at"
+    },
+    {
+      "start_ms": 71360,
+      "end_ms": 75360,
+      "start": "00:01:11.360",
+      "end": "00:01:15.360",
+      "text": "these comps. While they historically"
+    },
+    {
+      "start_ms": 73439,
+      "end_ms": 76640,
+      "start": "00:01:13.439",
+      "end": "00:01:16.640",
+      "text": "fail at almost every other comp, I'm"
+    },
+    {
+      "start_ms": 75360,
+      "end_ms": 78080,
+      "start": "00:01:15.360",
+      "end": "00:01:18.080",
+      "text": "going to make a lot of blanket"
+    },
+    {
+      "start_ms": 76640,
+      "end_ms": 79759,
+      "start": "00:01:16.640",
+      "end": "00:01:19.759",
+      "text": "statements for the purpose of this video"
+    },
+    {
+      "start_ms": 78080,
+      "end_ms": 81439,
+      "start": "00:01:18.080",
+      "end": "00:01:21.439",
+      "text": "and explaining the concept. But as new"
+    },
+    {
+      "start_ms": 79759,
+      "end_ms": 83360,
+      "start": "00:01:19.759",
+      "end": "00:01:23.360",
+      "text": "metas emerge and new characters come"
+    },
+    {
+      "start_ms": 81439,
+      "end_ms": 85600,
+      "start": "00:01:21.439",
+      "end": "00:01:25.600",
+      "text": "out, such as Sim being incredibly strong"
+    },
+    {
+      "start_ms": 83360,
+      "end_ms": 87200,
+      "start": "00:01:23.360",
+      "end": "00:01:27.200",
+      "text": "or Zarya or Div.A becoming overtuned, it"
+    },
+    {
+      "start_ms": 85600,
+      "end_ms": 88560,
+      "start": "00:01:25.600",
+      "end": "00:01:28.560",
+      "text": "is always important to re-evaluate the"
+    },
+    {
+      "start_ms": 87200,
+      "end_ms": 89920,
+      "start": "00:01:27.200",
+      "end": "00:01:29.920",
+      "text": "fundamentals of the game and see what"
+    },
+    {
+      "start_ms": 88560,
+      "end_ms": 91119,
+      "start": "00:01:28.560",
+      "end": "00:01:31.119",
+      "text": "concepts are most important for the"
+    },
+    {
+      "start_ms": 89920,
+      "end_ms": 92560,
+      "start": "00:01:29.920",
+      "end": "00:01:32.560",
+      "text": "specific comp that you're playing. Now,"
+    },
+    {
+      "start_ms": 91119,
+      "end_ms": 94479,
+      "start": "00:01:31.119",
+      "end": "00:01:34.479",
+      "text": "with the disclaimer done, let's get into"
+    },
+    {
+      "start_ms": 92560,
+      "end_ms": 96000,
+      "start": "00:01:32.560",
+      "end": "00:01:36.000",
+      "text": "it. For these Overwatch 2 sections, I"
+    },
+    {
+      "start_ms": 94479,
+      "end_ms": 97920,
+      "start": "00:01:34.479",
+      "end": "00:01:37.920",
+      "text": "intentionally picked metas where old"
+    },
+    {
+      "start_ms": 96000,
+      "end_ms": 99680,
+      "start": "00:01:36.000",
+      "end": "00:01:39.680",
+      "text": "economy mattered the most to give the"
+    },
+    {
+      "start_ms": 97920,
+      "end_ms": 101360,
+      "start": "00:01:37.920",
+      "end": "00:01:41.360",
+      "text": "best possible benefit of the doubt to"
+    },
+    {
+      "start_ms": 99680,
+      "end_ms": 103280,
+      "start": "00:01:39.680",
+      "end": "00:01:43.280",
+      "text": "the concept. There are three big reasons"
+    },
+    {
+      "start_ms": 101360,
+      "end_ms": 104880,
+      "start": "00:01:41.360",
+      "end": "00:01:44.880",
+      "text": "I'm going to outline why alt economy is"
+    },
+    {
+      "start_ms": 103280,
+      "end_ms": 106960,
+      "start": "00:01:43.280",
+      "end": "00:01:46.960",
+      "text": "not nearly as important in Overwatch 2"
+    },
+    {
+      "start_ms": 104880,
+      "end_ms": 109360,
+      "start": "00:01:44.880",
+      "end": "00:01:49.360",
+      "text": "as it used to be. Reason number one, it"
+    },
+    {
+      "start_ms": 106960,
+      "end_ms": 111759,
+      "start": "00:01:46.960",
+      "end": "00:01:51.759",
+      "text": "is easier to win fights without ults in"
+    },
+    {
+      "start_ms": 109360,
+      "end_ms": 113200,
+      "start": "00:01:49.360",
+      "end": "00:01:53.200",
+      "text": "Overwatch 2. Why? Individual playmaking"
+    },
+    {
+      "start_ms": 111759,
+      "end_ms": 114799,
+      "start": "00:01:51.759",
+      "end": "00:01:54.799",
+      "text": "used to be far less important and less"
+    },
+    {
+      "start_ms": 113200,
+      "end_ms": 117200,
+      "start": "00:01:53.200",
+      "end": "00:01:57.200",
+      "text": "impactful in Overwatch one. There were"
+    },
+    {
+      "start_ms": 114799,
+      "end_ms": 118640,
+      "start": "00:01:54.799",
+      "end": "00:01:58.640",
+      "text": "more tank resources, less splits, and it"
+    },
+    {
+      "start_ms": 117200,
+      "end_ms": 120320,
+      "start": "00:01:57.200",
+      "end": "00:02:00.320",
+      "text": "was much easier to stop someone from"
+    },
+    {
+      "start_ms": 118640,
+      "end_ms": 122320,
+      "start": "00:01:58.640",
+      "end": "00:02:02.320",
+      "text": "making a powerful play without an old."
+    },
+    {
+      "start_ms": 120320,
+      "end_ms": 124479,
+      "start": "00:02:00.320",
+      "end": "00:02:04.479",
+      "text": "In Overwatch 2, the DPS are a lot more"
+    },
+    {
+      "start_ms": 122320,
+      "end_ms": 126719,
+      "start": "00:02:02.320",
+      "end": "00:02:06.719",
+      "text": "free. Splitting is much more powerful,"
+    },
+    {
+      "start_ms": 124479,
+      "end_ms": 128239,
+      "start": "00:02:04.479",
+      "end": "00:02:08.239",
+      "text": "and the potential for ults is overall"
+    },
+    {
+      "start_ms": 126719,
+      "end_ms": 130560,
+      "start": "00:02:06.719",
+      "end": "00:02:10.560",
+      "text": "much higher. In addition to this,"
+    },
+    {
+      "start_ms": 128239,
+      "end_ms": 132400,
+      "start": "00:02:08.239",
+      "end": "00:02:12.400",
+      "text": "aggressive trades or killing someone at"
+    },
+    {
+      "start_ms": 130560,
+      "end_ms": 134319,
+      "start": "00:02:10.560",
+      "end": "00:02:14.319",
+      "text": "the cost of you also dying are more"
+    },
+    {
+      "start_ms": 132400,
+      "end_ms": 136239,
+      "start": "00:02:12.400",
+      "end": "00:02:16.239",
+      "text": "impactful in general since midfights are"
+    },
+    {
+      "start_ms": 134319,
+      "end_ms": 138080,
+      "start": "00:02:14.319",
+      "end": "00:02:18.080",
+      "text": "much more chaotic in Overwatch 2 and the"
+    },
+    {
+      "start_ms": 136239,
+      "end_ms": 140000,
+      "start": "00:02:16.239",
+      "end": "00:02:20.000",
+      "text": "potential to eventually win these messy"
+    },
+    {
+      "start_ms": 138080,
+      "end_ms": 142160,
+      "start": "00:02:18.080",
+      "end": "00:02:22.160",
+      "text": "fights is much higher. A specific trade"
+    },
+    {
+      "start_ms": 140000,
+      "end_ms": 143840,
+      "start": "00:02:20.000",
+      "end": "00:02:23.840",
+      "text": "on an enemy with a powerful ult is also"
+    },
+    {
+      "start_ms": 142160,
+      "end_ms": 145440,
+      "start": "00:02:22.160",
+      "end": "00:02:25.440",
+      "text": "much more impactful in Overwatch 2 as"
+    },
+    {
+      "start_ms": 143840,
+      "end_ms": 146800,
+      "start": "00:02:23.840",
+      "end": "00:02:26.800",
+      "text": "his teammates have a much harder time"
+    },
+    {
+      "start_ms": 145440,
+      "end_ms": 148160,
+      "start": "00:02:25.440",
+      "end": "00:02:28.160",
+      "text": "turning the fight without him. With all"
+    },
+    {
+      "start_ms": 146800,
+      "end_ms": 149599,
+      "start": "00:02:26.800",
+      "end": "00:02:29.599",
+      "text": "of these factors in mind, let's take a"
+    },
+    {
+      "start_ms": 148160,
+      "end_ms": 152560,
+      "start": "00:02:28.160",
+      "end": "00:02:32.560",
+      "text": "look at the first fight. Example number"
+    },
+    {
+      "start_ms": 149599,
+      "end_ms": 153760,
+      "start": "00:02:29.599",
+      "end": "00:02:33.760",
+      "text": "one is from NA OCS stage 4 in 2024."
+    },
+    {
+      "start_ms": 152560,
+      "end_ms": 154959,
+      "start": "00:02:32.560",
+      "end": "00:02:34.959",
+      "text": "Toronto Defiant and Nightmare were"
+    },
+    {
+      "start_ms": 153760,
+      "end_ms": 156800,
+      "start": "00:02:33.760",
+      "end": "00:02:36.800",
+      "text": "playing each other in the grand finals"
+    },
+    {
+      "start_ms": 154959,
+      "end_ms": 158319,
+      "start": "00:02:34.959",
+      "end": "00:02:38.319",
+      "text": "in a very, very close match. In the"
+    },
+    {
+      "start_ms": 156800,
+      "end_ms": 160879,
+      "start": "00:02:36.800",
+      "end": "00:02:40.879",
+      "text": "fight we're about to look at, Nightmare"
+    },
+    {
+      "start_ms": 158319,
+      "end_ms": 163120,
+      "start": "00:02:38.319",
+      "end": "00:02:43.120",
+      "text": "used three ults to Toronto's zero to win"
+    },
+    {
+      "start_ms": 160879,
+      "end_ms": 165200,
+      "start": "00:02:40.879",
+      "end": "00:02:45.200",
+      "text": "this fight. And to be clear, this is"
+    },
+    {
+      "start_ms": 163120,
+      "end_ms": 167040,
+      "start": "00:02:43.120",
+      "end": "00:02:47.040",
+      "text": "bad. I picked this extreme example"
+    },
+    {
+      "start_ms": 165200,
+      "end_ms": 169360,
+      "start": "00:02:45.200",
+      "end": "00:02:49.360",
+      "text": "because this is one of the worst misuses"
+    },
+    {
+      "start_ms": 167040,
+      "end_ms": 170959,
+      "start": "00:02:47.040",
+      "end": "00:02:50.959",
+      "text": "of economy in my recent memory. And yet,"
+    },
+    {
+      "start_ms": 169360,
+      "end_ms": 172800,
+      "start": "00:02:49.360",
+      "end": "00:02:52.800",
+      "text": "it ends up not mattering because of"
+    },
+    {
+      "start_ms": 170959,
+      "end_ms": 174400,
+      "start": "00:02:50.959",
+      "end": "00:02:54.400",
+      "text": "Nightmare's mastery of other concepts of"
+    },
+    {
+      "start_ms": 172800,
+      "end_ms": 176480,
+      "start": "00:02:52.800",
+      "end": "00:02:56.480",
+      "text": "the game. Now, the part of this that"
+    },
+    {
+      "start_ms": 174400,
+      "end_ms": 178959,
+      "start": "00:02:54.400",
+      "end": "00:02:58.959",
+      "text": "grinds my gears is someone in the"
+    },
+    {
+      "start_ms": 176480,
+      "end_ms": 180879,
+      "start": "00:02:56.480",
+      "end": "00:03:00.879",
+      "text": "Toronto VC definitely just said, \"Don't"
+    },
+    {
+      "start_ms": 178959,
+      "end_ms": 182959,
+      "start": "00:02:58.959",
+      "end": "00:03:02.959",
+      "text": "worry, they just use three ults. The"
+    },
+    {
+      "start_ms": 180879,
+      "end_ms": 185440,
+      "start": "00:03:00.879",
+      "end": "00:03:05.440",
+      "text": "next fight is free."
+    },
+    {
+      "start_ms": 182959,
+      "end_ms": 187040,
+      "start": "00:03:02.959",
+      "end": "00:03:07.040",
+      "text": "Wrong. Seeker's hiding in this bottom"
+    },
+    {
+      "start_ms": 185440,
+      "end_ms": 190760,
+      "start": "00:03:05.440",
+      "end": "00:03:10.760",
+      "text": "right room. It is going to kill one"
+    },
+    {
+      "start_ms": 187040,
+      "end_ms": 190760,
+      "start": "00:03:07.040",
+      "end": "00:03:10.760",
+      "text": "person to start the fight."
+    },
+    {
+      "start_ms": 191840,
+      "end_ms": 194560,
+      "start": "00:03:11.840",
+      "end": "00:03:14.560",
+      "text": ">> Toronto is still going to get to point"
+    },
+    {
+      "start_ms": 193440,
+      "end_ms": 196879,
+      "start": "00:03:13.440",
+      "end": "00:03:16.879",
+      "text": "and they're going to use their Arisa"
+    },
+    {
+      "start_ms": 194560,
+      "end_ms": 198720,
+      "start": "00:03:14.560",
+      "end": "00:03:18.720",
+      "text": "rally combo to kill Zer. But Seeker uses"
+    },
+    {
+      "start_ms": 196879,
+      "end_ms": 200560,
+      "start": "00:03:16.879",
+      "end": "00:03:20.560",
+      "text": "the messiness of this fight and his own"
+    },
+    {
+      "start_ms": 198720,
+      "end_ms": 202159,
+      "start": "00:03:18.720",
+      "end": "00:03:22.159",
+      "text": "to find a kill on Sugarree. As Merit"
+    },
+    {
+      "start_ms": 200560,
+      "end_ms": 203920,
+      "start": "00:03:20.560",
+      "end": "00:03:23.920",
+      "text": "comes back from spawn, the fight is now"
+    },
+    {
+      "start_ms": 202159,
+      "end_ms": 206159,
+      "start": "00:03:22.159",
+      "end": "00:03:26.159",
+      "text": "technically even. But the specific"
+    },
+    {
+      "start_ms": 203920,
+      "end_ms": 207680,
+      "start": "00:03:23.920",
+      "end": "00:03:27.680",
+      "text": "trades Nightmare got means Toronto does"
+    },
+    {
+      "start_ms": 206159,
+      "end_ms": 209840,
+      "start": "00:03:26.159",
+      "end": "00:03:29.840",
+      "text": "not get to use the old economy to their"
+    },
+    {
+      "start_ms": 207680,
+      "end_ms": 211920,
+      "start": "00:03:27.680",
+      "end": "00:03:31.920",
+      "text": "advantage at all. This is not an"
+    },
+    {
+      "start_ms": 209840,
+      "end_ms": 213599,
+      "start": "00:03:29.840",
+      "end": "00:03:33.599",
+      "text": "accident. The forced messiness of this"
+    },
+    {
+      "start_ms": 211920,
+      "end_ms": 215920,
+      "start": "00:03:31.920",
+      "end": "00:03:35.920",
+      "text": "fight also makes it incredibly difficult"
+    },
+    {
+      "start_ms": 213599,
+      "end_ms": 218480,
+      "start": "00:03:33.599",
+      "end": "00:03:38.480",
+      "text": "for Toronto to cleanly use their ults"
+    },
+    {
+      "start_ms": 215920,
+      "end_ms": 220560,
+      "start": "00:03:35.920",
+      "end": "00:03:40.560",
+      "text": "before or after the trades. In this"
+    },
+    {
+      "start_ms": 218480,
+      "end_ms": 222959,
+      "start": "00:03:38.480",
+      "end": "00:03:42.959",
+      "text": "fight, Nightmare knows they're downs."
+    },
+    {
+      "start_ms": 220560,
+      "end_ms": 224879,
+      "start": "00:03:40.560",
+      "end": "00:03:44.879",
+      "text": "They hit early with a blade juno combo."
+    },
+    {
+      "start_ms": 222959,
+      "end_ms": 227040,
+      "start": "00:03:42.959",
+      "end": "00:03:47.040",
+      "text": "Toronto uses their old economy advantage"
+    },
+    {
+      "start_ms": 224879,
+      "end_ms": 229040,
+      "start": "00:03:44.879",
+      "end": "00:03:49.040",
+      "text": "here to get two kills to Nightmare's"
+    },
+    {
+      "start_ms": 227040,
+      "end_ms": 230799,
+      "start": "00:03:47.040",
+      "end": "00:03:50.799",
+      "text": "one. On paper, this looks pretty good"
+    },
+    {
+      "start_ms": 229040,
+      "end_ms": 232720,
+      "start": "00:03:49.040",
+      "end": "00:03:52.720",
+      "text": "for Toronto, and it might look like a"
+    },
+    {
+      "start_ms": 230799,
+      "end_ms": 234799,
+      "start": "00:03:50.799",
+      "end": "00:03:54.799",
+      "text": "win for old economy heads all across the"
+    },
+    {
+      "start_ms": 232720,
+      "end_ms": 236480,
+      "start": "00:03:52.720",
+      "end": "00:03:56.480",
+      "text": "world. There is a problem though."
+    },
+    {
+      "start_ms": 234799,
+      "end_ms": 238799,
+      "start": "00:03:54.799",
+      "end": "00:03:58.799",
+      "text": "Nightmare has made the same kind of map"
+    },
+    {
+      "start_ms": 236480,
+      "end_ms": 240879,
+      "start": "00:03:56.480",
+      "end": "00:04:00.879",
+      "text": "flip as earlier, forcing messiness in"
+    },
+    {
+      "start_ms": 238799,
+      "end_ms": 242959,
+      "start": "00:03:58.799",
+      "end": "00:04:02.959",
+      "text": "this fight. Toronto is forced to move to"
+    },
+    {
+      "start_ms": 240879,
+      "end_ms": 244640,
+      "start": "00:04:00.879",
+      "end": "00:04:04.640",
+      "text": "point to avoid further trades. This"
+    },
+    {
+      "start_ms": 242959,
+      "end_ms": 246480,
+      "start": "00:04:02.959",
+      "end": "00:04:06.480",
+      "text": "means as the nightmare DPS come back"
+    },
+    {
+      "start_ms": 244640,
+      "end_ms": 248480,
+      "start": "00:04:04.640",
+      "end": "00:04:08.480",
+      "text": "from a spawn, a pinch is going to form"
+    },
+    {
+      "start_ms": 246480,
+      "end_ms": 250799,
+      "start": "00:04:06.480",
+      "end": "00:04:10.799",
+      "text": "on the point. This fight is forced to"
+    },
+    {
+      "start_ms": 248480,
+      "end_ms": 252560,
+      "start": "00:04:08.480",
+      "end": "00:04:12.560",
+      "text": "break down into a messy trade fest that"
+    },
+    {
+      "start_ms": 250799,
+      "end_ms": 254080,
+      "start": "00:04:10.799",
+      "end": "00:04:14.080",
+      "text": "shows nightmare's fundamentals are much"
+    },
+    {
+      "start_ms": 252560,
+      "end_ms": 256959,
+      "start": "00:04:12.560",
+      "end": "00:04:16.959",
+      "text": "more important than the old economy at"
+    },
+    {
+      "start_ms": 254080,
+      "end_ms": 258639,
+      "start": "00:04:14.080",
+      "end": "00:04:18.639",
+      "text": "play here. As a side note here, the wave"
+    },
+    {
+      "start_ms": 256959,
+      "end_ms": 260479,
+      "start": "00:04:16.959",
+      "end": "00:04:20.479",
+      "text": "respawn function introduced in Overwatch"
+    },
+    {
+      "start_ms": 258639,
+      "end_ms": 262479,
+      "start": "00:04:18.639",
+      "end": "00:04:22.479",
+      "text": "2 also makes this play style a lot more"
+    },
+    {
+      "start_ms": 260479,
+      "end_ms": 264960,
+      "start": "00:04:20.479",
+      "end": "00:04:24.960",
+      "text": "impactful. Your DPS that went for"
+    },
+    {
+      "start_ms": 262479,
+      "end_ms": 266320,
+      "start": "00:04:22.479",
+      "end": "00:04:26.320",
+      "text": "aggressive trades get rewarded, get huge"
+    },
+    {
+      "start_ms": 264960,
+      "end_ms": 267520,
+      "start": "00:04:24.960",
+      "end": "00:04:27.520",
+      "text": "time cut off their respawn, and they"
+    },
+    {
+      "start_ms": 266320,
+      "end_ms": 269600,
+      "start": "00:04:26.320",
+      "end": "00:04:29.600",
+      "text": "will come back much faster than they"
+    },
+    {
+      "start_ms": 267520,
+      "end_ms": 272960,
+      "start": "00:04:27.520",
+      "end": "00:04:32.960",
+      "text": "used to in Overwatch one. Reason number"
+    },
+    {
+      "start_ms": 269600,
+      "end_ms": 275840,
+      "start": "00:04:29.600",
+      "end": "00:04:35.840",
+      "text": "two, it is much easier and much better"
+    },
+    {
+      "start_ms": 272960,
+      "end_ms": 277759,
+      "start": "00:04:32.960",
+      "end": "00:04:37.759",
+      "text": "to make enemy ults bad in Overwatch 2."
+    },
+    {
+      "start_ms": 275840,
+      "end_ms": 279440,
+      "start": "00:04:35.840",
+      "end": "00:04:39.440",
+      "text": "Playing ult economy on its own is not"
+    },
+    {
+      "start_ms": 277759,
+      "end_ms": 281600,
+      "start": "00:04:37.759",
+      "end": "00:04:41.600",
+      "text": "worth as much anymore because it's much"
+    },
+    {
+      "start_ms": 279440,
+      "end_ms": 284800,
+      "start": "00:04:39.440",
+      "end": "00:04:44.800",
+      "text": "easier to kite and overall avoid losing"
+    },
+    {
+      "start_ms": 281600,
+      "end_ms": 286400,
+      "start": "00:04:41.600",
+      "end": "00:04:46.400",
+      "text": "to enemy ults than it used to be. Why?"
+    },
+    {
+      "start_ms": 284800,
+      "end_ms": 288560,
+      "start": "00:04:44.800",
+      "end": "00:04:48.560",
+      "text": "Tanks are much stronger than they used"
+    },
+    {
+      "start_ms": 286400,
+      "end_ms": 290639,
+      "start": "00:04:46.400",
+      "end": "00:04:50.639",
+      "text": "to be. In Overwatch one, most of your"
+    },
+    {
+      "start_ms": 288560,
+      "end_ms": 292000,
+      "start": "00:04:48.560",
+      "end": "00:04:52.000",
+      "text": "ults could be used to kill a tank. In"
+    },
+    {
+      "start_ms": 290639,
+      "end_ms": 294240,
+      "start": "00:04:50.639",
+      "end": "00:04:54.240",
+      "text": "Overwatch 2, this is basically"
+    },
+    {
+      "start_ms": 292000,
+      "end_ms": 296960,
+      "start": "00:04:52.000",
+      "end": "00:04:56.960",
+      "text": "impossible. Since a tank can handle"
+    },
+    {
+      "start_ms": 294240,
+      "end_ms": 299280,
+      "start": "00:04:54.240",
+      "end": "00:04:59.280",
+      "text": "taking five people's aggro and living,"
+    },
+    {
+      "start_ms": 296960,
+      "end_ms": 300720,
+      "start": "00:04:56.960",
+      "end": "00:05:00.720",
+      "text": "it's possible to let them walk up alone"
+    },
+    {
+      "start_ms": 299280,
+      "end_ms": 302720,
+      "start": "00:04:59.280",
+      "end": "00:05:02.720",
+      "text": "in a way that was not possible in"
+    },
+    {
+      "start_ms": 300720,
+      "end_ms": 304880,
+      "start": "00:05:00.720",
+      "end": "00:05:04.880",
+      "text": "Overwatch one. If you did this, your"
+    },
+    {
+      "start_ms": 302720,
+      "end_ms": 307039,
+      "start": "00:05:02.720",
+      "end": "00:05:07.039",
+      "text": "tanks would just die. Overall mobility"
+    },
+    {
+      "start_ms": 304880,
+      "end_ms": 309039,
+      "start": "00:05:04.880",
+      "end": "00:05:09.039",
+      "text": "is also much higher, further making this"
+    },
+    {
+      "start_ms": 307039,
+      "end_ms": 310880,
+      "start": "00:05:07.039",
+      "end": "00:05:10.880",
+      "text": "spacing concept really important since"
+    },
+    {
+      "start_ms": 309039,
+      "end_ms": 313280,
+      "start": "00:05:09.039",
+      "end": "00:05:13.280",
+      "text": "it's easier to kite and that much harder"
+    },
+    {
+      "start_ms": 310880,
+      "end_ms": 315039,
+      "start": "00:05:10.880",
+      "end": "00:05:15.039",
+      "text": "to chase a team down if they space yours"
+    },
+    {
+      "start_ms": 313280,
+      "end_ms": 317360,
+      "start": "00:05:13.280",
+      "end": "00:05:17.360",
+      "text": "properly. Because this type of spacing"
+    },
+    {
+      "start_ms": 315039,
+      "end_ms": 318960,
+      "start": "00:05:15.039",
+      "end": "00:05:18.960",
+      "text": "is allowed, it's way easier to kite than"
+    },
+    {
+      "start_ms": 317360,
+      "end_ms": 320560,
+      "start": "00:05:17.360",
+      "end": "00:05:20.560",
+      "text": "it used to be. In Overwatch one, if you"
+    },
+    {
+      "start_ms": 318960,
+      "end_ms": 322160,
+      "start": "00:05:18.960",
+      "end": "00:05:22.160",
+      "text": "use the rights, you would simply win the"
+    },
+    {
+      "start_ms": 320560,
+      "end_ms": 324240,
+      "start": "00:05:20.560",
+      "end": "00:05:24.240",
+      "text": "fight. This fight is a brawl mirror from"
+    },
+    {
+      "start_ms": 322160,
+      "end_ms": 326080,
+      "start": "00:05:22.160",
+      "end": "00:05:26.080",
+      "text": "Overwatch one. Shock is defending point"
+    },
+    {
+      "start_ms": 324240,
+      "end_ms": 327280,
+      "start": "00:05:24.240",
+      "end": "00:05:27.280",
+      "text": "and Dallas Fuel is going to walk up."
+    },
+    {
+      "start_ms": 326080,
+      "end_ms": 329840,
+      "start": "00:05:26.080",
+      "end": "00:05:29.840",
+      "text": "However, because of the nature of"
+    },
+    {
+      "start_ms": 327280,
+      "end_ms": 331759,
+      "start": "00:05:27.280",
+      "end": "00:05:31.759",
+      "text": "Overwatch one in killable tanks, if"
+    },
+    {
+      "start_ms": 329840,
+      "end_ms": 333600,
+      "start": "00:05:29.840",
+      "end": "00:05:33.600",
+      "text": "Dallas tries to bait their tanks on this"
+    },
+    {
+      "start_ms": 331759,
+      "end_ms": 335759,
+      "start": "00:05:31.759",
+      "end": "00:05:35.759",
+      "text": "walk up and let their tanks tank the"
+    },
+    {
+      "start_ms": 333600,
+      "end_ms": 337360,
+      "start": "00:05:33.600",
+      "end": "00:05:37.360",
+      "text": "aggro of the support alts, the tanks"
+    },
+    {
+      "start_ms": 335759,
+      "end_ms": 340240,
+      "start": "00:05:35.759",
+      "end": "00:05:40.240",
+      "text": "will just die and you'll lose the fight"
+    },
+    {
+      "start_ms": 337360,
+      "end_ms": 341600,
+      "start": "00:05:37.360",
+      "end": "00:05:41.600",
+      "text": "anyways. Here, Shock use B and Nano, and"
+    },
+    {
+      "start_ms": 340240,
+      "end_ms": 343840,
+      "start": "00:05:40.240",
+      "end": "00:05:43.840",
+      "text": "they're simply able to kill the enemy"
+    },
+    {
+      "start_ms": 341600,
+      "end_ms": 345840,
+      "start": "00:05:41.600",
+      "end": "00:05:45.840",
+      "text": "tank. In Overwatch 2, this plays out a"
+    },
+    {
+      "start_ms": 343840,
+      "end_ms": 347600,
+      "start": "00:05:43.840",
+      "end": "00:05:47.600",
+      "text": "lot differently. On walk-ups, you're"
+    },
+    {
+      "start_ms": 345840,
+      "end_ms": 350000,
+      "start": "00:05:45.840",
+      "end": "00:05:50.000",
+      "text": "allowed to let your front line walk in"
+    },
+    {
+      "start_ms": 347600,
+      "end_ms": 352720,
+      "start": "00:05:47.600",
+      "end": "00:05:52.720",
+      "text": "completely alone, and if they play"
+    },
+    {
+      "start_ms": 350000,
+      "end_ms": 354960,
+      "start": "00:05:50.000",
+      "end": "00:05:54.960",
+      "text": "properly, they will not die if the enemy"
+    },
+    {
+      "start_ms": 352720,
+      "end_ms": 356960,
+      "start": "00:05:52.720",
+      "end": "00:05:56.960",
+      "text": "team uses an alt. This gives you a"
+    },
+    {
+      "start_ms": 354960,
+      "end_ms": 358960,
+      "start": "00:05:54.960",
+      "end": "00:05:58.960",
+      "text": "gigantic Overwatch 2 exclusive"
+    },
+    {
+      "start_ms": 356960,
+      "end_ms": 361280,
+      "start": "00:05:56.960",
+      "end": "00:06:01.280",
+      "text": "counterplay tool against enemy old"
+    },
+    {
+      "start_ms": 358960,
+      "end_ms": 363280,
+      "start": "00:05:58.960",
+      "end": "00:06:03.280",
+      "text": "economy. To be clear, I'm not saying"
+    },
+    {
+      "start_ms": 361280,
+      "end_ms": 365520,
+      "start": "00:06:01.280",
+      "end": "00:06:05.520",
+      "text": "that kiting was impossible in Overwatch"
+    },
+    {
+      "start_ms": 363280,
+      "end_ms": 367840,
+      "start": "00:06:03.280",
+      "end": "00:06:07.840",
+      "text": "one. I'm simply saying in Overwatch 2,"
+    },
+    {
+      "start_ms": 365520,
+      "end_ms": 369759,
+      "start": "00:06:05.520",
+      "end": "00:06:09.759",
+      "text": "it's much easier and a much more"
+    },
+    {
+      "start_ms": 367840,
+      "end_ms": 372160,
+      "start": "00:06:07.840",
+      "end": "00:06:12.160",
+      "text": "successfully used tool to deal with this"
+    },
+    {
+      "start_ms": 369759,
+      "end_ms": 374720,
+      "start": "00:06:09.759",
+      "end": "00:06:14.720",
+      "text": "problem. Here, Sakura is defending Kings"
+    },
+    {
+      "start_ms": 372160,
+      "end_ms": 376080,
+      "start": "00:06:12.160",
+      "end": "00:06:16.080",
+      "text": "Row second with a close hold on spawn."
+    },
+    {
+      "start_ms": 374720,
+      "end_ms": 377919,
+      "start": "00:06:14.720",
+      "end": "00:06:17.919",
+      "text": "Nightmare is going to flip through the"
+    },
+    {
+      "start_ms": 376080,
+      "end_ms": 380080,
+      "start": "00:06:16.080",
+      "end": "00:06:20.080",
+      "text": "bottom right and take the position of"
+    },
+    {
+      "start_ms": 377919,
+      "end_ms": 382240,
+      "start": "00:06:17.919",
+      "end": "00:06:22.240",
+      "text": "the defending team. Sakura effectively"
+    },
+    {
+      "start_ms": 380080,
+      "end_ms": 384800,
+      "start": "00:06:20.080",
+      "end": "00:06:24.800",
+      "text": "ends up doing a retake and pretends to"
+    },
+    {
+      "start_ms": 382240,
+      "end_ms": 386639,
+      "start": "00:06:22.240",
+      "end": "00:06:26.639",
+      "text": "be the team attacking King 0. Sakura is"
+    },
+    {
+      "start_ms": 384800,
+      "end_ms": 388800,
+      "start": "00:06:24.800",
+      "end": "00:06:28.800",
+      "text": "going to have Zeb and Zomba walk up"
+    },
+    {
+      "start_ms": 386639,
+      "end_ms": 390880,
+      "start": "00:06:26.639",
+      "end": "00:06:30.880",
+      "text": "alone and poke very hard while the"
+    },
+    {
+      "start_ms": 388800,
+      "end_ms": 392880,
+      "start": "00:06:28.800",
+      "end": "00:06:32.880",
+      "text": "backline stays far out of engage range."
+    },
+    {
+      "start_ms": 390880,
+      "end_ms": 394880,
+      "start": "00:06:30.880",
+      "end": "00:06:34.880",
+      "text": "This means when Luke Mino sees Sakura"
+    },
+    {
+      "start_ms": 392880,
+      "end_ms": 397360,
+      "start": "00:06:32.880",
+      "end": "00:06:37.360",
+      "text": "walking up, he thinks the whole team is"
+    },
+    {
+      "start_ms": 394880,
+      "end_ms": 399919,
+      "start": "00:06:34.880",
+      "end": "00:06:39.919",
+      "text": "walking up and pops Rush. Rush, however,"
+    },
+    {
+      "start_ms": 397360,
+      "end_ms": 401680,
+      "start": "00:06:37.360",
+      "end": "00:06:41.680",
+      "text": "is not able to kill an Orisa, and Sakura"
+    },
+    {
+      "start_ms": 399919,
+      "end_ms": 403039,
+      "start": "00:06:39.919",
+      "end": "00:06:43.039",
+      "text": "is going to cleanly kite this old,"
+    },
+    {
+      "start_ms": 401680,
+      "end_ms": 404800,
+      "start": "00:06:41.680",
+      "end": "00:06:44.800",
+      "text": "making a fight that would have been free"
+    },
+    {
+      "start_ms": 403039,
+      "end_ms": 407280,
+      "start": "00:06:43.039",
+      "end": "00:06:47.280",
+      "text": "in Overwatch one by just killing the"
+    },
+    {
+      "start_ms": 404800,
+      "end_ms": 409600,
+      "start": "00:06:44.800",
+      "end": "00:06:49.600",
+      "text": "tank a more complicated and nuanced"
+    },
+    {
+      "start_ms": 407280,
+      "end_ms": 411199,
+      "start": "00:06:47.280",
+      "end": "00:06:51.199",
+      "text": "fight in Overwatch 2. Because of this,"
+    },
+    {
+      "start_ms": 409600,
+      "end_ms": 413199,
+      "start": "00:06:49.600",
+      "end": "00:06:53.199",
+      "text": "teams that play much better than other"
+    },
+    {
+      "start_ms": 411199,
+      "end_ms": 415680,
+      "start": "00:06:51.199",
+      "end": "00:06:55.680",
+      "text": "teams can completely neutralize the old"
+    },
+    {
+      "start_ms": 413199,
+      "end_ms": 417600,
+      "start": "00:06:53.199",
+      "end": "00:06:57.600",
+      "text": "economy by baiting and spacing properly."
+    },
+    {
+      "start_ms": 415680,
+      "end_ms": 419360,
+      "start": "00:06:55.680",
+      "end": "00:06:59.360",
+      "text": "In addition, teams that are similarly"
+    },
+    {
+      "start_ms": 417600,
+      "end_ms": 421599,
+      "start": "00:06:57.600",
+      "end": "00:07:01.599",
+      "text": "matched in skill end up passing these"
+    },
+    {
+      "start_ms": 419360,
+      "end_ms": 423599,
+      "start": "00:06:59.360",
+      "end": "00:07:03.599",
+      "text": "skill checks properly. And it's very"
+    },
+    {
+      "start_ms": 421599,
+      "end_ms": 425440,
+      "start": "00:07:01.599",
+      "end": "00:07:05.440",
+      "text": "common to see those teams just mirroring"
+    },
+    {
+      "start_ms": 423599,
+      "end_ms": 428800,
+      "start": "00:07:03.599",
+      "end": "00:07:08.800",
+      "text": "ults or the amount of ults they use"
+    },
+    {
+      "start_ms": 425440,
+      "end_ms": 430479,
+      "start": "00:07:05.440",
+      "end": "00:07:10.479",
+      "text": "quite often. This is very, very common."
+    },
+    {
+      "start_ms": 428800,
+      "end_ms": 431840,
+      "start": "00:07:08.800",
+      "end": "00:07:11.840",
+      "text": "And in these matchups at a high level,"
+    },
+    {
+      "start_ms": 430479,
+      "end_ms": 433919,
+      "start": "00:07:10.479",
+      "end": "00:07:13.919",
+      "text": "most of these fights are decided by"
+    },
+    {
+      "start_ms": 431840,
+      "end_ms": 436160,
+      "start": "00:07:11.840",
+      "end": "00:07:16.160",
+      "text": "everything except for ult economy. If"
+    },
+    {
+      "start_ms": 433919,
+      "end_ms": 438400,
+      "start": "00:07:13.919",
+      "end": "00:07:18.400",
+      "text": "both teams are mirroring, if you watch"
+    },
+    {
+      "start_ms": 436160,
+      "end_ms": 440400,
+      "start": "00:07:16.160",
+      "end": "00:07:20.400",
+      "text": "an ODCS brawl mirror and take a shot"
+    },
+    {
+      "start_ms": 438400,
+      "end_ms": 442000,
+      "start": "00:07:18.400",
+      "end": "00:07:22.000",
+      "text": "every time the teams match Kiwi Rush on"
+    },
+    {
+      "start_ms": 440400,
+      "end_ms": 444639,
+      "start": "00:07:20.400",
+      "end": "00:07:24.639",
+      "text": "each other, you will die of alcohol"
+    },
+    {
+      "start_ms": 442000,
+      "end_ms": 447599,
+      "start": "00:07:22.000",
+      "end": "00:07:27.599",
+      "text": "poisoning. Reason number three, it is"
+    },
+    {
+      "start_ms": 444639,
+      "end_ms": 450400,
+      "start": "00:07:24.639",
+      "end": "00:07:30.400",
+      "text": "much more negatively impactful to lose a"
+    },
+    {
+      "start_ms": 447599,
+      "end_ms": 452960,
+      "start": "00:07:27.599",
+      "end": "00:07:32.960",
+      "text": "fight than it used to be. Why? The team"
+    },
+    {
+      "start_ms": 450400,
+      "end_ms": 455520,
+      "start": "00:07:30.400",
+      "end": "00:07:35.520",
+      "text": "that wins a fight builds significantly"
+    },
+    {
+      "start_ms": 452960,
+      "end_ms": 457599,
+      "start": "00:07:32.960",
+      "end": "00:07:37.599",
+      "text": "more ults than the team that loses. This"
+    },
+    {
+      "start_ms": 455520,
+      "end_ms": 459840,
+      "start": "00:07:35.520",
+      "end": "00:07:39.840",
+      "text": "means if a team used two ults to the"
+    },
+    {
+      "start_ms": 457599,
+      "end_ms": 462080,
+      "start": "00:07:37.599",
+      "end": "00:07:42.080",
+      "text": "enemy team's zero ults to win a fight,"
+    },
+    {
+      "start_ms": 459840,
+      "end_ms": 463840,
+      "start": "00:07:39.840",
+      "end": "00:07:43.840",
+      "text": "they often build significantly more ult"
+    },
+    {
+      "start_ms": 462080,
+      "end_ms": 465680,
+      "start": "00:07:42.080",
+      "end": "00:07:45.680",
+      "text": "during the cleanup of that fight and"
+    },
+    {
+      "start_ms": 463840,
+      "end_ms": 467360,
+      "start": "00:07:43.840",
+      "end": "00:07:47.360",
+      "text": "during the poke between those fights."
+    },
+    {
+      "start_ms": 465680,
+      "end_ms": 468960,
+      "start": "00:07:45.680",
+      "end": "00:07:48.960",
+      "text": "This depends a lot on the specific meta"
+    },
+    {
+      "start_ms": 467360,
+      "end_ms": 470880,
+      "start": "00:07:47.360",
+      "end": "00:07:50.880",
+      "text": "in comp, and is very different across"
+    },
+    {
+      "start_ms": 468960,
+      "end_ms": 472880,
+      "start": "00:07:48.960",
+      "end": "00:07:52.880",
+      "text": "different metas. The team that loses"
+    },
+    {
+      "start_ms": 470880,
+      "end_ms": 474800,
+      "start": "00:07:50.880",
+      "end": "00:07:54.800",
+      "text": "also needs to retake the next fight. And"
+    },
+    {
+      "start_ms": 472880,
+      "end_ms": 476400,
+      "start": "00:07:52.880",
+      "end": "00:07:56.400",
+      "text": "retakes are much more complicated and"
+    },
+    {
+      "start_ms": 474800,
+      "end_ms": 478319,
+      "start": "00:07:54.800",
+      "end": "00:07:58.319",
+      "text": "difficult in Overwatch 2 than they used"
+    },
+    {
+      "start_ms": 476400,
+      "end_ms": 480160,
+      "start": "00:07:56.400",
+      "end": "00:08:00.160",
+      "text": "to be in Overwatch one. In Overwatch 2,"
+    },
+    {
+      "start_ms": 478319,
+      "end_ms": 482639,
+      "start": "00:07:58.319",
+      "end": "00:08:02.639",
+      "text": "having to retake is a gigantic"
+    },
+    {
+      "start_ms": 480160,
+      "end_ms": 484479,
+      "start": "00:08:00.160",
+      "end": "00:08:04.479",
+      "text": "disadvantage, similar to or worse than"
+    },
+    {
+      "start_ms": 482639,
+      "end_ms": 486240,
+      "start": "00:08:02.639",
+      "end": "00:08:06.240",
+      "text": "being down an ult as the fight is"
+    },
+    {
+      "start_ms": 484479,
+      "end_ms": 487759,
+      "start": "00:08:04.479",
+      "end": "00:08:07.759",
+      "text": "starting. A notable exception to this"
+    },
+    {
+      "start_ms": 486240,
+      "end_ms": 490160,
+      "start": "00:08:06.240",
+      "end": "00:08:10.160",
+      "text": "are the offtank comps I mentioned"
+    },
+    {
+      "start_ms": 487759,
+      "end_ms": 491919,
+      "start": "00:08:07.759",
+      "end": "00:08:11.919",
+      "text": "earlier, which is a big part of why old"
+    },
+    {
+      "start_ms": 490160,
+      "end_ms": 494080,
+      "start": "00:08:10.160",
+      "end": "00:08:14.080",
+      "text": "economy concepts are still so impactful"
+    },
+    {
+      "start_ms": 491919,
+      "end_ms": 495759,
+      "start": "00:08:11.919",
+      "end": "00:08:15.759",
+      "text": "on those comps. This forced messy trade"
+    },
+    {
+      "start_ms": 494080,
+      "end_ms": 498160,
+      "start": "00:08:14.080",
+      "end": "00:08:18.160",
+      "text": "fight from earlier where Seeker was able"
+    },
+    {
+      "start_ms": 495759,
+      "end_ms": 499759,
+      "start": "00:08:15.759",
+      "end": "00:08:19.759",
+      "text": "to trade bolt DPS is now cleaned up. And"
+    },
+    {
+      "start_ms": 498160,
+      "end_ms": 501759,
+      "start": "00:08:18.160",
+      "end": "00:08:21.759",
+      "text": "look at the old charges. The fight"
+    },
+    {
+      "start_ms": 499759,
+      "end_ms": 504639,
+      "start": "00:08:19.759",
+      "end": "00:08:24.639",
+      "text": "before this, Nightmare just used Blade,"
+    },
+    {
+      "start_ms": 501759,
+      "end_ms": 506479,
+      "start": "00:08:21.759",
+      "end": "00:08:26.479",
+      "text": "Orisa, and Rally. And during this fight,"
+    },
+    {
+      "start_ms": 504639,
+      "end_ms": 509280,
+      "start": "00:08:24.639",
+      "end": "00:08:29.280",
+      "text": "they used Noon. Yet, they are about to"
+    },
+    {
+      "start_ms": 506479,
+      "end_ms": 511440,
+      "start": "00:08:26.479",
+      "end": "00:08:31.440",
+      "text": "have Orisa and Rally again, as well as"
+    },
+    {
+      "start_ms": 509280,
+      "end_ms": 513360,
+      "start": "00:08:29.280",
+      "end": "00:08:33.360",
+      "text": "building an entire Noon during the"
+    },
+    {
+      "start_ms": 511440,
+      "end_ms": 514800,
+      "start": "00:08:31.440",
+      "end": "00:08:34.800",
+      "text": "cleanup of this fight. Since these three"
+    },
+    {
+      "start_ms": 513360,
+      "end_ms": 516640,
+      "start": "00:08:33.360",
+      "end": "00:08:36.640",
+      "text": "people contribute heavily to the"
+    },
+    {
+      "start_ms": 514800,
+      "end_ms": 518320,
+      "start": "00:08:34.800",
+      "end": "00:08:38.320",
+      "text": "cleanup, they significantly gap their"
+    },
+    {
+      "start_ms": 516640,
+      "end_ms": 520320,
+      "start": "00:08:36.640",
+      "end": "00:08:40.320",
+      "text": "counterparts in charge build. Even"
+    },
+    {
+      "start_ms": 518320,
+      "end_ms": 522800,
+      "start": "00:08:38.320",
+      "end": "00:08:42.800",
+      "text": "though they used more ults to win the"
+    },
+    {
+      "start_ms": 520320,
+      "end_ms": 525360,
+      "start": "00:08:40.320",
+      "end": "00:08:45.360",
+      "text": "fight, they end up building two extra"
+    },
+    {
+      "start_ms": 522800,
+      "end_ms": 526880,
+      "start": "00:08:42.800",
+      "end": "00:08:46.880",
+      "text": "ults worth of charge because of it. They"
+    },
+    {
+      "start_ms": 525360,
+      "end_ms": 528640,
+      "start": "00:08:45.360",
+      "end": "00:08:48.640",
+      "text": "also get to control the setup of the"
+    },
+    {
+      "start_ms": 526880,
+      "end_ms": 530399,
+      "start": "00:08:46.880",
+      "end": "00:08:50.399",
+      "text": "next fight. Since they won, they're able"
+    },
+    {
+      "start_ms": 528640,
+      "end_ms": 533120,
+      "start": "00:08:48.640",
+      "end": "00:08:53.120",
+      "text": "to easily build the rest of these ults"
+    },
+    {
+      "start_ms": 530399,
+      "end_ms": 535120,
+      "start": "00:08:50.399",
+      "end": "00:08:55.120",
+      "text": "and an extra 30% to the other two before"
+    },
+    {
+      "start_ms": 533120,
+      "end_ms": 536560,
+      "start": "00:08:53.120",
+      "end": "00:08:56.560",
+      "text": "the next fight starts. Toronto is forced"
+    },
+    {
+      "start_ms": 535120,
+      "end_ms": 538000,
+      "start": "00:08:55.120",
+      "end": "00:08:58.000",
+      "text": "to retake here because they lost the"
+    },
+    {
+      "start_ms": 536560,
+      "end_ms": 539600,
+      "start": "00:08:56.560",
+      "end": "00:08:59.600",
+      "text": "fight, putting them at a massive"
+    },
+    {
+      "start_ms": 538000,
+      "end_ms": 541040,
+      "start": "00:08:58.000",
+      "end": "00:09:01.040",
+      "text": "disadvantage. They're forced to let"
+    },
+    {
+      "start_ms": 539600,
+      "end_ms": 544080,
+      "start": "00:08:59.600",
+      "end": "00:09:04.080",
+      "text": "Nightmare build these ults during the"
+    },
+    {
+      "start_ms": 541040,
+      "end_ms": 547519,
+      "start": "00:09:01.040",
+      "end": "00:09:07.519",
+      "text": "poke of the early fight. To conclude,"
+    },
+    {
+      "start_ms": 544080,
+      "end_ms": 550160,
+      "start": "00:09:04.080",
+      "end": "00:09:10.160",
+      "text": ">> ult economy does still exist obviously,"
+    },
+    {
+      "start_ms": 547519,
+      "end_ms": 552640,
+      "start": "00:09:07.519",
+      "end": "00:09:12.640",
+      "text": "but it is far far less important than it"
+    },
+    {
+      "start_ms": 550160,
+      "end_ms": 554480,
+      "start": "00:09:10.160",
+      "end": "00:09:14.480",
+      "text": "used to be. If old economy is your main"
+    },
+    {
+      "start_ms": 552640,
+      "end_ms": 556399,
+      "start": "00:09:12.640",
+      "end": "00:09:16.399",
+      "text": "form of game knowledge and analysis,"
+    },
+    {
+      "start_ms": 554480,
+      "end_ms": 558160,
+      "start": "00:09:14.480",
+      "end": "00:09:18.160",
+      "text": "you're doing yourself a major disservice"
+    },
+    {
+      "start_ms": 556399,
+      "end_ms": 560800,
+      "start": "00:09:16.399",
+      "end": "00:09:20.800",
+      "text": "and you are ignoring the vast majority"
+    },
+    {
+      "start_ms": 558160,
+      "end_ms": 563120,
+      "start": "00:09:18.160",
+      "end": "00:09:23.120",
+      "text": "of the game, please stop saying they"
+    },
+    {
+      "start_ms": 560800,
+      "end_ms": 566000,
+      "start": "00:09:20.800",
+      "end": "00:09:26.000",
+      "text": "used Xolts after losing a fight and"
+    },
+    {
+      "start_ms": 563120,
+      "end_ms": 568000,
+      "start": "00:09:23.120",
+      "end": "00:09:28.000",
+      "text": "thinking it was okay to lose."
+    },
+    {
+      "start_ms": 566000,
+      "end_ms": 570000,
+      "start": "00:09:26.000",
+      "end": "00:09:30.000",
+      "text": ">> Look closely at what is actually"
+    },
+    {
+      "start_ms": 568000,
+      "end_ms": 571839,
+      "start": "00:09:28.000",
+      "end": "00:09:31.839",
+      "text": "happening in games and pay attention to"
+    },
+    {
+      "start_ms": 570000,
+      "end_ms": 574560,
+      "start": "00:09:30.000",
+      "end": "00:09:34.560",
+      "text": "the teams that are winning in what they"
+    },
+    {
+      "start_ms": 571839,
+      "end_ms": 577040,
+      "start": "00:09:31.839",
+      "end": "00:09:37.040",
+      "text": "are doing. If you're the team saying"
+    },
+    {
+      "start_ms": 574560,
+      "end_ms": 579360,
+      "start": "00:09:34.560",
+      "end": "00:09:39.360",
+      "text": "they used XLTS, it's okay after losing"
+    },
+    {
+      "start_ms": 577040,
+      "end_ms": 580959,
+      "start": "00:09:37.040",
+      "end": "00:09:40.959",
+      "text": "the fight and then you lose the match."
+    },
+    {
+      "start_ms": 579360,
+      "end_ms": 582720,
+      "start": "00:09:39.360",
+      "end": "00:09:42.720",
+      "text": "If you look back closely, you will"
+    },
+    {
+      "start_ms": 580959,
+      "end_ms": 585360,
+      "start": "00:09:40.959",
+      "end": "00:09:45.360",
+      "text": "realize there are much more important"
+    },
+    {
+      "start_ms": 582720,
+      "end_ms": 585360,
+      "start": "00:09:42.720",
+      "end": "00:09:45.360",
+      "text": "things going"
+    }
+  ]
+}

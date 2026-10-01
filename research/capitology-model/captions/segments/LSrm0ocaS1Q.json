@@ -1,0 +1,3789 @@
+{
+  "video_id": "LSrm0ocaS1Q",
+  "title": "The Secret Rules to Pro Aim",
+  "url": "https://www.youtube.com/watch?v=LSrm0ocaS1Q",
+  "upload_date": "2025-11-15",
+  "duration_seconds": 1027,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:20:50.155925+00:00",
+  "source_sha256": "e97a02c321c422eae7dfc0f99b4587d565505fa5bf5d7b24a283b210bf371c2c",
+  "source_bytes": 310043,
+  "segment_count": 538,
+  "word_count": 3686,
+  "character_count": 18790,
+  "first_segment_ms": 0,
+  "last_segment_end_ms": 1029079,
+  "leading_gap_seconds": 0.0,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 0,
+      "end_ms": 4160,
+      "start": "00:00:00.000",
+      "end": "00:00:04.160",
+      "text": "In my retirement, I've had a lot of time"
+    },
+    {
+      "start_ms": 2120,
+      "end_ms": 6920,
+      "start": "00:00:02.120",
+      "end": "00:00:06.920",
+      "text": "to watch a lot of VODs."
+    },
+    {
+      "start_ms": 4160,
+      "end_ms": 9400,
+      "start": "00:00:04.160",
+      "end": "00:00:09.400",
+      "text": "It's become more apparent to me, and I"
+    },
+    {
+      "start_ms": 6920,
+      "end_ms": 11080,
+      "start": "00:00:06.920",
+      "end": "00:00:11.080",
+      "text": "used to think that like a lot of pros"
+    },
+    {
+      "start_ms": 9400,
+      "end_ms": 13120,
+      "start": "00:00:09.400",
+      "end": "00:00:13.120",
+      "text": "had similar levels of aim. Like I"
+    },
+    {
+      "start_ms": 11080,
+      "end_ms": 16160,
+      "start": "00:00:11.080",
+      "end": "00:00:16.160",
+      "text": "thought, for example, this was your"
+    },
+    {
+      "start_ms": 13120,
+      "end_ms": 17680,
+      "start": "00:00:13.120",
+      "end": "00:00:17.680",
+      "text": "average player, you know? This is like a"
+    },
+    {
+      "start_ms": 16160,
+      "end_ms": 19400,
+      "start": "00:00:16.160",
+      "end": "00:00:19.400",
+      "text": "GM player. I guess it's champ now,"
+    },
+    {
+      "start_ms": 17680,
+      "end_ms": 21560,
+      "start": "00:00:17.680",
+      "end": "00:00:21.560",
+      "text": "right? This is like a champ five player."
+    },
+    {
+      "start_ms": 19400,
+      "end_ms": 23080,
+      "start": "00:00:19.400",
+      "end": "00:00:23.080",
+      "text": "And then this was like a pro. This was"
+    },
+    {
+      "start_ms": 21560,
+      "end_ms": 24960,
+      "start": "00:00:21.560",
+      "end": "00:00:24.960",
+      "text": "basically as good as it got. The best"
+    },
+    {
+      "start_ms": 23080,
+      "end_ms": 27320,
+      "start": "00:00:23.080",
+      "end": "00:00:27.320",
+      "text": "pros were like slightly within this"
+    },
+    {
+      "start_ms": 24960,
+      "end_ms": 29280,
+      "start": "00:00:24.960",
+      "end": "00:00:29.280",
+      "text": "range, you know? My thoughts on it, and"
+    },
+    {
+      "start_ms": 27320,
+      "end_ms": 30960,
+      "start": "00:00:27.320",
+      "end": "00:00:30.960",
+      "text": "I didn't really know better, was just"
+    },
+    {
+      "start_ms": 29280,
+      "end_ms": 32200,
+      "start": "00:00:29.280",
+      "end": "00:00:32.200",
+      "text": "that it's good enough when you get to"
+    },
+    {
+      "start_ms": 30960,
+      "end_ms": 34120,
+      "start": "00:00:30.960",
+      "end": "00:00:34.120",
+      "text": "the pro level. Like all of them are good"
+    },
+    {
+      "start_ms": 32200,
+      "end_ms": 36320,
+      "start": "00:00:32.200",
+      "end": "00:00:36.320",
+      "text": "enough. And then what I realized over"
+    },
+    {
+      "start_ms": 34120,
+      "end_ms": 39200,
+      "start": "00:00:34.120",
+      "end": "00:00:39.200",
+      "text": "time was actually the best pros are are"
+    },
+    {
+      "start_ms": 36320,
+      "end_ms": 41760,
+      "start": "00:00:36.320",
+      "end": "00:00:41.760",
+      "text": "here. Like another leap above. The best"
+    },
+    {
+      "start_ms": 39200,
+      "end_ms": 43360,
+      "start": "00:00:39.200",
+      "end": "00:00:43.360",
+      "text": "pros to the the low pros, Korean top hit"
+    },
+    {
+      "start_ms": 41760,
+      "end_ms": 45560,
+      "start": "00:00:41.760",
+      "end": "00:00:45.560",
+      "text": "scans to like hit scans that we would"
+    },
+    {
+      "start_ms": 43360,
+      "end_ms": 48000,
+      "start": "00:00:43.360",
+      "end": "00:00:48.000",
+      "text": "still consider good. The difference is"
+    },
+    {
+      "start_ms": 45560,
+      "end_ms": 49800,
+      "start": "00:00:45.560",
+      "end": "00:00:49.800",
+      "text": "another full tier break. One of the big"
+    },
+    {
+      "start_ms": 48000,
+      "end_ms": 51440,
+      "start": "00:00:48.000",
+      "end": "00:00:51.440",
+      "text": "things that you see when you watch like"
+    },
+    {
+      "start_ms": 49800,
+      "end_ms": 54520,
+      "start": "00:00:49.800",
+      "end": "00:00:54.520",
+      "text": "the really good hit scans, Lip and"
+    },
+    {
+      "start_ms": 51440,
+      "end_ms": 56120,
+      "start": "00:00:51.440",
+      "end": "00:00:56.120",
+      "text": "Profit are very clearly in one camp. And"
+    },
+    {
+      "start_ms": 54520,
+      "end_ms": 58080,
+      "start": "00:00:54.520",
+      "end": "00:00:58.080",
+      "text": "most of the flex DPS are kind of in this"
+    },
+    {
+      "start_ms": 56120,
+      "end_ms": 61120,
+      "start": "00:00:56.120",
+      "end": "00:01:01.120",
+      "text": "other camp. Like when I watched Stalker"
+    },
+    {
+      "start_ms": 58080,
+      "end_ms": 63920,
+      "start": "00:00:58.080",
+      "end": "00:01:03.920",
+      "text": "play hit scan in that Korean stage two,"
+    },
+    {
+      "start_ms": 61120,
+      "end_ms": 65480,
+      "start": "00:01:01.120",
+      "end": "00:01:05.480",
+      "text": "like the Cass, uh Orisa Genji comp. When"
+    },
+    {
+      "start_ms": 63920,
+      "end_ms": 67200,
+      "start": "00:01:03.920",
+      "end": "00:01:07.200",
+      "text": "Stalker was playing Cass in that meta,"
+    },
+    {
+      "start_ms": 65480,
+      "end_ms": 70440,
+      "start": "00:01:05.480",
+      "end": "00:01:10.440",
+      "text": "he very clearly had a a different aim"
+    },
+    {
+      "start_ms": 67200,
+      "end_ms": 71920,
+      "start": "00:01:07.200",
+      "end": "00:01:11.920",
+      "text": "style. And also Ryan. Theory aim, raw"
+    },
+    {
+      "start_ms": 70440,
+      "end_ms": 74000,
+      "start": "00:01:10.440",
+      "end": "00:01:14.000",
+      "text": "aim."
+    },
+    {
+      "start_ms": 71920,
+      "end_ms": 75440,
+      "start": "00:01:11.920",
+      "end": "00:01:15.440",
+      "text": "And this is not to say that people don't"
+    },
+    {
+      "start_ms": 74000,
+      "end_ms": 77480,
+      "start": "00:01:14.000",
+      "end": "00:01:17.480",
+      "text": "do both, right? But this is just what's"
+    },
+    {
+      "start_ms": 75440,
+      "end_ms": 79280,
+      "start": "00:01:15.440",
+      "end": "00:01:19.280",
+      "text": "obvious from their play style. The"
+    },
+    {
+      "start_ms": 77480,
+      "end_ms": 81640,
+      "start": "00:01:17.480",
+      "end": "00:01:21.640",
+      "text": "difference between these, when you watch"
+    },
+    {
+      "start_ms": 79280,
+      "end_ms": 85040,
+      "start": "00:01:19.280",
+      "end": "00:01:25.040",
+      "text": "them closely, is that these people"
+    },
+    {
+      "start_ms": 81640,
+      "end_ms": 87920,
+      "start": "00:01:21.640",
+      "end": "00:01:27.920",
+      "text": "understand all of the theory behind the"
+    },
+    {
+      "start_ms": 85040,
+      "end_ms": 91160,
+      "start": "00:01:25.040",
+      "end": "00:01:31.160",
+      "text": "way that enemies move, really really"
+    },
+    {
+      "start_ms": 87920,
+      "end_ms": 92560,
+      "start": "00:01:27.920",
+      "end": "00:01:32.560",
+      "text": "understand movement patterns, and when"
+    },
+    {
+      "start_ms": 91160,
+      "end_ms": 94560,
+      "start": "00:01:31.160",
+      "end": "00:01:34.560",
+      "text": "in a movement pattern you're supposed to"
+    },
+    {
+      "start_ms": 92560,
+      "end_ms": 96320,
+      "start": "00:01:32.560",
+      "end": "00:01:36.320",
+      "text": "jump in, and how you're supposed to jump"
+    },
+    {
+      "start_ms": 94560,
+      "end_ms": 98280,
+      "start": "00:01:34.560",
+      "end": "00:01:38.280",
+      "text": "into a movement pattern. And because"
+    },
+    {
+      "start_ms": 96320,
+      "end_ms": 100200,
+      "start": "00:01:36.320",
+      "end": "00:01:40.200",
+      "text": "they do this kind of movement pattern"
+    },
+    {
+      "start_ms": 98280,
+      "end_ms": 101840,
+      "start": "00:01:38.280",
+      "end": "00:01:41.840",
+      "text": "recognition, how do I jump in and when"
+    },
+    {
+      "start_ms": 100200,
+      "end_ms": 104040,
+      "start": "00:01:40.200",
+      "end": "00:01:44.040",
+      "text": "do I jump into this movement pattern to"
+    },
+    {
+      "start_ms": 101840,
+      "end_ms": 105240,
+      "start": "00:01:41.840",
+      "end": "00:01:45.240",
+      "text": "hit the shot consistently, it looks very"
+    },
+    {
+      "start_ms": 104040,
+      "end_ms": 106280,
+      "start": "00:01:44.040",
+      "end": "00:01:46.280",
+      "text": "different, and it's also way more"
+    },
+    {
+      "start_ms": 105240,
+      "end_ms": 108880,
+      "start": "00:01:45.240",
+      "end": "00:01:48.880",
+      "text": "consistent. Like this is just"
+    },
+    {
+      "start_ms": 106280,
+      "end_ms": 111120,
+      "start": "00:01:46.280",
+      "end": "00:01:51.120",
+      "text": "objectively the best way to aim for most"
+    },
+    {
+      "start_ms": 108880,
+      "end_ms": 113280,
+      "start": "00:01:48.880",
+      "end": "00:01:53.280",
+      "text": "people. These people on the right just"
+    },
+    {
+      "start_ms": 111120,
+      "end_ms": 115720,
+      "start": "00:01:51.120",
+      "end": "00:01:55.720",
+      "text": "use pure right hand skill, right? Like"
+    },
+    {
+      "start_ms": 113280,
+      "end_ms": 117840,
+      "start": "00:01:53.280",
+      "end": "00:01:57.840",
+      "text": "just put my mouse cursor onto the"
+    },
+    {
+      "start_ms": 115720,
+      "end_ms": 120600,
+      "start": "00:01:55.720",
+      "end": "00:02:00.600",
+      "text": "person's head from wherever the position"
+    },
+    {
+      "start_ms": 117840,
+      "end_ms": 122360,
+      "start": "00:01:57.840",
+      "end": "00:02:02.360",
+      "text": "is that I am. This is the way that you"
+    },
+    {
+      "start_ms": 120600,
+      "end_ms": 125240,
+      "start": "00:02:00.600",
+      "end": "00:02:05.240",
+      "text": "do it when you just have overwhelming"
+    },
+    {
+      "start_ms": 122360,
+      "end_ms": 126720,
+      "start": "00:02:02.360",
+      "end": "00:02:06.720",
+      "text": "raw talent. You mostly worry about other"
+    },
+    {
+      "start_ms": 125240,
+      "end_ms": 127680,
+      "start": "00:02:05.240",
+      "end": "00:02:07.680",
+      "text": "things. They're thinking about their"
+    },
+    {
+      "start_ms": 126720,
+      "end_ms": 129080,
+      "start": "00:02:06.720",
+      "end": "00:02:09.080",
+      "text": "blinks, they're thinking about their"
+    },
+    {
+      "start_ms": 127680,
+      "end_ms": 130960,
+      "start": "00:02:07.680",
+      "end": "00:02:10.960",
+      "text": "movement, their own movement, right?"
+    },
+    {
+      "start_ms": 129080,
+      "end_ms": 132840,
+      "start": "00:02:09.080",
+      "end": "00:02:12.840",
+      "text": "Like these players basically don't focus"
+    },
+    {
+      "start_ms": 130960,
+      "end_ms": 135840,
+      "start": "00:02:10.960",
+      "end": "00:02:15.840",
+      "text": "on their movement at all. Profit has"
+    },
+    {
+      "start_ms": 132840,
+      "end_ms": 137480,
+      "start": "00:02:12.840",
+      "end": "00:02:17.480",
+      "text": "told Chopper, and Profit says, \"I don't"
+    },
+    {
+      "start_ms": 135840,
+      "end_ms": 138960,
+      "start": "00:02:15.840",
+      "end": "00:02:18.960",
+      "text": "think about my movement at all. I just"
+    },
+    {
+      "start_ms": 137480,
+      "end_ms": 140680,
+      "start": "00:02:17.480",
+      "end": "00:02:20.680",
+      "text": "try and kill the other person.\" What you"
+    },
+    {
+      "start_ms": 138960,
+      "end_ms": 142320,
+      "start": "00:02:18.960",
+      "end": "00:02:22.320",
+      "text": "see from Lip is mostly theory side,"
+    },
+    {
+      "start_ms": 140680,
+      "end_ms": 143720,
+      "start": "00:02:20.680",
+      "end": "00:02:23.720",
+      "text": "right? So this, first of all, right"
+    },
+    {
+      "start_ms": 142320,
+      "end_ms": 146360,
+      "start": "00:02:22.320",
+      "end": "00:02:26.360",
+      "text": "away,"
+    },
+    {
+      "start_ms": 143720,
+      "end_ms": 148400,
+      "start": "00:02:23.720",
+      "end": "00:02:28.400",
+      "text": "this first clip, right? So you see when"
+    },
+    {
+      "start_ms": 146360,
+      "end_ms": 150640,
+      "start": "00:02:26.360",
+      "end": "00:02:30.640",
+      "text": "he's he sees this guy, right? It's a"
+    },
+    {
+      "start_ms": 148400,
+      "end_ms": 153680,
+      "start": "00:02:28.400",
+      "end": "00:02:33.680",
+      "text": "this is the way that most of the theory"
+    },
+    {
+      "start_ms": 150640,
+      "end_ms": 155720,
+      "start": "00:02:30.640",
+      "end": "00:02:35.720",
+      "text": "aiming people do this. Is he sees this"
+    },
+    {
+      "start_ms": 153680,
+      "end_ms": 158320,
+      "start": "00:02:33.680",
+      "end": "00:02:38.320",
+      "text": "Widow, as I scoped in, this guy's"
+    },
+    {
+      "start_ms": 155720,
+      "end_ms": 160400,
+      "start": "00:02:35.720",
+      "end": "00:02:40.400",
+      "text": "strafing left, right? And so what this"
+    },
+    {
+      "start_ms": 158320,
+      "end_ms": 162160,
+      "start": "00:02:38.320",
+      "end": "00:02:42.160",
+      "text": "means is I have two options when you see"
+    },
+    {
+      "start_ms": 160400,
+      "end_ms": 163880,
+      "start": "00:02:40.400",
+      "end": "00:02:43.880",
+      "text": "someone strafing."
+    },
+    {
+      "start_ms": 162160,
+      "end_ms": 166160,
+      "start": "00:02:42.160",
+      "end": "00:02:46.160",
+      "text": "Is you can try to cut off the strafe,"
+    },
+    {
+      "start_ms": 163880,
+      "end_ms": 168000,
+      "start": "00:02:43.880",
+      "end": "00:02:48.000",
+      "text": "which would be to move my crosshair here"
+    },
+    {
+      "start_ms": 166160,
+      "end_ms": 170320,
+      "start": "00:02:46.160",
+      "end": "00:02:50.320",
+      "text": "to this side, right?"
+    },
+    {
+      "start_ms": 168000,
+      "end_ms": 171680,
+      "start": "00:02:48.000",
+      "end": "00:02:51.680",
+      "text": "Or you can wait for them to do the next"
+    },
+    {
+      "start_ms": 170320,
+      "end_ms": 173920,
+      "start": "00:02:50.320",
+      "end": "00:02:53.920",
+      "text": "movement pattern cuz he has to keep"
+    },
+    {
+      "start_ms": 171680,
+      "end_ms": 176600,
+      "start": "00:02:51.680",
+      "end": "00:02:56.600",
+      "text": "moving, right? Which is going to be this"
+    },
+    {
+      "start_ms": 173920,
+      "end_ms": 178600,
+      "start": "00:02:53.920",
+      "end": "00:02:58.600",
+      "text": "way, right? So and I can cut him off"
+    },
+    {
+      "start_ms": 176600,
+      "end_ms": 181120,
+      "start": "00:02:56.600",
+      "end": "00:03:01.120",
+      "text": "here ahead of time and wait for him to"
+    },
+    {
+      "start_ms": 178600,
+      "end_ms": 182160,
+      "start": "00:02:58.600",
+      "end": "00:03:02.160",
+      "text": "move back this way. And so the way that"
+    },
+    {
+      "start_ms": 181120,
+      "end_ms": 184680,
+      "start": "00:03:01.120",
+      "end": "00:03:04.680",
+      "text": "you"
+    },
+    {
+      "start_ms": 182160,
+      "end_ms": 186040,
+      "start": "00:03:02.160",
+      "end": "00:03:06.040",
+      "text": "pick these options and how quickly you"
+    },
+    {
+      "start_ms": 184680,
+      "end_ms": 187760,
+      "start": "00:03:04.680",
+      "end": "00:03:07.760",
+      "text": "do them and how quickly you process all"
+    },
+    {
+      "start_ms": 186040,
+      "end_ms": 189760,
+      "start": "00:03:06.040",
+      "end": "00:03:09.760",
+      "text": "of them. Like this is all happening 0.1"
+    },
+    {
+      "start_ms": 187760,
+      "end_ms": 191920,
+      "start": "00:03:07.760",
+      "end": "00:03:11.920",
+      "text": "seconds. I'm slowing it down to explain"
+    },
+    {
+      "start_ms": 189760,
+      "end_ms": 193400,
+      "start": "00:03:09.760",
+      "end": "00:03:13.400",
+      "text": "it, right? And we've paused it. So all"
+    },
+    {
+      "start_ms": 191920,
+      "end_ms": 194880,
+      "start": "00:03:11.920",
+      "end": "00:03:14.880",
+      "text": "everything I've I'm saying, I'm going to"
+    },
+    {
+      "start_ms": 193400,
+      "end_ms": 196240,
+      "start": "00:03:13.400",
+      "end": "00:03:16.240",
+      "text": "be describing it like it's easy, but"
+    },
+    {
+      "start_ms": 194880,
+      "end_ms": 197920,
+      "start": "00:03:14.880",
+      "end": "00:03:17.920",
+      "text": "understand that none of this is easy to"
+    },
+    {
+      "start_ms": 196240,
+      "end_ms": 200040,
+      "start": "00:03:16.240",
+      "end": "00:03:20.040",
+      "text": "do in the moment. And also it gets"
+    },
+    {
+      "start_ms": 197920,
+      "end_ms": 201680,
+      "start": "00:03:17.920",
+      "end": "00:03:21.680",
+      "text": "harder to do the better people get at"
+    },
+    {
+      "start_ms": 200040,
+      "end_ms": 203280,
+      "start": "00:03:20.040",
+      "end": "00:03:23.280",
+      "text": "moving. Like the higher you go up, the"
+    },
+    {
+      "start_ms": 201680,
+      "end_ms": 205880,
+      "start": "00:03:21.680",
+      "end": "00:03:25.880",
+      "text": "less time you have to think about all of"
+    },
+    {
+      "start_ms": 203280,
+      "end_ms": 207440,
+      "start": "00:03:23.280",
+      "end": "00:03:27.440",
+      "text": "this. Cuz he scopes in and he sees that"
+    },
+    {
+      "start_ms": 205880,
+      "end_ms": 209560,
+      "start": "00:03:25.880",
+      "end": "00:03:29.560",
+      "text": "this guy has been left strafing for a"
+    },
+    {
+      "start_ms": 207440,
+      "end_ms": 211320,
+      "start": "00:03:27.440",
+      "end": "00:03:31.320",
+      "text": "while. And so and this is again, this is"
+    },
+    {
+      "start_ms": 209560,
+      "end_ms": 212640,
+      "start": "00:03:29.560",
+      "end": "00:03:32.640",
+      "text": "my guess, right? I'm not always going to"
+    },
+    {
+      "start_ms": 211320,
+      "end_ms": 214280,
+      "start": "00:03:31.320",
+      "end": "00:03:34.280",
+      "text": "be correct in what he's thinking. But"
+    },
+    {
+      "start_ms": 212640,
+      "end_ms": 216960,
+      "start": "00:03:32.640",
+      "end": "00:03:36.960",
+      "text": "this guy's been strafing left for a"
+    },
+    {
+      "start_ms": 214280,
+      "end_ms": 219000,
+      "start": "00:03:34.280",
+      "end": "00:03:39.000",
+      "text": "while, which means and also he just saw"
+    },
+    {
+      "start_ms": 216960,
+      "end_ms": 221520,
+      "start": "00:03:36.960",
+      "end": "00:03:41.520",
+      "text": "me. So the probability that he keeps"
+    },
+    {
+      "start_ms": 219000,
+      "end_ms": 223880,
+      "start": "00:03:39.000",
+      "end": "00:03:43.880",
+      "text": "strafing left is very low. And so very"
+    },
+    {
+      "start_ms": 221520,
+      "end_ms": 225640,
+      "start": "00:03:41.520",
+      "end": "00:03:45.640",
+      "text": "quickly he realizes, \"All I have to do"
+    },
+    {
+      "start_ms": 223880,
+      "end_ms": 228000,
+      "start": "00:03:43.880",
+      "end": "00:03:48.000",
+      "text": "is keep my crosshair to the right of his"
+    },
+    {
+      "start_ms": 225640,
+      "end_ms": 229560,
+      "start": "00:03:45.640",
+      "end": "00:03:49.560",
+      "text": "head, and if I do that, eventually he"
+    },
+    {
+      "start_ms": 228000,
+      "end_ms": 231600,
+      "start": "00:03:48.000",
+      "end": "00:03:51.600",
+      "text": "will do the other strafe, and I'll be"
+    },
+    {
+      "start_ms": 229560,
+      "end_ms": 233320,
+      "start": "00:03:49.560",
+      "end": "00:03:53.320",
+      "text": "ready and I will kill him, right?\" So if"
+    },
+    {
+      "start_ms": 231600,
+      "end_ms": 234840,
+      "start": "00:03:51.600",
+      "end": "00:03:54.840",
+      "text": "you watch this, he doesn't cut off that"
+    },
+    {
+      "start_ms": 233320,
+      "end_ms": 236480,
+      "start": "00:03:53.320",
+      "end": "00:03:56.480",
+      "text": "strafe to the left. He just keeps his"
+    },
+    {
+      "start_ms": 234840,
+      "end_ms": 238160,
+      "start": "00:03:54.840",
+      "end": "00:03:58.160",
+      "text": "crosshair on the right. He does do the"
+    },
+    {
+      "start_ms": 236480,
+      "end_ms": 240240,
+      "start": "00:03:56.480",
+      "end": "00:04:00.240",
+      "text": "left movement like it's very highly"
+    },
+    {
+      "start_ms": 238160,
+      "end_ms": 243920,
+      "start": "00:03:58.160",
+      "end": "00:04:03.920",
+      "text": "likely. Boom. Shot's very easy for him,"
+    },
+    {
+      "start_ms": 240240,
+      "end_ms": 243920,
+      "start": "00:04:00.240",
+      "end": "00:04:03.920",
+      "text": "right? Then he goes left."
+    },
+    {
+      "start_ms": 244000,
+      "end_ms": 247760,
+      "start": "00:04:04.000",
+      "end": "00:04:07.760",
+      "text": "Right? This guy was doing the same"
+    },
+    {
+      "start_ms": 245600,
+      "end_ms": 250320,
+      "start": "00:04:05.600",
+      "end": "00:04:10.320",
+      "text": "thing, right? This guy just went left"
+    },
+    {
+      "start_ms": 247760,
+      "end_ms": 252520,
+      "start": "00:04:07.760",
+      "end": "00:04:12.520",
+      "text": "and jumped. So what's the next movement"
+    },
+    {
+      "start_ms": 250320,
+      "end_ms": 254240,
+      "start": "00:04:10.320",
+      "end": "00:04:14.240",
+      "text": "likely to be? Is it going to be left or"
+    },
+    {
+      "start_ms": 252520,
+      "end_ms": 255360,
+      "start": "00:04:12.520",
+      "end": "00:04:15.360",
+      "text": "is it going to be right? Right? And his"
+    },
+    {
+      "start_ms": 254240,
+      "end_ms": 256799,
+      "start": "00:04:14.240",
+      "end": "00:04:16.799",
+      "text": "crosshair is currently to the left of"
+    },
+    {
+      "start_ms": 255360,
+      "end_ms": 258799,
+      "start": "00:04:15.360",
+      "end": "00:04:18.799",
+      "text": "him."
+    },
+    {
+      "start_ms": 256799,
+      "end_ms": 260359,
+      "start": "00:04:16.799",
+      "end": "00:04:20.359",
+      "text": "You know there's a very low likelihood,"
+    },
+    {
+      "start_ms": 258799,
+      "end_ms": 261760,
+      "start": "00:04:18.799",
+      "end": "00:04:21.760",
+      "text": "and again, this is this is the big"
+    },
+    {
+      "start_ms": 260359,
+      "end_ms": 262800,
+      "start": "00:04:20.359",
+      "end": "00:04:22.800",
+      "text": "pattern for most of these people, is"
+    },
+    {
+      "start_ms": 261760,
+      "end_ms": 264120,
+      "start": "00:04:21.760",
+      "end": "00:04:24.120",
+      "text": "that"
+    },
+    {
+      "start_ms": 262800,
+      "end_ms": 265520,
+      "start": "00:04:22.800",
+      "end": "00:04:25.520",
+      "text": "when someone is moving in a certain"
+    },
+    {
+      "start_ms": 264120,
+      "end_ms": 267080,
+      "start": "00:04:24.120",
+      "end": "00:04:27.080",
+      "text": "direction"
+    },
+    {
+      "start_ms": 265520,
+      "end_ms": 268360,
+      "start": "00:04:25.520",
+      "end": "00:04:28.360",
+      "text": "and they see you, especially if you're"
+    },
+    {
+      "start_ms": 267080,
+      "end_ms": 270240,
+      "start": "00:04:27.080",
+      "end": "00:04:30.240",
+      "text": "hit scan and you're a big threat,"
+    },
+    {
+      "start_ms": 268360,
+      "end_ms": 271400,
+      "start": "00:04:28.360",
+      "end": "00:04:31.400",
+      "text": "usually they will change what they're"
+    },
+    {
+      "start_ms": 270240,
+      "end_ms": 273160,
+      "start": "00:04:30.240",
+      "end": "00:04:33.160",
+      "text": "doing, especially if they've been doing"
+    },
+    {
+      "start_ms": 271400,
+      "end_ms": 275000,
+      "start": "00:04:31.400",
+      "end": "00:04:35.000",
+      "text": "it for a while. So this guy was just"
+    },
+    {
+      "start_ms": 273160,
+      "end_ms": 276560,
+      "start": "00:04:33.160",
+      "end": "00:04:36.560",
+      "text": "going left, and now he saw me and he's"
+    },
+    {
+      "start_ms": 275000,
+      "end_ms": 278240,
+      "start": "00:04:35.000",
+      "end": "00:04:38.240",
+      "text": "scared, which means there's a very high"
+    },
+    {
+      "start_ms": 276560,
+      "end_ms": 280880,
+      "start": "00:04:36.560",
+      "end": "00:04:40.880",
+      "text": "likelihood he does the opposite and"
+    },
+    {
+      "start_ms": 278240,
+      "end_ms": 282560,
+      "start": "00:04:38.240",
+      "end": "00:04:42.560",
+      "text": "changes and goes right, right? And now"
+    },
+    {
+      "start_ms": 280880,
+      "end_ms": 283520,
+      "start": "00:04:40.880",
+      "end": "00:04:43.520",
+      "text": "guessing that he's going to jump is not"
+    },
+    {
+      "start_ms": 282560,
+      "end_ms": 284680,
+      "start": "00:04:42.560",
+      "end": "00:04:44.680",
+      "text": "something you're ever going to guess,"
+    },
+    {
+      "start_ms": 283520,
+      "end_ms": 286280,
+      "start": "00:04:43.520",
+      "end": "00:04:46.280",
+      "text": "but I would guess this guy's going to"
+    },
+    {
+      "start_ms": 284680,
+      "end_ms": 287840,
+      "start": "00:04:44.680",
+      "end": "00:04:47.840",
+      "text": "strafe strafe right now. And so you're"
+    },
+    {
+      "start_ms": 286280,
+      "end_ms": 289640,
+      "start": "00:04:46.280",
+      "end": "00:04:49.640",
+      "text": "going to see his crosshair is left, he's"
+    },
+    {
+      "start_ms": 287840,
+      "end_ms": 291880,
+      "start": "00:04:47.840",
+      "end": "00:04:51.880",
+      "text": "going to cut him off and cut off the"
+    },
+    {
+      "start_ms": 289640,
+      "end_ms": 293760,
+      "start": "00:04:49.640",
+      "end": "00:04:53.760",
+      "text": "strafe ahead of time, right? He moves it"
+    },
+    {
+      "start_ms": 291880,
+      "end_ms": 295880,
+      "start": "00:04:51.880",
+      "end": "00:04:55.880",
+      "text": "to the right, then this guy jumps, easy"
+    },
+    {
+      "start_ms": 293760,
+      "end_ms": 297680,
+      "start": "00:04:53.760",
+      "end": "00:04:57.680",
+      "text": "for him, boom, right? So those are two"
+    },
+    {
+      "start_ms": 295880,
+      "end_ms": 299600,
+      "start": "00:04:55.880",
+      "end": "00:04:59.600",
+      "text": "pretty easy shots, but already you can"
+    },
+    {
+      "start_ms": 297680,
+      "end_ms": 301640,
+      "start": "00:04:57.680",
+      "end": "00:05:01.640",
+      "text": "see the theory to the way that he's"
+    },
+    {
+      "start_ms": 299600,
+      "end_ms": 303560,
+      "start": "00:04:59.600",
+      "end": "00:05:03.560",
+      "text": "aiming. Like these are not it's not"
+    },
+    {
+      "start_ms": 301640,
+      "end_ms": 305800,
+      "start": "00:05:01.640",
+      "end": "00:05:05.800",
+      "text": "right hand oriented aiming. Like this is"
+    },
+    {
+      "start_ms": 303560,
+      "end_ms": 307280,
+      "start": "00:05:03.560",
+      "end": "00:05:07.280",
+      "text": "this is brain oriented, eye oriented"
+    },
+    {
+      "start_ms": 305800,
+      "end_ms": 308600,
+      "start": "00:05:05.800",
+      "end": "00:05:08.600",
+      "text": "aiming. Why sometimes they get thrown"
+    },
+    {
+      "start_ms": 307280,
+      "end_ms": 310760,
+      "start": "00:05:07.280",
+      "end": "00:05:10.760",
+      "text": "off by worse players. Yeah, there's a"
+    },
+    {
+      "start_ms": 308600,
+      "end_ms": 312240,
+      "start": "00:05:08.600",
+      "end": "00:05:12.240",
+      "text": "there's also like a bell curve of like"
+    },
+    {
+      "start_ms": 310760,
+      "end_ms": 315120,
+      "start": "00:05:10.760",
+      "end": "00:05:15.120",
+      "text": "the people"
+    },
+    {
+      "start_ms": 312240,
+      "end_ms": 317600,
+      "start": "00:05:12.240",
+      "end": "00:05:17.600",
+      "text": "that theory aim that are pretty good are"
+    },
+    {
+      "start_ms": 315120,
+      "end_ms": 319400,
+      "start": "00:05:15.120",
+      "end": "00:05:19.400",
+      "text": "very thrown off by bad players. Once"
+    },
+    {
+      "start_ms": 317600,
+      "end_ms": 320840,
+      "start": "00:05:17.600",
+      "end": "00:05:20.840",
+      "text": "you're really really good again, then"
+    },
+    {
+      "start_ms": 319400,
+      "end_ms": 322000,
+      "start": "00:05:19.400",
+      "end": "00:05:22.000",
+      "text": "you don't get thrown off as much cuz"
+    },
+    {
+      "start_ms": 320840,
+      "end_ms": 323800,
+      "start": "00:05:20.840",
+      "end": "00:05:23.800",
+      "text": "your brain is just working so much"
+    },
+    {
+      "start_ms": 322000,
+      "end_ms": 325040,
+      "start": "00:05:22.000",
+      "end": "00:05:25.040",
+      "text": "faster than them that you start to cut"
+    },
+    {
+      "start_ms": 323800,
+      "end_ms": 326960,
+      "start": "00:05:23.800",
+      "end": "00:05:26.960",
+      "text": "them off before they even make the"
+    },
+    {
+      "start_ms": 325040,
+      "end_ms": 328880,
+      "start": "00:05:25.040",
+      "end": "00:05:28.880",
+      "text": "decision. But like if you're stuck in"
+    },
+    {
+      "start_ms": 326960,
+      "end_ms": 332400,
+      "start": "00:05:26.960",
+      "end": "00:05:32.400",
+      "text": "that like good, like if you're like a GM"
+    },
+    {
+      "start_ms": 328880,
+      "end_ms": 332400,
+      "start": "00:05:28.880",
+      "end": "00:05:32.400",
+      "text": "player, it's going to be weird."
+    },
+    {
+      "start_ms": 335800,
+      "end_ms": 338880,
+      "start": "00:05:35.800",
+      "end": "00:05:38.880",
+      "text": "This clip is insane. This is one of the"
+    },
+    {
+      "start_ms": 337360,
+      "end_ms": 340920,
+      "start": "00:05:37.360",
+      "end": "00:05:40.920",
+      "text": "first clips where we see like he's"
+    },
+    {
+      "start_ms": 338880,
+      "end_ms": 343560,
+      "start": "00:05:38.880",
+      "end": "00:05:43.560",
+      "text": "shooting a tank, and this is where I"
+    },
+    {
+      "start_ms": 340920,
+      "end_ms": 345040,
+      "start": "00:05:40.920",
+      "end": "00:05:45.040",
+      "text": "personally think Lip outclasses most of"
+    },
+    {
+      "start_ms": 343560,
+      "end_ms": 346160,
+      "start": "00:05:43.560",
+      "end": "00:05:46.160",
+      "text": "the other hit scans. When this guy comes"
+    },
+    {
+      "start_ms": 345040,
+      "end_ms": 347600,
+      "start": "00:05:45.040",
+      "end": "00:05:47.600",
+      "text": "in,"
+    },
+    {
+      "start_ms": 346160,
+      "end_ms": 349680,
+      "start": "00:05:46.160",
+      "end": "00:05:49.680",
+      "text": "is his crosshair on his head already? So"
+    },
+    {
+      "start_ms": 347600,
+      "end_ms": 350840,
+      "start": "00:05:47.600",
+      "end": "00:05:50.840",
+      "text": "that's one shot."
+    },
+    {
+      "start_ms": 349680,
+      "end_ms": 353320,
+      "start": "00:05:49.680",
+      "end": "00:05:53.320",
+      "text": "And if you look at the way he moves his"
+    },
+    {
+      "start_ms": 350840,
+      "end_ms": 353320,
+      "start": "00:05:50.840",
+      "end": "00:05:53.320",
+      "text": "crosshair,"
+    },
+    {
+      "start_ms": 354640,
+      "end_ms": 359440,
+      "start": "00:05:54.640",
+      "end": "00:05:59.440",
+      "text": "there's one shot. He has to decide when"
+    },
+    {
+      "start_ms": 357520,
+      "end_ms": 360760,
+      "start": "00:05:57.520",
+      "end": "00:06:00.760",
+      "text": "this guy's strafing to the right, and"
+    },
+    {
+      "start_ms": 359440,
+      "end_ms": 362320,
+      "start": "00:05:59.440",
+      "end": "00:06:02.320",
+      "text": "this guy's doing short strafes, and I'm"
+    },
+    {
+      "start_ms": 360760,
+      "end_ms": 364080,
+      "start": "00:06:00.760",
+      "end": "00:06:04.080",
+      "text": "seeing him do short strafes. If I just"
+    },
+    {
+      "start_ms": 362320,
+      "end_ms": 366160,
+      "start": "00:06:02.320",
+      "end": "00:06:06.160",
+      "text": "kind of keep my crosshair in the middle,"
+    },
+    {
+      "start_ms": 364080,
+      "end_ms": 367960,
+      "start": "00:06:04.080",
+      "end": "00:06:07.960",
+      "text": "I'm just going to constantly cut him off"
+    },
+    {
+      "start_ms": 366160,
+      "end_ms": 369160,
+      "start": "00:06:06.160",
+      "end": "00:06:09.160",
+      "text": "as he cuts through the middle, right?"
+    },
+    {
+      "start_ms": 367960,
+      "end_ms": 372120,
+      "start": "00:06:07.960",
+      "end": "00:06:12.120",
+      "text": "And this is one of the easiest ways to"
+    },
+    {
+      "start_ms": 369160,
+      "end_ms": 373320,
+      "start": "00:06:09.160",
+      "end": "00:06:13.320",
+      "text": "do this, where if you don't overcorrect,"
+    },
+    {
+      "start_ms": 372120,
+      "end_ms": 375320,
+      "start": "00:06:12.120",
+      "end": "00:06:15.320",
+      "text": "right? Overcorrecting is one of the"
+    },
+    {
+      "start_ms": 373320,
+      "end_ms": 377200,
+      "start": "00:06:13.320",
+      "end": "00:06:17.200",
+      "text": "biggest problems that I see in hit"
+    },
+    {
+      "start_ms": 375320,
+      "end_ms": 378720,
+      "start": "00:06:15.320",
+      "end": "00:06:18.720",
+      "text": "scans, where like we just saw that this"
+    },
+    {
+      "start_ms": 377200,
+      "end_ms": 380080,
+      "start": "00:06:17.200",
+      "end": "00:06:20.080",
+      "text": "guy started to strafe right. You know"
+    },
+    {
+      "start_ms": 378720,
+      "end_ms": 381400,
+      "start": "00:06:18.720",
+      "end": "00:06:21.400",
+      "text": "he's going to keep strafing right, and"
+    },
+    {
+      "start_ms": 380080,
+      "end_ms": 382800,
+      "start": "00:06:20.080",
+      "end": "00:06:22.800",
+      "text": "you also know they're probably short"
+    },
+    {
+      "start_ms": 381400,
+      "end_ms": 385600,
+      "start": "00:06:21.400",
+      "end": "00:06:25.600",
+      "text": "strafes cuz there's no way he's going to"
+    },
+    {
+      "start_ms": 382800,
+      "end_ms": 387080,
+      "start": "00:06:22.800",
+      "end": "00:06:27.080",
+      "text": "like go into this thing, right? So tanks"
+    },
+    {
+      "start_ms": 385600,
+      "end_ms": 389200,
+      "start": "00:06:25.600",
+      "end": "00:06:29.200",
+      "text": "short strafe a lot, and catching these"
+    },
+    {
+      "start_ms": 387080,
+      "end_ms": 391160,
+      "start": "00:06:27.080",
+      "end": "00:06:31.160",
+      "text": "short strafes by just tagging behind"
+    },
+    {
+      "start_ms": 389200,
+      "end_ms": 392640,
+      "start": "00:06:29.200",
+      "end": "00:06:32.640",
+      "text": "them a little bit. If I keep following"
+    },
+    {
+      "start_ms": 391160,
+      "end_ms": 393720,
+      "start": "00:06:31.160",
+      "end": "00:06:33.720",
+      "text": "him a little bit with my crosshair, I"
+    },
+    {
+      "start_ms": 392640,
+      "end_ms": 395040,
+      "start": "00:06:32.640",
+      "end": "00:06:35.040",
+      "text": "will cut him off when he goes the other"
+    },
+    {
+      "start_ms": 393720,
+      "end_ms": 395960,
+      "start": "00:06:33.720",
+      "end": "00:06:35.960",
+      "text": "way. And then when he keeps going this"
+    },
+    {
+      "start_ms": 395040,
+      "end_ms": 397200,
+      "start": "00:06:35.040",
+      "end": "00:06:37.200",
+      "text": "way, I'm going to follow him a little"
+    },
+    {
+      "start_ms": 395960,
+      "end_ms": 398240,
+      "start": "00:06:35.960",
+      "end": "00:06:38.240",
+      "text": "bit, and then I'm going to cut him off"
+    },
+    {
+      "start_ms": 397200,
+      "end_ms": 400360,
+      "start": "00:06:37.200",
+      "end": "00:06:40.360",
+      "text": "when he goes the other way. And you just"
+    },
+    {
+      "start_ms": 398240,
+      "end_ms": 402080,
+      "start": "00:06:38.240",
+      "end": "00:06:42.080",
+      "text": "keep kind of staying in the inside range"
+    },
+    {
+      "start_ms": 400360,
+      "end_ms": 404440,
+      "start": "00:06:40.360",
+      "end": "00:06:44.440",
+      "text": "of that short strafe and just catch him"
+    },
+    {
+      "start_ms": 402080,
+      "end_ms": 406160,
+      "start": "00:06:42.080",
+      "end": "00:06:46.160",
+      "text": "as he goes left and right."
+    },
+    {
+      "start_ms": 404440,
+      "end_ms": 409120,
+      "start": "00:06:44.440",
+      "end": "00:06:49.120",
+      "text": "So he catches him here,"
+    },
+    {
+      "start_ms": 406160,
+      "end_ms": 409120,
+      "start": "00:06:46.160",
+      "end": "00:06:49.120",
+      "text": "then catches him here."
+    },
+    {
+      "start_ms": 409400,
+      "end_ms": 414320,
+      "start": "00:06:49.400",
+      "end": "00:06:54.320",
+      "text": "He tried to overcorrect that one."
+    },
+    {
+      "start_ms": 412320,
+      "end_ms": 415680,
+      "start": "00:06:52.320",
+      "end": "00:06:55.680",
+      "text": "One. But like those are two where he's"
+    },
+    {
+      "start_ms": 414320,
+      "end_ms": 417200,
+      "start": "00:06:54.320",
+      "end": "00:06:57.200",
+      "text": "just kind of staying inside the strafe"
+    },
+    {
+      "start_ms": 415680,
+      "end_ms": 418840,
+      "start": "00:06:55.680",
+      "end": "00:06:58.840",
+      "text": "pattern and the guy's just strafing"
+    },
+    {
+      "start_ms": 417200,
+      "end_ms": 420280,
+      "start": "00:06:57.200",
+      "end": "00:07:00.280",
+      "text": "across the shot over and over again and"
+    },
+    {
+      "start_ms": 418840,
+      "end_ms": 422240,
+      "start": "00:06:58.840",
+      "end": "00:07:02.240",
+      "text": "he's hitting him. So that's a nice way"
+    },
+    {
+      "start_ms": 420280,
+      "end_ms": 426840,
+      "start": "00:07:00.280",
+      "end": "00:07:06.840",
+      "text": "to do it against tanks."
+    },
+    {
+      "start_ms": 422240,
+      "end_ms": 428520,
+      "start": "00:07:02.240",
+      "end": "00:07:08.520",
+      "text": "Disgusting. So out of these, like"
+    },
+    {
+      "start_ms": 426840,
+      "end_ms": 431080,
+      "start": "00:07:06.840",
+      "end": "00:07:11.080",
+      "text": "this clip is really interesting to me"
+    },
+    {
+      "start_ms": 428520,
+      "end_ms": 432640,
+      "start": "00:07:08.520",
+      "end": "00:07:12.640",
+      "text": "cuz these long range duels is like this"
+    },
+    {
+      "start_ms": 431080,
+      "end_ms": 434520,
+      "start": "00:07:11.080",
+      "end": "00:07:14.520",
+      "text": "is one of the things that will really"
+    },
+    {
+      "start_ms": 432640,
+      "end_ms": 435440,
+      "start": "00:07:12.640",
+      "end": "00:07:15.440",
+      "text": "set you apart on hit scan. Is like"
+    },
+    {
+      "start_ms": 434520,
+      "end_ms": 437440,
+      "start": "00:07:14.520",
+      "end": "00:07:17.440",
+      "text": "eventually you're going to duel each"
+    },
+    {
+      "start_ms": 435440,
+      "end_ms": 438880,
+      "start": "00:07:15.440",
+      "end": "00:07:18.880",
+      "text": "other, and the way that he moves is so"
+    },
+    {
+      "start_ms": 437440,
+      "end_ms": 441040,
+      "start": "00:07:17.440",
+      "end": "00:07:21.040",
+      "text": "interesting. Like I would let me slow"
+    },
+    {
+      "start_ms": 438880,
+      "end_ms": 443040,
+      "start": "00:07:18.880",
+      "end": "00:07:23.040",
+      "text": "this down."
+    },
+    {
+      "start_ms": 441040,
+      "end_ms": 445640,
+      "start": "00:07:21.040",
+      "end": "00:07:25.640",
+      "text": "Let's slow this honestly down to 0.5."
+    },
+    {
+      "start_ms": 443040,
+      "end_ms": 447360,
+      "start": "00:07:23.040",
+      "end": "00:07:27.360",
+      "text": "Okay. So he tries to cut him off, right?"
+    },
+    {
+      "start_ms": 445640,
+      "end_ms": 449400,
+      "start": "00:07:25.640",
+      "end": "00:07:29.400",
+      "text": "And these are like the two tools that"
+    },
+    {
+      "start_ms": 447360,
+      "end_ms": 450360,
+      "start": "00:07:27.360",
+      "end": "00:07:30.360",
+      "text": "the theory aimers use most of the time."
+    },
+    {
+      "start_ms": 449400,
+      "end_ms": 451640,
+      "start": "00:07:29.400",
+      "end": "00:07:31.640",
+      "text": "Is like when you're predicting a"
+    },
+    {
+      "start_ms": 450360,
+      "end_ms": 453000,
+      "start": "00:07:30.360",
+      "end": "00:07:33.000",
+      "text": "movement pattern,"
+    },
+    {
+      "start_ms": 451640,
+      "end_ms": 454840,
+      "start": "00:07:31.640",
+      "end": "00:07:34.840",
+      "text": "you can do one of two things, right?"
+    },
+    {
+      "start_ms": 453000,
+      "end_ms": 457520,
+      "start": "00:07:33.000",
+      "end": "00:07:37.520",
+      "text": "This guy's moving right, and my"
+    },
+    {
+      "start_ms": 454840,
+      "end_ms": 459720,
+      "start": "00:07:34.840",
+      "end": "00:07:39.720",
+      "text": "crosshair is just where it is at head"
+    },
+    {
+      "start_ms": 457520,
+      "end_ms": 461480,
+      "start": "00:07:37.520",
+      "end": "00:07:41.480",
+      "text": "level, right? Most of the time. So I"
+    },
+    {
+      "start_ms": 459720,
+      "end_ms": 462480,
+      "start": "00:07:39.720",
+      "end": "00:07:42.480",
+      "text": "know he's moving right. I have one of"
+    },
+    {
+      "start_ms": 461480,
+      "end_ms": 464720,
+      "start": "00:07:41.480",
+      "end": "00:07:44.720",
+      "text": "those two tools and I have to pick"
+    },
+    {
+      "start_ms": 462480,
+      "end_ms": 466360,
+      "start": "00:07:42.480",
+      "end": "00:07:46.360",
+      "text": "between them quickly. Either I can cut"
+    },
+    {
+      "start_ms": 464720,
+      "end_ms": 467920,
+      "start": "00:07:44.720",
+      "end": "00:07:47.920",
+      "text": "off his right strafe by quickly flicking"
+    },
+    {
+      "start_ms": 466360,
+      "end_ms": 470160,
+      "start": "00:07:46.360",
+      "end": "00:07:50.160",
+      "text": "to the right and catch him here in the"
+    },
+    {
+      "start_ms": 467920,
+      "end_ms": 474040,
+      "start": "00:07:47.920",
+      "end": "00:07:54.040",
+      "text": "strafe, right? And there are times to do"
+    },
+    {
+      "start_ms": 470160,
+      "end_ms": 475960,
+      "start": "00:07:50.160",
+      "end": "00:07:55.960",
+      "text": "that when good times to do that normally"
+    },
+    {
+      "start_ms": 474040,
+      "end_ms": 478240,
+      "start": "00:07:54.040",
+      "end": "00:07:58.240",
+      "text": "are when the strafe has just begun"
+    },
+    {
+      "start_ms": 475960,
+      "end_ms": 479200,
+      "start": "00:07:55.960",
+      "end": "00:07:59.200",
+      "text": "because if he's just begun the strafe,"
+    },
+    {
+      "start_ms": 478240,
+      "end_ms": 480880,
+      "start": "00:07:58.240",
+      "end": "00:08:00.880",
+      "text": "the chances that he's going to keep"
+    },
+    {
+      "start_ms": 479200,
+      "end_ms": 482040,
+      "start": "00:07:59.200",
+      "end": "00:08:02.040",
+      "text": "doing the strafe are pretty high, right?"
+    },
+    {
+      "start_ms": 480880,
+      "end_ms": 483320,
+      "start": "00:08:00.880",
+      "end": "00:08:03.320",
+      "text": "Like he hasn't been doing the strafe for"
+    },
+    {
+      "start_ms": 482040,
+      "end_ms": 485560,
+      "start": "00:08:02.040",
+      "end": "00:08:05.560",
+      "text": "very long."
+    },
+    {
+      "start_ms": 483320,
+      "end_ms": 487720,
+      "start": "00:08:03.320",
+      "end": "00:08:07.720",
+      "text": "Uh also he's not that afraid of me yet."
+    },
+    {
+      "start_ms": 485560,
+      "end_ms": 489240,
+      "start": "00:08:05.560",
+      "end": "00:08:09.240",
+      "text": "So cutting him off, this is what Lip"
+    },
+    {
+      "start_ms": 487720,
+      "end_ms": 490360,
+      "start": "00:08:07.720",
+      "end": "00:08:10.360",
+      "text": "decides to do here. The other tool is"
+    },
+    {
+      "start_ms": 489240,
+      "end_ms": 491960,
+      "start": "00:08:09.240",
+      "end": "00:08:11.960",
+      "text": "what he was doing in Zarya, right? Which"
+    },
+    {
+      "start_ms": 490360,
+      "end_ms": 492960,
+      "start": "00:08:10.360",
+      "end": "00:08:12.960",
+      "text": "is where I can just kind of follow, and"
+    },
+    {
+      "start_ms": 491960,
+      "end_ms": 494840,
+      "start": "00:08:11.960",
+      "end": "00:08:14.840",
+      "text": "I can wait for him to do the other"
+    },
+    {
+      "start_ms": 492960,
+      "end_ms": 497360,
+      "start": "00:08:12.960",
+      "end": "00:08:17.360",
+      "text": "strafe. The problem in long hit scan"
+    },
+    {
+      "start_ms": 494840,
+      "end_ms": 499400,
+      "start": "00:08:14.840",
+      "end": "00:08:19.400",
+      "text": "duels is if you overuse this tool where"
+    },
+    {
+      "start_ms": 497360,
+      "end_ms": 501960,
+      "start": "00:08:17.360",
+      "end": "00:08:21.960",
+      "text": "you follow them and wait for them to do"
+    },
+    {
+      "start_ms": 499400,
+      "end_ms": 504040,
+      "start": "00:08:19.400",
+      "end": "00:08:24.040",
+      "text": "the other strafe, if they just don't,"
+    },
+    {
+      "start_ms": 501960,
+      "end_ms": 507120,
+      "start": "00:08:21.960",
+      "end": "00:08:27.120",
+      "text": "then you just end up like following this"
+    },
+    {
+      "start_ms": 504040,
+      "end_ms": 508800,
+      "start": "00:08:24.040",
+      "end": "00:08:28.800",
+      "text": "person strafe forever, and they'll just"
+    },
+    {
+      "start_ms": 507120,
+      "end_ms": 510400,
+      "start": "00:08:27.120",
+      "end": "00:08:30.400",
+      "text": "kill you, right? So you can't do this"
+    },
+    {
+      "start_ms": 508800,
+      "end_ms": 511920,
+      "start": "00:08:28.800",
+      "end": "00:08:31.920",
+      "text": "too much. So here's a long range duel"
+    },
+    {
+      "start_ms": 510400,
+      "end_ms": 513400,
+      "start": "00:08:30.400",
+      "end": "00:08:33.400",
+      "text": "with this Cass. He's shooting this guy."
+    },
+    {
+      "start_ms": 511920,
+      "end_ms": 515039,
+      "start": "00:08:31.920",
+      "end": "00:08:35.039",
+      "text": "And he just flicked this guy and he sees"
+    },
+    {
+      "start_ms": 513400,
+      "end_ms": 516599,
+      "start": "00:08:33.400",
+      "end": "00:08:36.599",
+      "text": "him start a right strafe, right? So"
+    },
+    {
+      "start_ms": 515039,
+      "end_ms": 518479,
+      "start": "00:08:35.039",
+      "end": "00:08:38.479",
+      "text": "since he just started the strafe, I"
+    },
+    {
+      "start_ms": 516599,
+      "end_ms": 520000,
+      "start": "00:08:36.599",
+      "end": "00:08:40.000",
+      "text": "don't want to, and especially cuz he"
+    },
+    {
+      "start_ms": 518479,
+      "end_ms": 521680,
+      "start": "00:08:38.479",
+      "end": "00:08:41.680",
+      "text": "this is a high damage person, I don't"
+    },
+    {
+      "start_ms": 520000,
+      "end_ms": 524159,
+      "start": "00:08:40.000",
+      "end": "00:08:44.159",
+      "text": "want to really wait a lot. So I'm going"
+    },
+    {
+      "start_ms": 521680,
+      "end_ms": 525640,
+      "start": "00:08:41.680",
+      "end": "00:08:45.640",
+      "text": "to try to cut him off on his movement"
+    },
+    {
+      "start_ms": 524159,
+      "end_ms": 527240,
+      "start": "00:08:44.159",
+      "end": "00:08:47.240",
+      "text": "pattern before I'm going to try just"
+    },
+    {
+      "start_ms": 525640,
+      "end_ms": 528120,
+      "start": "00:08:45.640",
+      "end": "00:08:48.120",
+      "text": "following him. Cuz if I just follow him,"
+    },
+    {
+      "start_ms": 527240,
+      "end_ms": 529640,
+      "start": "00:08:47.240",
+      "end": "00:08:49.640",
+      "text": "he's going to get like two or three"
+    },
+    {
+      "start_ms": 528120,
+      "end_ms": 530920,
+      "start": "00:08:48.120",
+      "end": "00:08:50.920",
+      "text": "shots for free. I don't want this person"
+    },
+    {
+      "start_ms": 529640,
+      "end_ms": 532720,
+      "start": "00:08:49.640",
+      "end": "00:08:52.720",
+      "text": "to get two or three shots for free,"
+    },
+    {
+      "start_ms": 530920,
+      "end_ms": 534240,
+      "start": "00:08:50.920",
+      "end": "00:08:54.240",
+      "text": "right? So he tries to cut him off on his"
+    },
+    {
+      "start_ms": 532720,
+      "end_ms": 535640,
+      "start": "00:08:52.720",
+      "end": "00:08:55.640",
+      "text": "right strafe, which means I'm just going"
+    },
+    {
+      "start_ms": 534240,
+      "end_ms": 537360,
+      "start": "00:08:54.240",
+      "end": "00:08:57.360",
+      "text": "to go move faster than him. I'm going to"
+    },
+    {
+      "start_ms": 535640,
+      "end_ms": 539920,
+      "start": "00:08:55.640",
+      "end": "00:08:59.920",
+      "text": "quickly flick, and then I'm going to try"
+    },
+    {
+      "start_ms": 537360,
+      "end_ms": 541160,
+      "start": "00:08:57.360",
+      "end": "00:09:01.160",
+      "text": "to cut him off this way, right?"
+    },
+    {
+      "start_ms": 539920,
+      "end_ms": 542640,
+      "start": "00:08:59.920",
+      "end": "00:09:02.640",
+      "text": "He tries to cut him off, he hits a body"
+    },
+    {
+      "start_ms": 541160,
+      "end_ms": 545120,
+      "start": "00:09:01.160",
+      "end": "00:09:05.120",
+      "text": "shot."
+    },
+    {
+      "start_ms": 542640,
+      "end_ms": 547480,
+      "start": "00:09:02.640",
+      "end": "00:09:07.480",
+      "text": "And then after he cuts him off, then he"
+    },
+    {
+      "start_ms": 545120,
+      "end_ms": 549640,
+      "start": "00:09:05.120",
+      "end": "00:09:09.640",
+      "text": "does the second technique, which is"
+    },
+    {
+      "start_ms": 547480,
+      "end_ms": 551920,
+      "start": "00:09:07.480",
+      "end": "00:09:11.920",
+      "text": "I cut him off here on his body shot. I"
+    },
+    {
+      "start_ms": 549640,
+      "end_ms": 553880,
+      "start": "00:09:09.640",
+      "end": "00:09:13.880",
+      "text": "see him going left, and he mirrors his"
+    },
+    {
+      "start_ms": 551920,
+      "end_ms": 555440,
+      "start": "00:09:11.920",
+      "end": "00:09:15.440",
+      "text": "movement also left. I see him going"
+    },
+    {
+      "start_ms": 553880,
+      "end_ms": 557120,
+      "start": "00:09:13.880",
+      "end": "00:09:17.120",
+      "text": "left, and now I'm going to hold my"
+    },
+    {
+      "start_ms": 555440,
+      "end_ms": 560120,
+      "start": "00:09:15.440",
+      "end": "00:09:20.120",
+      "text": "crosshair here and wait for him to"
+    },
+    {
+      "start_ms": 557120,
+      "end_ms": 561800,
+      "start": "00:09:17.120",
+      "end": "00:09:21.800",
+      "text": "strafe back into it because I know if he"
+    },
+    {
+      "start_ms": 560120,
+      "end_ms": 563320,
+      "start": "00:09:20.120",
+      "end": "00:09:23.320",
+      "text": "does the long strafe left, then he's"
+    },
+    {
+      "start_ms": 561800,
+      "end_ms": 565200,
+      "start": "00:09:21.800",
+      "end": "00:09:25.200",
+      "text": "just going to leave my LOS, and then it"
+    },
+    {
+      "start_ms": 563320,
+      "end_ms": 566760,
+      "start": "00:09:23.320",
+      "end": "00:09:26.760",
+      "text": "doesn't matter. If he comes back right,"
+    },
+    {
+      "start_ms": 565200,
+      "end_ms": 568960,
+      "start": "00:09:25.200",
+      "end": "00:09:28.960",
+      "text": "then I'll kill him, right? And so this"
+    },
+    {
+      "start_ms": 566760,
+      "end_ms": 571120,
+      "start": "00:09:26.760",
+      "end": "00:09:31.120",
+      "text": "is all this is again, this is way way"
+    },
+    {
+      "start_ms": 568960,
+      "end_ms": 572680,
+      "start": "00:09:28.960",
+      "end": "00:09:32.680",
+      "text": "easier said than done, but he does both"
+    },
+    {
+      "start_ms": 571120,
+      "end_ms": 574920,
+      "start": "00:09:31.120",
+      "end": "00:09:34.920",
+      "text": "of these techniques in this one duel."
+    },
+    {
+      "start_ms": 572680,
+      "end_ms": 576840,
+      "start": "00:09:32.680",
+      "end": "00:09:36.840",
+      "text": "Boom, right? And also the way that he"
+    },
+    {
+      "start_ms": 574920,
+      "end_ms": 578720,
+      "start": "00:09:34.920",
+      "end": "00:09:38.720",
+      "text": "moves"
+    },
+    {
+      "start_ms": 576840,
+      "end_ms": 580920,
+      "start": "00:09:36.840",
+      "end": "00:09:40.920",
+      "text": "plays a decent part in this."
+    },
+    {
+      "start_ms": 578720,
+      "end_ms": 582520,
+      "start": "00:09:38.720",
+      "end": "00:09:42.520",
+      "text": "He's not focusing on his movement a lot,"
+    },
+    {
+      "start_ms": 580920,
+      "end_ms": 584680,
+      "start": "00:09:40.920",
+      "end": "00:09:44.680",
+      "text": "but there's still you see where like"
+    },
+    {
+      "start_ms": 582520,
+      "end_ms": 586440,
+      "start": "00:09:42.520",
+      "end": "00:09:46.440",
+      "text": "when he does the cut off,"
+    },
+    {
+      "start_ms": 584680,
+      "end_ms": 587600,
+      "start": "00:09:44.680",
+      "end": "00:09:47.600",
+      "text": "when he changes movement techniques or"
+    },
+    {
+      "start_ms": 586440,
+      "end_ms": 588760,
+      "start": "00:09:46.440",
+      "end": "00:09:48.760",
+      "text": "when he changes aiming techniques, he"
+    },
+    {
+      "start_ms": 587600,
+      "end_ms": 590080,
+      "start": "00:09:47.600",
+      "end": "00:09:50.080",
+      "text": "also changes his movement technique,"
+    },
+    {
+      "start_ms": 588760,
+      "end_ms": 592240,
+      "start": "00:09:48.760",
+      "end": "00:09:52.240",
+      "text": "right? So like when he does this right"
+    },
+    {
+      "start_ms": 590080,
+      "end_ms": 594160,
+      "start": "00:09:50.080",
+      "end": "00:09:54.160",
+      "text": "cut off, he does this here, and right"
+    },
+    {
+      "start_ms": 592240,
+      "end_ms": 595360,
+      "start": "00:09:52.240",
+      "end": "00:09:55.360",
+      "text": "after he hits that body shot, he changes"
+    },
+    {
+      "start_ms": 594160,
+      "end_ms": 597280,
+      "start": "00:09:54.160",
+      "end": "00:09:57.280",
+      "text": "his movement, right? He He right"
+    },
+    {
+      "start_ms": 595360,
+      "end_ms": 598760,
+      "start": "00:09:55.360",
+      "end": "00:09:58.760",
+      "text": "strafing, hit that strafe, now he's left"
+    },
+    {
+      "start_ms": 597280,
+      "end_ms": 600040,
+      "start": "00:09:57.280",
+      "end": "00:10:00.040",
+      "text": "strafing and he's doing the following"
+    },
+    {
+      "start_ms": 598760,
+      "end_ms": 601400,
+      "start": "00:09:58.760",
+      "end": "00:10:01.400",
+      "text": "and he's waiting, just lining that"
+    },
+    {
+      "start_ms": 600040,
+      "end_ms": 603720,
+      "start": "00:10:00.040",
+      "end": "00:10:03.720",
+      "text": "crosshair up."
+    },
+    {
+      "start_ms": 601400,
+      "end_ms": 606000,
+      "start": "00:10:01.400",
+      "end": "00:10:06.000",
+      "text": "Boom, right? It's just so easy, right?"
+    },
+    {
+      "start_ms": 603720,
+      "end_ms": 607120,
+      "start": "00:10:03.720",
+      "end": "00:10:07.120",
+      "text": "Or looks so easy in real time."
+    },
+    {
+      "start_ms": 606000,
+      "end_ms": 608800,
+      "start": "00:10:06.000",
+      "end": "00:10:08.800",
+      "text": "But,"
+    },
+    {
+      "start_ms": 607120,
+      "end_ms": 611360,
+      "start": "00:10:07.120",
+      "end": "00:10:11.360",
+      "text": "the aim is actually the easy part of"
+    },
+    {
+      "start_ms": 608800,
+      "end_ms": 613440,
+      "start": "00:10:08.800",
+      "end": "00:10:13.440",
+      "text": "aiming. The The figuring all this out,"
+    },
+    {
+      "start_ms": 611360,
+      "end_ms": 615240,
+      "start": "00:10:11.360",
+      "end": "00:10:15.240",
+      "text": "like understanding the movement pattern"
+    },
+    {
+      "start_ms": 613440,
+      "end_ms": 617640,
+      "start": "00:10:13.440",
+      "end": "00:10:17.640",
+      "text": "before the other guy does it is the hard"
+    },
+    {
+      "start_ms": 615240,
+      "end_ms": 617640,
+      "start": "00:10:15.240",
+      "end": "00:10:17.640",
+      "text": "part."
+    },
+    {
+      "start_ms": 618040,
+      "end_ms": 623520,
+      "start": "00:10:18.040",
+      "end": "00:10:23.520",
+      "text": "Uh, so okay, that is very classic"
+    },
+    {
+      "start_ms": 620800,
+      "end_ms": 625240,
+      "start": "00:10:20.800",
+      "end": "00:10:25.240",
+      "text": "hitscan dueling. And to be honest, most"
+    },
+    {
+      "start_ms": 623520,
+      "end_ms": 627960,
+      "start": "00:10:23.520",
+      "end": "00:10:27.960",
+      "text": "of"
+    },
+    {
+      "start_ms": 625240,
+      "end_ms": 630200,
+      "start": "00:10:25.240",
+      "end": "00:10:30.200",
+      "text": "these theory fundamentals set you apart"
+    },
+    {
+      "start_ms": 627960,
+      "end_ms": 631560,
+      "start": "00:10:27.960",
+      "end": "00:10:31.560",
+      "text": "in the hitscan duels."
+    },
+    {
+      "start_ms": 630200,
+      "end_ms": 633400,
+      "start": "00:10:30.200",
+      "end": "00:10:33.400",
+      "text": "Um,"
+    },
+    {
+      "start_ms": 631560,
+      "end_ms": 635320,
+      "start": "00:10:31.560",
+      "end": "00:10:35.320",
+      "text": "cuz with raw skill,"
+    },
+    {
+      "start_ms": 633400,
+      "end_ms": 637960,
+      "start": "00:10:33.400",
+      "end": "00:10:37.960",
+      "text": "you can hit"
+    },
+    {
+      "start_ms": 635320,
+      "end_ms": 640160,
+      "start": "00:10:35.320",
+      "end": "00:10:40.160",
+      "text": "a support or a tank most of the time."
+    },
+    {
+      "start_ms": 637960,
+      "end_ms": 641880,
+      "start": "00:10:37.960",
+      "end": "00:10:41.880",
+      "text": "But, if you're against another hitscan"
+    },
+    {
+      "start_ms": 640160,
+      "end_ms": 643200,
+      "start": "00:10:40.160",
+      "end": "00:10:43.200",
+      "text": "like that also understands the theory,"
+    },
+    {
+      "start_ms": 641880,
+      "end_ms": 644560,
+      "start": "00:10:41.880",
+      "end": "00:10:44.560",
+      "text": "and they theory aim and you don't, they"
+    },
+    {
+      "start_ms": 643200,
+      "end_ms": 647240,
+      "start": "00:10:43.200",
+      "end": "00:10:47.240",
+      "text": "will literally [ __ ] on you. So, what he"
+    },
+    {
+      "start_ms": 644560,
+      "end_ms": 648440,
+      "start": "00:10:44.560",
+      "end": "00:10:48.440",
+      "text": "does, let's go to 0.5."
+    },
+    {
+      "start_ms": 647240,
+      "end_ms": 651240,
+      "start": "00:10:47.240",
+      "end": "00:10:51.240",
+      "text": "When he comes out to look at this guy,"
+    },
+    {
+      "start_ms": 648440,
+      "end_ms": 654920,
+      "start": "00:10:48.440",
+      "end": "00:10:54.920",
+      "text": "you can see him engage the [ __ ] the"
+    },
+    {
+      "start_ms": 651240,
+      "end_ms": 656680,
+      "start": "00:10:51.240",
+      "end": "00:10:56.680",
+      "text": "full throttle of the brain, right?"
+    },
+    {
+      "start_ms": 654920,
+      "end_ms": 658560,
+      "start": "00:10:54.920",
+      "end": "00:10:58.560",
+      "text": "So,"
+    },
+    {
+      "start_ms": 656680,
+      "end_ms": 660160,
+      "start": "00:10:56.680",
+      "end": "00:11:00.160",
+      "text": "when he moves his crosshair to this guy,"
+    },
+    {
+      "start_ms": 658560,
+      "end_ms": 662000,
+      "start": "00:10:58.560",
+      "end": "00:11:02.000",
+      "text": "he's slightly to the left, right? And"
+    },
+    {
+      "start_ms": 660160,
+      "end_ms": 664280,
+      "start": "00:11:00.160",
+      "end": "00:11:04.280",
+      "text": "so, then he has to guess what movement"
+    },
+    {
+      "start_ms": 662000,
+      "end_ms": 665480,
+      "start": "00:11:02.000",
+      "end": "00:11:05.480",
+      "text": "pattern this guy is going to do, and he"
+    },
+    {
+      "start_ms": 664280,
+      "end_ms": 667040,
+      "start": "00:11:04.280",
+      "end": "00:11:07.040",
+      "text": "doesn't have a ton of information cuz he"
+    },
+    {
+      "start_ms": 665480,
+      "end_ms": 669160,
+      "start": "00:11:05.480",
+      "end": "00:11:09.160",
+      "text": "just peeked, right? So, this is like a"
+    },
+    {
+      "start_ms": 667040,
+      "end_ms": 670760,
+      "start": "00:11:07.040",
+      "end": "00:11:10.760",
+      "text": "pure guess where you have to decide,"
+    },
+    {
+      "start_ms": 669160,
+      "end_ms": 674000,
+      "start": "00:11:09.160",
+      "end": "00:11:14.000",
+      "text": "like you can either try to flick to this"
+    },
+    {
+      "start_ms": 670760,
+      "end_ms": 675720,
+      "start": "00:11:10.760",
+      "end": "00:11:15.720",
+      "text": "guy now or you can react when he moves,"
+    },
+    {
+      "start_ms": 674000,
+      "end_ms": 677560,
+      "start": "00:11:14.000",
+      "end": "00:11:17.560",
+      "text": "right? So, those are your two options."
+    },
+    {
+      "start_ms": 675720,
+      "end_ms": 678800,
+      "start": "00:11:15.720",
+      "end": "00:11:18.800",
+      "text": "Either I can flick to him now, which is"
+    },
+    {
+      "start_ms": 677560,
+      "end_ms": 680440,
+      "start": "00:11:17.560",
+      "end": "00:11:20.440",
+      "text": "kind of a gamble cuz he's definitely"
+    },
+    {
+      "start_ms": 678800,
+      "end_ms": 682520,
+      "start": "00:11:18.800",
+      "end": "00:11:22.520",
+      "text": "going to move, or I can wait for him to"
+    },
+    {
+      "start_ms": 680440,
+      "end_ms": 684120,
+      "start": "00:11:20.440",
+      "end": "00:11:24.120",
+      "text": "move slightly, and if he moves left, I"
+    },
+    {
+      "start_ms": 682520,
+      "end_ms": 686440,
+      "start": "00:11:22.520",
+      "end": "00:11:26.440",
+      "text": "can catch him easily, and if he moves"
+    },
+    {
+      "start_ms": 684120,
+      "end_ms": 688360,
+      "start": "00:11:24.120",
+      "end": "00:11:28.360",
+      "text": "right, I can cut him off, right? So,"
+    },
+    {
+      "start_ms": 686440,
+      "end_ms": 690160,
+      "start": "00:11:26.440",
+      "end": "00:11:30.160",
+      "text": "what he does"
+    },
+    {
+      "start_ms": 688360,
+      "end_ms": 691480,
+      "start": "00:11:28.360",
+      "end": "00:11:31.480",
+      "text": "is he waits for him to move left, right?"
+    },
+    {
+      "start_ms": 690160,
+      "end_ms": 692600,
+      "start": "00:11:30.160",
+      "end": "00:11:32.600",
+      "text": "So, he just waits. When he peeks and he"
+    },
+    {
+      "start_ms": 691480,
+      "end_ms": 693920,
+      "start": "00:11:31.480",
+      "end": "00:11:33.920",
+      "text": "doesn't know which way the guy is going"
+    },
+    {
+      "start_ms": 692600,
+      "end_ms": 695280,
+      "start": "00:11:32.600",
+      "end": "00:11:35.280",
+      "text": "to move, he just waits a second for him"
+    },
+    {
+      "start_ms": 693920,
+      "end_ms": 696720,
+      "start": "00:11:33.920",
+      "end": "00:11:36.720",
+      "text": "to move."
+    },
+    {
+      "start_ms": 695280,
+      "end_ms": 699040,
+      "start": "00:11:35.280",
+      "end": "00:11:39.040",
+      "text": "He moves left, right? He misses the"
+    },
+    {
+      "start_ms": 696720,
+      "end_ms": 700280,
+      "start": "00:11:36.720",
+      "end": "00:11:40.280",
+      "text": "shot. He I mean, he predicted it right."
+    },
+    {
+      "start_ms": 699040,
+      "end_ms": 702680,
+      "start": "00:11:39.040",
+      "end": "00:11:42.680",
+      "text": "He literally just was a tiny bit too"
+    },
+    {
+      "start_ms": 700280,
+      "end_ms": 704360,
+      "start": "00:11:40.280",
+      "end": "00:11:44.360",
+      "text": "high, misses it by a pixel. So, now he"
+    },
+    {
+      "start_ms": 702680,
+      "end_ms": 705960,
+      "start": "00:11:42.680",
+      "end": "00:11:45.960",
+      "text": "knows the guy just moved left, he's"
+    },
+    {
+      "start_ms": 704360,
+      "end_ms": 708640,
+      "start": "00:11:44.360",
+      "end": "00:11:48.640",
+      "text": "going to move right."
+    },
+    {
+      "start_ms": 705960,
+      "end_ms": 710160,
+      "start": "00:11:45.960",
+      "end": "00:11:50.160",
+      "text": "So, he keeps his crosshair on him"
+    },
+    {
+      "start_ms": 708640,
+      "end_ms": 711560,
+      "start": "00:11:48.640",
+      "end": "00:11:51.560",
+      "text": "for a second, and then he actually keeps"
+    },
+    {
+      "start_ms": 710160,
+      "end_ms": 713440,
+      "start": "00:11:50.160",
+      "end": "00:11:53.440",
+      "text": "it still"
+    },
+    {
+      "start_ms": 711560,
+      "end_ms": 714600,
+      "start": "00:11:51.560",
+      "end": "00:11:54.600",
+      "text": "and tries to flick right and hits him."
+    },
+    {
+      "start_ms": 713440,
+      "end_ms": 715680,
+      "start": "00:11:53.440",
+      "end": "00:11:55.680",
+      "text": "And this is the interesting part to me"
+    },
+    {
+      "start_ms": 714600,
+      "end_ms": 718040,
+      "start": "00:11:54.600",
+      "end": "00:11:58.040",
+      "text": "where like let's watch this in real time"
+    },
+    {
+      "start_ms": 715680,
+      "end_ms": 718040,
+      "start": "00:11:55.680",
+      "end": "00:11:58.040",
+      "text": "again."
+    },
+    {
+      "start_ms": 718839,
+      "end_ms": 721560,
+      "start": "00:11:58.839",
+      "end": "00:12:01.560",
+      "text": "Because"
+    },
+    {
+      "start_ms": 722800,
+      "end_ms": 726480,
+      "start": "00:12:02.800",
+      "end": "00:12:06.480",
+      "text": "that's so interesting. Like he follows"
+    },
+    {
+      "start_ms": 724760,
+      "end_ms": 727680,
+      "start": "00:12:04.760",
+      "end": "00:12:07.680",
+      "text": "him for a little bit, and then actually"
+    },
+    {
+      "start_ms": 726480,
+      "end_ms": 729800,
+      "start": "00:12:06.480",
+      "end": "00:12:09.800",
+      "text": "instead of following him with his"
+    },
+    {
+      "start_ms": 727680,
+      "end_ms": 732040,
+      "start": "00:12:07.680",
+      "end": "00:12:12.040",
+      "text": "crosshair,"
+    },
+    {
+      "start_ms": 729800,
+      "end_ms": 733760,
+      "start": "00:12:09.800",
+      "end": "00:12:13.760",
+      "text": "he just goes back to a normal position."
+    },
+    {
+      "start_ms": 732040,
+      "end_ms": 737000,
+      "start": "00:12:12.040",
+      "end": "00:12:17.000",
+      "text": "And this is like this is something"
+    },
+    {
+      "start_ms": 733760,
+      "end_ms": 739560,
+      "start": "00:12:13.760",
+      "end": "00:12:19.560",
+      "text": "that's kind of unique to each hitscan,"
+    },
+    {
+      "start_ms": 737000,
+      "end_ms": 741320,
+      "start": "00:12:17.000",
+      "end": "00:12:21.320",
+      "text": "which is everyone has"
+    },
+    {
+      "start_ms": 739560,
+      "end_ms": 742880,
+      "start": "00:12:19.560",
+      "end": "00:12:22.880",
+      "text": "specific movements that they're"
+    },
+    {
+      "start_ms": 741320,
+      "end_ms": 745200,
+      "start": "00:12:21.320",
+      "end": "00:12:25.200",
+      "text": "incredibly comfortable in, right? Like"
+    },
+    {
+      "start_ms": 742880,
+      "end_ms": 748000,
+      "start": "00:12:22.880",
+      "end": "00:12:28.000",
+      "text": "there's just some type of micro flick"
+    },
+    {
+      "start_ms": 745200,
+      "end_ms": 749720,
+      "start": "00:12:25.200",
+      "end": "00:12:29.720",
+      "text": "that you've drilled a billion times that"
+    },
+    {
+      "start_ms": 748000,
+      "end_ms": 751920,
+      "start": "00:12:28.000",
+      "end": "00:12:31.920",
+      "text": "you just know that you don't miss,"
+    },
+    {
+      "start_ms": 749720,
+      "end_ms": 753080,
+      "start": "00:12:29.720",
+      "end": "00:12:33.080",
+      "text": "right? Like for for a lot of people,"
+    },
+    {
+      "start_ms": 751920,
+      "end_ms": 754320,
+      "start": "00:12:31.920",
+      "end": "00:12:34.320",
+      "text": "it's actually different. Like I I"
+    },
+    {
+      "start_ms": 753080,
+      "end_ms": 756760,
+      "start": "00:12:33.080",
+      "end": "00:12:36.760",
+      "text": "wouldn't recommend everyone do this the"
+    },
+    {
+      "start_ms": 754320,
+      "end_ms": 758600,
+      "start": "00:12:34.320",
+      "end": "00:12:38.600",
+      "text": "same way. Whereas like a lot of what"
+    },
+    {
+      "start_ms": 756760,
+      "end_ms": 759960,
+      "start": "00:12:36.760",
+      "end": "00:12:39.960",
+      "text": "he's been doing is just gradually"
+    },
+    {
+      "start_ms": 758600,
+      "end_ms": 761680,
+      "start": "00:12:38.600",
+      "end": "00:12:41.680",
+      "text": "applicable. But, this is the kind of"
+    },
+    {
+      "start_ms": 759960,
+      "end_ms": 763240,
+      "start": "00:12:39.960",
+      "end": "00:12:43.240",
+      "text": "thing where you need to understand like"
+    },
+    {
+      "start_ms": 761680,
+      "end_ms": 765960,
+      "start": "00:12:41.680",
+      "end": "00:12:45.960",
+      "text": "what is your best shot? Like for some"
+    },
+    {
+      "start_ms": 763240,
+      "end_ms": 767440,
+      "start": "00:12:43.240",
+      "end": "00:12:47.440",
+      "text": "people, it's like this specific distance"
+    },
+    {
+      "start_ms": 765960,
+      "end_ms": 768960,
+      "start": "00:12:45.960",
+      "end": "00:12:48.960",
+      "text": "right to left, right? Like it's just a"
+    },
+    {
+      "start_ms": 767440,
+      "end_ms": 770800,
+      "start": "00:12:47.440",
+      "end": "00:12:50.800",
+      "text": "specific distance and a specific type of"
+    },
+    {
+      "start_ms": 768960,
+      "end_ms": 773680,
+      "start": "00:12:48.960",
+      "end": "00:12:53.680",
+      "text": "movement that you're good at. And to me,"
+    },
+    {
+      "start_ms": 770800,
+      "end_ms": 774800,
+      "start": "00:12:50.800",
+      "end": "00:12:54.800",
+      "text": "like it looks like he just knows the"
+    },
+    {
+      "start_ms": 773680,
+      "end_ms": 777440,
+      "start": "00:12:53.680",
+      "end": "00:12:57.440",
+      "text": "type of shot that he wants. Like he"
+    },
+    {
+      "start_ms": 774800,
+      "end_ms": 779160,
+      "start": "00:12:54.800",
+      "end": "00:12:59.160",
+      "text": "wants this kind of this mid-range left"
+    },
+    {
+      "start_ms": 777440,
+      "end_ms": 780560,
+      "start": "00:12:57.440",
+      "end": "00:13:00.560",
+      "text": "to right type of flick. He just knows"
+    },
+    {
+      "start_ms": 779160,
+      "end_ms": 782200,
+      "start": "00:12:59.160",
+      "end": "00:13:02.200",
+      "text": "he's going to hit this. So, he waits for"
+    },
+    {
+      "start_ms": 780560,
+      "end_ms": 784160,
+      "start": "00:13:00.560",
+      "end": "00:13:04.160",
+      "text": "him to move that distance, and then he"
+    },
+    {
+      "start_ms": 782200,
+      "end_ms": 785280,
+      "start": "00:13:02.200",
+      "end": "00:13:05.280",
+      "text": "does the flick and just"
+    },
+    {
+      "start_ms": 784160,
+      "end_ms": 787200,
+      "start": "00:13:04.160",
+      "end": "00:13:07.200",
+      "text": "hits it."
+    },
+    {
+      "start_ms": 785280,
+      "end_ms": 789160,
+      "start": "00:13:05.280",
+      "end": "00:13:09.160",
+      "text": "Right? And then, after he does the"
+    },
+    {
+      "start_ms": 787200,
+      "end_ms": 792880,
+      "start": "00:13:07.200",
+      "end": "00:13:12.880",
+      "text": "flick,"
+    },
+    {
+      "start_ms": 789160,
+      "end_ms": 795400,
+      "start": "00:13:09.160",
+      "end": "00:13:15.400",
+      "text": "he does another theory aim where"
+    },
+    {
+      "start_ms": 792880,
+      "end_ms": 797080,
+      "start": "00:13:12.880",
+      "end": "00:13:17.080",
+      "text": "flicks right, and as he comes left, the"
+    },
+    {
+      "start_ms": 795400,
+      "end_ms": 798720,
+      "start": "00:13:15.400",
+      "end": "00:13:18.720",
+      "text": "guy goes right, he knows he has to come"
+    },
+    {
+      "start_ms": 797080,
+      "end_ms": 800040,
+      "start": "00:13:17.080",
+      "end": "00:13:20.040",
+      "text": "back left cuz he's out of room, and also"
+    },
+    {
+      "start_ms": 798720,
+      "end_ms": 801640,
+      "start": "00:13:18.720",
+      "end": "00:13:21.640",
+      "text": "he just went right. So, he just holds"
+    },
+    {
+      "start_ms": 800040,
+      "end_ms": 804080,
+      "start": "00:13:20.040",
+      "end": "00:13:24.080",
+      "text": "his crosshair here, waits for this guy"
+    },
+    {
+      "start_ms": 801640,
+      "end_ms": 805839,
+      "start": "00:13:21.640",
+      "end": "00:13:25.839",
+      "text": "to strafe back into it. Boom. Just"
+    },
+    {
+      "start_ms": 804080,
+      "end_ms": 807160,
+      "start": "00:13:24.080",
+      "end": "00:13:27.160",
+      "text": "clean."
+    },
+    {
+      "start_ms": 805839,
+      "end_ms": 808560,
+      "start": "00:13:25.839",
+      "end": "00:13:28.560",
+      "text": "Same thing here, man. And this is"
+    },
+    {
+      "start_ms": 807160,
+      "end_ms": 809880,
+      "start": "00:13:27.160",
+      "end": "00:13:29.880",
+      "text": "actually okay."
+    },
+    {
+      "start_ms": 808560,
+      "end_ms": 811880,
+      "start": "00:13:28.560",
+      "end": "00:13:31.880",
+      "text": "This is maybe one of the easiest to"
+    },
+    {
+      "start_ms": 809880,
+      "end_ms": 816520,
+      "start": "00:13:29.880",
+      "end": "00:13:36.520",
+      "text": "apply"
+    },
+    {
+      "start_ms": 811880,
+      "end_ms": 816520,
+      "start": "00:13:31.880",
+      "end": "00:13:36.520",
+      "text": "broadly tips is"
+    },
+    {
+      "start_ms": 816600,
+      "end_ms": 820800,
+      "start": "00:13:36.600",
+      "end": "00:13:40.800",
+      "text": "the first time that you hit somebody,"
+    },
+    {
+      "start_ms": 818880,
+      "end_ms": 823320,
+      "start": "00:13:38.880",
+      "end": "00:13:43.320",
+      "text": "don't overreact."
+    },
+    {
+      "start_ms": 820800,
+      "end_ms": 826000,
+      "start": "00:13:40.800",
+      "end": "00:13:46.000",
+      "text": "But, this is maybe the easiest level one"
+    },
+    {
+      "start_ms": 823320,
+      "end_ms": 827280,
+      "start": "00:13:43.320",
+      "end": "00:13:47.280",
+      "text": "tip to just immediately apply is that"
+    },
+    {
+      "start_ms": 826000,
+      "end_ms": 829280,
+      "start": "00:13:46.000",
+      "end": "00:13:49.280",
+      "text": "when you hit a shot, cuz you will hit a"
+    },
+    {
+      "start_ms": 827280,
+      "end_ms": 830120,
+      "start": "00:13:47.280",
+      "end": "00:13:50.120",
+      "text": "shot eventually, right? Whatever you"
+    },
+    {
+      "start_ms": 829280,
+      "end_ms": 831280,
+      "start": "00:13:49.280",
+      "end": "00:13:51.280",
+      "text": "either guess the movement pattern"
+    },
+    {
+      "start_ms": 830120,
+      "end_ms": 832360,
+      "start": "00:13:50.120",
+      "end": "00:13:52.360",
+      "text": "correctly or you're just using your raw"
+    },
+    {
+      "start_ms": 831280,
+      "end_ms": 834280,
+      "start": "00:13:51.280",
+      "end": "00:13:54.280",
+      "text": "skill,"
+    },
+    {
+      "start_ms": 832360,
+      "end_ms": 836080,
+      "start": "00:13:52.360",
+      "end": "00:13:56.080",
+      "text": "what he does is he doesn't overreact to"
+    },
+    {
+      "start_ms": 834280,
+      "end_ms": 838440,
+      "start": "00:13:54.280",
+      "end": "00:13:58.440",
+      "text": "hitting his own shot, and usually just"
+    },
+    {
+      "start_ms": 836080,
+      "end_ms": 840040,
+      "start": "00:13:56.080",
+      "end": "00:14:00.040",
+      "text": "stays in the same spot, right? And so,"
+    },
+    {
+      "start_ms": 838440,
+      "end_ms": 840880,
+      "start": "00:13:58.440",
+      "end": "00:14:00.880",
+      "text": "when he hits the shot, he he knows this"
+    },
+    {
+      "start_ms": 840040,
+      "end_ms": 842520,
+      "start": "00:14:00.040",
+      "end": "00:14:02.520",
+      "text": "guy is going to come around the corner,"
+    },
+    {
+      "start_ms": 840880,
+      "end_ms": 844520,
+      "start": "00:14:00.880",
+      "end": "00:14:04.520",
+      "text": "right? So, this is an easy shot. Hits"
+    },
+    {
+      "start_ms": 842520,
+      "end_ms": 845880,
+      "start": "00:14:02.520",
+      "end": "00:14:05.880",
+      "text": "this guy. What does he do after hitting"
+    },
+    {
+      "start_ms": 844520,
+      "end_ms": 847000,
+      "start": "00:14:04.520",
+      "end": "00:14:07.000",
+      "text": "this shot? Cuz this guy was moving"
+    },
+    {
+      "start_ms": 845880,
+      "end_ms": 849080,
+      "start": "00:14:05.880",
+      "end": "00:14:09.080",
+      "text": "right,"
+    },
+    {
+      "start_ms": 847000,
+      "end_ms": 850880,
+      "start": "00:14:07.000",
+      "end": "00:14:10.880",
+      "text": "all he does is he keeps his crosshair"
+    },
+    {
+      "start_ms": 849080,
+      "end_ms": 852680,
+      "start": "00:14:09.080",
+      "end": "00:14:12.680",
+      "text": "here for a second to see if the guy is"
+    },
+    {
+      "start_ms": 850880,
+      "end_ms": 854640,
+      "start": "00:14:10.880",
+      "end": "00:14:14.640",
+      "text": "going to strafe back this way. Cuz he"
+    },
+    {
+      "start_ms": 852680,
+      "end_ms": 856520,
+      "start": "00:14:12.680",
+      "end": "00:14:16.520",
+      "text": "just got hit, right? This guy is scared."
+    },
+    {
+      "start_ms": 854640,
+      "end_ms": 857520,
+      "start": "00:14:14.640",
+      "end": "00:14:17.520",
+      "text": "And when people are scared,"
+    },
+    {
+      "start_ms": 856520,
+      "end_ms": 859120,
+      "start": "00:14:16.520",
+      "end": "00:14:19.120",
+      "text": "they change their movement pattern,"
+    },
+    {
+      "start_ms": 857520,
+      "end_ms": 860240,
+      "start": "00:14:17.520",
+      "end": "00:14:20.240",
+      "text": "right? And so, he knows there's a good"
+    },
+    {
+      "start_ms": 859120,
+      "end_ms": 862600,
+      "start": "00:14:19.120",
+      "end": "00:14:22.600",
+      "text": "chance that this guy is going to just"
+    },
+    {
+      "start_ms": 860240,
+      "end_ms": 864360,
+      "start": "00:14:20.240",
+      "end": "00:14:24.360",
+      "text": "going to strafe back into my crosshair."
+    },
+    {
+      "start_ms": 862600,
+      "end_ms": 865920,
+      "start": "00:14:22.600",
+      "end": "00:14:25.920",
+      "text": "Just keeps it here. And the guy strafes"
+    },
+    {
+      "start_ms": 864360,
+      "end_ms": 868640,
+      "start": "00:14:24.360",
+      "end": "00:14:28.640",
+      "text": "back into his crosshair, right? And so,"
+    },
+    {
+      "start_ms": 865920,
+      "end_ms": 870920,
+      "start": "00:14:25.920",
+      "end": "00:14:30.920",
+      "text": "this is like"
+    },
+    {
+      "start_ms": 868640,
+      "end_ms": 872640,
+      "start": "00:14:28.640",
+      "end": "00:14:32.640",
+      "text": "this is easy to do."
+    },
+    {
+      "start_ms": 870920,
+      "end_ms": 873680,
+      "start": "00:14:30.920",
+      "end": "00:14:33.680",
+      "text": "Boom. Keep your crosshair here. Boom."
+    },
+    {
+      "start_ms": 872640,
+      "end_ms": 875040,
+      "start": "00:14:32.640",
+      "end": "00:14:35.040",
+      "text": "Strafe right back into it. And it's like"
+    },
+    {
+      "start_ms": 873680,
+      "end_ms": 876720,
+      "start": "00:14:33.680",
+      "end": "00:14:36.720",
+      "text": "he's not even moving. The other guy is"
+    },
+    {
+      "start_ms": 875040,
+      "end_ms": 877800,
+      "start": "00:14:35.040",
+      "end": "00:14:37.800",
+      "text": "just doing all the work for him. But,"
+    },
+    {
+      "start_ms": 876720,
+      "end_ms": 879880,
+      "start": "00:14:36.720",
+      "end": "00:14:39.880",
+      "text": "you have to know how to make the other"
+    },
+    {
+      "start_ms": 877800,
+      "end_ms": 881640,
+      "start": "00:14:37.800",
+      "end": "00:14:41.640",
+      "text": "guy do the work for you."
+    },
+    {
+      "start_ms": 879880,
+      "end_ms": 884400,
+      "start": "00:14:39.880",
+      "end": "00:14:44.400",
+      "text": "Same thing, man. Look at this. It's the"
+    },
+    {
+      "start_ms": 881640,
+      "end_ms": 886600,
+      "start": "00:14:41.640",
+      "end": "00:14:46.600",
+      "text": "same thing here."
+    },
+    {
+      "start_ms": 884400,
+      "end_ms": 887800,
+      "start": "00:14:44.400",
+      "end": "00:14:47.800",
+      "text": "So, he knows, first of all, this is an"
+    },
+    {
+      "start_ms": 886600,
+      "end_ms": 888760,
+      "start": "00:14:46.600",
+      "end": "00:14:48.760",
+      "text": "easy shot to hit cuz he's just corner"
+    },
+    {
+      "start_ms": 887800,
+      "end_ms": 890160,
+      "start": "00:14:47.800",
+      "end": "00:14:50.160",
+      "text": "camping, right? This is just good"
+    },
+    {
+      "start_ms": 888760,
+      "end_ms": 891400,
+      "start": "00:14:48.760",
+      "end": "00:14:51.400",
+      "text": "crosshair placement. He knows the guy is"
+    },
+    {
+      "start_ms": 890160,
+      "end_ms": 892640,
+      "start": "00:14:50.160",
+      "end": "00:14:52.640",
+      "text": "going to come out of here. So, when he"
+    },
+    {
+      "start_ms": 891400,
+      "end_ms": 894600,
+      "start": "00:14:51.400",
+      "end": "00:14:54.600",
+      "text": "does this,"
+    },
+    {
+      "start_ms": 892640,
+      "end_ms": 896000,
+      "start": "00:14:52.640",
+      "end": "00:14:56.000",
+      "text": "he hits this guy,"
+    },
+    {
+      "start_ms": 894600,
+      "end_ms": 897920,
+      "start": "00:14:54.600",
+      "end": "00:14:57.920",
+      "text": "and he just keeps his crosshair here for"
+    },
+    {
+      "start_ms": 896000,
+      "end_ms": 899280,
+      "start": "00:14:56.000",
+      "end": "00:14:59.280",
+      "text": "a second, right? And when you hit"
+    },
+    {
+      "start_ms": 897920,
+      "end_ms": 901079,
+      "start": "00:14:57.920",
+      "end": "00:15:01.079",
+      "text": "someone and you keep your crosshair for"
+    },
+    {
+      "start_ms": 899280,
+      "end_ms": 902880,
+      "start": "00:14:59.280",
+      "end": "00:15:02.880",
+      "text": "a second, there's a good chance that"
+    },
+    {
+      "start_ms": 901079,
+      "end_ms": 904320,
+      "start": "00:15:01.079",
+      "end": "00:15:04.320",
+      "text": "they get scared and they start"
+    },
+    {
+      "start_ms": 902880,
+      "end_ms": 906200,
+      "start": "00:15:02.880",
+      "end": "00:15:06.200",
+      "text": "counter-strafing whatever way they were"
+    },
+    {
+      "start_ms": 904320,
+      "end_ms": 908400,
+      "start": "00:15:04.320",
+      "end": "00:15:08.400",
+      "text": "going. And so, my crosshair is here, he"
+    },
+    {
+      "start_ms": 906200,
+      "end_ms": 909800,
+      "start": "00:15:06.200",
+      "end": "00:15:09.800",
+      "text": "was coming out of here, I hit him,"
+    },
+    {
+      "start_ms": 908400,
+      "end_ms": 910920,
+      "start": "00:15:08.400",
+      "end": "00:15:10.920",
+      "text": "and he's going this way, he's scared,"
+    },
+    {
+      "start_ms": 909800,
+      "end_ms": 912959,
+      "start": "00:15:09.800",
+      "end": "00:15:12.959",
+      "text": "he's just going to come back in this"
+    },
+    {
+      "start_ms": 910920,
+      "end_ms": 915320,
+      "start": "00:15:10.920",
+      "end": "00:15:15.320",
+      "text": "way."
+    },
+    {
+      "start_ms": 912959,
+      "end_ms": 917000,
+      "start": "00:15:12.959",
+      "end": "00:15:17.000",
+      "text": "Boom, right? He just lets him go past"
+    },
+    {
+      "start_ms": 915320,
+      "end_ms": 918120,
+      "start": "00:15:15.320",
+      "end": "00:15:18.120",
+      "text": "him and come back."
+    },
+    {
+      "start_ms": 917000,
+      "end_ms": 919480,
+      "start": "00:15:17.000",
+      "end": "00:15:19.480",
+      "text": "It's easy."
+    },
+    {
+      "start_ms": 918120,
+      "end_ms": 922760,
+      "start": "00:15:18.120",
+      "end": "00:15:22.760",
+      "text": "It's not easy, you know, but it looks"
+    },
+    {
+      "start_ms": 919480,
+      "end_ms": 922760,
+      "start": "00:15:19.480",
+      "end": "00:15:22.760",
+      "text": "easy. It's so smooth."
+    },
+    {
+      "start_ms": 925680,
+      "end_ms": 930120,
+      "start": "00:15:25.680",
+      "end": "00:15:30.120",
+      "text": "Ew."
+    },
+    {
+      "start_ms": 926800,
+      "end_ms": 930120,
+      "start": "00:15:26.800",
+      "end": "00:15:30.120",
+      "text": "Here's like a long strafe."
+    },
+    {
+      "start_ms": 931680,
+      "end_ms": 934640,
+      "start": "00:15:31.680",
+      "end": "00:15:34.640",
+      "text": "He hits this guy here."
+    },
+    {
+      "start_ms": 935000,
+      "end_ms": 938600,
+      "start": "00:15:35.000",
+      "end": "00:15:38.600",
+      "text": "And so, he knows this guy is"
+    },
+    {
+      "start_ms": 936079,
+      "end_ms": 940600,
+      "start": "00:15:36.079",
+      "end": "00:15:40.600",
+      "text": "long-strafing here, right? He's got to"
+    },
+    {
+      "start_ms": 938600,
+      "end_ms": 941640,
+      "start": "00:15:38.600",
+      "end": "00:15:41.640",
+      "text": "come back this way or he's going to go"
+    },
+    {
+      "start_ms": 940600,
+      "end_ms": 943079,
+      "start": "00:15:40.600",
+      "end": "00:15:43.079",
+      "text": "all the way to this thing and then I can"
+    },
+    {
+      "start_ms": 941640,
+      "end_ms": 945000,
+      "start": "00:15:41.640",
+      "end": "00:15:45.000",
+      "text": "just camp him on this thing. So, does he"
+    },
+    {
+      "start_ms": 943079,
+      "end_ms": 947959,
+      "start": "00:15:43.079",
+      "end": "00:15:47.959",
+      "text": "cut him off or does he follow him?"
+    },
+    {
+      "start_ms": 945000,
+      "end_ms": 949480,
+      "start": "00:15:45.000",
+      "end": "00:15:49.480",
+      "text": "He just follows him."
+    },
+    {
+      "start_ms": 947959,
+      "end_ms": 951800,
+      "start": "00:15:47.959",
+      "end": "00:15:51.800",
+      "text": "And then he cuts him off here, which is"
+    },
+    {
+      "start_ms": 949480,
+      "end_ms": 953000,
+      "start": "00:15:49.480",
+      "end": "00:15:53.000",
+      "text": "interesting to me."
+    },
+    {
+      "start_ms": 951800,
+      "end_ms": 954839,
+      "start": "00:15:51.800",
+      "end": "00:15:54.839",
+      "text": "Cuz he's"
+    },
+    {
+      "start_ms": 953000,
+      "end_ms": 957959,
+      "start": "00:15:53.000",
+      "end": "00:15:57.959",
+      "text": "I think the difference here"
+    },
+    {
+      "start_ms": 954839,
+      "end_ms": 959600,
+      "start": "00:15:54.839",
+      "end": "00:15:59.600",
+      "text": "like I think normally after"
+    },
+    {
+      "start_ms": 957959,
+      "end_ms": 960839,
+      "start": "00:15:57.959",
+      "end": "00:16:00.839",
+      "text": "hitting this guy the first time, he"
+    },
+    {
+      "start_ms": 959600,
+      "end_ms": 962839,
+      "start": "00:15:59.600",
+      "end": "00:16:02.839",
+      "text": "would have followed the second time, but"
+    },
+    {
+      "start_ms": 960839,
+      "end_ms": 964600,
+      "start": "00:16:00.839",
+      "end": "00:16:04.600",
+      "text": "here he cuts him off cuz he just saw"
+    },
+    {
+      "start_ms": 962839,
+      "end_ms": 966400,
+      "start": "00:16:02.839",
+      "end": "00:16:06.400",
+      "text": "this guy go for a long strafe, right?"
+    },
+    {
+      "start_ms": 964600,
+      "end_ms": 967640,
+      "start": "00:16:04.600",
+      "end": "00:16:07.640",
+      "text": "So, he knows this guy is a long strafer."
+    },
+    {
+      "start_ms": 966400,
+      "end_ms": 970079,
+      "start": "00:16:06.400",
+      "end": "00:16:10.079",
+      "text": "This guy is going to long strafe the"
+    },
+    {
+      "start_ms": 967640,
+      "end_ms": 973120,
+      "start": "00:16:07.640",
+      "end": "00:16:13.120",
+      "text": "other direction. And so, because he saw"
+    },
+    {
+      "start_ms": 970079,
+      "end_ms": 975079,
+      "start": "00:16:10.079",
+      "end": "00:16:15.079",
+      "text": "the first long strafe,"
+    },
+    {
+      "start_ms": 973120,
+      "end_ms": 977800,
+      "start": "00:16:13.120",
+      "end": "00:16:17.800",
+      "text": "like this is a long strafe, right? I"
+    },
+    {
+      "start_ms": 975079,
+      "end_ms": 979640,
+      "start": "00:16:15.079",
+      "end": "00:16:19.640",
+      "text": "think he's clocking immediately"
+    },
+    {
+      "start_ms": 977800,
+      "end_ms": 981400,
+      "start": "00:16:17.800",
+      "end": "00:16:21.400",
+      "text": "what someone likes to do. And against"
+    },
+    {
+      "start_ms": 979640,
+      "end_ms": 982800,
+      "start": "00:16:19.640",
+      "end": "00:16:22.800",
+      "text": "the short strafers like the Zarya clip,"
+    },
+    {
+      "start_ms": 981400,
+      "end_ms": 984560,
+      "start": "00:16:21.400",
+      "end": "00:16:24.560",
+      "text": "that guy was a short strafer, right?"
+    },
+    {
+      "start_ms": 982800,
+      "end_ms": 986079,
+      "start": "00:16:22.800",
+      "end": "00:16:26.079",
+      "text": "He's just hovering and always following"
+    },
+    {
+      "start_ms": 984560,
+      "end_ms": 988440,
+      "start": "00:16:24.560",
+      "end": "00:16:28.440",
+      "text": "and just using the follow technique cuz"
+    },
+    {
+      "start_ms": 986079,
+      "end_ms": 989880,
+      "start": "00:16:26.079",
+      "end": "00:16:29.880",
+      "text": "the guy is changing directions so many"
+    },
+    {
+      "start_ms": 988440,
+      "end_ms": 991640,
+      "start": "00:16:28.440",
+      "end": "00:16:31.640",
+      "text": "options. Here, this guy is"
+    },
+    {
+      "start_ms": 989880,
+      "end_ms": 996280,
+      "start": "00:16:29.880",
+      "end": "00:16:36.280",
+      "text": "long-strafing, so he follows him for the"
+    },
+    {
+      "start_ms": 991640,
+      "end_ms": 996280,
+      "start": "00:16:31.640",
+      "end": "00:16:36.280",
+      "text": "first one, and then he cuts him off."
+    },
+    {
+      "start_ms": 998040,
+      "end_ms": 1001680,
+      "start": "00:16:38.040",
+      "end": "00:16:41.680",
+      "text": "Like this is the same thing, right? Like"
+    },
+    {
+      "start_ms": 1002120,
+      "end_ms": 1005079,
+      "start": "00:16:42.120",
+      "end": "00:16:45.079",
+      "text": "So, this guy is jumping, he tries to hit"
+    },
+    {
+      "start_ms": 1003520,
+      "end_ms": 1008280,
+      "start": "00:16:43.520",
+      "end": "00:16:48.280",
+      "text": "the shot on the jump."
+    },
+    {
+      "start_ms": 1005079,
+      "end_ms": 1009800,
+      "start": "00:16:45.079",
+      "end": "00:16:49.800",
+      "text": "And then he knows, okay,"
+    },
+    {
+      "start_ms": 1008280,
+      "end_ms": 1011280,
+      "start": "00:16:48.280",
+      "end": "00:16:51.280",
+      "text": "this guy has just strafed past my"
+    },
+    {
+      "start_ms": 1009800,
+      "end_ms": 1012360,
+      "start": "00:16:49.800",
+      "end": "00:16:52.360",
+      "text": "crosshair and he's short-strafing,"
+    },
+    {
+      "start_ms": 1011280,
+      "end_ms": 1014079,
+      "start": "00:16:51.280",
+      "end": "00:16:54.079",
+      "text": "right?"
+    },
+    {
+      "start_ms": 1012360,
+      "end_ms": 1015800,
+      "start": "00:16:52.360",
+      "end": "00:16:55.800",
+      "text": "So, one short strafe, now I'm going to"
+    },
+    {
+      "start_ms": 1014079,
+      "end_ms": 1017320,
+      "start": "00:16:54.079",
+      "end": "00:16:57.320",
+      "text": "start following this guy, and he just"
+    },
+    {
+      "start_ms": 1015800,
+      "end_ms": 1019640,
+      "start": "00:16:55.800",
+      "end": "00:16:59.640",
+      "text": "follows him here."
+    },
+    {
+      "start_ms": 1017320,
+      "end_ms": 1020959,
+      "start": "00:16:57.320",
+      "end": "00:17:00.959",
+      "text": "One shot. He's still short-strafing."
+    },
+    {
+      "start_ms": 1019640,
+      "end_ms": 1023200,
+      "start": "00:16:59.640",
+      "end": "00:17:03.200",
+      "text": "Follow him again."
+    },
+    {
+      "start_ms": 1020959,
+      "end_ms": 1025199,
+      "start": "00:17:00.959",
+      "end": "00:17:05.199",
+      "text": "And so, here he's like he figures out"
+    },
+    {
+      "start_ms": 1023200,
+      "end_ms": 1026320,
+      "start": "00:17:03.200",
+      "end": "00:17:06.320",
+      "text": "which one you're going to do so quickly"
+    },
+    {
+      "start_ms": 1025199,
+      "end_ms": 1029079,
+      "start": "00:17:05.199",
+      "end": "00:17:09.079",
+      "text": "and then adjust his technique"
+    },
+    {
+      "start_ms": 1026320,
+      "end_ms": 1029079,
+      "start": "00:17:06.320",
+      "end": "00:17:09.079",
+      "text": "accordingly."
+    }
+  ]
+}

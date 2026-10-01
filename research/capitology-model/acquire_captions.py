@@ -6,6 +6,7 @@ import concurrent.futures
 import argparse
 import datetime as dt
 import hashlib
+import gzip
 import html
 import json
 import re
@@ -15,6 +16,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 RAW = ROOT / 'captions' / 'raw-json3'
+RAW_GZ = ROOT / 'captions' / 'raw-json3-gz'
 SEG = ROOT / 'captions' / 'segments'
 TEXT = ROOT / 'captions' / 'text'
 LOG = ROOT / 'captions' / 'logs'
@@ -77,6 +79,9 @@ def acquire(video):
         source, segments = parse_json3(target)
     except Exception as exc:
         return {'video_id': video_id, 'status': 'parse_failed', 'error': str(exc)}
+    compressed = RAW_GZ / f'{video_id}.en.json3.gz'
+    with gzip.GzipFile(filename='', mode='wb', fileobj=compressed.open('wb'), mtime=0) as output:
+        output.write(target.read_bytes())
     duration_ms = video['duration_seconds'] * 1000
     spoken = [s for s in segments if not (s['text'].startswith('[') and s['text'].endswith(']'))]
     text = ' '.join(s['text'].replace('\n', ' ') for s in spoken)
@@ -104,7 +109,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--workers', type=int, default=4)
     args = parser.parse_args()
-    for directory in [RAW, SEG, TEXT, LOG]: directory.mkdir(parents=True, exist_ok=True)
+    for directory in [RAW, RAW_GZ, SEG, TEXT, LOG]: directory.mkdir(parents=True, exist_ok=True)
     inventory = json.loads(INVENTORY.read_text())
     videos = inventory['videos']
     rows = []

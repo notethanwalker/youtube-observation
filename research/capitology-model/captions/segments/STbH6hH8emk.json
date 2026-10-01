@@ -1,0 +1,3936 @@
+{
+  "video_id": "STbH6hH8emk",
+  "title": "Are you Smart Enough to Play Echo?",
+  "url": "https://www.youtube.com/watch?v=STbH6hH8emk",
+  "upload_date": "2024-12-04",
+  "duration_seconds": 1064,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:22:06.353380+00:00",
+  "source_sha256": "bbca9531134bfca6d09012fa68801efb34af3f0bff5019dfeaa23883c9dae1c8",
+  "source_bytes": 450016,
+  "segment_count": 559,
+  "word_count": 4404,
+  "character_count": 21092,
+  "first_segment_ms": 1760,
+  "last_segment_end_ms": 1065440,
+  "leading_gap_seconds": 1.76,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 1760,
+      "end_ms": 5720,
+      "start": "00:00:01.760",
+      "end": "00:00:05.720",
+      "text": "okay so I finally get to make a video"
+    },
+    {
+      "start_ms": 3399,
+      "end_ms": 8000,
+      "start": "00:00:03.399",
+      "end": "00:00:08.000",
+      "text": "about a real character today I'll be"
+    },
+    {
+      "start_ms": 5720,
+      "end_ms": 10000,
+      "start": "00:00:05.720",
+      "end": "00:00:10.000",
+      "text": "looking at Ekko most of these povs are"
+    },
+    {
+      "start_ms": 8000,
+      "end_ms": 11880,
+      "start": "00:00:08.000",
+      "end": "00:00:11.880",
+      "text": "stalker from the Stockholm Grand finals"
+    },
+    {
+      "start_ms": 10000,
+      "end_ms": 14879,
+      "start": "00:00:10.000",
+      "end": "00:00:14.879",
+      "text": "that just happened um and I want to talk"
+    },
+    {
+      "start_ms": 11880,
+      "end_ms": 17160,
+      "start": "00:00:11.880",
+      "end": "00:00:17.160",
+      "text": "about how to play Ekko now Ekko is a"
+    },
+    {
+      "start_ms": 14879,
+      "end_ms": 19160,
+      "start": "00:00:14.879",
+      "end": "00:00:19.160",
+      "text": "character um usually when she's meta"
+    },
+    {
+      "start_ms": 17160,
+      "end_ms": 21359,
+      "start": "00:00:17.160",
+      "end": "00:00:21.359",
+      "text": "there's an echo on both teams so there's"
+    },
+    {
+      "start_ms": 19160,
+      "end_ms": 23240,
+      "start": "00:00:19.160",
+      "end": "00:00:23.240",
+      "text": "a lot of Dynamics to this that'll be"
+    },
+    {
+      "start_ms": 21359,
+      "end_ms": 25800,
+      "start": "00:00:21.359",
+      "end": "00:00:25.800",
+      "text": "Echo versus Echo how they interact with"
+    },
+    {
+      "start_ms": 23240,
+      "end_ms": 27599,
+      "start": "00:00:23.240",
+      "end": "00:00:27.599",
+      "text": "each other and then how that duel kind"
+    },
+    {
+      "start_ms": 25800,
+      "end_ms": 30080,
+      "start": "00:00:25.800",
+      "end": "00:00:30.080",
+      "text": "of interacts with the rest of the team"
+    },
+    {
+      "start_ms": 27599,
+      "end_ms": 32559,
+      "start": "00:00:27.599",
+      "end": "00:00:32.559",
+      "text": "because there are comps like dive eeko"
+    },
+    {
+      "start_ms": 30080,
+      "end_ms": 34399,
+      "start": "00:00:30.080",
+      "end": "00:00:34.399",
+      "text": "where the comp is basically just uh an"
+    },
+    {
+      "start_ms": 32559,
+      "end_ms": 36640,
+      "start": "00:00:32.559",
+      "end": "00:00:36.640",
+      "text": "echo duel with four supports on each"
+    },
+    {
+      "start_ms": 34399,
+      "end_ms": 38079,
+      "start": "00:00:34.399",
+      "end": "00:00:38.079",
+      "text": "team and there are comps like this where"
+    },
+    {
+      "start_ms": 36640,
+      "end_ms": 39480,
+      "start": "00:00:36.640",
+      "end": "00:00:39.480",
+      "text": "echko is kind of just a supporting"
+    },
+    {
+      "start_ms": 38079,
+      "end_ms": 41719,
+      "start": "00:00:38.079",
+      "end": "00:00:41.719",
+      "text": "character who has high overall damage"
+    },
+    {
+      "start_ms": 39480,
+      "end_ms": 43280,
+      "start": "00:00:39.480",
+      "end": "00:00:43.280",
+      "text": "and a good old um they're kind of"
+    },
+    {
+      "start_ms": 41719,
+      "end_ms": 45800,
+      "start": "00:00:41.719",
+      "end": "00:00:45.800",
+      "text": "different but a lot of the same"
+    },
+    {
+      "start_ms": 43280,
+      "end_ms": 48079,
+      "start": "00:00:43.280",
+      "end": "00:00:48.079",
+      "text": "positional and Echo versus Echo comps or"
+    },
+    {
+      "start_ms": 45800,
+      "end_ms": 50280,
+      "start": "00:00:45.800",
+      "end": "00:00:50.280",
+      "text": "concepts apply um so what do I want to"
+    },
+    {
+      "start_ms": 48079,
+      "end_ms": 52520,
+      "start": "00:00:48.079",
+      "end": "00:00:52.520",
+      "text": "talk about there's three big things the"
+    },
+    {
+      "start_ms": 50280,
+      "end_ms": 53559,
+      "start": "00:00:50.280",
+      "end": "00:00:53.559",
+      "text": "first thing is what are we shooting at"
+    },
+    {
+      "start_ms": 52520,
+      "end_ms": 56199,
+      "start": "00:00:52.520",
+      "end": "00:00:56.199",
+      "text": "in the neutral and what are we looking"
+    },
+    {
+      "start_ms": 53559,
+      "end_ms": 57760,
+      "start": "00:00:53.559",
+      "end": "00:00:57.760",
+      "text": "at in the neutral right so if we're just"
+    },
+    {
+      "start_ms": 56199,
+      "end_ms": 59000,
+      "start": "00:00:56.199",
+      "end": "00:00:59.000",
+      "text": "uh shooting them and they're shooting us"
+    },
+    {
+      "start_ms": 57760,
+      "end_ms": 60120,
+      "start": "00:00:57.760",
+      "end": "00:01:00.120",
+      "text": "there's no Als in the fight nobody's"
+    },
+    {
+      "start_ms": 59000,
+      "end_ms": 62879,
+      "start": "00:00:59.000",
+      "end": "00:01:02.879",
+      "text": "engaging or pinning or anything that"
+    },
+    {
+      "start_ms": 60120,
+      "end_ms": 66159,
+      "start": "00:01:00.120",
+      "end": "00:01:06.159",
+      "text": "kind of stuff um what am I looking at"
+    },
+    {
+      "start_ms": 62879,
+      "end_ms": 67439,
+      "start": "00:01:02.879",
+      "end": "00:01:07.439",
+      "text": "when can I fly um what am I trying to do"
+    },
+    {
+      "start_ms": 66159,
+      "end_ms": 68560,
+      "start": "00:01:06.159",
+      "end": "00:01:08.560",
+      "text": "am I trying to reach for the backliners"
+    },
+    {
+      "start_ms": 67439,
+      "end_ms": 70799,
+      "start": "00:01:07.439",
+      "end": "00:01:10.799",
+      "text": "am I trying to just shoot the front"
+    },
+    {
+      "start_ms": 68560,
+      "end_ms": 72479,
+      "start": "00:01:08.560",
+      "end": "00:01:12.479",
+      "text": "liners um and like what's my goal in"
+    },
+    {
+      "start_ms": 70799,
+      "end_ms": 74360,
+      "start": "00:01:10.799",
+      "end": "00:01:14.360",
+      "text": "that neutral like am I trying to force"
+    },
+    {
+      "start_ms": 72479,
+      "end_ms": 75680,
+      "start": "00:01:12.479",
+      "end": "00:01:15.680",
+      "text": "CDs from the front line am I trying to"
+    },
+    {
+      "start_ms": 74360,
+      "end_ms": 78080,
+      "start": "00:01:14.360",
+      "end": "00:01:18.080",
+      "text": "look for a fly on their echo or their"
+    },
+    {
+      "start_ms": 75680,
+      "end_ms": 80280,
+      "start": "00:01:15.680",
+      "end": "00:01:20.280",
+      "text": "Juno or what am I doing the second thing"
+    },
+    {
+      "start_ms": 78080,
+      "end_ms": 81840,
+      "start": "00:01:18.080",
+      "end": "00:01:21.840",
+      "text": "is when can I actually make successful"
+    },
+    {
+      "start_ms": 80280,
+      "end_ms": 84119,
+      "start": "00:01:20.280",
+      "end": "00:01:24.119",
+      "text": "reaches on the enemy backliners"
+    },
+    {
+      "start_ms": 81840,
+      "end_ms": 85759,
+      "start": "00:01:21.840",
+      "end": "00:01:25.759",
+      "text": "specifically the Juno and uh what do I"
+    },
+    {
+      "start_ms": 84119,
+      "end_ms": 87880,
+      "start": "00:01:24.119",
+      "end": "00:01:27.880",
+      "text": "need in order to get that kill without"
+    },
+    {
+      "start_ms": 85759,
+      "end_ms": 89280,
+      "start": "00:01:25.759",
+      "end": "00:01:29.280",
+      "text": "me dying or if I'm going to die like I'm"
+    },
+    {
+      "start_ms": 87880,
+      "end_ms": 91759,
+      "start": "00:01:27.880",
+      "end": "00:01:31.759",
+      "text": "getting more value than they are out of"
+    },
+    {
+      "start_ms": 89280,
+      "end_ms": 93520,
+      "start": "00:01:29.280",
+      "end": "00:01:33.520",
+      "text": "killing me right so when do I need to"
+    },
+    {
+      "start_ms": 91759,
+      "end_ms": 95280,
+      "start": "00:01:31.759",
+      "end": "00:01:35.280",
+      "text": "look for that when should I look for it"
+    },
+    {
+      "start_ms": 93520,
+      "end_ms": 97479,
+      "start": "00:01:33.520",
+      "end": "00:01:37.479",
+      "text": "and what do I need to make it work the"
+    },
+    {
+      "start_ms": 95280,
+      "end_ms": 99439,
+      "start": "00:01:35.280",
+      "end": "00:01:39.439",
+      "text": "third thing is copy usage um and copy"
+    },
+    {
+      "start_ms": 97479,
+      "end_ms": 101079,
+      "start": "00:01:37.479",
+      "end": "00:01:41.079",
+      "text": "usage is a bigger deal than most of the"
+    },
+    {
+      "start_ms": 99439,
+      "end_ms": 102960,
+      "start": "00:01:39.439",
+      "end": "00:01:42.960",
+      "text": "other ults in this comp to be honest"
+    },
+    {
+      "start_ms": 101079,
+      "end_ms": 104640,
+      "start": "00:01:41.079",
+      "end": "00:01:44.640",
+      "text": "most of the other ults are just about um"
+    },
+    {
+      "start_ms": 102960,
+      "end_ms": 106759,
+      "start": "00:01:42.960",
+      "end": "00:01:46.759",
+      "text": "timing and farming them as much as"
+    },
+    {
+      "start_ms": 104640,
+      "end_ms": 109079,
+      "start": "00:01:44.640",
+      "end": "00:01:49.079",
+      "text": "possible copy obviously there's a lot of"
+    },
+    {
+      "start_ms": 106759,
+      "end_ms": 111000,
+      "start": "00:01:46.759",
+      "end": "00:01:51.000",
+      "text": "farming element to it but um even though"
+    },
+    {
+      "start_ms": 109079,
+      "end_ms": 113280,
+      "start": "00:01:49.079",
+      "end": "00:01:53.280",
+      "text": "most of the copies are Reaper copies it"
+    },
+    {
+      "start_ms": 111000,
+      "end_ms": 114640,
+      "start": "00:01:51.000",
+      "end": "00:01:54.640",
+      "text": "actually can be used uh in a lot more"
+    },
+    {
+      "start_ms": 113280,
+      "end_ms": 116520,
+      "start": "00:01:53.280",
+      "end": "00:01:56.520",
+      "text": "different ways than almost every other"
+    },
+    {
+      "start_ms": 114640,
+      "end_ms": 117840,
+      "start": "00:01:54.640",
+      "end": "00:01:57.840",
+      "text": "ult in this comp you know almost every"
+    },
+    {
+      "start_ms": 116520,
+      "end_ms": 119240,
+      "start": "00:01:56.520",
+      "end": "00:01:59.240",
+      "text": "other ult you're just trying to pop it"
+    },
+    {
+      "start_ms": 117840,
+      "end_ms": 120640,
+      "start": "00:01:57.840",
+      "end": "00:02:00.640",
+      "text": "and kill the person in front of you"
+    },
+    {
+      "start_ms": 119240,
+      "end_ms": 122119,
+      "start": "00:01:59.240",
+      "end": "00:02:02.119",
+      "text": "where copy kind of has a little bit more"
+    },
+    {
+      "start_ms": 120640,
+      "end_ms": 124200,
+      "start": "00:02:00.640",
+      "end": "00:02:04.200",
+      "text": "Nuance to it so I'll spend the the last"
+    },
+    {
+      "start_ms": 122119,
+      "end_ms": 126719,
+      "start": "00:02:02.119",
+      "end": "00:02:06.719",
+      "text": "part of the video on that but the first"
+    },
+    {
+      "start_ms": 124200,
+      "end_ms": 129200,
+      "start": "00:02:04.200",
+      "end": "00:02:09.200",
+      "text": "thing those neutrals let's take a look"
+    },
+    {
+      "start_ms": 126719,
+      "end_ms": 129200,
+      "start": "00:02:06.719",
+      "end": "00:02:09.200",
+      "text": "this first"
+    },
+    {
+      "start_ms": 130080,
+      "end_ms": 134239,
+      "start": "00:02:10.080",
+      "end": "00:02:14.239",
+      "text": "fight both teams roll out the same way"
+    },
+    {
+      "start_ms": 132560,
+      "end_ms": 135800,
+      "start": "00:02:12.560",
+      "end": "00:02:15.800",
+      "text": "so I have a couple options uh"
+    },
+    {
+      "start_ms": 134239,
+      "end_ms": 137360,
+      "start": "00:02:14.239",
+      "end": "00:02:17.360",
+      "text": "approaching this neutral the first thing"
+    },
+    {
+      "start_ms": 135800,
+      "end_ms": 138800,
+      "start": "00:02:15.800",
+      "end": "00:02:18.800",
+      "text": "I can do is I can just shoot front line"
+    },
+    {
+      "start_ms": 137360,
+      "end_ms": 141440,
+      "start": "00:02:17.360",
+      "end": "00:02:21.440",
+      "text": "right I can look for the Maga I can look"
+    },
+    {
+      "start_ms": 138800,
+      "end_ms": 142879,
+      "start": "00:02:18.800",
+      "end": "00:02:22.879",
+      "text": "for the reaper um and I can say if I can"
+    },
+    {
+      "start_ms": 141440,
+      "end_ms": 144879,
+      "start": "00:02:21.440",
+      "end": "00:02:24.879",
+      "text": "do more damage to these people and I can"
+    },
+    {
+      "start_ms": 142879,
+      "end_ms": 146519,
+      "start": "00:02:22.879",
+      "end": "00:02:26.519",
+      "text": "force their CDs early then my front line"
+    },
+    {
+      "start_ms": 144879,
+      "end_ms": 148959,
+      "start": "00:02:24.879",
+      "end": "00:02:28.959",
+      "text": "can walk hard and we can take more space"
+    },
+    {
+      "start_ms": 146519,
+      "end_ms": 151519,
+      "start": "00:02:26.519",
+      "end": "00:02:31.519",
+      "text": "and we can win that way right um the"
+    },
+    {
+      "start_ms": 148959,
+      "end_ms": 153560,
+      "start": "00:02:28.959",
+      "end": "00:02:33.560",
+      "text": "second option is I can look to find this"
+    },
+    {
+      "start_ms": 151519,
+      "end_ms": 154959,
+      "start": "00:02:31.519",
+      "end": "00:02:34.959",
+      "text": "Eko I can look to find this Juno and I"
+    },
+    {
+      "start_ms": 153560,
+      "end_ms": 156680,
+      "start": "00:02:33.560",
+      "end": "00:02:36.680",
+      "text": "can either look to reach them and kill"
+    },
+    {
+      "start_ms": 154959,
+      "end_ms": 157959,
+      "start": "00:02:34.959",
+      "end": "00:02:37.959",
+      "text": "them if it's it's you know really easy"
+    },
+    {
+      "start_ms": 156680,
+      "end_ms": 159319,
+      "start": "00:02:36.680",
+      "end": "00:02:39.319",
+      "text": "and that's kind of more up to them"
+    },
+    {
+      "start_ms": 157959,
+      "end_ms": 161000,
+      "start": "00:02:37.959",
+      "end": "00:02:41.000",
+      "text": "playing badly than it is on you playing"
+    },
+    {
+      "start_ms": 159319,
+      "end_ms": 162120,
+      "start": "00:02:39.319",
+      "end": "00:02:42.120",
+      "text": "good or if I'm doing it and they're"
+    },
+    {
+      "start_ms": 161000,
+      "end_ms": 163840,
+      "start": "00:02:41.000",
+      "end": "00:02:43.840",
+      "text": "playing well I'm just going to kind of"
+    },
+    {
+      "start_ms": 162120,
+      "end_ms": 165040,
+      "start": "00:02:42.120",
+      "end": "00:02:45.040",
+      "text": "Zone them out of the fight uh when I'm"
+    },
+    {
+      "start_ms": 163840,
+      "end_ms": 167120,
+      "start": "00:02:43.840",
+      "end": "00:02:47.120",
+      "text": "shooting them and they're having to back"
+    },
+    {
+      "start_ms": 165040,
+      "end_ms": 168280,
+      "start": "00:02:45.040",
+      "end": "00:02:48.280",
+      "text": "up and then my team can win by these"
+    },
+    {
+      "start_ms": 167120,
+      "end_ms": 169360,
+      "start": "00:02:47.120",
+      "end": "00:02:49.360",
+      "text": "people being out of the fight and I can"
+    },
+    {
+      "start_ms": 168280,
+      "end_ms": 171560,
+      "start": "00:02:48.280",
+      "end": "00:02:51.560",
+      "text": "kind of turn and shoot and these people"
+    },
+    {
+      "start_ms": 169360,
+      "end_ms": 173720,
+      "start": "00:02:49.360",
+      "end": "00:02:53.720",
+      "text": "can't do anything right so when do I"
+    },
+    {
+      "start_ms": 171560,
+      "end_ms": 177159,
+      "start": "00:02:51.560",
+      "end": "00:02:57.159",
+      "text": "look for each well the big trigger in"
+    },
+    {
+      "start_ms": 173720,
+      "end_ms": 179840,
+      "start": "00:02:53.720",
+      "end": "00:02:59.840",
+      "text": "this fight is fly usage so if you're an"
+    },
+    {
+      "start_ms": 177159,
+      "end_ms": 181920,
+      "start": "00:02:57.159",
+      "end": "00:03:01.920",
+      "text": "Eko and you're in the neutral and you"
+    },
+    {
+      "start_ms": 179840,
+      "end_ms": 183360,
+      "start": "00:02:59.840",
+      "end": "00:03:03.360",
+      "text": "you fly for no reason right this fly"
+    },
+    {
+      "start_ms": 181920,
+      "end_ms": 185239,
+      "start": "00:03:01.920",
+      "end": "00:03:05.239",
+      "text": "can't be punished right so it's at least"
+    },
+    {
+      "start_ms": 183360,
+      "end_ms": 187040,
+      "start": "00:03:03.360",
+      "end": "00:03:07.040",
+      "text": "good in that aspect that um he's not"
+    },
+    {
+      "start_ms": 185239,
+      "end_ms": 188519,
+      "start": "00:03:05.239",
+      "end": "00:03:08.519",
+      "text": "flying up and in right so soccer can't"
+    },
+    {
+      "start_ms": 187040,
+      "end_ms": 191280,
+      "start": "00:03:07.040",
+      "end": "00:03:11.280",
+      "text": "just reach in and kill him but the"
+    },
+    {
+      "start_ms": 188519,
+      "end_ms": 193920,
+      "start": "00:03:08.519",
+      "end": "00:03:13.920",
+      "text": "problem is this fly is a big trigger for"
+    },
+    {
+      "start_ms": 191280,
+      "end_ms": 195959,
+      "start": "00:03:11.280",
+      "end": "00:03:15.959",
+      "text": "stalker to say I can fly now because"
+    },
+    {
+      "start_ms": 193920,
+      "end_ms": 197879,
+      "start": "00:03:13.920",
+      "end": "00:03:17.879",
+      "text": "since heang doesn't have fly I can't be"
+    },
+    {
+      "start_ms": 195959,
+      "end_ms": 199560,
+      "start": "00:03:15.959",
+      "end": "00:03:19.560",
+      "text": "punished for this and if I can just fly"
+    },
+    {
+      "start_ms": 197879,
+      "end_ms": 201760,
+      "start": "00:03:17.879",
+      "end": "00:03:21.760",
+      "text": "over here and shoot these people Zone"
+    },
+    {
+      "start_ms": 199560,
+      "end_ms": 203040,
+      "start": "00:03:19.560",
+      "end": "00:03:23.040",
+      "text": "back the Juno and the Eko right"
+    },
+    {
+      "start_ms": 201760,
+      "end_ms": 204680,
+      "start": "00:03:21.760",
+      "end": "00:03:24.680",
+      "text": "obviously I'll kill them if I can if I"
+    },
+    {
+      "start_ms": 203040,
+      "end_ms": 206239,
+      "start": "00:03:23.040",
+      "end": "00:03:26.239",
+      "text": "hadit a stickies and beam sure but even"
+    },
+    {
+      "start_ms": 204680,
+      "end_ms": 207680,
+      "start": "00:03:24.680",
+      "end": "00:03:27.680",
+      "text": "if I don't kill them I'm zoning them"
+    },
+    {
+      "start_ms": 206239,
+      "end_ms": 209400,
+      "start": "00:03:26.239",
+      "end": "00:03:29.400",
+      "text": "away from the rest of their team they"
+    },
+    {
+      "start_ms": 207680,
+      "end_ms": 211080,
+      "start": "00:03:27.680",
+      "end": "00:03:31.080",
+      "text": "can't play in the E the eeko has low"
+    },
+    {
+      "start_ms": 209400,
+      "end_ms": 212680,
+      "start": "00:03:29.400",
+      "end": "00:03:32.680",
+      "text": "damage the Juno has low healing and"
+    },
+    {
+      "start_ms": 211080,
+      "end_ms": 213640,
+      "start": "00:03:31.080",
+      "end": "00:03:33.640",
+      "text": "we're just going to my front line is all"
+    },
+    {
+      "start_ms": 212680,
+      "end_ms": 215239,
+      "start": "00:03:32.680",
+      "end": "00:03:35.239",
+      "text": "going to stack together and we're going"
+    },
+    {
+      "start_ms": 213640,
+      "end_ms": 216360,
+      "start": "00:03:33.640",
+      "end": "00:03:36.360",
+      "text": "to kill the people left in our space"
+    },
+    {
+      "start_ms": 215239,
+      "end_ms": 218000,
+      "start": "00:03:35.239",
+      "end": "00:03:38.000",
+      "text": "right so he's playing this kind of"
+    },
+    {
+      "start_ms": 216360,
+      "end_ms": 219599,
+      "start": "00:03:36.360",
+      "end": "00:03:39.599",
+      "text": "gatekeep style because he heard the"
+    },
+    {
+      "start_ms": 218000,
+      "end_ms": 221360,
+      "start": "00:03:38.000",
+      "end": "00:03:41.360",
+      "text": "enemy eeko fly and this is your biggest"
+    },
+    {
+      "start_ms": 219599,
+      "end_ms": 223439,
+      "start": "00:03:39.599",
+      "end": "00:03:43.439",
+      "text": "trigger in the neutral if enemy Ekko"
+    },
+    {
+      "start_ms": 221360,
+      "end_ms": 225120,
+      "start": "00:03:41.360",
+      "end": "00:03:45.120",
+      "text": "ever flies even if you can't punish her"
+    },
+    {
+      "start_ms": 223439,
+      "end_ms": 226239,
+      "start": "00:03:43.439",
+      "end": "00:03:46.239",
+      "text": "off of it you can fly and start doing"
+    },
+    {
+      "start_ms": 225120,
+      "end_ms": 227920,
+      "start": "00:03:45.120",
+      "end": "00:03:47.920",
+      "text": "whatever you want and you can start"
+    },
+    {
+      "start_ms": 226239,
+      "end_ms": 230200,
+      "start": "00:03:46.239",
+      "end": "00:03:50.200",
+      "text": "zoning these people or killing them if"
+    },
+    {
+      "start_ms": 227920,
+      "end_ms": 232799,
+      "start": "00:03:47.920",
+      "end": "00:03:52.799",
+      "text": "they're in your space right um if this"
+    },
+    {
+      "start_ms": 230200,
+      "end_ms": 234560,
+      "start": "00:03:50.200",
+      "end": "00:03:54.560",
+      "text": "doesn't happen then I might shoot her"
+    },
+    {
+      "start_ms": 232799,
+      "end_ms": 236239,
+      "start": "00:03:52.799",
+      "end": "00:03:56.239",
+      "text": "right if I can shoot her but mainly I'm"
+    },
+    {
+      "start_ms": 234560,
+      "end_ms": 237720,
+      "start": "00:03:54.560",
+      "end": "00:03:57.720",
+      "text": "just looking to try and uh if the reaper"
+    },
+    {
+      "start_ms": 236239,
+      "end_ms": 239159,
+      "start": "00:03:56.239",
+      "end": "00:03:59.159",
+      "text": "is available I want to force this fade"
+    },
+    {
+      "start_ms": 237720,
+      "end_ms": 240640,
+      "start": "00:03:57.720",
+      "end": "00:04:00.640",
+      "text": "right if not I'm just shooting the M"
+    },
+    {
+      "start_ms": 239159,
+      "end_ms": 242120,
+      "start": "00:03:59.159",
+      "end": "00:04:02.120",
+      "text": "front of my old and I'm kind of waiting"
+    },
+    {
+      "start_ms": 240640,
+      "end_ms": 245079,
+      "start": "00:04:00.640",
+      "end": "00:04:05.079",
+      "text": "for this to happen or for backliners to"
+    },
+    {
+      "start_ms": 242120,
+      "end_ms": 247680,
+      "start": "00:04:02.120",
+      "end": "00:04:07.680",
+      "text": "walk up um the neutral is not that much"
+    },
+    {
+      "start_ms": 245079,
+      "end_ms": 250319,
+      "start": "00:04:05.079",
+      "end": "00:04:10.319",
+      "text": "more complicated than that to be honest"
+    },
+    {
+      "start_ms": 247680,
+      "end_ms": 252040,
+      "start": "00:04:07.680",
+      "end": "00:04:12.040",
+      "text": "um so when can we reach for backliners"
+    },
+    {
+      "start_ms": 250319,
+      "end_ms": 254120,
+      "start": "00:04:10.319",
+      "end": "00:04:14.120",
+      "text": "so when do I want to reach for"
+    },
+    {
+      "start_ms": 252040,
+      "end_ms": 256400,
+      "start": "00:04:12.040",
+      "end": "00:04:16.400",
+      "text": "backliners and what do I need to do to"
+    },
+    {
+      "start_ms": 254120,
+      "end_ms": 258280,
+      "start": "00:04:14.120",
+      "end": "00:04:18.280",
+      "text": "make it work well when I want to reach"
+    },
+    {
+      "start_ms": 256400,
+      "end_ms": 259680,
+      "start": "00:04:16.400",
+      "end": "00:04:19.680",
+      "text": "for them before I can get into that I"
+    },
+    {
+      "start_ms": 258280,
+      "end_ms": 260959,
+      "start": "00:04:18.280",
+      "end": "00:04:20.959",
+      "text": "kind of have to explain there's two"
+    },
+    {
+      "start_ms": 259680,
+      "end_ms": 262000,
+      "start": "00:04:19.680",
+      "end": "00:04:22.000",
+      "text": "types of fights in this comp and it's"
+    },
+    {
+      "start_ms": 260959,
+      "end_ms": 263840,
+      "start": "00:04:20.959",
+      "end": "00:04:23.840",
+      "text": "really similar to what I talked about"
+    },
+    {
+      "start_ms": 262000,
+      "end_ms": 264759,
+      "start": "00:04:22.000",
+      "end": "00:04:24.759",
+      "text": "the neutral um but it's just like"
+    },
+    {
+      "start_ms": 263840,
+      "end_ms": 266960,
+      "start": "00:04:23.840",
+      "end": "00:04:26.960",
+      "text": "whether we're trying to kill these"
+    },
+    {
+      "start_ms": 264759,
+      "end_ms": 268840,
+      "start": "00:04:24.759",
+      "end": "00:04:28.840",
+      "text": "people right there's a front to back"
+    },
+    {
+      "start_ms": 266960,
+      "end_ms": 271240,
+      "start": "00:04:26.960",
+      "end": "00:04:31.240",
+      "text": "fight um and when I say front to back"
+    },
+    {
+      "start_ms": 268840,
+      "end_ms": 273039,
+      "start": "00:04:28.840",
+      "end": "00:04:33.039",
+      "text": "what I mean is we are playing to force"
+    },
+    {
+      "start_ms": 271240,
+      "end_ms": 275080,
+      "start": "00:04:31.240",
+      "end": "00:04:35.080",
+      "text": "CDs out of these two people we're kind"
+    },
+    {
+      "start_ms": 273039,
+      "end_ms": 277320,
+      "start": "00:04:33.039",
+      "end": "00:04:37.320",
+      "text": "of like more stacky and just like five"
+    },
+    {
+      "start_ms": 275080,
+      "end_ms": 279400,
+      "start": "00:04:35.080",
+      "end": "00:04:39.400",
+      "text": "men shooting the the reaper or five men"
+    },
+    {
+      "start_ms": 277320,
+      "end_ms": 282120,
+      "start": "00:04:37.320",
+      "end": "00:04:42.120",
+      "text": "shooting the Maga um and we're trying to"
+    },
+    {
+      "start_ms": 279400,
+      "end_ms": 284320,
+      "start": "00:04:39.400",
+      "end": "00:04:44.320",
+      "text": "force this e or Force you know chunk him"
+    },
+    {
+      "start_ms": 282120,
+      "end_ms": 285800,
+      "start": "00:04:42.120",
+      "end": "00:04:45.800",
+      "text": "really hard or Force the fade and once"
+    },
+    {
+      "start_ms": 284320,
+      "end_ms": 287639,
+      "start": "00:04:44.320",
+      "end": "00:04:47.639",
+      "text": "one of those two things happens that's"
+    },
+    {
+      "start_ms": 285800,
+      "end_ms": 289120,
+      "start": "00:04:45.800",
+      "end": "00:04:49.120",
+      "text": "my big trigger to I make my engage"
+    },
+    {
+      "start_ms": 287639,
+      "end_ms": 291360,
+      "start": "00:04:47.639",
+      "end": "00:04:51.360",
+      "text": "happen I can kill the reaper after the"
+    },
+    {
+      "start_ms": 289120,
+      "end_ms": 293160,
+      "start": "00:04:49.120",
+      "end": "00:04:53.160",
+      "text": "fade or I can chase the magga after the"
+    },
+    {
+      "start_ms": 291360,
+      "end_ms": 296080,
+      "start": "00:04:51.360",
+      "end": "00:04:56.080",
+      "text": "e or the pin and I can kill those people"
+    },
+    {
+      "start_ms": 293160,
+      "end_ms": 298639,
+      "start": "00:04:53.160",
+      "end": "00:04:58.639",
+      "text": "right in that type of fight um if I'm"
+    },
+    {
+      "start_ms": 296080,
+      "end_ms": 300680,
+      "start": "00:04:56.080",
+      "end": "00:05:00.680",
+      "text": "reaching for backliners it's because"
+    },
+    {
+      "start_ms": 298639,
+      "end_ms": 302240,
+      "start": "00:04:58.639",
+      "end": "00:05:02.240",
+      "text": "either the Juno Ste way out of line or"
+    },
+    {
+      "start_ms": 300680,
+      "end_ms": 304240,
+      "start": "00:05:00.680",
+      "end": "00:05:04.240",
+      "text": "the echo stepped way out of line or the"
+    },
+    {
+      "start_ms": 302240,
+      "end_ms": 305759,
+      "start": "00:05:02.240",
+      "end": "00:05:05.759",
+      "text": "echo flew for no reason right otherwise"
+    },
+    {
+      "start_ms": 304240,
+      "end_ms": 307120,
+      "start": "00:05:04.240",
+      "end": "00:05:07.120",
+      "text": "I'm just contributing to the damage"
+    },
+    {
+      "start_ms": 305759,
+      "end_ms": 308880,
+      "start": "00:05:05.759",
+      "end": "00:05:08.880",
+      "text": "front to back and helping to force that"
+    },
+    {
+      "start_ms": 307120,
+      "end_ms": 310160,
+      "start": "00:05:07.120",
+      "end": "00:05:10.160",
+      "text": "fade and helping to force that Mal e"
+    },
+    {
+      "start_ms": 308880,
+      "end_ms": 311800,
+      "start": "00:05:08.880",
+      "end": "00:05:11.800",
+      "text": "right um and if I'm reaching for"
+    },
+    {
+      "start_ms": 310160,
+      "end_ms": 313560,
+      "start": "00:05:10.160",
+      "end": "00:05:13.560",
+      "text": "backliners in that type of fight even if"
+    },
+    {
+      "start_ms": 311800,
+      "end_ms": 315039,
+      "start": "00:05:11.800",
+      "end": "00:05:15.039",
+      "text": "they stepped way out of line usually I'm"
+    },
+    {
+      "start_ms": 313560,
+      "end_ms": 316520,
+      "start": "00:05:13.560",
+      "end": "00:05:16.520",
+      "text": "just trying to Zone them like that first"
+    },
+    {
+      "start_ms": 315039,
+      "end_ms": 318280,
+      "start": "00:05:15.039",
+      "end": "00:05:18.280",
+      "text": "fight I'm not actually reaching for a"
+    },
+    {
+      "start_ms": 316520,
+      "end_ms": 320039,
+      "start": "00:05:16.520",
+      "end": "00:05:20.039",
+      "text": "kill because my Reaper is helping my"
+    },
+    {
+      "start_ms": 318280,
+      "end_ms": 322000,
+      "start": "00:05:18.280",
+      "end": "00:05:22.000",
+      "text": "Maga shoot the enemy front line and"
+    },
+    {
+      "start_ms": 320039,
+      "end_ms": 323919,
+      "start": "00:05:20.039",
+      "end": "00:05:23.919",
+      "text": "Reaper is a really big part of you"
+    },
+    {
+      "start_ms": 322000,
+      "end_ms": 325479,
+      "start": "00:05:22.000",
+      "end": "00:05:25.479",
+      "text": "successfully killing the enemy back line"
+    },
+    {
+      "start_ms": 323919,
+      "end_ms": 327479,
+      "start": "00:05:23.919",
+      "end": "00:05:27.479",
+      "text": "right so what's going to happen in this"
+    },
+    {
+      "start_ms": 325479,
+      "end_ms": 329160,
+      "start": "00:05:25.479",
+      "end": "00:05:29.160",
+      "text": "fight well um we don't really want to"
+    },
+    {
+      "start_ms": 327479,
+      "end_ms": 330560,
+      "start": "00:05:27.479",
+      "end": "00:05:30.560",
+      "text": "play front to back we kind of want to"
+    },
+    {
+      "start_ms": 329160,
+      "end_ms": 332919,
+      "start": "00:05:29.160",
+      "end": "00:05:32.919",
+      "text": "you know play to burst one of these"
+    },
+    {
+      "start_ms": 330560,
+      "end_ms": 334639,
+      "start": "00:05:30.560",
+      "end": "00:05:34.639",
+      "text": "people or maybe the brg because they"
+    },
+    {
+      "start_ms": 332919,
+      "end_ms": 336280,
+      "start": "00:05:32.919",
+      "end": "00:05:36.280",
+      "text": "have reap roll and they have cage so if"
+    },
+    {
+      "start_ms": 334639,
+      "end_ms": 337520,
+      "start": "00:05:34.639",
+      "end": "00:05:37.520",
+      "text": "we play front to back we can stack maybe"
+    },
+    {
+      "start_ms": 336280,
+      "end_ms": 339280,
+      "start": "00:05:36.280",
+      "end": "00:05:39.280",
+      "text": "we can force this fade or maybe we can"
+    },
+    {
+      "start_ms": 337520,
+      "end_ms": 340639,
+      "start": "00:05:37.520",
+      "end": "00:05:40.639",
+      "text": "force the e but even if we do it"
+    },
+    {
+      "start_ms": 339280,
+      "end_ms": 341759,
+      "start": "00:05:39.280",
+      "end": "00:05:41.759",
+      "text": "properly they're just going to pop a"
+    },
+    {
+      "start_ms": 340639,
+      "end_ms": 343039,
+      "start": "00:05:40.639",
+      "end": "00:05:43.039",
+      "text": "cage they're going to reap roll inside"
+    },
+    {
+      "start_ms": 341759,
+      "end_ms": 345440,
+      "start": "00:05:41.759",
+      "end": "00:05:45.440",
+      "text": "of it and we're just all going to die"
+    },
+    {
+      "start_ms": 343039,
+      "end_ms": 346919,
+      "start": "00:05:43.039",
+      "end": "00:05:46.919",
+      "text": "right so I can't win that way I need to"
+    },
+    {
+      "start_ms": 345440,
+      "end_ms": 348560,
+      "start": "00:05:45.440",
+      "end": "00:05:48.560",
+      "text": "win the other way I need to reach this"
+    },
+    {
+      "start_ms": 346919,
+      "end_ms": 349720,
+      "start": "00:05:46.919",
+      "end": "00:05:49.720",
+      "text": "eeko or I need to reach this Juno so"
+    },
+    {
+      "start_ms": 348560,
+      "end_ms": 351400,
+      "start": "00:05:48.560",
+      "end": "00:05:51.400",
+      "text": "what I'm going to do instead is my"
+    },
+    {
+      "start_ms": 349720,
+      "end_ms": 353240,
+      "start": "00:05:49.720",
+      "end": "00:05:53.240",
+      "text": "Reaper and my malga are not going to"
+    },
+    {
+      "start_ms": 351400,
+      "end_ms": 355120,
+      "start": "00:05:51.400",
+      "end": "00:05:55.120",
+      "text": "stack together my Reaper is going to TP"
+    },
+    {
+      "start_ms": 353240,
+      "end_ms": 356560,
+      "start": "00:05:53.240",
+      "end": "00:05:56.560",
+      "text": "in and Scout for me he's going to Ping"
+    },
+    {
+      "start_ms": 355120,
+      "end_ms": 358280,
+      "start": "00:05:55.120",
+      "end": "00:05:58.280",
+      "text": "the Juno the whole time I'm going to"
+    },
+    {
+      "start_ms": 356560,
+      "end_ms": 359479,
+      "start": "00:05:56.560",
+      "end": "00:05:59.479",
+      "text": "hide right or maybe sometimes malga can"
+    },
+    {
+      "start_ms": 358280,
+      "end_ms": 361240,
+      "start": "00:05:58.280",
+      "end": "00:06:01.240",
+      "text": "do it if he can swing but he can't see"
+    },
+    {
+      "start_ms": 359479,
+      "end_ms": 363319,
+      "start": "00:05:59.479",
+      "end": "00:06:03.319",
+      "text": "here right so my Reaper needs to do it"
+    },
+    {
+      "start_ms": 361240,
+      "end_ms": 364960,
+      "start": "00:06:01.240",
+      "end": "00:06:04.960",
+      "text": "and then me and my Reaper um are going"
+    },
+    {
+      "start_ms": 363319,
+      "end_ms": 366880,
+      "start": "00:06:03.319",
+      "end": "00:06:06.880",
+      "text": "to leave my malga in my backline to kind"
+    },
+    {
+      "start_ms": 364960,
+      "end_ms": 368759,
+      "start": "00:06:04.960",
+      "end": "00:06:08.759",
+      "text": "of live on their own um maybe my magga"
+    },
+    {
+      "start_ms": 366880,
+      "end_ms": 370479,
+      "start": "00:06:06.880",
+      "end": "00:06:10.479",
+      "text": "will pin if we're crazy trading and then"
+    },
+    {
+      "start_ms": 368759,
+      "end_ms": 372160,
+      "start": "00:06:08.759",
+      "end": "00:06:12.160",
+      "text": "I'm going to play off my Reaper and"
+    },
+    {
+      "start_ms": 370479,
+      "end_ms": 374319,
+      "start": "00:06:10.479",
+      "end": "00:06:14.319",
+      "text": "assassinate this Juno right so he's not"
+    },
+    {
+      "start_ms": 372160,
+      "end_ms": 376479,
+      "start": "00:06:12.160",
+      "end": "00:06:16.479",
+      "text": "even doing anything watch the echo's"
+    },
+    {
+      "start_ms": 374319,
+      "end_ms": 378120,
+      "start": "00:06:14.319",
+      "end": "00:06:18.120",
+      "text": "pinged now proper is making that call"
+    },
+    {
+      "start_ms": 376479,
+      "end_ms": 380800,
+      "start": "00:06:16.479",
+      "end": "00:06:20.800",
+      "text": "he's pinging Brig right I know where the"
+    },
+    {
+      "start_ms": 378120,
+      "end_ms": 382479,
+      "start": "00:06:18.120",
+      "end": "00:06:22.479",
+      "text": "backline is I'm going to fly in now and"
+    },
+    {
+      "start_ms": 380800,
+      "end_ms": 383960,
+      "start": "00:06:20.800",
+      "end": "00:06:23.960",
+      "text": "me and proper are on the Juno together"
+    },
+    {
+      "start_ms": 382479,
+      "end_ms": 386319,
+      "start": "00:06:22.479",
+      "end": "00:06:26.319",
+      "text": "look how low Juno is when he gets inside"
+    },
+    {
+      "start_ms": 383960,
+      "end_ms": 387800,
+      "start": "00:06:23.960",
+      "end": "00:06:27.800",
+      "text": "this right and even though junin and lip"
+    },
+    {
+      "start_ms": 386319,
+      "end_ms": 390080,
+      "start": "00:06:26.319",
+      "end": "00:06:30.080",
+      "text": "have two"
+    },
+    {
+      "start_ms": 387800,
+      "end_ms": 391960,
+      "start": "00:06:27.800",
+      "end": "00:06:31.960",
+      "text": "ults excuse me"
+    },
+    {
+      "start_ms": 390080,
+      "end_ms": 395400,
+      "start": "00:06:30.080",
+      "end": "00:06:35.400",
+      "text": "and hanin only has"
+    },
+    {
+      "start_ms": 391960,
+      "end_ms": 395400,
+      "start": "00:06:31.960",
+      "end": "00:06:35.400",
+      "text": "cage I need to take a"
+    },
+    {
+      "start_ms": 397479,
+      "end_ms": 402919,
+      "start": "00:06:37.479",
+      "end": "00:06:42.919",
+      "text": "drink sorry about that they're able to"
+    },
+    {
+      "start_ms": 400560,
+      "end_ms": 404560,
+      "start": "00:06:40.560",
+      "end": "00:06:44.560",
+      "text": "get Shu and he's saying low enough that"
+    },
+    {
+      "start_ms": 402919,
+      "end_ms": 408479,
+      "start": "00:06:42.919",
+      "end": "00:06:48.479",
+      "text": "they can trade them out inside this"
+    },
+    {
+      "start_ms": 404560,
+      "end_ms": 408479,
+      "start": "00:06:44.560",
+      "end": "00:06:48.479",
+      "text": "fight this is successful reach for"
+    },
+    {
+      "start_ms": 410840,
+      "end_ms": 415360,
+      "start": "00:06:50.840",
+      "end": "00:06:55.360",
+      "text": "backline so let's watch a couple other"
+    },
+    {
+      "start_ms": 414000,
+      "end_ms": 417879,
+      "start": "00:06:54.000",
+      "end": "00:06:57.879",
+      "text": "fights where there successful backline"
+    },
+    {
+      "start_ms": 415360,
+      "end_ms": 418879,
+      "start": "00:06:55.360",
+      "end": "00:06:58.879",
+      "text": "reaches this is one where they don't"
+    },
+    {
+      "start_ms": 417879,
+      "end_ms": 420319,
+      "start": "00:06:57.879",
+      "end": "00:07:00.319",
+      "text": "really want to play front to back"
+    },
+    {
+      "start_ms": 418879,
+      "end_ms": 422240,
+      "start": "00:06:58.879",
+      "end": "00:07:02.240",
+      "text": "because they have cage but the enemy"
+    },
+    {
+      "start_ms": 420319,
+      "end_ms": 423560,
+      "start": "00:07:00.319",
+      "end": "00:07:03.560",
+      "text": "team has copy uh so we know they're"
+    },
+    {
+      "start_ms": 422240,
+      "end_ms": 425919,
+      "start": "00:07:02.240",
+      "end": "00:07:05.919",
+      "text": "going to just copy Reaper if we take"
+    },
+    {
+      "start_ms": 423560,
+      "end_ms": 427479,
+      "start": "00:07:03.560",
+      "end": "00:07:07.479",
+      "text": "this long fight um and cage is probably"
+    },
+    {
+      "start_ms": 425919,
+      "end_ms": 428639,
+      "start": "00:07:05.919",
+      "end": "00:07:08.639",
+      "text": "not enough to just like burst down like"
+    },
+    {
+      "start_ms": 427479,
+      "end_ms": 430199,
+      "start": "00:07:07.479",
+      "end": "00:07:10.199",
+      "text": "a front liner right like they're just"
+    },
+    {
+      "start_ms": 428639,
+      "end_ms": 431960,
+      "start": "00:07:08.639",
+      "end": "00:07:11.960",
+      "text": "going to copy reap roll inside of our"
+    },
+    {
+      "start_ms": 430199,
+      "end_ms": 434240,
+      "start": "00:07:10.199",
+      "end": "00:07:14.240",
+      "text": "cage with an E it's going to be hard so"
+    },
+    {
+      "start_ms": 431960,
+      "end_ms": 437000,
+      "start": "00:07:11.960",
+      "end": "00:07:17.000",
+      "text": "I want to bait them in a little"
+    },
+    {
+      "start_ms": 434240,
+      "end_ms": 439000,
+      "start": "00:07:14.240",
+      "end": "00:07:19.000",
+      "text": "bit and as I bait them in as Echo I need"
+    },
+    {
+      "start_ms": 437000,
+      "end_ms": 440759,
+      "start": "00:07:17.000",
+      "end": "00:07:20.759",
+      "text": "to think of a hiding spot right this is"
+    },
+    {
+      "start_ms": 439000,
+      "end_ms": 442639,
+      "start": "00:07:19.000",
+      "end": "00:07:22.639",
+      "text": "a spot where I can just chill for a"
+    },
+    {
+      "start_ms": 440759,
+      "end_ms": 444319,
+      "start": "00:07:20.759",
+      "end": "00:07:24.319",
+      "text": "second and then I can reach after the"
+    },
+    {
+      "start_ms": 442639,
+      "end_ms": 446039,
+      "start": "00:07:22.639",
+      "end": "00:07:26.039",
+      "text": "reaper pings for me right I don't want"
+    },
+    {
+      "start_ms": 444319,
+      "end_ms": 447280,
+      "start": "00:07:24.319",
+      "end": "00:07:27.280",
+      "text": "to be poking too much in this type of"
+    },
+    {
+      "start_ms": 446039,
+      "end_ms": 448720,
+      "start": "00:07:26.039",
+      "end": "00:07:28.720",
+      "text": "fight or one they're going to know where"
+    },
+    {
+      "start_ms": 447280,
+      "end_ms": 450440,
+      "start": "00:07:27.280",
+      "end": "00:07:30.440",
+      "text": "I am but two I'm going to take some"
+    },
+    {
+      "start_ms": 448720,
+      "end_ms": 452120,
+      "start": "00:07:28.720",
+      "end": "00:07:32.120",
+      "text": "damage it's going to just be hard to"
+    },
+    {
+      "start_ms": 450440,
+      "end_ms": 454759,
+      "start": "00:07:30.440",
+      "end": "00:07:34.759",
+      "text": "reach right so I don't need to poke"
+    },
+    {
+      "start_ms": 452120,
+      "end_ms": 456800,
+      "start": "00:07:32.120",
+      "end": "00:07:36.800",
+      "text": "really hard in this type of"
+    },
+    {
+      "start_ms": 454759,
+      "end_ms": 458759,
+      "start": "00:07:34.759",
+      "end": "00:07:38.759",
+      "text": "fight two look at the pinging that's"
+    },
+    {
+      "start_ms": 456800,
+      "end_ms": 461599,
+      "start": "00:07:36.800",
+      "end": "00:07:41.599",
+      "text": "going on right Reaper TPS in he's just"
+    },
+    {
+      "start_ms": 458759,
+      "end_ms": 463199,
+      "start": "00:07:38.759",
+      "end": "00:07:43.199",
+      "text": "kind of chilling the Juno proper knows"
+    },
+    {
+      "start_ms": 461599,
+      "end_ms": 465120,
+      "start": "00:07:41.599",
+      "end": "00:07:45.120",
+      "text": "where the Juno is and proper is forcing"
+    },
+    {
+      "start_ms": 463199,
+      "end_ms": 466280,
+      "start": "00:07:43.199",
+      "end": "00:07:46.280",
+      "text": "the Juno into the echo right the reaper"
+    },
+    {
+      "start_ms": 465120,
+      "end_ms": 468080,
+      "start": "00:07:45.120",
+      "end": "00:07:48.080",
+      "text": "is actually doing the first part of the"
+    },
+    {
+      "start_ms": 466280,
+      "end_ms": 469840,
+      "start": "00:07:46.280",
+      "end": "00:07:49.840",
+      "text": "backline trading the Juno's not really"
+    },
+    {
+      "start_ms": 468080,
+      "end_ms": 471360,
+      "start": "00:07:48.080",
+      "end": "00:07:51.360",
+      "text": "or the ekko's not really doing it right"
+    },
+    {
+      "start_ms": 469840,
+      "end_ms": 474240,
+      "start": "00:07:49.840",
+      "end": "00:07:54.240",
+      "text": "then he pings Juno right so he starts to"
+    },
+    {
+      "start_ms": 471360,
+      "end_ms": 475960,
+      "start": "00:07:51.360",
+      "end": "00:07:55.960",
+      "text": "walk up this ping is super important if"
+    },
+    {
+      "start_ms": 474240,
+      "end_ms": 478280,
+      "start": "00:07:54.240",
+      "end": "00:07:58.280",
+      "text": "you're an echo player you need to be"
+    },
+    {
+      "start_ms": 475960,
+      "end_ms": 480000,
+      "start": "00:07:55.960",
+      "end": "00:08:00.000",
+      "text": "begging your team ping the Juno ping the"
+    },
+    {
+      "start_ms": 478280,
+      "end_ms": 481440,
+      "start": "00:07:58.280",
+      "end": "00:08:01.440",
+      "text": "Juno right now if I know it's this type"
+    },
+    {
+      "start_ms": 480000,
+      "end_ms": 483159,
+      "start": "00:08:00.000",
+      "end": "00:08:03.159",
+      "text": "of fight I don't want to front to back"
+    },
+    {
+      "start_ms": 481440,
+      "end_ms": 485080,
+      "start": "00:08:01.440",
+      "end": "00:08:05.080",
+      "text": "right ping the Juno on the way in and I"
+    },
+    {
+      "start_ms": 483159,
+      "end_ms": 486240,
+      "start": "00:08:03.159",
+      "end": "00:08:06.240",
+      "text": "will kill her right make that promise to"
+    },
+    {
+      "start_ms": 485080,
+      "end_ms": 487960,
+      "start": "00:08:05.080",
+      "end": "00:08:07.960",
+      "text": "your team and if you miss the stickies"
+    },
+    {
+      "start_ms": 486240,
+      "end_ms": 489159,
+      "start": "00:08:06.240",
+      "end": "00:08:09.159",
+      "text": "then just say you guys didn't ping the J"
+    },
+    {
+      "start_ms": 487960,
+      "end_ms": 490560,
+      "start": "00:08:07.960",
+      "end": "00:08:10.560",
+      "text": "or whatever [ __ ] you come up with"
+    },
+    {
+      "start_ms": 489159,
+      "end_ms": 493960,
+      "start": "00:08:09.159",
+      "end": "00:08:13.960",
+      "text": "right uh and just use that as your"
+    },
+    {
+      "start_ms": 490560,
+      "end_ms": 496199,
+      "start": "00:08:10.560",
+      "end": "00:08:16.199",
+      "text": "excuse but that's super important right"
+    },
+    {
+      "start_ms": 493960,
+      "end_ms": 499039,
+      "start": "00:08:13.960",
+      "end": "00:08:19.039",
+      "text": "um this type of fight is going to be"
+    },
+    {
+      "start_ms": 496199,
+      "end_ms": 500159,
+      "start": "00:08:16.199",
+      "end": "00:08:20.159",
+      "text": "really similar um but there's one extra"
+    },
+    {
+      "start_ms": 499039,
+      "end_ms": 501440,
+      "start": "00:08:19.039",
+      "end": "00:08:21.440",
+      "text": "condition where I can reach for"
+    },
+    {
+      "start_ms": 500159,
+      "end_ms": 503159,
+      "start": "00:08:20.159",
+      "end": "00:08:23.159",
+      "text": "backliners and that's just if they step"
+    },
+    {
+      "start_ms": 501440,
+      "end_ms": 504560,
+      "start": "00:08:21.440",
+      "end": "00:08:24.560",
+      "text": "way out of line right if the Juno just"
+    },
+    {
+      "start_ms": 503159,
+      "end_ms": 506240,
+      "start": "00:08:23.159",
+      "end": "00:08:26.240",
+      "text": "way too far up or the brri is way too"
+    },
+    {
+      "start_ms": 504560,
+      "end_ms": 507440,
+      "start": "00:08:24.560",
+      "end": "00:08:27.440",
+      "text": "far up or whatever um I can just punish"
+    },
+    {
+      "start_ms": 506240,
+      "end_ms": 509039,
+      "start": "00:08:26.240",
+      "end": "00:08:29.039",
+      "text": "him for doing that right and it doesn't"
+    },
+    {
+      "start_ms": 507440,
+      "end_ms": 511240,
+      "start": "00:08:27.440",
+      "end": "00:08:31.240",
+      "text": "need to be much more complicated if you"
+    },
+    {
+      "start_ms": 509039,
+      "end_ms": 512880,
+      "start": "00:08:29.039",
+      "end": "00:08:32.880",
+      "text": "ever see the Joo being really crazy I"
+    },
+    {
+      "start_ms": 511240,
+      "end_ms": 515599,
+      "start": "00:08:31.240",
+      "end": "00:08:35.599",
+      "text": "can reach for it right but the thing is"
+    },
+    {
+      "start_ms": 512880,
+      "end_ms": 517519,
+      "start": "00:08:32.880",
+      "end": "00:08:37.519",
+      "text": "still like I'm waiting for my team to"
+    },
+    {
+      "start_ms": 515599,
+      "end_ms": 519479,
+      "start": "00:08:35.599",
+      "end": "00:08:39.479",
+      "text": "Ping that he's out of line because one"
+    },
+    {
+      "start_ms": 517519,
+      "end_ms": 520880,
+      "start": "00:08:37.519",
+      "end": "00:08:40.880",
+      "text": "if I'm getting that scouting information"
+    },
+    {
+      "start_ms": 519479,
+      "end_ms": 522760,
+      "start": "00:08:39.479",
+      "end": "00:08:42.760",
+      "text": "it's probably because I flew and now I"
+    },
+    {
+      "start_ms": 520880,
+      "end_ms": 524920,
+      "start": "00:08:40.880",
+      "end": "00:08:44.920",
+      "text": "don't have fly right so he's not wasting"
+    },
+    {
+      "start_ms": 522760,
+      "end_ms": 526800,
+      "start": "00:08:42.760",
+      "end": "00:08:46.800",
+      "text": "his fly on stupid idiot straight up in"
+    },
+    {
+      "start_ms": 524920,
+      "end_ms": 528200,
+      "start": "00:08:44.920",
+      "end": "00:08:48.200",
+      "text": "the air flies to get extra poke damage I"
+    },
+    {
+      "start_ms": 526800,
+      "end_ms": 529560,
+      "start": "00:08:46.800",
+      "end": "00:08:49.560",
+      "text": "see so many ekos do this and they're"
+    },
+    {
+      "start_ms": 528200,
+      "end_ms": 531360,
+      "start": "00:08:48.200",
+      "end": "00:08:51.360",
+      "text": "flying just straight up in the air all"
+    },
+    {
+      "start_ms": 529560,
+      "end_ms": 532800,
+      "start": "00:08:49.560",
+      "end": "00:08:52.800",
+      "text": "the time would do this right he's just"
+    },
+    {
+      "start_ms": 531360,
+      "end_ms": 535160,
+      "start": "00:08:51.360",
+      "end": "00:08:55.160",
+      "text": "chilling because he knows his fly is"
+    },
+    {
+      "start_ms": 532800,
+      "end_ms": 538920,
+      "start": "00:08:52.800",
+      "end": "00:08:58.920",
+      "text": "going to be better in this midf fight so"
+    },
+    {
+      "start_ms": 535160,
+      "end_ms": 540920,
+      "start": "00:08:55.160",
+      "end": "00:09:00.920",
+      "text": "they ping the Juno for him he has fly"
+    },
+    {
+      "start_ms": 538920,
+      "end_ms": 543560,
+      "start": "00:08:58.920",
+      "end": "00:09:03.560",
+      "text": "gets a full sticky and a beam kills that"
+    },
+    {
+      "start_ms": 540920,
+      "end_ms": 545399,
+      "start": "00:09:00.920",
+      "end": "00:09:05.399",
+      "text": "guy right so super important if you're"
+    },
+    {
+      "start_ms": 543560,
+      "end_ms": 547680,
+      "start": "00:09:03.560",
+      "end": "00:09:07.680",
+      "text": "an echo"
+    },
+    {
+      "start_ms": 545399,
+      "end_ms": 549600,
+      "start": "00:09:05.399",
+      "end": "00:09:09.600",
+      "text": "player don't just randomly fly up in the"
+    },
+    {
+      "start_ms": 547680,
+      "end_ms": 551160,
+      "start": "00:09:07.680",
+      "end": "00:09:11.160",
+      "text": "air for no reason off CD right I'm"
+    },
+    {
+      "start_ms": 549600,
+      "end_ms": 552399,
+      "start": "00:09:09.600",
+      "end": "00:09:12.399",
+      "text": "holding this because I know in this"
+    },
+    {
+      "start_ms": 551160,
+      "end_ms": 554320,
+      "start": "00:09:11.160",
+      "end": "00:09:14.320",
+      "text": "neutral either one of two things is"
+    },
+    {
+      "start_ms": 552399,
+      "end_ms": 555519,
+      "start": "00:09:12.399",
+      "end": "00:09:15.519",
+      "text": "going to happen right their backline is"
+    },
+    {
+      "start_ms": 554320,
+      "end_ms": 556760,
+      "start": "00:09:14.320",
+      "end": "00:09:16.760",
+      "text": "not out of line and they're not doing"
+    },
+    {
+      "start_ms": 555519,
+      "end_ms": 558120,
+      "start": "00:09:15.519",
+      "end": "00:09:18.120",
+      "text": "that much damage and I'll just get to"
+    },
+    {
+      "start_ms": 556760,
+      "end_ms": 560399,
+      "start": "00:09:16.760",
+      "end": "00:09:20.399",
+      "text": "swing really easily and my front line"
+    },
+    {
+      "start_ms": 558120,
+      "end_ms": 561680,
+      "start": "00:09:18.120",
+      "end": "00:09:21.680",
+      "text": "can win and that's fine or their front"
+    },
+    {
+      "start_ms": 560399,
+      "end_ms": 562959,
+      "start": "00:09:20.399",
+      "end": "00:09:22.959",
+      "text": "line or the back line is going to step"
+    },
+    {
+      "start_ms": 561680,
+      "end_ms": 564000,
+      "start": "00:09:21.680",
+      "end": "00:09:24.000",
+      "text": "out of line right they're going to Ping"
+    },
+    {
+      "start_ms": 562959,
+      "end_ms": 565440,
+      "start": "00:09:22.959",
+      "end": "00:09:25.440",
+      "text": "it for me and then I'm going to reach"
+    },
+    {
+      "start_ms": 564000,
+      "end_ms": 567399,
+      "start": "00:09:24.000",
+      "end": "00:09:27.399",
+      "text": "for this in the mid fight right so we"
+    },
+    {
+      "start_ms": 565440,
+      "end_ms": 571760,
+      "start": "00:09:25.440",
+      "end": "00:09:31.760",
+      "text": "win either"
+    },
+    {
+      "start_ms": 567399,
+      "end_ms": 575000,
+      "start": "00:09:27.399",
+      "end": "00:09:35.000",
+      "text": "way second fight not second fight sorry"
+    },
+    {
+      "start_ms": 571760,
+      "end_ms": 577079,
+      "start": "00:09:31.760",
+      "end": "00:09:37.079",
+      "text": "um if you are going to take like a a"
+    },
+    {
+      "start_ms": 575000,
+      "end_ms": 578920,
+      "start": "00:09:35.000",
+      "end": "00:09:38.920",
+      "text": "front to back fight um sometimes it's"
+    },
+    {
+      "start_ms": 577079,
+      "end_ms": 580839,
+      "start": "00:09:37.079",
+      "end": "00:09:40.839",
+      "text": "more useful for you not to be doing the"
+    },
+    {
+      "start_ms": 578920,
+      "end_ms": 582040,
+      "start": "00:09:38.920",
+      "end": "00:09:42.040",
+      "text": "front to backing um so that's if we're"
+    },
+    {
+      "start_ms": 580839,
+      "end_ms": 583839,
+      "start": "00:09:40.839",
+      "end": "00:09:43.839",
+      "text": "going to take like this is like a cage"
+    },
+    {
+      "start_ms": 582040,
+      "end_ms": 584839,
+      "start": "00:09:42.040",
+      "end": "00:09:44.839",
+      "text": "and a REO fight so we do really want to"
+    },
+    {
+      "start_ms": 583839,
+      "end_ms": 587519,
+      "start": "00:09:43.839",
+      "end": "00:09:47.519",
+      "text": "front to back I want to play through"
+    },
+    {
+      "start_ms": 584839,
+      "end_ms": 589360,
+      "start": "00:09:44.839",
+      "end": "00:09:49.360",
+      "text": "these people but um I don't really get"
+    },
+    {
+      "start_ms": 587519,
+      "end_ms": 591120,
+      "start": "00:09:47.519",
+      "end": "00:09:51.120",
+      "text": "to swing anywhere where like I can take"
+    },
+    {
+      "start_ms": 589360,
+      "end_ms": 592800,
+      "start": "00:09:49.360",
+      "end": "00:09:52.800",
+      "text": "a neutral and like try and force one of"
+    },
+    {
+      "start_ms": 591120,
+      "end_ms": 594880,
+      "start": "00:09:51.120",
+      "end": "00:09:54.880",
+      "text": "these Frontline CDs before the neutral"
+    },
+    {
+      "start_ms": 592800,
+      "end_ms": 596240,
+      "start": "00:09:52.800",
+      "end": "00:09:56.240",
+      "text": "right so if I can't afford to swing and"
+    },
+    {
+      "start_ms": 594880,
+      "end_ms": 598839,
+      "start": "00:09:54.880",
+      "end": "00:09:58.839",
+      "text": "try and force a fade or try and force a"
+    },
+    {
+      "start_ms": 596240,
+      "end_ms": 600399,
+      "start": "00:09:56.240",
+      "end": "00:10:00.399",
+      "text": "Maga e or a pin or something um but we"
+    },
+    {
+      "start_ms": 598839,
+      "end_ms": 602240,
+      "start": "00:09:58.839",
+      "end": "00:10:02.240",
+      "text": "still want to go quickly and go front to"
+    },
+    {
+      "start_ms": 600399,
+      "end_ms": 603200,
+      "start": "00:10:00.399",
+      "end": "00:10:03.200",
+      "text": "back what I'm going to do instead is"
+    },
+    {
+      "start_ms": 602240,
+      "end_ms": 604839,
+      "start": "00:10:02.240",
+      "end": "00:10:04.839",
+      "text": "this is the fight where I'm going to try"
+    },
+    {
+      "start_ms": 603200,
+      "end_ms": 606079,
+      "start": "00:10:03.200",
+      "end": "00:10:06.079",
+      "text": "and reach and try and like Zone people"
+    },
+    {
+      "start_ms": 604839,
+      "end_ms": 607760,
+      "start": "00:10:04.839",
+      "end": "00:10:07.760",
+      "text": "or maybe I'm going to reach and like you"
+    },
+    {
+      "start_ms": 606079,
+      "end_ms": 609519,
+      "start": "00:10:06.079",
+      "end": "00:10:09.519",
+      "text": "know try and catch people that are going"
+    },
+    {
+      "start_ms": 607760,
+      "end_ms": 610519,
+      "start": "00:10:07.760",
+      "end": "00:10:10.519",
+      "text": "into the cage or something right but"
+    },
+    {
+      "start_ms": 609519,
+      "end_ms": 613320,
+      "start": "00:10:09.519",
+      "end": "00:10:13.320",
+      "text": "here he"
+    },
+    {
+      "start_ms": 610519,
+      "end_ms": 614760,
+      "start": "00:10:10.519",
+      "end": "00:10:14.760",
+      "text": "knows I can't really reach like I can't"
+    },
+    {
+      "start_ms": 613320,
+      "end_ms": 616360,
+      "start": "00:10:13.320",
+      "end": "00:10:16.360",
+      "text": "fly this way right I'm going to get gate"
+    },
+    {
+      "start_ms": 614760,
+      "end_ms": 618079,
+      "start": "00:10:14.760",
+      "end": "00:10:18.079",
+      "text": "kept by the echo so what I'm going to do"
+    },
+    {
+      "start_ms": 616360,
+      "end_ms": 620760,
+      "start": "00:10:16.360",
+      "end": "00:10:20.760",
+      "text": "instead is I'm just going to chill wait"
+    },
+    {
+      "start_ms": 618079,
+      "end_ms": 622200,
+      "start": "00:10:18.079",
+      "end": "00:10:22.200",
+      "text": "for a second I'm going to fly up top"
+    },
+    {
+      "start_ms": 620760,
+      "end_ms": 624160,
+      "start": "00:10:20.760",
+      "end": "00:10:24.160",
+      "text": "because I know what's going to happen is"
+    },
+    {
+      "start_ms": 622200,
+      "end_ms": 626320,
+      "start": "00:10:22.200",
+      "end": "00:10:26.320",
+      "text": "when we're front to backing and my"
+    },
+    {
+      "start_ms": 624160,
+      "end_ms": 627640,
+      "start": "00:10:24.160",
+      "end": "00:10:27.640",
+      "text": "Reaper my malga will win this fight if"
+    },
+    {
+      "start_ms": 626320,
+      "end_ms": 629000,
+      "start": "00:10:26.320",
+      "end": "00:10:29.000",
+      "text": "they get to just play fair right we're"
+    },
+    {
+      "start_ms": 627640,
+      "end_ms": 630040,
+      "start": "00:10:27.640",
+      "end": "00:10:30.040",
+      "text": "just going to build reap roll and we're"
+    },
+    {
+      "start_ms": 629000,
+      "end_ms": 632079,
+      "start": "00:10:29.000",
+      "end": "00:10:32.079",
+      "text": "going to re R and we're going to win"
+    },
+    {
+      "start_ms": 630040,
+      "end_ms": 634800,
+      "start": "00:10:30.040",
+      "end": "00:10:34.800",
+      "text": "front to back uh the only way we lose"
+    },
+    {
+      "start_ms": 632079,
+      "end_ms": 636920,
+      "start": "00:10:32.079",
+      "end": "00:10:36.920",
+      "text": "this fight is if this echo or these"
+    },
+    {
+      "start_ms": 634800,
+      "end_ms": 639079,
+      "start": "00:10:34.800",
+      "end": "00:10:39.079",
+      "text": "people get value so I can just gatekeep"
+    },
+    {
+      "start_ms": 636920,
+      "end_ms": 641040,
+      "start": "00:10:36.920",
+      "end": "00:10:41.040",
+      "text": "top um and I can stop anyone from"
+    },
+    {
+      "start_ms": 639079,
+      "end_ms": 643519,
+      "start": "00:10:39.079",
+      "end": "00:10:43.519",
+      "text": "getting value and if this Eko and the"
+    },
+    {
+      "start_ms": 641040,
+      "end_ms": 644760,
+      "start": "00:10:41.040",
+      "end": "00:10:44.760",
+      "text": "jino and the the brig play safe here to"
+    },
+    {
+      "start_ms": 643519,
+      "end_ms": 646240,
+      "start": "00:10:43.519",
+      "end": "00:10:46.240",
+      "text": "play to live we'll just kill the people"
+    },
+    {
+      "start_ms": 644760,
+      "end_ms": 648160,
+      "start": "00:10:44.760",
+      "end": "00:10:48.160",
+      "text": "inside the cage and it's easy and I know"
+    },
+    {
+      "start_ms": 646240,
+      "end_ms": 650000,
+      "start": "00:10:46.240",
+      "end": "00:10:50.000",
+      "text": "my team has this unlock so I can afford"
+    },
+    {
+      "start_ms": 648160,
+      "end_ms": 651480,
+      "start": "00:10:48.160",
+      "end": "00:10:51.480",
+      "text": "to just fly up get keep this Echo and"
+    },
+    {
+      "start_ms": 650000,
+      "end_ms": 655040,
+      "start": "00:10:50.000",
+      "end": "00:10:55.040",
+      "text": "Bam he was here trying to make a play"
+    },
+    {
+      "start_ms": 651480,
+      "end_ms": 656600,
+      "start": "00:10:51.480",
+      "end": "00:10:56.600",
+      "text": "cuz he has to right I get the stickies"
+    },
+    {
+      "start_ms": 655040,
+      "end_ms": 658240,
+      "start": "00:10:55.040",
+      "end": "00:10:58.240",
+      "text": "and I kill him it's really easy right"
+    },
+    {
+      "start_ms": 656600,
+      "end_ms": 659760,
+      "start": "00:10:56.600",
+      "end": "00:10:59.760",
+      "text": "and if he wasn't there then I can just"
+    },
+    {
+      "start_ms": 658240,
+      "end_ms": 661839,
+      "start": "00:10:58.240",
+      "end": "00:11:01.839",
+      "text": "you know play top I can shoot the cage"
+    },
+    {
+      "start_ms": 659760,
+      "end_ms": 663480,
+      "start": "00:10:59.760",
+      "end": "00:11:03.480",
+      "text": "and that's cool um but these type of"
+    },
+    {
+      "start_ms": 661839,
+      "end_ms": 666160,
+      "start": "00:11:01.839",
+      "end": "00:11:06.160",
+      "text": "fights where you know"
+    },
+    {
+      "start_ms": 663480,
+      "end_ms": 667839,
+      "start": "00:11:03.480",
+      "end": "00:11:07.839",
+      "text": "like if nothing crazy happens my front"
+    },
+    {
+      "start_ms": 666160,
+      "end_ms": 669639,
+      "start": "00:11:06.160",
+      "end": "00:11:09.639",
+      "text": "line will just win this fight on their"
+    },
+    {
+      "start_ms": 667839,
+      "end_ms": 671320,
+      "start": "00:11:07.839",
+      "end": "00:11:11.320",
+      "text": "own right so this type of fight I can"
+    },
+    {
+      "start_ms": 669639,
+      "end_ms": 672639,
+      "start": "00:11:09.639",
+      "end": "00:11:12.639",
+      "text": "kind of just limit the craziness factors"
+    },
+    {
+      "start_ms": 671320,
+      "end_ms": 673800,
+      "start": "00:11:11.320",
+      "end": "00:11:13.800",
+      "text": "that going to happen right I'm just"
+    },
+    {
+      "start_ms": 672639,
+      "end_ms": 675920,
+      "start": "00:11:12.639",
+      "end": "00:11:15.920",
+      "text": "going to fly up I'm going to kind of get"
+    },
+    {
+      "start_ms": 673800,
+      "end_ms": 677279,
+      "start": "00:11:13.800",
+      "end": "00:11:17.279",
+      "text": "keep the echo from doing anything crazy"
+    },
+    {
+      "start_ms": 675920,
+      "end_ms": 678720,
+      "start": "00:11:15.920",
+      "end": "00:11:18.720",
+      "text": "make sure my junit doesn't get traded"
+    },
+    {
+      "start_ms": 677279,
+      "end_ms": 680120,
+      "start": "00:11:17.279",
+      "end": "00:11:20.120",
+      "text": "and then we'll just win this like keep"
+    },
+    {
+      "start_ms": 678720,
+      "end_ms": 682000,
+      "start": "00:11:18.720",
+      "end": "00:11:22.000",
+      "text": "the fight as Fair as possible in this"
+    },
+    {
+      "start_ms": 680120,
+      "end_ms": 683920,
+      "start": "00:11:20.120",
+      "end": "00:11:23.920",
+      "text": "type of"
+    },
+    {
+      "start_ms": 682000,
+      "end_ms": 687200,
+      "start": "00:11:22.000",
+      "end": "00:11:27.200",
+      "text": "scenario rest of these are copies from"
+    },
+    {
+      "start_ms": 683920,
+      "end_ms": 688399,
+      "start": "00:11:23.920",
+      "end": "00:11:28.399",
+      "text": "now on so how do I use copy um it's a"
+    },
+    {
+      "start_ms": 687200,
+      "end_ms": 689839,
+      "start": "00:11:27.200",
+      "end": "00:11:29.839",
+      "text": "little bit different from other SS"
+    },
+    {
+      "start_ms": 688399,
+      "end_ms": 691399,
+      "start": "00:11:28.399",
+      "end": "00:11:31.399",
+      "text": "because there's a lot of way to use it"
+    },
+    {
+      "start_ms": 689839,
+      "end_ms": 693079,
+      "start": "00:11:29.839",
+      "end": "00:11:33.079",
+      "text": "right so there's faster copies and"
+    },
+    {
+      "start_ms": 691399,
+      "end_ms": 694440,
+      "start": "00:11:31.399",
+      "end": "00:11:34.440",
+      "text": "there's slower copies most of them are"
+    },
+    {
+      "start_ms": 693079,
+      "end_ms": 696040,
+      "start": "00:11:33.079",
+      "end": "00:11:36.040",
+      "text": "going to be Reaper copies no matter how"
+    },
+    {
+      "start_ms": 694440,
+      "end_ms": 698320,
+      "start": "00:11:34.440",
+      "end": "00:11:38.320",
+      "text": "you're doing it sometimes a slow copy"
+    },
+    {
+      "start_ms": 696040,
+      "end_ms": 700720,
+      "start": "00:11:36.040",
+      "end": "00:11:40.720",
+      "text": "can be like a Maga copy in this comp but"
+    },
+    {
+      "start_ms": 698320,
+      "end_ms": 702000,
+      "start": "00:11:38.320",
+      "end": "00:11:42.000",
+      "text": "if I'm going to copy fast there's one"
+    },
+    {
+      "start_ms": 700720,
+      "end_ms": 705040,
+      "start": "00:11:40.720",
+      "end": "00:11:45.040",
+      "text": "thing I really need to understand and"
+    },
+    {
+      "start_ms": 702000,
+      "end_ms": 706760,
+      "start": "00:11:42.000",
+      "end": "00:11:46.760",
+      "text": "it's that um if I'm flying in to copy"
+    },
+    {
+      "start_ms": 705040,
+      "end_ms": 709040,
+      "start": "00:11:45.040",
+      "end": "00:11:49.040",
+      "text": "right like we're going"
+    },
+    {
+      "start_ms": 706760,
+      "end_ms": 711320,
+      "start": "00:11:46.760",
+      "end": "00:11:51.320",
+      "text": "first so this fight we're shooting the"
+    },
+    {
+      "start_ms": 709040,
+      "end_ms": 713040,
+      "start": "00:11:49.040",
+      "end": "00:11:53.040",
+      "text": "reaper he's low and we know that these"
+    },
+    {
+      "start_ms": 711320,
+      "end_ms": 714200,
+      "start": "00:11:51.320",
+      "end": "00:11:54.200",
+      "text": "people are split they're down one right"
+    },
+    {
+      "start_ms": 713040,
+      "end_ms": 715639,
+      "start": "00:11:53.040",
+      "end": "00:11:55.639",
+      "text": "he's say is coming back from Spawn cuz I"
+    },
+    {
+      "start_ms": 714200,
+      "end_ms": 717200,
+      "start": "00:11:54.200",
+      "end": "00:11:57.200",
+      "text": "killed him earlier so I know that we can"
+    },
+    {
+      "start_ms": 715639,
+      "end_ms": 718880,
+      "start": "00:11:55.639",
+      "end": "00:11:58.880",
+      "text": "go first here I really want to go first"
+    },
+    {
+      "start_ms": 717200,
+      "end_ms": 720160,
+      "start": "00:11:57.200",
+      "end": "00:12:00.160",
+      "text": "with copy I'm going to fly in first of"
+    },
+    {
+      "start_ms": 718880,
+      "end_ms": 722040,
+      "start": "00:11:58.880",
+      "end": "00:12:02.040",
+      "text": "all our p in the reaper I know where he"
+    },
+    {
+      "start_ms": 720160,
+      "end_ms": 723720,
+      "start": "00:12:00.160",
+      "end": "00:12:03.720",
+      "text": "is so I get this comfortable copy but"
+    },
+    {
+      "start_ms": 722040,
+      "end_ms": 725480,
+      "start": "00:12:02.040",
+      "end": "00:12:05.480",
+      "text": "watch what he does I'm going to turn"
+    },
+    {
+      "start_ms": 723720,
+      "end_ms": 727399,
+      "start": "00:12:03.720",
+      "end": "00:12:07.399",
+      "text": "around and this is what you need to do"
+    },
+    {
+      "start_ms": 725480,
+      "end_ms": 729839,
+      "start": "00:12:05.480",
+      "end": "00:12:09.839",
+      "text": "on a fast copy because if I'm fast"
+    },
+    {
+      "start_ms": 727399,
+      "end_ms": 731920,
+      "start": "00:12:07.399",
+      "end": "00:12:11.920",
+      "text": "copying the risk is that I'm going to be"
+    },
+    {
+      "start_ms": 729839,
+      "end_ms": 732959,
+      "start": "00:12:09.839",
+      "end": "00:12:12.959",
+      "text": "taking first aggro right and everyone's"
+    },
+    {
+      "start_ms": 731920,
+      "end_ms": 735839,
+      "start": "00:12:11.920",
+      "end": "00:12:15.839",
+      "text": "looking at me and they're going to burst"
+    },
+    {
+      "start_ms": 732959,
+      "end_ms": 737279,
+      "start": "00:12:12.959",
+      "end": "00:12:17.279",
+      "text": "my copy so I need to know right away are"
+    },
+    {
+      "start_ms": 735839,
+      "end_ms": 739040,
+      "start": "00:12:15.839",
+      "end": "00:12:19.040",
+      "text": "these people going to turn me and is"
+    },
+    {
+      "start_ms": 737279,
+      "end_ms": 740639,
+      "start": "00:12:17.279",
+      "end": "00:12:20.639",
+      "text": "that a danger because if they are and if"
+    },
+    {
+      "start_ms": 739040,
+      "end_ms": 742680,
+      "start": "00:12:19.040",
+      "end": "00:12:22.680",
+      "text": "they can right you see this smus pinning"
+    },
+    {
+      "start_ms": 740639,
+      "end_ms": 744199,
+      "start": "00:12:20.639",
+      "end": "00:12:24.199",
+      "text": "here I need to just chill go back into"
+    },
+    {
+      "start_ms": 742680,
+      "end_ms": 746399,
+      "start": "00:12:22.680",
+      "end": "00:12:26.399",
+      "text": "my"
+    },
+    {
+      "start_ms": 744199,
+      "end_ms": 748399,
+      "start": "00:12:24.199",
+      "end": "00:12:28.399",
+      "text": "team and we can play this front to back"
+    },
+    {
+      "start_ms": 746399,
+      "end_ms": 749480,
+      "start": "00:12:26.399",
+      "end": "00:12:29.480",
+      "text": "style I'm shooting the reaper I'm just"
+    },
+    {
+      "start_ms": 748399,
+      "end_ms": 750920,
+      "start": "00:12:28.399",
+      "end": "00:12:30.920",
+      "text": "going to build an all and just play the"
+    },
+    {
+      "start_ms": 749480,
+      "end_ms": 753320,
+      "start": "00:12:29.480",
+      "end": "00:12:33.320",
+      "text": "front to back and we're going to kill"
+    },
+    {
+      "start_ms": 750920,
+      "end_ms": 754839,
+      "start": "00:12:30.920",
+      "end": "00:12:34.839",
+      "text": "the Maga we're going to kill the reaper"
+    },
+    {
+      "start_ms": 753320,
+      "end_ms": 756560,
+      "start": "00:12:33.320",
+      "end": "00:12:36.560",
+      "text": "this kind of thing right and he didn't"
+    },
+    {
+      "start_ms": 754839,
+      "end_ms": 758680,
+      "start": "00:12:34.839",
+      "end": "00:12:38.680",
+      "text": "reach for those backliners even though"
+    },
+    {
+      "start_ms": 756560,
+      "end_ms": 760519,
+      "start": "00:12:36.560",
+      "end": "00:12:40.519",
+      "text": "lip and you know the Juno was kind of"
+    },
+    {
+      "start_ms": 758680,
+      "end_ms": 761240,
+      "start": "00:12:38.680",
+      "end": "00:12:41.240",
+      "text": "here alone right but you still can't"
+    },
+    {
+      "start_ms": 760519,
+      "end_ms": 762680,
+      "start": "00:12:40.519",
+      "end": "00:12:42.680",
+      "text": "reach for that because if you're"
+    },
+    {
+      "start_ms": 761240,
+      "end_ms": 764360,
+      "start": "00:12:41.240",
+      "end": "00:12:44.360",
+      "text": "reaching for that too far and you do get"
+    },
+    {
+      "start_ms": 762680,
+      "end_ms": 766920,
+      "start": "00:12:42.680",
+      "end": "00:12:46.920",
+      "text": "turned on your copy will just get burned"
+    },
+    {
+      "start_ms": 764360,
+      "end_ms": 770279,
+      "start": "00:12:44.360",
+      "end": "00:12:50.279",
+      "text": "and you'll die and it'll suck right um"
+    },
+    {
+      "start_ms": 766920,
+      "end_ms": 770279,
+      "start": "00:12:46.920",
+      "end": "00:12:50.279",
+      "text": "here's another slower copy"
+    },
+    {
+      "start_ms": 770360,
+      "end_ms": 774639,
+      "start": "00:12:50.360",
+      "end": "00:12:54.639",
+      "text": "where this is a fight where they're"
+    },
+    {
+      "start_ms": 772079,
+      "end_ms": 774639,
+      "start": "00:12:52.079",
+      "end": "00:12:54.639",
+      "text": "going kind of"
+    },
+    {
+      "start_ms": 775720,
+      "end_ms": 780040,
+      "start": "00:12:55.720",
+      "end": "00:13:00.040",
+      "text": "fast or sorry this is um another fast"
+    },
+    {
+      "start_ms": 778279,
+      "end_ms": 782680,
+      "start": "00:12:58.279",
+      "end": "00:13:02.680",
+      "text": "copy um"
+    },
+    {
+      "start_ms": 780040,
+      "end_ms": 784720,
+      "start": "00:13:00.040",
+      "end": "00:13:04.720",
+      "text": "where he goes in he TPS the copies the"
+    },
+    {
+      "start_ms": 782680,
+      "end_ms": 786600,
+      "start": "00:13:02.680",
+      "end": "00:13:06.600",
+      "text": "reaper the same way but he looks behind"
+    },
+    {
+      "start_ms": 784720,
+      "end_ms": 788199,
+      "start": "00:13:04.720",
+      "end": "00:13:08.199",
+      "text": "him and he sees the Magus pinning into"
+    },
+    {
+      "start_ms": 786600,
+      "end_ms": 789959,
+      "start": "00:13:06.600",
+      "end": "00:13:09.959",
+      "text": "my team right which means I'm not going"
+    },
+    {
+      "start_ms": 788199,
+      "end_ms": 792240,
+      "start": "00:13:08.199",
+      "end": "00:13:12.240",
+      "text": "to get turned right the reaper I just"
+    },
+    {
+      "start_ms": 789959,
+      "end_ms": 793839,
+      "start": "00:13:09.959",
+      "end": "00:13:13.839",
+      "text": "saw the reaper TP and the Maga TP which"
+    },
+    {
+      "start_ms": 792240,
+      "end_ms": 795000,
+      "start": "00:13:12.240",
+      "end": "00:13:15.000",
+      "text": "means I'm free to do whatever I want and"
+    },
+    {
+      "start_ms": 793839,
+      "end_ms": 797480,
+      "start": "00:13:13.839",
+      "end": "00:13:17.480",
+      "text": "what I want to do is I want to kill this"
+    },
+    {
+      "start_ms": 795000,
+      "end_ms": 799079,
+      "start": "00:13:15.000",
+      "end": "00:13:19.079",
+      "text": "Juno right if I can kill Juno I will"
+    },
+    {
+      "start_ms": 797480,
+      "end_ms": 800360,
+      "start": "00:13:17.480",
+      "end": "00:13:20.360",
+      "text": "because I can go back and carry you know"
+    },
+    {
+      "start_ms": 799079,
+      "end_ms": 801880,
+      "start": "00:13:19.079",
+      "end": "00:13:21.880",
+      "text": "a front to back fight after I've killed"
+    },
+    {
+      "start_ms": 800360,
+      "end_ms": 804920,
+      "start": "00:13:20.360",
+      "end": "00:13:24.920",
+      "text": "the Juno and we can just get the best of"
+    },
+    {
+      "start_ms": 801880,
+      "end_ms": 807760,
+      "start": "00:13:21.880",
+      "end": "00:13:27.760",
+      "text": "both worlds right so I'm fast copying I"
+    },
+    {
+      "start_ms": 804920,
+      "end_ms": 809519,
+      "start": "00:13:24.920",
+      "end": "00:13:29.519",
+      "text": "see Reaper TP I see Maga pin I'm not in"
+    },
+    {
+      "start_ms": 807760,
+      "end_ms": 812079,
+      "start": "00:13:27.760",
+      "end": "00:13:32.079",
+      "text": "any danger I can just greed this"
+    },
+    {
+      "start_ms": 809519,
+      "end_ms": 814959,
+      "start": "00:13:29.519",
+      "end": "00:13:34.959",
+      "text": "backline kill kill him bam awesome now I"
+    },
+    {
+      "start_ms": 812079,
+      "end_ms": 814959,
+      "start": "00:13:32.079",
+      "end": "00:13:34.959",
+      "text": "go carry a front to back"
+    },
+    {
+      "start_ms": 815120,
+      "end_ms": 820360,
+      "start": "00:13:35.120",
+      "end": "00:13:40.360",
+      "text": "fight it's easy right but if you're"
+    },
+    {
+      "start_ms": 817360,
+      "end_ms": 821720,
+      "start": "00:13:37.360",
+      "end": "00:13:41.720",
+      "text": "going to fast copy um keeping awareness"
+    },
+    {
+      "start_ms": 820360,
+      "end_ms": 822760,
+      "start": "00:13:40.360",
+      "end": "00:13:42.760",
+      "text": "of the enemy front liners and making"
+    },
+    {
+      "start_ms": 821720,
+      "end_ms": 824440,
+      "start": "00:13:41.720",
+      "end": "00:13:44.440",
+      "text": "sure you're not going to get turned is"
+    },
+    {
+      "start_ms": 822760,
+      "end_ms": 826079,
+      "start": "00:13:42.760",
+      "end": "00:13:46.079",
+      "text": "incredibly important because if you're"
+    },
+    {
+      "start_ms": 824440,
+      "end_ms": 827320,
+      "start": "00:13:44.440",
+      "end": "00:13:47.320",
+      "text": "going first there's a high chance the"
+    },
+    {
+      "start_ms": 826079,
+      "end_ms": 829240,
+      "start": "00:13:46.079",
+      "end": "00:13:49.240",
+      "text": "enemy front liners will just turn around"
+    },
+    {
+      "start_ms": 827320,
+      "end_ms": 831040,
+      "start": "00:13:47.320",
+      "end": "00:13:51.040",
+      "text": "and try to burst your copy uh and if you"
+    },
+    {
+      "start_ms": 829240,
+      "end_ms": 832440,
+      "start": "00:13:49.240",
+      "end": "00:13:52.440",
+      "text": "can avoid getting your copy bursted you"
+    },
+    {
+      "start_ms": 831040,
+      "end_ms": 834279,
+      "start": "00:13:51.040",
+      "end": "00:13:54.279",
+      "text": "can just like Fade Out and Play kind of"
+    },
+    {
+      "start_ms": 832440,
+      "end_ms": 837720,
+      "start": "00:13:52.440",
+      "end": "00:13:57.720",
+      "text": "chill like behind your team Farm your"
+    },
+    {
+      "start_ms": 834279,
+      "end_ms": 839759,
+      "start": "00:13:54.279",
+      "end": "00:13:59.759",
+      "text": "Reaper roll and it's really nice um now"
+    },
+    {
+      "start_ms": 837720,
+      "end_ms": 841320,
+      "start": "00:13:57.720",
+      "end": "00:14:01.320",
+      "text": "these are two slower copies"
+    },
+    {
+      "start_ms": 839759,
+      "end_ms": 844800,
+      "start": "00:13:59.759",
+      "end": "00:14:04.800",
+      "text": "um this"
+    },
+    {
+      "start_ms": 841320,
+      "end_ms": 846040,
+      "start": "00:14:01.320",
+      "end": "00:14:06.040",
+      "text": "one ains is going in quickly but they"
+    },
+    {
+      "start_ms": 844800,
+      "end_ms": 847240,
+      "start": "00:14:04.800",
+      "end": "00:14:07.240",
+      "text": "know it's kind of hard to reach and"
+    },
+    {
+      "start_ms": 846040,
+      "end_ms": 848839,
+      "start": "00:14:06.040",
+      "end": "00:14:08.839",
+      "text": "they're playing for rally this fight"
+    },
+    {
+      "start_ms": 847240,
+      "end_ms": 850720,
+      "start": "00:14:07.240",
+      "end": "00:14:10.720",
+      "text": "right so I don't have like a Juno Al or"
+    },
+    {
+      "start_ms": 848839,
+      "end_ms": 852920,
+      "start": "00:14:08.839",
+      "end": "00:14:12.920",
+      "text": "a big reap r or any burst so I'm just"
+    },
+    {
+      "start_ms": 850720,
+      "end_ms": 854920,
+      "start": "00:14:10.720",
+      "end": "00:14:14.920",
+      "text": "going to copy MGA instead I'm going to"
+    },
+    {
+      "start_ms": 852920,
+      "end_ms": 856279,
+      "start": "00:14:12.920",
+      "end": "00:14:16.279",
+      "text": "play behind my rally and I'm just going"
+    },
+    {
+      "start_ms": 854920,
+      "end_ms": 858839,
+      "start": "00:14:14.920",
+      "end": "00:14:18.839",
+      "text": "to play a long fight play an E for my"
+    },
+    {
+      "start_ms": 856279,
+      "end_ms": 861160,
+      "start": "00:14:16.279",
+      "end": "00:14:21.160",
+      "text": "rally right so if I'm playing for rally"
+    },
+    {
+      "start_ms": 858839,
+      "end_ms": 862199,
+      "start": "00:14:18.839",
+      "end": "00:14:22.199",
+      "text": "um or maybe if I know I'm going to copy"
+    },
+    {
+      "start_ms": 861160,
+      "end_ms": 863600,
+      "start": "00:14:21.160",
+      "end": "00:14:23.600",
+      "text": "and I'm just going to kind of Stack with"
+    },
+    {
+      "start_ms": 862199,
+      "end_ms": 865880,
+      "start": "00:14:22.199",
+      "end": "00:14:25.880",
+      "text": "my team and play like a longer distance"
+    },
+    {
+      "start_ms": 863600,
+      "end_ms": 867680,
+      "start": "00:14:23.600",
+      "end": "00:14:27.680",
+      "text": "fight I can play malga here you can copy"
+    },
+    {
+      "start_ms": 865880,
+      "end_ms": 869839,
+      "start": "00:14:25.880",
+      "end": "00:14:29.839",
+      "text": "malga as long as you're not going to pin"
+    },
+    {
+      "start_ms": 867680,
+      "end_ms": 871880,
+      "start": "00:14:27.680",
+      "end": "00:14:31.880",
+      "text": "in first because if you pin in first on"
+    },
+    {
+      "start_ms": 869839,
+      "end_ms": 873279,
+      "start": "00:14:29.839",
+      "end": "00:14:33.279",
+      "text": "a copy mot you'll just die right but if"
+    },
+    {
+      "start_ms": 871880,
+      "end_ms": 875320,
+      "start": "00:14:31.880",
+      "end": "00:14:35.320",
+      "text": "I can stack with my team get a second"
+    },
+    {
+      "start_ms": 873279,
+      "end_ms": 877480,
+      "start": "00:14:33.279",
+      "end": "00:14:37.480",
+      "text": "knee it's not actually that bad"
+    },
+    {
+      "start_ms": 875320,
+      "end_ms": 879360,
+      "start": "00:14:35.320",
+      "end": "00:14:39.360",
+      "text": "right especially if I know there's no"
+    },
+    {
+      "start_ms": 877480,
+      "end_ms": 882279,
+      "start": "00:14:37.480",
+      "end": "00:14:42.279",
+      "text": "cages involved right CU if there's cages"
+    },
+    {
+      "start_ms": 879360,
+      "end_ms": 883680,
+      "start": "00:14:39.360",
+      "end": "00:14:43.680",
+      "text": "involved Reaper is almost always better"
+    },
+    {
+      "start_ms": 882279,
+      "end_ms": 885000,
+      "start": "00:14:42.279",
+      "end": "00:14:45.000",
+      "text": "because Reaper just does way more in the"
+    },
+    {
+      "start_ms": 883680,
+      "end_ms": 887040,
+      "start": "00:14:43.680",
+      "end": "00:14:47.040",
+      "text": "cage like if you're mag cop being in a"
+    },
+    {
+      "start_ms": 885000,
+      "end_ms": 889920,
+      "start": "00:14:45.000",
+      "end": "00:14:49.920",
+      "text": "cage you're just going to die right"
+    },
+    {
+      "start_ms": 887040,
+      "end_ms": 891800,
+      "start": "00:14:47.040",
+      "end": "00:14:51.800",
+      "text": "but now one more slow copy they're"
+    },
+    {
+      "start_ms": 889920,
+      "end_ms": 894160,
+      "start": "00:14:49.920",
+      "end": "00:14:54.160",
+      "text": "playing the"
+    },
+    {
+      "start_ms": 891800,
+      "end_ms": 896360,
+      "start": "00:14:51.800",
+      "end": "00:14:56.360",
+      "text": "bait the another the enemy has cage all"
+    },
+    {
+      "start_ms": 894160,
+      "end_ms": 897920,
+      "start": "00:14:54.160",
+      "end": "00:14:57.920",
+      "text": "they have is copy but I know if I play"
+    },
+    {
+      "start_ms": 896360,
+      "end_ms": 899440,
+      "start": "00:14:56.360",
+      "end": "00:14:59.440",
+      "text": "Slow I'll build this rally and I'll"
+    },
+    {
+      "start_ms": 897920,
+      "end_ms": 900959,
+      "start": "00:14:57.920",
+      "end": "00:15:00.959",
+      "text": "build this cage in this midf fight right"
+    },
+    {
+      "start_ms": 899440,
+      "end_ms": 903360,
+      "start": "00:14:59.440",
+      "end": "00:15:03.360",
+      "text": "so I'm just trying to extend this long"
+    },
+    {
+      "start_ms": 900959,
+      "end_ms": 904440,
+      "start": "00:15:00.959",
+      "end": "00:15:04.440",
+      "text": "enough to build those alss so we bait"
+    },
+    {
+      "start_ms": 903360,
+      "end_ms": 906560,
+      "start": "00:15:03.360",
+      "end": "00:15:06.560",
+      "text": "there Maga is the only one that gets"
+    },
+    {
+      "start_ms": 904440,
+      "end_ms": 908680,
+      "start": "00:15:04.440",
+      "end": "00:15:08.680",
+      "text": "caught in Eko goes in he copies the"
+    },
+    {
+      "start_ms": 906560,
+      "end_ms": 910600,
+      "start": "00:15:06.560",
+      "end": "00:15:10.600",
+      "text": "reaper we're eing we're just playing"
+    },
+    {
+      "start_ms": 908680,
+      "end_ms": 912120,
+      "start": "00:15:08.680",
+      "end": "00:15:12.120",
+      "text": "slow now we get that rally we can carry"
+    },
+    {
+      "start_ms": 910600,
+      "end_ms": 914240,
+      "start": "00:15:10.600",
+      "end": "00:15:14.240",
+      "text": "this and the the important part about"
+    },
+    {
+      "start_ms": 912120,
+      "end_ms": 917519,
+      "start": "00:15:12.120",
+      "end": "00:15:17.519",
+      "text": "this is if you're Reaper coping um in"
+    },
+    {
+      "start_ms": 914240,
+      "end_ms": 919680,
+      "start": "00:15:14.240",
+      "end": "00:15:19.680",
+      "text": "this type of fight I kind of want to"
+    },
+    {
+      "start_ms": 917519,
+      "end_ms": 921279,
+      "start": "00:15:17.519",
+      "end": "00:15:21.279",
+      "text": "shoot whoever I can that lets me move"
+    },
+    {
+      "start_ms": 919680,
+      "end_ms": 923040,
+      "start": "00:15:19.680",
+      "end": "00:15:23.040",
+      "text": "closer to the back line because as I get"
+    },
+    {
+      "start_ms": 921279,
+      "end_ms": 925759,
+      "start": "00:15:21.279",
+      "end": "00:15:25.759",
+      "text": "this Reaper roll I do want to get to the"
+    },
+    {
+      "start_ms": 923040,
+      "end_ms": 929600,
+      "start": "00:15:23.040",
+      "end": "00:15:29.600",
+      "text": "backliners if I can and so if you notice"
+    },
+    {
+      "start_ms": 925759,
+      "end_ms": 929600,
+      "start": "00:15:25.759",
+      "end": "00:15:29.600",
+      "text": "right at the beginning of this"
+    },
+    {
+      "start_ms": 930000,
+      "end_ms": 933199,
+      "start": "00:15:30.000",
+      "end": "00:15:33.199",
+      "text": "uh the Maga pins to his left right and"
+    },
+    {
+      "start_ms": 931600,
+      "end_ms": 934720,
+      "start": "00:15:31.600",
+      "end": "00:15:34.720",
+      "text": "it's tempting to turn and shoot this but"
+    },
+    {
+      "start_ms": 933199,
+      "end_ms": 936279,
+      "start": "00:15:33.199",
+      "end": "00:15:36.279",
+      "text": "he doesn't he keeps going with lip"
+    },
+    {
+      "start_ms": 934720,
+      "end_ms": 938399,
+      "start": "00:15:34.720",
+      "end": "00:15:38.399",
+      "text": "because he knows if I shoot this guy if"
+    },
+    {
+      "start_ms": 936279,
+      "end_ms": 940399,
+      "start": "00:15:36.279",
+      "end": "00:15:40.399",
+      "text": "I keep you know shooting this guy and"
+    },
+    {
+      "start_ms": 938399,
+      "end_ms": 941959,
+      "start": "00:15:38.399",
+      "end": "00:15:41.959",
+      "text": "moving this way I'll get to reap roll in"
+    },
+    {
+      "start_ms": 940399,
+      "end_ms": 943240,
+      "start": "00:15:40.399",
+      "end": "00:15:43.240",
+      "text": "the spot I actually want to reap roll in"
+    },
+    {
+      "start_ms": 941959,
+      "end_ms": 944920,
+      "start": "00:15:41.959",
+      "end": "00:15:44.920",
+      "text": "right even though shooting the malga"
+    },
+    {
+      "start_ms": 943240,
+      "end_ms": 948199,
+      "start": "00:15:43.240",
+      "end": "00:15:48.199",
+      "text": "probably lets me build the reap roll"
+    },
+    {
+      "start_ms": 944920,
+      "end_ms": 949560,
+      "start": "00:15:44.920",
+      "end": "00:15:49.560",
+      "text": "faster um if you watch when he gets it"
+    },
+    {
+      "start_ms": 948199,
+      "end_ms": 951120,
+      "start": "00:15:48.199",
+      "end": "00:15:51.120",
+      "text": "here he just gets to rip it the second"
+    },
+    {
+      "start_ms": 949560,
+      "end_ms": 952480,
+      "start": "00:15:49.560",
+      "end": "00:15:52.480",
+      "text": "he gets it and he kills Shu because of"
+    },
+    {
+      "start_ms": 951120,
+      "end_ms": 953600,
+      "start": "00:15:51.120",
+      "end": "00:15:53.600",
+      "text": "it right which is really important if he"
+    },
+    {
+      "start_ms": 952480,
+      "end_ms": 956560,
+      "start": "00:15:52.480",
+      "end": "00:15:56.560",
+      "text": "was farming that MAA he probably"
+    },
+    {
+      "start_ms": 953600,
+      "end_ms": 956560,
+      "start": "00:15:53.600",
+      "end": "00:15:56.560",
+      "text": "wouldn't have killed you"
+    },
+    {
+      "start_ms": 956639,
+      "end_ms": 962000,
+      "start": "00:15:56.639",
+      "end": "00:16:02.000",
+      "text": "but yeah these are all the examples I"
+    },
+    {
+      "start_ms": 959279,
+      "end_ms": 964040,
+      "start": "00:15:59.279",
+      "end": "00:16:04.040",
+      "text": "have so to recap really quickly um the"
+    },
+    {
+      "start_ms": 962000,
+      "end_ms": 966480,
+      "start": "00:16:02.000",
+      "end": "00:16:06.480",
+      "text": "neutral is about understanding my"
+    },
+    {
+      "start_ms": 964040,
+      "end_ms": 968040,
+      "start": "00:16:04.040",
+      "end": "00:16:08.040",
+      "text": "triggers um I don't want to just fly"
+    },
+    {
+      "start_ms": 966480,
+      "end_ms": 970560,
+      "start": "00:16:06.480",
+      "end": "00:16:10.560",
+      "text": "randomly right because if I'm ever doing"
+    },
+    {
+      "start_ms": 968040,
+      "end_ms": 971920,
+      "start": "00:16:08.040",
+      "end": "00:16:11.920",
+      "text": "random flies one I won't be there uh if"
+    },
+    {
+      "start_ms": 970560,
+      "end_ms": 973959,
+      "start": "00:16:10.560",
+      "end": "00:16:13.959",
+      "text": "enemy Juno steps out of line or enemy"
+    },
+    {
+      "start_ms": 971920,
+      "end_ms": 975600,
+      "start": "00:16:11.920",
+      "end": "00:16:15.600",
+      "text": "Ekko steps out of line but two I'm the"
+    },
+    {
+      "start_ms": 973959,
+      "end_ms": 977160,
+      "start": "00:16:13.959",
+      "end": "00:16:17.160",
+      "text": "only thing stopping Ekko from flying"
+    },
+    {
+      "start_ms": 975600,
+      "end_ms": 979000,
+      "start": "00:16:15.600",
+      "end": "00:16:19.000",
+      "text": "aggressively and Zoning me or zoning my"
+    },
+    {
+      "start_ms": 977160,
+      "end_ms": 980720,
+      "start": "00:16:17.160",
+      "end": "00:16:20.720",
+      "text": "back liners right um and I'm punishing"
+    },
+    {
+      "start_ms": 979000,
+      "end_ms": 982120,
+      "start": "00:16:19.000",
+      "end": "00:16:22.120",
+      "text": "enemy eeko that do that if they ever fly"
+    },
+    {
+      "start_ms": 980720,
+      "end_ms": 984600,
+      "start": "00:16:20.720",
+      "end": "00:16:24.600",
+      "text": "in the neutral I Can Fly And I can start"
+    },
+    {
+      "start_ms": 982120,
+      "end_ms": 985920,
+      "start": "00:16:22.120",
+      "end": "00:16:25.920",
+      "text": "to zone that eeko zone that Juno uh my"
+    },
+    {
+      "start_ms": 984600,
+      "end_ms": 987440,
+      "start": "00:16:24.600",
+      "end": "00:16:27.440",
+      "text": "team can just stack together and walk"
+    },
+    {
+      "start_ms": 985920,
+      "end_ms": 989160,
+      "start": "00:16:25.920",
+      "end": "00:16:29.160",
+      "text": "it's really easy otherwise I'm just"
+    },
+    {
+      "start_ms": 987440,
+      "end_ms": 991000,
+      "start": "00:16:27.440",
+      "end": "00:16:31.000",
+      "text": "playing to force that Reaper TP or reer"
+    },
+    {
+      "start_ms": 989160,
+      "end_ms": 992680,
+      "start": "00:16:29.160",
+      "end": "00:16:32.680",
+      "text": "fade um I'm playing Just Farm my copy"
+    },
+    {
+      "start_ms": 991000,
+      "end_ms": 994720,
+      "start": "00:16:31.000",
+      "end": "00:16:34.720",
+      "text": "off the Maga and I'm playing a slow"
+    },
+    {
+      "start_ms": 992680,
+      "end_ms": 997480,
+      "start": "00:16:32.680",
+      "end": "00:16:37.480",
+      "text": "neutral until I get what I want to reach"
+    },
+    {
+      "start_ms": 994720,
+      "end_ms": 1000120,
+      "start": "00:16:34.720",
+      "end": "00:16:40.120",
+      "text": "those backliners um when I'm looking to"
+    },
+    {
+      "start_ms": 997480,
+      "end_ms": 1001959,
+      "start": "00:16:37.480",
+      "end": "00:16:41.959",
+      "text": "reach backliners start a fight is if I"
+    },
+    {
+      "start_ms": 1000120,
+      "end_ms": 1004480,
+      "start": "00:16:40.120",
+      "end": "00:16:44.480",
+      "text": "know it's a super fast fight and we"
+    },
+    {
+      "start_ms": 1001959,
+      "end_ms": 1006279,
+      "start": "00:16:41.959",
+      "end": "00:16:46.279",
+      "text": "can't afford to play front to back or we"
+    },
+    {
+      "start_ms": 1004480,
+      "end_ms": 1008360,
+      "start": "00:16:44.480",
+      "end": "00:16:48.360",
+      "text": "can't afford to force Frontline CDs"
+    },
+    {
+      "start_ms": 1006279,
+      "end_ms": 1010240,
+      "start": "00:16:46.279",
+      "end": "00:16:50.240",
+      "text": "right maybe the map just doesn't allow"
+    },
+    {
+      "start_ms": 1008360,
+      "end_ms": 1011639,
+      "start": "00:16:48.360",
+      "end": "00:16:51.639",
+      "text": "us to really swing them um and I know if"
+    },
+    {
+      "start_ms": 1010240,
+      "end_ms": 1013800,
+      "start": "00:16:50.240",
+      "end": "00:16:53.800",
+      "text": "I swing them they're just going to go in"
+    },
+    {
+      "start_ms": 1011639,
+      "end_ms": 1015519,
+      "start": "00:16:51.639",
+      "end": "00:16:55.519",
+      "text": "on us first and kill us um I'm just"
+    },
+    {
+      "start_ms": 1013800,
+      "end_ms": 1017360,
+      "start": "00:16:53.800",
+      "end": "00:16:57.360",
+      "text": "going to reach for those backliners I'm"
+    },
+    {
+      "start_ms": 1015519,
+      "end_ms": 1019800,
+      "start": "00:16:55.519",
+      "end": "00:16:59.800",
+      "text": "going to let my Reaper TP in I'm going"
+    },
+    {
+      "start_ms": 1017360,
+      "end_ms": 1021560,
+      "start": "00:16:57.360",
+      "end": "00:17:01.560",
+      "text": "to let my people ping the Juno for me um"
+    },
+    {
+      "start_ms": 1019800,
+      "end_ms": 1022560,
+      "start": "00:16:59.800",
+      "end": "00:17:02.560",
+      "text": "I'm not doing the scouting myself right"
+    },
+    {
+      "start_ms": 1021560,
+      "end_ms": 1023920,
+      "start": "00:17:01.560",
+      "end": "00:17:03.920",
+      "text": "and then I'm going to kind of be the"
+    },
+    {
+      "start_ms": 1022560,
+      "end_ms": 1026400,
+      "start": "00:17:02.560",
+      "end": "00:17:06.400",
+      "text": "followup as they kind of force the Geno"
+    },
+    {
+      "start_ms": 1023920,
+      "end_ms": 1028160,
+      "start": "00:17:03.920",
+      "end": "00:17:08.160",
+      "text": "into me right or the echo into me um and"
+    },
+    {
+      "start_ms": 1026400,
+      "end_ms": 1030039,
+      "start": "00:17:06.400",
+      "end": "00:17:10.039",
+      "text": "then copy usage almost always there are"
+    },
+    {
+      "start_ms": 1028160,
+      "end_ms": 1033559,
+      "start": "00:17:08.160",
+      "end": "00:17:13.559",
+      "text": "copy Reapers occasionally a copy Maga is"
+    },
+    {
+      "start_ms": 1030039,
+      "end_ms": 1035600,
+      "start": "00:17:10.039",
+      "end": "00:17:15.600",
+      "text": "fine but if I'm going first not getting"
+    },
+    {
+      "start_ms": 1033559,
+      "end_ms": 1038559,
+      "start": "00:17:13.559",
+      "end": "00:17:18.559",
+      "text": "your copy bursted is super super super"
+    },
+    {
+      "start_ms": 1035600,
+      "end_ms": 1039919,
+      "start": "00:17:15.600",
+      "end": "00:17:19.919",
+      "text": "important so copy look behind you regain"
+    },
+    {
+      "start_ms": 1038559,
+      "end_ms": 1042319,
+      "start": "00:17:18.559",
+      "end": "00:17:22.319",
+      "text": "awareness of the situation see what's"
+    },
+    {
+      "start_ms": 1039919,
+      "end_ms": 1043839,
+      "start": "00:17:19.919",
+      "end": "00:17:23.839",
+      "text": "going on right um if I'm going to copy"
+    },
+    {
+      "start_ms": 1042319,
+      "end_ms": 1045679,
+      "start": "00:17:22.319",
+      "end": "00:17:25.679",
+      "text": "slow right it's pretty easy I can just"
+    },
+    {
+      "start_ms": 1043839,
+      "end_ms": 1047160,
+      "start": "00:17:23.839",
+      "end": "00:17:27.160",
+      "text": "use my team to body block um I'm"
+    },
+    {
+      "start_ms": 1045679,
+      "end_ms": 1050320,
+      "start": "00:17:25.679",
+      "end": "00:17:30.320",
+      "text": "providing the extra sustain and it's all"
+    },
+    {
+      "start_ms": 1047160,
+      "end_ms": 1053039,
+      "start": "00:17:27.160",
+      "end": "00:17:33.039",
+      "text": "cool but"
+    },
+    {
+      "start_ms": 1050320,
+      "end_ms": 1055120,
+      "start": "00:17:30.320",
+      "end": "00:17:35.120",
+      "text": "um I did do a longer uh version where I"
+    },
+    {
+      "start_ms": 1053039,
+      "end_ms": 1056320,
+      "start": "00:17:33.039",
+      "end": "00:17:36.320",
+      "text": "I prepped this video on his stream um so"
+    },
+    {
+      "start_ms": 1055120,
+      "end_ms": 1057880,
+      "start": "00:17:35.120",
+      "end": "00:17:37.880",
+      "text": "I might link that on like a second"
+    },
+    {
+      "start_ms": 1056320,
+      "end_ms": 1059360,
+      "start": "00:17:36.320",
+      "end": "00:17:39.360",
+      "text": "Channel or something if anyone wants"
+    },
+    {
+      "start_ms": 1057880,
+      "end_ms": 1062080,
+      "start": "00:17:37.880",
+      "end": "00:17:42.080",
+      "text": "like the longer form content it was like"
+    },
+    {
+      "start_ms": 1059360,
+      "end_ms": 1065440,
+      "start": "00:17:39.360",
+      "end": "00:17:45.440",
+      "text": "one or two hours but um otherwise I'll"
+    },
+    {
+      "start_ms": 1062080,
+      "end_ms": 1065440,
+      "start": "00:17:42.080",
+      "end": "00:17:45.440",
+      "text": "see you guys later"
+    }
+  ]
+}

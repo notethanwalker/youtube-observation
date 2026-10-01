@@ -1,0 +1,6855 @@
+{
+  "video_id": "QvMsOy1wFr4",
+  "title": "How NRG Won (And Lost) Overwatch Rock Paper Scissors",
+  "url": "https://www.youtube.com/watch?v=QvMsOy1wFr4",
+  "upload_date": "2024-12-08",
+  "duration_seconds": 1934,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:22:03.358021+00:00",
+  "source_sha256": "1647aeb865df415f6ae12673d7de53a73b24505579197bee8a24ff400a4e3280",
+  "source_bytes": 763299,
+  "segment_count": 976,
+  "word_count": 7361,
+  "character_count": 37006,
+  "first_segment_ms": 1800,
+  "last_segment_end_ms": 1936360,
+  "leading_gap_seconds": 1.8,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 1800,
+      "end_ms": 6399,
+      "start": "00:00:01.800",
+      "end": "00:00:06.399",
+      "text": "all right so the NRG shock the team that"
+    },
+    {
+      "start_ms": 4560,
+      "end_ms": 9559,
+      "start": "00:00:04.560",
+      "end": "00:00:09.559",
+      "text": "got fifth six in the region and then"
+    },
+    {
+      "start_ms": 6399,
+      "end_ms": 13400,
+      "start": "00:00:06.399",
+      "end": "00:00:13.400",
+      "text": "fourth in the global tournament um why"
+    },
+    {
+      "start_ms": 9559,
+      "end_ms": 16039,
+      "start": "00:00:09.559",
+      "end": "00:00:16.039",
+      "text": "did their comp work until it didn't um"
+    },
+    {
+      "start_ms": 13400,
+      "end_ms": 17560,
+      "start": "00:00:13.400",
+      "end": "00:00:17.560",
+      "text": "and you know I'm going to watch the"
+    },
+    {
+      "start_ms": 16039,
+      "end_ms": 19359,
+      "start": "00:00:16.039",
+      "end": "00:00:19.359",
+      "text": "energy versus an and then we're going to"
+    },
+    {
+      "start_ms": 17560,
+      "end_ms": 20840,
+      "start": "00:00:17.560",
+      "end": "00:00:20.840",
+      "text": "watch energy versus Toronto I'm really"
+    },
+    {
+      "start_ms": 19359,
+      "end_ms": 22920,
+      "start": "00:00:19.359",
+      "end": "00:00:22.920",
+      "text": "not interested in the energy versus"
+    },
+    {
+      "start_ms": 20840,
+      "end_ms": 25439,
+      "start": "00:00:20.840",
+      "end": "00:00:25.439",
+      "text": "nightmare match that happened uh because"
+    },
+    {
+      "start_ms": 22920,
+      "end_ms": 28000,
+      "start": "00:00:22.920",
+      "end": "00:00:28.000",
+      "text": "nightmare fell into the uh the Trap of"
+    },
+    {
+      "start_ms": 25439,
+      "end_ms": 30080,
+      "start": "00:00:25.439",
+      "end": "00:00:30.080",
+      "text": "Queen mirroring the the off meta team um"
+    },
+    {
+      "start_ms": 28000,
+      "end_ms": 32559,
+      "start": "00:00:28.000",
+      "end": "00:00:32.559",
+      "text": "and they just got three out so um the"
+    },
+    {
+      "start_ms": 30080,
+      "end_ms": 34719,
+      "start": "00:00:30.080",
+      "end": "00:00:34.719",
+      "text": "matches of interest um energy showed up"
+    },
+    {
+      "start_ms": 32559,
+      "end_ms": 36600,
+      "start": "00:00:32.559",
+      "end": "00:00:36.600",
+      "text": "and they played Sombra Queen um when"
+    },
+    {
+      "start_ms": 34719,
+      "end_ms": 38840,
+      "start": "00:00:34.719",
+      "end": "00:00:38.840",
+      "text": "almost every other team was sticking"
+    },
+    {
+      "start_ms": 36600,
+      "end_ms": 40600,
+      "start": "00:00:36.600",
+      "end": "00:00:40.600",
+      "text": "really hard to these four with this with"
+    },
+    {
+      "start_ms": 38840,
+      "end_ms": 42559,
+      "start": "00:00:38.840",
+      "end": "00:00:42.559",
+      "text": "some flexibility between like Genji and"
+    },
+    {
+      "start_ms": 40600,
+      "end_ms": 43960,
+      "start": "00:00:40.600",
+      "end": "00:00:43.960",
+      "text": "Ekko right but they were one of the only"
+    },
+    {
+      "start_ms": 42559,
+      "end_ms": 45600,
+      "start": "00:00:42.559",
+      "end": "00:00:45.600",
+      "text": "teams playing off meta really the only"
+    },
+    {
+      "start_ms": 43960,
+      "end_ms": 47520,
+      "start": "00:00:43.960",
+      "end": "00:00:47.520",
+      "text": "other team to like try some off meta"
+    },
+    {
+      "start_ms": 45600,
+      "end_ms": 49800,
+      "start": "00:00:45.600",
+      "end": "00:00:49.800",
+      "text": "stuff was occasionally some teams"
+    },
+    {
+      "start_ms": 47520,
+      "end_ms": 51840,
+      "start": "00:00:47.520",
+      "end": "00:00:51.840",
+      "text": "against NRG which doesn't really count"
+    },
+    {
+      "start_ms": 49800,
+      "end_ms": 53640,
+      "start": "00:00:49.800",
+      "end": "00:00:53.640",
+      "text": "um and twisted Minds played a little bit"
+    },
+    {
+      "start_ms": 51840,
+      "end_ms": 54840,
+      "start": "00:00:51.840",
+      "end": "00:00:54.840",
+      "text": "of like a variation of the Mal comp but"
+    },
+    {
+      "start_ms": 53640,
+      "end_ms": 56800,
+      "start": "00:00:53.640",
+      "end": "00:00:56.800",
+      "text": "they were still playing magga at the end"
+    },
+    {
+      "start_ms": 54840,
+      "end_ms": 59600,
+      "start": "00:00:54.840",
+      "end": "00:00:59.600",
+      "text": "of the day NRG was really the only team"
+    },
+    {
+      "start_ms": 56800,
+      "end_ms": 62320,
+      "start": "00:00:56.800",
+      "end": "00:01:02.320",
+      "text": "trying this so um how does this comp"
+    },
+    {
+      "start_ms": 59600,
+      "end_ms": 63879,
+      "start": "00:00:59.600",
+      "end": "00:01:03.879",
+      "text": "work in theory well um anytime you're"
+    },
+    {
+      "start_ms": 62320,
+      "end_ms": 65840,
+      "start": "00:01:02.320",
+      "end": "00:01:05.840",
+      "text": "thinking about a theoretical match up"
+    },
+    {
+      "start_ms": 63879,
+      "end_ms": 67799,
+      "start": "00:01:03.879",
+      "end": "00:01:07.799",
+      "text": "between two comps there's two important"
+    },
+    {
+      "start_ms": 65840,
+      "end_ms": 70080,
+      "start": "00:01:05.840",
+      "end": "00:01:10.080",
+      "text": "parts there's the neutral which is what"
+    },
+    {
+      "start_ms": 67799,
+      "end_ms": 71640,
+      "start": "00:01:07.799",
+      "end": "00:01:11.640",
+      "text": "we call a fight without ults and there's"
+    },
+    {
+      "start_ms": 70080,
+      "end_ms": 74159,
+      "start": "00:01:10.080",
+      "end": "00:01:14.159",
+      "text": "the old fight which you know self"
+    },
+    {
+      "start_ms": 71640,
+      "end_ms": 75960,
+      "start": "00:01:11.640",
+      "end": "00:01:15.960",
+      "text": "explanatorily is the fight with ults um"
+    },
+    {
+      "start_ms": 74159,
+      "end_ms": 77320,
+      "start": "00:01:14.159",
+      "end": "00:01:17.320",
+      "text": "you have to think how does our"
+    },
+    {
+      "start_ms": 75960,
+      "end_ms": 78600,
+      "start": "00:01:15.960",
+      "end": "00:01:18.600",
+      "text": "interaction work in the neutral how does"
+    },
+    {
+      "start_ms": 77320,
+      "end_ms": 81119,
+      "start": "00:01:17.320",
+      "end": "00:01:21.119",
+      "text": "their interaction change in the old"
+    },
+    {
+      "start_ms": 78600,
+      "end_ms": 83280,
+      "start": "00:01:18.600",
+      "end": "00:01:23.280",
+      "text": "fight because pretty obviously the the"
+    },
+    {
+      "start_ms": 81119,
+      "end_ms": 87200,
+      "start": "00:01:21.119",
+      "end": "00:01:27.200",
+      "text": "old fight is obvious in this comp right"
+    },
+    {
+      "start_ms": 83280,
+      "end_ms": 88960,
+      "start": "00:01:23.280",
+      "end": "00:01:28.960",
+      "text": "um copy EMP queeno these are really"
+    },
+    {
+      "start_ms": 87200,
+      "end_ms": 90799,
+      "start": "00:01:27.200",
+      "end": "00:01:30.799",
+      "text": "strong and these obviously are mere"
+    },
+    {
+      "start_ms": 88960,
+      "end_ms": 93640,
+      "start": "00:01:28.960",
+      "end": "00:01:33.640",
+      "text": "adults on both teams right right so"
+    },
+    {
+      "start_ms": 90799,
+      "end_ms": 95600,
+      "start": "00:01:30.799",
+      "end": "00:01:35.600",
+      "text": "theoretically um EMP is not only strong"
+    },
+    {
+      "start_ms": 93640,
+      "end_ms": 97720,
+      "start": "00:01:33.640",
+      "end": "00:01:37.720",
+      "text": "but it directly cancels these ults as"
+    },
+    {
+      "start_ms": 95600,
+      "end_ms": 100439,
+      "start": "00:01:35.600",
+      "end": "00:01:40.439",
+      "text": "well if you use them second right um"
+    },
+    {
+      "start_ms": 97720,
+      "end_ms": 101799,
+      "start": "00:01:37.720",
+      "end": "00:01:41.799",
+      "text": "queeno is really difficult to outplay"
+    },
+    {
+      "start_ms": 100439,
+      "end_ms": 104840,
+      "start": "00:01:40.439",
+      "end": "00:01:44.840",
+      "text": "like rally is kind of our only tool"
+    },
+    {
+      "start_ms": 101799,
+      "end_ms": 106240,
+      "start": "00:01:41.799",
+      "end": "00:01:46.240",
+      "text": "maybe cage um but if we hit queeno one"
+    },
+    {
+      "start_ms": 104840,
+      "end_ms": 107640,
+      "start": "00:01:44.840",
+      "end": "00:01:47.640",
+      "text": "this comp Stacks all the time so it's"
+    },
+    {
+      "start_ms": 106240,
+      "end_ms": 109560,
+      "start": "00:01:46.240",
+      "end": "00:01:49.560",
+      "text": "going to be super easy to hit a ton of"
+    },
+    {
+      "start_ms": 107640,
+      "end_ms": 111439,
+      "start": "00:01:47.640",
+      "end": "00:01:51.439",
+      "text": "people with it um it's going to be super"
+    },
+    {
+      "start_ms": 109560,
+      "end_ms": 113600,
+      "start": "00:01:49.560",
+      "end": "00:01:53.600",
+      "text": "easy to heal myself with it right so if"
+    },
+    {
+      "start_ms": 111439,
+      "end_ms": 115280,
+      "start": "00:01:51.439",
+      "end": "00:01:55.280",
+      "text": "we can reach the old fight that's"
+    },
+    {
+      "start_ms": 113600,
+      "end_ms": 117200,
+      "start": "00:01:53.600",
+      "end": "00:01:57.200",
+      "text": "obviously not the hard part of this comp"
+    },
+    {
+      "start_ms": 115280,
+      "end_ms": 119039,
+      "start": "00:01:55.280",
+      "end": "00:01:59.039",
+      "text": "that's kind of what it's built around so"
+    },
+    {
+      "start_ms": 117200,
+      "end_ms": 120520,
+      "start": "00:01:57.200",
+      "end": "00:02:00.520",
+      "text": "it becomes obvious that the neutral if"
+    },
+    {
+      "start_ms": 119039,
+      "end_ms": 122640,
+      "start": "00:01:59.039",
+      "end": "00:02:02.640",
+      "text": "you think about it is mostly about"
+    },
+    {
+      "start_ms": 120520,
+      "end_ms": 124520,
+      "start": "00:02:00.520",
+      "end": "00:02:04.520",
+      "text": "reaching the old fight farming ults and"
+    },
+    {
+      "start_ms": 122640,
+      "end_ms": 126000,
+      "start": "00:02:02.640",
+      "end": "00:02:06.000",
+      "text": "making sure that we can live uh neutral"
+    },
+    {
+      "start_ms": 124520,
+      "end_ms": 128200,
+      "start": "00:02:04.520",
+      "end": "00:02:08.200",
+      "text": "engages and like live kind of like the"
+    },
+    {
+      "start_ms": 126000,
+      "end_ms": 131039,
+      "start": "00:02:06.000",
+      "end": "00:02:11.039",
+      "text": "neutral poke phase uh maybe like wall"
+    },
+    {
+      "start_ms": 128200,
+      "end_ms": 132720,
+      "start": "00:02:08.200",
+      "end": "00:02:12.720",
+      "text": "pressuring Point depending on the map um"
+    },
+    {
+      "start_ms": 131039,
+      "end_ms": 134080,
+      "start": "00:02:11.039",
+      "end": "00:02:14.080",
+      "text": "while like reaching that without dying"
+    },
+    {
+      "start_ms": 132720,
+      "end_ms": 135640,
+      "start": "00:02:12.720",
+      "end": "00:02:15.640",
+      "text": "without getting punished in that neutral"
+    },
+    {
+      "start_ms": 134080,
+      "end_ms": 137080,
+      "start": "00:02:14.080",
+      "end": "00:02:17.080",
+      "text": "right um so we kind of want to play"
+    },
+    {
+      "start_ms": 135640,
+      "end_ms": 139680,
+      "start": "00:02:15.640",
+      "end": "00:02:19.680",
+      "text": "really slow really second and really"
+    },
+    {
+      "start_ms": 137080,
+      "end_ms": 141400,
+      "start": "00:02:17.080",
+      "end": "00:02:21.400",
+      "text": "bity in the neutral um probably with our"
+    },
+    {
+      "start_ms": 139680,
+      "end_ms": 142959,
+      "start": "00:02:19.680",
+      "end": "00:02:22.959",
+      "text": "Queen taking most of the aggo right if"
+    },
+    {
+      "start_ms": 141400,
+      "end_ms": 144840,
+      "start": "00:02:21.400",
+      "end": "00:02:24.840",
+      "text": "these people take too much aggro they'll"
+    },
+    {
+      "start_ms": 142959,
+      "end_ms": 146120,
+      "start": "00:02:22.959",
+      "end": "00:02:26.120",
+      "text": "die uh maybe more importantly than dying"
+    },
+    {
+      "start_ms": 144840,
+      "end_ms": 147720,
+      "start": "00:02:24.840",
+      "end": "00:02:27.720",
+      "text": "even they won't be able to farm their"
+    },
+    {
+      "start_ms": 146120,
+      "end_ms": 149360,
+      "start": "00:02:26.120",
+      "end": "00:02:29.360",
+      "text": "ults right I really want these people to"
+    },
+    {
+      "start_ms": 147720,
+      "end_ms": 150480,
+      "start": "00:02:27.720",
+      "end": "00:02:30.480",
+      "text": "just comfortably Farm their ults as much"
+    },
+    {
+      "start_ms": 149360,
+      "end_ms": 151720,
+      "start": "00:02:29.360",
+      "end": "00:02:31.720",
+      "text": "as possible"
+    },
+    {
+      "start_ms": 150480,
+      "end_ms": 153120,
+      "start": "00:02:30.480",
+      "end": "00:02:33.120",
+      "text": "um and my queen will get it when he gets"
+    },
+    {
+      "start_ms": 151720,
+      "end_ms": 154319,
+      "start": "00:02:31.720",
+      "end": "00:02:34.319",
+      "text": "it right there's we kind of have to"
+    },
+    {
+      "start_ms": 153120,
+      "end_ms": 155879,
+      "start": "00:02:33.120",
+      "end": "00:02:35.879",
+      "text": "sacrifice that because there's nobody"
+    },
+    {
+      "start_ms": 154319,
+      "end_ms": 157000,
+      "start": "00:02:34.319",
+      "end": "00:02:37.000",
+      "text": "else that can take Agro for these people"
+    },
+    {
+      "start_ms": 155879,
+      "end_ms": 158560,
+      "start": "00:02:35.879",
+      "end": "00:02:38.560",
+      "text": "like I really don't want my supports"
+    },
+    {
+      "start_ms": 157000,
+      "end_ms": 160400,
+      "start": "00:02:37.000",
+      "end": "00:02:40.400",
+      "text": "taking aggro right so I'm just going to"
+    },
+    {
+      "start_ms": 158560,
+      "end_ms": 162000,
+      "start": "00:02:38.560",
+      "end": "00:02:42.000",
+      "text": "have my queen maybe my Sombra can take"
+    },
+    {
+      "start_ms": 160400,
+      "end_ms": 164040,
+      "start": "00:02:40.400",
+      "end": "00:02:44.040",
+      "text": "slight off angles my eeko maybe a little"
+    },
+    {
+      "start_ms": 162000,
+      "end_ms": 166840,
+      "start": "00:02:42.000",
+      "end": "00:02:46.840",
+      "text": "bit more right but we're really not off"
+    },
+    {
+      "start_ms": 164040,
+      "end_ms": 168319,
+      "start": "00:02:44.040",
+      "end": "00:02:48.319",
+      "text": "angling like that hard um because we"
+    },
+    {
+      "start_ms": 166840,
+      "end_ms": 169959,
+      "start": "00:02:46.840",
+      "end": "00:02:49.959",
+      "text": "really want to be able to shoot people"
+    },
+    {
+      "start_ms": 168319,
+      "end_ms": 171800,
+      "start": "00:02:48.319",
+      "end": "00:02:51.800",
+      "text": "off of our Queen shoot people off of our"
+    },
+    {
+      "start_ms": 169959,
+      "end_ms": 173879,
+      "start": "00:02:49.959",
+      "end": "00:02:53.879",
+      "text": "Sombra right uh make sure we can use"
+    },
+    {
+      "start_ms": 171800,
+      "end_ms": 176000,
+      "start": "00:02:51.800",
+      "end": "00:02:56.000",
+      "text": "that shout and just kind of hopefully go"
+    },
+    {
+      "start_ms": 173879,
+      "end_ms": 178680,
+      "start": "00:02:53.879",
+      "end": "00:02:58.680",
+      "text": "CD for CD in cycle until we get you know"
+    },
+    {
+      "start_ms": 176000,
+      "end_ms": 181080,
+      "start": "00:02:56.000",
+      "end": "00:03:01.080",
+      "text": "the first holds of the game um I do want"
+    },
+    {
+      "start_ms": 178680,
+      "end_ms": 183319,
+      "start": "00:02:58.680",
+      "end": "00:03:03.319",
+      "text": "to say the cons of playing 's comp is"
+    },
+    {
+      "start_ms": 181080,
+      "end_ms": 185560,
+      "start": "00:03:01.080",
+      "end": "00:03:05.560",
+      "text": "that yes our neutral engage is really"
+    },
+    {
+      "start_ms": 183319,
+      "end_ms": 187560,
+      "start": "00:03:03.319",
+      "end": "00:03:07.560",
+      "text": "strong but um for a comp that normally"
+    },
+    {
+      "start_ms": 185560,
+      "end_ms": 189760,
+      "start": "00:03:05.560",
+      "end": "00:03:09.760",
+      "text": "Farms SS really fast we actually don't"
+    },
+    {
+      "start_ms": 187560,
+      "end_ms": 191480,
+      "start": "00:03:07.560",
+      "end": "00:03:11.480",
+      "text": "Farm ults as fast as we normally would"
+    },
+    {
+      "start_ms": 189760,
+      "end_ms": 193440,
+      "start": "00:03:09.760",
+      "end": "00:03:13.440",
+      "text": "because Queen is way harder to Farm ults"
+    },
+    {
+      "start_ms": 191480,
+      "end_ms": 195720,
+      "start": "00:03:11.480",
+      "end": "00:03:15.720",
+      "text": "off of um Queen and obviously there's no"
+    },
+    {
+      "start_ms": 193440,
+      "end_ms": 197080,
+      "start": "00:03:13.440",
+      "end": "00:03:17.080",
+      "text": "Reaper in this comp right so NRG kind of"
+    },
+    {
+      "start_ms": 195720,
+      "end_ms": 198799,
+      "start": "00:03:15.720",
+      "end": "00:03:18.799",
+      "text": "has the benefits of playing against"
+    },
+    {
+      "start_ms": 197080,
+      "end_ms": 201120,
+      "start": "00:03:17.080",
+      "end": "00:03:21.120",
+      "text": "magga comp which is that uler super"
+    },
+    {
+      "start_ms": 198799,
+      "end_ms": 203519,
+      "start": "00:03:18.799",
+      "end": "00:03:23.519",
+      "text": "farmable off this comp but an kind of"
+    },
+    {
+      "start_ms": 201120,
+      "end_ms": 205200,
+      "start": "00:03:21.120",
+      "end": "00:03:25.200",
+      "text": "doesn't get to utilize the same upside"
+    },
+    {
+      "start_ms": 203519,
+      "end_ms": 206440,
+      "start": "00:03:23.519",
+      "end": "00:03:26.440",
+      "text": "of of the normal part of this meta which"
+    },
+    {
+      "start_ms": 205200,
+      "end_ms": 207799,
+      "start": "00:03:25.200",
+      "end": "00:03:27.799",
+      "text": "is that like yeah they're going to farm"
+    },
+    {
+      "start_ms": 206440,
+      "end_ms": 209080,
+      "start": "00:03:26.440",
+      "end": "00:03:29.080",
+      "text": "support ALS as fast cuz they're taking"
+    },
+    {
+      "start_ms": 207799,
+      "end_ms": 210040,
+      "start": "00:03:27.799",
+      "end": "00:03:30.040",
+      "text": "the same amount of damage but they're"
+    },
+    {
+      "start_ms": 209080,
+      "end_ms": 211080,
+      "start": "00:03:29.080",
+      "end": "00:03:31.080",
+      "text": "not doing really the same amount of"
+    },
+    {
+      "start_ms": 210040,
+      "end_ms": 212400,
+      "start": "00:03:30.040",
+      "end": "00:03:32.400",
+      "text": "damage and if you look at this fight"
+    },
+    {
+      "start_ms": 211080,
+      "end_ms": 214120,
+      "start": "00:03:31.080",
+      "end": "00:03:34.120",
+      "text": "that I have pulled up here which is the"
+    },
+    {
+      "start_ms": 212400,
+      "end_ms": 216159,
+      "start": "00:03:32.400",
+      "end": "00:03:36.159",
+      "text": "first fight we're going to look at um S"
+    },
+    {
+      "start_ms": 214120,
+      "end_ms": 218000,
+      "start": "00:03:34.120",
+      "end": "00:03:38.000",
+      "text": "is his built copy the support alss are"
+    },
+    {
+      "start_ms": 216159,
+      "end_ms": 220480,
+      "start": "00:03:36.159",
+      "end": "00:03:40.480",
+      "text": "pretty similar uh sky is a little bit of"
+    },
+    {
+      "start_ms": 218000,
+      "end_ms": 221599,
+      "start": "00:03:38.000",
+      "end": "00:03:41.599",
+      "text": "an edge here but the DPS SS are really"
+    },
+    {
+      "start_ms": 220480,
+      "end_ms": 224680,
+      "start": "00:03:40.480",
+      "end": "00:03:44.680",
+      "text": "where the difference is starting to come"
+    },
+    {
+      "start_ms": 221599,
+      "end_ms": 225959,
+      "start": "00:03:41.599",
+      "end": "00:03:45.959",
+      "text": "in like uh copy for half on both EMP is"
+    },
+    {
+      "start_ms": 224680,
+      "end_ms": 227480,
+      "start": "00:03:44.680",
+      "end": "00:03:47.480",
+      "text": "going to come up before both of these"
+    },
+    {
+      "start_ms": 225959,
+      "end_ms": 230680,
+      "start": "00:03:45.959",
+      "end": "00:03:50.680",
+      "text": "like this is a really big difference and"
+    },
+    {
+      "start_ms": 227480,
+      "end_ms": 232599,
+      "start": "00:03:47.480",
+      "end": "00:03:52.599",
+      "text": "Kell is the head on this uh so if this"
+    },
+    {
+      "start_ms": 230680,
+      "end_ms": 234599,
+      "start": "00:03:50.680",
+      "end": "00:03:54.599",
+      "text": "is mostly about living the neutral and"
+    },
+    {
+      "start_ms": 232599,
+      "end_ms": 236799,
+      "start": "00:03:52.599",
+      "end": "00:03:56.799",
+      "text": "getting to the old fight um for an it's"
+    },
+    {
+      "start_ms": 234599,
+      "end_ms": 238159,
+      "start": "00:03:54.599",
+      "end": "00:03:58.159",
+      "text": "about you know punishing in the neutral"
+    },
+    {
+      "start_ms": 236799,
+      "end_ms": 239760,
+      "start": "00:03:56.799",
+      "end": "00:03:59.760",
+      "text": "and then hopefully winning the old fight"
+    },
+    {
+      "start_ms": 238159,
+      "end_ms": 241560,
+      "start": "00:03:58.159",
+      "end": "00:04:01.560",
+      "text": "also right because our old fight is good"
+    },
+    {
+      "start_ms": 239760,
+      "end_ms": 243920,
+      "start": "00:03:59.760",
+      "end": "00:04:03.920",
+      "text": "even though it's not as good as theirs"
+    },
+    {
+      "start_ms": 241560,
+      "end_ms": 246640,
+      "start": "00:04:01.560",
+      "end": "00:04:06.640",
+      "text": "how do we make ult fights work against"
+    },
+    {
+      "start_ms": 243920,
+      "end_ms": 249200,
+      "start": "00:04:03.920",
+      "end": "00:04:09.200",
+      "text": "this team um the super super super"
+    },
+    {
+      "start_ms": 246640,
+      "end_ms": 251640,
+      "start": "00:04:06.640",
+      "end": "00:04:11.640",
+      "text": "important thing is understanding the way"
+    },
+    {
+      "start_ms": 249200,
+      "end_ms": 253159,
+      "start": "00:04:09.200",
+      "end": "00:04:13.159",
+      "text": "that turns work in this comp since"
+    },
+    {
+      "start_ms": 251640,
+      "end_ms": 254439,
+      "start": "00:04:11.640",
+      "end": "00:04:14.439",
+      "text": "things are kind of predetermined as far"
+    },
+    {
+      "start_ms": 253159,
+      "end_ms": 256079,
+      "start": "00:04:13.159",
+      "end": "00:04:16.079",
+      "text": "as who wants to go first and who wants"
+    },
+    {
+      "start_ms": 254439,
+      "end_ms": 258919,
+      "start": "00:04:14.439",
+      "end": "00:04:18.919",
+      "text": "to go second there's kind of two"
+    },
+    {
+      "start_ms": 256079,
+      "end_ms": 260799,
+      "start": "00:04:16.079",
+      "end": "00:04:20.799",
+      "text": "approaches um to 's side there's really"
+    },
+    {
+      "start_ms": 258919,
+      "end_ms": 264120,
+      "start": "00:04:18.919",
+      "end": "00:04:24.120",
+      "text": "only one approach to nrg's side which is"
+    },
+    {
+      "start_ms": 260799,
+      "end_ms": 266320,
+      "start": "00:04:20.799",
+      "end": "00:04:26.320",
+      "text": "to try and bait an to go in um and then"
+    },
+    {
+      "start_ms": 264120,
+      "end_ms": 268720,
+      "start": "00:04:24.120",
+      "end": "00:04:28.720",
+      "text": "when they do go in we punish that engage"
+    },
+    {
+      "start_ms": 266320,
+      "end_ms": 271160,
+      "start": "00:04:26.320",
+      "end": "00:04:31.160",
+      "text": "if we're ANS there's two ways we can"
+    },
+    {
+      "start_ms": 268720,
+      "end_ms": 273039,
+      "start": "00:04:28.720",
+      "end": "00:04:33.039",
+      "text": "take our first turn a really hard engage"
+    },
+    {
+      "start_ms": 271160,
+      "end_ms": 275199,
+      "start": "00:04:31.160",
+      "end": "00:04:35.199",
+      "text": "um and when they bait that engage and"
+    },
+    {
+      "start_ms": 273039,
+      "end_ms": 277800,
+      "start": "00:04:33.039",
+      "end": "00:04:37.800",
+      "text": "they try to punish it um we can just let"
+    },
+    {
+      "start_ms": 275199,
+      "end_ms": 279400,
+      "start": "00:04:35.199",
+      "end": "00:04:39.400",
+      "text": "them back up and try and bait it um and"
+    },
+    {
+      "start_ms": 277800,
+      "end_ms": 281720,
+      "start": "00:04:37.800",
+      "end": "00:04:41.720",
+      "text": "then we can take it like a third turn"
+    },
+    {
+      "start_ms": 279400,
+      "end_ms": 283240,
+      "start": "00:04:39.400",
+      "end": "00:04:43.240",
+      "text": "which is like like a really soft reset"
+    },
+    {
+      "start_ms": 281720,
+      "end_ms": 284759,
+      "start": "00:04:41.720",
+      "end": "00:04:44.759",
+      "text": "um but it's a reset we're we're just"
+    },
+    {
+      "start_ms": 283240,
+      "end_ms": 286800,
+      "start": "00:04:43.240",
+      "end": "00:04:46.800",
+      "text": "kind of resetting like our Maga pin and"
+    },
+    {
+      "start_ms": 284759,
+      "end_ms": 288160,
+      "start": "00:04:44.759",
+      "end": "00:04:48.160",
+      "text": "healing up again um and their big"
+    },
+    {
+      "start_ms": 286800,
+      "end_ms": 290039,
+      "start": "00:04:46.800",
+      "end": "00:04:50.039",
+      "text": "cooldowns that we forced on the first"
+    },
+    {
+      "start_ms": 288160,
+      "end_ms": 291639,
+      "start": "00:04:48.160",
+      "end": "00:04:51.639",
+      "text": "engage we're going to go after that"
+    },
+    {
+      "start_ms": 290039,
+      "end_ms": 293360,
+      "start": "00:04:50.039",
+      "end": "00:04:53.360",
+      "text": "without those coold Downs on their side"
+    },
+    {
+      "start_ms": 291639,
+      "end_ms": 295360,
+      "start": "00:04:51.639",
+      "end": "00:04:55.360",
+      "text": "right we forc the ring out of them we"
+    },
+    {
+      "start_ms": 293360,
+      "end_ms": 297240,
+      "start": "00:04:53.360",
+      "end": "00:04:57.240",
+      "text": "forced the queen shout out of them right"
+    },
+    {
+      "start_ms": 295360,
+      "end_ms": 299000,
+      "start": "00:04:55.360",
+      "end": "00:04:59.000",
+      "text": "and we saved our our malga shout we"
+    },
+    {
+      "start_ms": 297240,
+      "end_ms": 300120,
+      "start": "00:04:57.240",
+      "end": "00:05:00.120",
+      "text": "saved our important things or we have SS"
+    },
+    {
+      "start_ms": 299000,
+      "end_ms": 301720,
+      "start": "00:04:59.000",
+      "end": "00:05:01.720",
+      "text": "that are going to kind of make up for"
+    },
+    {
+      "start_ms": 300120,
+      "end_ms": 304000,
+      "start": "00:05:00.120",
+      "end": "00:05:04.000",
+      "text": "those differences on a third turn and so"
+    },
+    {
+      "start_ms": 301720,
+      "end_ms": 305639,
+      "start": "00:05:01.720",
+      "end": "00:05:05.639",
+      "text": "we're playing for like um you know we're"
+    },
+    {
+      "start_ms": 304000,
+      "end_ms": 307000,
+      "start": "00:05:04.000",
+      "end": "00:05:07.000",
+      "text": "not actually going first and winning off"
+    },
+    {
+      "start_ms": 305639,
+      "end_ms": 309000,
+      "start": "00:05:05.639",
+      "end": "00:05:09.000",
+      "text": "that first turn our first turn is just"
+    },
+    {
+      "start_ms": 307000,
+      "end_ms": 310800,
+      "start": "00:05:07.000",
+      "end": "00:05:10.800",
+      "text": "to force Big Stuff get map control our"
+    },
+    {
+      "start_ms": 309000,
+      "end_ms": 312400,
+      "start": "00:05:09.000",
+      "end": "00:05:12.400",
+      "text": "third turn is to start cleaning stuff up"
+    },
+    {
+      "start_ms": 310800,
+      "end_ms": 314560,
+      "start": "00:05:10.800",
+      "end": "00:05:14.560",
+      "text": "or maybe even like our fifth you know it"
+    },
+    {
+      "start_ms": 312400,
+      "end_ms": 316639,
+      "start": "00:05:12.400",
+      "end": "00:05:16.639",
+      "text": "depends on how deep into the the ults"
+    },
+    {
+      "start_ms": 314560,
+      "end_ms": 317960,
+      "start": "00:05:14.560",
+      "end": "00:05:17.960",
+      "text": "we're going how much map space for need"
+    },
+    {
+      "start_ms": 316639,
+      "end_ms": 319720,
+      "start": "00:05:16.639",
+      "end": "00:05:19.720",
+      "text": "to try and bait out of them right that"
+    },
+    {
+      "start_ms": 317960,
+      "end_ms": 321520,
+      "start": "00:05:17.960",
+      "end": "00:05:21.520",
+      "text": "kind of stuff but you can kind of try"
+    },
+    {
+      "start_ms": 319720,
+      "end_ms": 322919,
+      "start": "00:05:19.720",
+      "end": "00:05:22.919",
+      "text": "and cycle that way um and like hold the"
+    },
+    {
+      "start_ms": 321520,
+      "end_ms": 324639,
+      "start": "00:05:21.520",
+      "end": "00:05:24.639",
+      "text": "engage over their heads until you've"
+    },
+    {
+      "start_ms": 322919,
+      "end_ms": 325800,
+      "start": "00:05:22.919",
+      "end": "00:05:25.800",
+      "text": "gotten enough out of it that it'll"
+    },
+    {
+      "start_ms": 324639,
+      "end_ms": 328000,
+      "start": "00:05:24.639",
+      "end": "00:05:28.000",
+      "text": "actually work and they don't have enough"
+    },
+    {
+      "start_ms": 325800,
+      "end_ms": 330000,
+      "start": "00:05:25.800",
+      "end": "00:05:30.000",
+      "text": "resources left to bait um the other way"
+    },
+    {
+      "start_ms": 328000,
+      "end_ms": 332360,
+      "start": "00:05:28.000",
+      "end": "00:05:32.360",
+      "text": "to do it is just to use your first turn"
+    },
+    {
+      "start_ms": 330000,
+      "end_ms": 333600,
+      "start": "00:05:30.000",
+      "end": "00:05:33.600",
+      "text": "to completely overpower the enemy team"
+    },
+    {
+      "start_ms": 332360,
+      "end_ms": 334960,
+      "start": "00:05:32.360",
+      "end": "00:05:34.960",
+      "text": "um and that can work if you have a"
+    },
+    {
+      "start_ms": 333600,
+      "end_ms": 336639,
+      "start": "00:05:33.600",
+      "end": "00:05:36.639",
+      "text": "really good setup and if you have really"
+    },
+    {
+      "start_ms": 334960,
+      "end_ms": 338240,
+      "start": "00:05:34.960",
+      "end": "00:05:38.240",
+      "text": "good ults for it the problem is that"
+    },
+    {
+      "start_ms": 336639,
+      "end_ms": 341039,
+      "start": "00:05:36.639",
+      "end": "00:05:41.039",
+      "text": "completely overpowering is really"
+    },
+    {
+      "start_ms": 338240,
+      "end_ms": 342919,
+      "start": "00:05:38.240",
+      "end": "00:05:42.919",
+      "text": "situational uh because of EMP and queeno"
+    },
+    {
+      "start_ms": 341039,
+      "end_ms": 345000,
+      "start": "00:05:41.039",
+      "end": "00:05:45.000",
+      "text": "those are two ults that really change"
+    },
+    {
+      "start_ms": 342919,
+      "end_ms": 347680,
+      "start": "00:05:42.919",
+      "end": "00:05:47.680",
+      "text": "the dynamic of everything entirely like"
+    },
+    {
+      "start_ms": 345000,
+      "end_ms": 350319,
+      "start": "00:05:45.000",
+      "end": "00:05:50.319",
+      "text": "cage obviously is my best overpowering"
+    },
+    {
+      "start_ms": 347680,
+      "end_ms": 352680,
+      "start": "00:05:47.680",
+      "end": "00:05:52.680",
+      "text": "ult because you can't bait a cage if you"
+    },
+    {
+      "start_ms": 350319,
+      "end_ms": 354919,
+      "start": "00:05:50.319",
+      "end": "00:05:54.919",
+      "text": "can't walk out of it right so um when"
+    },
+    {
+      "start_ms": 352680,
+      "end_ms": 357280,
+      "start": "00:05:52.680",
+      "end": "00:05:57.280",
+      "text": "EMP is on the field obviously really"
+    },
+    {
+      "start_ms": 354919,
+      "end_ms": 359479,
+      "start": "00:05:54.919",
+      "end": "00:05:59.479",
+      "text": "have to lean into that kind of um you"
+    },
+    {
+      "start_ms": 357280,
+      "end_ms": 361319,
+      "start": "00:05:57.280",
+      "end": "00:06:01.319",
+      "text": "know first turn living third turn kind"
+    },
+    {
+      "start_ms": 359479,
+      "end_ms": 362639,
+      "start": "00:05:59.479",
+      "end": "00:06:02.639",
+      "text": "of thing whereas if it's not we can just"
+    },
+    {
+      "start_ms": 361319,
+      "end_ms": 365000,
+      "start": "00:06:01.319",
+      "end": "00:06:05.000",
+      "text": "cage anyone and kill anyone we want we"
+    },
+    {
+      "start_ms": 362639,
+      "end_ms": 366400,
+      "start": "00:06:02.639",
+      "end": "00:06:06.400",
+      "text": "can Reaper uh Juno combo or we can start"
+    },
+    {
+      "start_ms": 365000,
+      "end_ms": 368560,
+      "start": "00:06:05.000",
+      "end": "00:06:08.560",
+      "text": "fights with rally and that kind of thing"
+    },
+    {
+      "start_ms": 366400,
+      "end_ms": 370120,
+      "start": "00:06:06.400",
+      "end": "00:06:10.120",
+      "text": "but we've gotten theoretical enough I"
+    },
+    {
+      "start_ms": 368560,
+      "end_ms": 373199,
+      "start": "00:06:08.560",
+      "end": "00:06:13.199",
+      "text": "want to kind of look at some fights um"
+    },
+    {
+      "start_ms": 370120,
+      "end_ms": 375360,
+      "start": "00:06:10.120",
+      "end": "00:06:15.360",
+      "text": "so the first one here is a mistake for"
+    },
+    {
+      "start_ms": 373199,
+      "end_ms": 377639,
+      "start": "00:06:13.199",
+      "end": "00:06:17.639",
+      "text": "mens and I do want to clarify the first"
+    },
+    {
+      "start_ms": 375360,
+      "end_ms": 380080,
+      "start": "00:06:15.360",
+      "end": "00:06:20.080",
+      "text": "section of this match that I'm going to"
+    },
+    {
+      "start_ms": 377639,
+      "end_ms": 381199,
+      "start": "00:06:17.639",
+      "end": "00:06:21.199",
+      "text": "cover is ends playing badly and what"
+    },
+    {
+      "start_ms": 380080,
+      "end_ms": 384000,
+      "start": "00:06:20.080",
+      "end": "00:06:24.000",
+      "text": "they did wrong and what they should have"
+    },
+    {
+      "start_ms": 381199,
+      "end_ms": 386759,
+      "start": "00:06:21.199",
+      "end": "00:06:26.759",
+      "text": "done better they very very often really"
+    },
+    {
+      "start_ms": 384000,
+      "end_ms": 389000,
+      "start": "00:06:24.000",
+      "end": "00:06:29.000",
+      "text": "overcommitted to their first turn um and"
+    },
+    {
+      "start_ms": 386759,
+      "end_ms": 391080,
+      "start": "00:06:26.759",
+      "end": "00:06:31.080",
+      "text": "without being able to overpower right um"
+    },
+    {
+      "start_ms": 389000,
+      "end_ms": 393319,
+      "start": "00:06:29.000",
+      "end": "00:06:33.319",
+      "text": "so if you look at this turn here Sky"
+    },
+    {
+      "start_ms": 391080,
+      "end_ms": 395680,
+      "start": "00:06:31.080",
+      "end": "00:06:35.680",
+      "text": "builds J first um when they instantly"
+    },
+    {
+      "start_ms": 393319,
+      "end_ms": 397240,
+      "start": "00:06:33.319",
+      "end": "00:06:37.240",
+      "text": "use J but it's really obvious that"
+    },
+    {
+      "start_ms": 395680,
+      "end_ms": 398800,
+      "start": "00:06:35.680",
+      "end": "00:06:38.800",
+      "text": "energy was playing to Bay right like any"
+    },
+    {
+      "start_ms": 397240,
+      "end_ms": 400440,
+      "start": "00:06:37.240",
+      "end": "00:06:40.440",
+      "text": "team would in the scenario and if you"
+    },
+    {
+      "start_ms": 398800,
+      "end_ms": 401800,
+      "start": "00:06:38.800",
+      "end": "00:06:41.800",
+      "text": "look at this setup The Echoes here the"
+    },
+    {
+      "start_ms": 400440,
+      "end_ms": 403880,
+      "start": "00:06:40.440",
+      "end": "00:06:43.880",
+      "text": "queen is touching Point alone but you"
+    },
+    {
+      "start_ms": 401800,
+      "end_ms": 405319,
+      "start": "00:06:41.800",
+      "end": "00:06:45.319",
+      "text": "can kind of see the supports are here"
+    },
+    {
+      "start_ms": 403880,
+      "end_ms": 407039,
+      "start": "00:06:43.880",
+      "end": "00:06:47.039",
+      "text": "they're baiting properly right they"
+    },
+    {
+      "start_ms": 405319,
+      "end_ms": 409919,
+      "start": "00:06:45.319",
+      "end": "00:06:49.919",
+      "text": "watch my video or whatever you need to"
+    },
+    {
+      "start_ms": 407039,
+      "end_ms": 412639,
+      "start": "00:06:47.039",
+      "end": "00:06:52.639",
+      "text": "abuse your neutral walk up use your CDs"
+    },
+    {
+      "start_ms": 409919,
+      "end_ms": 414080,
+      "start": "00:06:49.919",
+      "end": "00:06:54.080",
+      "text": "if you have to um use our malga pin to"
+    },
+    {
+      "start_ms": 412639,
+      "end_ms": 416080,
+      "start": "00:06:52.639",
+      "end": "00:06:56.080",
+      "text": "do something like this right like I want"
+    },
+    {
+      "start_ms": 414080,
+      "end_ms": 419000,
+      "start": "00:06:54.080",
+      "end": "00:06:59.000",
+      "text": "to pin to maybe an area like this where"
+    },
+    {
+      "start_ms": 416080,
+      "end_ms": 420879,
+      "start": "00:06:56.080",
+      "end": "00:07:00.879",
+      "text": "backline backs up and I clear their Bay"
+    },
+    {
+      "start_ms": 419000,
+      "end_ms": 422680,
+      "start": "00:06:59.000",
+      "end": "00:07:02.680",
+      "text": "right when I say clear I mean like"
+    },
+    {
+      "start_ms": 420879,
+      "end_ms": 425280,
+      "start": "00:07:00.879",
+      "end": "00:07:05.280",
+      "text": "acknowledge that this team is baiting"
+    },
+    {
+      "start_ms": 422680,
+      "end_ms": 426919,
+      "start": "00:07:02.680",
+      "end": "00:07:06.919",
+      "text": "and make them honestly bait right"
+    },
+    {
+      "start_ms": 425280,
+      "end_ms": 428879,
+      "start": "00:07:05.280",
+      "end": "00:07:08.879",
+      "text": "they're not baiting from here I'm going"
+    },
+    {
+      "start_ms": 426919,
+      "end_ms": 430440,
+      "start": "00:07:06.919",
+      "end": "00:07:10.440",
+      "text": "to threaten that engage really really"
+    },
+    {
+      "start_ms": 428879,
+      "end_ms": 432440,
+      "start": "00:07:08.879",
+      "end": "00:07:12.440",
+      "text": "like pump fake them you know then"
+    },
+    {
+      "start_ms": 430440,
+      "end_ms": 434759,
+      "start": "00:07:10.440",
+      "end": "00:07:14.759",
+      "text": "they'll back up then I can fiveman shoot"
+    },
+    {
+      "start_ms": 432440,
+      "end_ms": 436400,
+      "start": "00:07:12.440",
+      "end": "00:07:16.400",
+      "text": "the queen and if Bon doesn't walk up for"
+    },
+    {
+      "start_ms": 434759,
+      "end_ms": 438520,
+      "start": "00:07:14.759",
+      "end": "00:07:18.520",
+      "text": "their Queen We will kill their Queen"
+    },
+    {
+      "start_ms": 436400,
+      "end_ms": 440199,
+      "start": "00:07:16.400",
+      "end": "00:07:20.199",
+      "text": "right so they have to walk up or queen"
+    },
+    {
+      "start_ms": 438520,
+      "end_ms": 442199,
+      "start": "00:07:18.520",
+      "end": "00:07:22.199",
+      "text": "just has to leave right if Queen leaves"
+    },
+    {
+      "start_ms": 440199,
+      "end_ms": 443919,
+      "start": "00:07:20.199",
+      "end": "00:07:23.919",
+      "text": "I chase if backline walks up I kill them"
+    },
+    {
+      "start_ms": 442199,
+      "end_ms": 446879,
+      "start": "00:07:22.199",
+      "end": "00:07:26.879",
+      "text": "all here in this area right and that's"
+    },
+    {
+      "start_ms": 443919,
+      "end_ms": 449560,
+      "start": "00:07:23.919",
+      "end": "00:07:29.560",
+      "text": "my kind of third Turn Style where um I'm"
+    },
+    {
+      "start_ms": 446879,
+      "end_ms": 451440,
+      "start": "00:07:26.879",
+      "end": "00:07:31.440",
+      "text": "playing for a midf fight engage based on"
+    },
+    {
+      "start_ms": 449560,
+      "end_ms": 452919,
+      "start": "00:07:29.560",
+      "end": "00:07:32.919",
+      "text": "pump faking this bait right and clearing"
+    },
+    {
+      "start_ms": 451440,
+      "end_ms": 454520,
+      "start": "00:07:31.440",
+      "end": "00:07:34.520",
+      "text": "these people you'll see here they"
+    },
+    {
+      "start_ms": 452919,
+      "end_ms": 457520,
+      "start": "00:07:32.919",
+      "end": "00:07:37.520",
+      "text": "literally just pop the junal on the"
+    },
+    {
+      "start_ms": 454520,
+      "end_ms": 461120,
+      "start": "00:07:34.520",
+      "end": "00:07:41.120",
+      "text": "point for no reason um and NRG just"
+    },
+    {
+      "start_ms": 457520,
+      "end_ms": 463199,
+      "start": "00:07:37.520",
+      "end": "00:07:43.199",
+      "text": "leaves um and they do utilize this uh"
+    },
+    {
+      "start_ms": 461120,
+      "end_ms": 464560,
+      "start": "00:07:41.120",
+      "end": "00:07:44.560",
+      "text": "defensive Mega copy a lot scissors does"
+    },
+    {
+      "start_ms": 463199,
+      "end_ms": 466440,
+      "start": "00:07:43.199",
+      "end": "00:07:46.440",
+      "text": "this throughout and this is actually"
+    },
+    {
+      "start_ms": 464560,
+      "end_ms": 468360,
+      "start": "00:07:44.560",
+      "end": "00:07:48.360",
+      "text": "like a really smart way to play this U"
+    },
+    {
+      "start_ms": 466440,
+      "end_ms": 469879,
+      "start": "00:07:46.440",
+      "end": "00:07:49.879",
+      "text": "because even when you have all your ults"
+    },
+    {
+      "start_ms": 468360,
+      "end_ms": 471800,
+      "start": "00:07:48.360",
+      "end": "00:07:51.800",
+      "text": "uh this is a really nice way to use copy"
+    },
+    {
+      "start_ms": 469879,
+      "end_ms": 473720,
+      "start": "00:07:49.879",
+      "end": "00:07:53.720",
+      "text": "you just get to pop your e because like"
+    },
+    {
+      "start_ms": 471800,
+      "end_ms": 476159,
+      "start": "00:07:51.800",
+      "end": "00:07:56.159",
+      "text": "I said in my other video I think it was"
+    },
+    {
+      "start_ms": 473720,
+      "end_ms": 478159,
+      "start": "00:07:53.720",
+      "end": "00:07:58.159",
+      "text": "the um how Korea solved OverWatch video"
+    },
+    {
+      "start_ms": 476159,
+      "end_ms": 480039,
+      "start": "00:07:56.159",
+      "end": "00:08:00.039",
+      "text": "it's really hard to kite twice um if you"
+    },
+    {
+      "start_ms": 478159,
+      "end_ms": 481800,
+      "start": "00:07:58.159",
+      "end": "00:08:01.800",
+      "text": "kite this and then you try to full kite"
+    },
+    {
+      "start_ms": 480039,
+      "end_ms": 483039,
+      "start": "00:08:00.039",
+      "end": "00:08:03.039",
+      "text": "again um the Juno will chase you and"
+    },
+    {
+      "start_ms": 481800,
+      "end_ms": 484800,
+      "start": "00:08:01.800",
+      "end": "00:08:04.800",
+      "text": "they have enough chase that they will"
+    },
+    {
+      "start_ms": 483039,
+      "end_ms": 486720,
+      "start": "00:08:03.039",
+      "end": "00:08:06.720",
+      "text": "probably reach you eventually so we need"
+    },
+    {
+      "start_ms": 484800,
+      "end_ms": 488440,
+      "start": "00:08:04.800",
+      "end": "00:08:08.440",
+      "text": "to kite Bay and then stand our ground at"
+    },
+    {
+      "start_ms": 486720,
+      "end_ms": 491199,
+      "start": "00:08:06.720",
+      "end": "00:08:11.199",
+      "text": "around this corner so this is really"
+    },
+    {
+      "start_ms": 488440,
+      "end_ms": 494400,
+      "start": "00:08:08.440",
+      "end": "00:08:14.400",
+      "text": "smart from NRG but standard ground here"
+    },
+    {
+      "start_ms": 491199,
+      "end_ms": 497560,
+      "start": "00:08:11.199",
+      "end": "00:08:17.560",
+      "text": "the mag copy they e for the whole team"
+    },
+    {
+      "start_ms": 494400,
+      "end_ms": 498720,
+      "start": "00:08:14.400",
+      "end": "00:08:18.720",
+      "text": "and they use their Jal second and it's"
+    },
+    {
+      "start_ms": 497560,
+      "end_ms": 502159,
+      "start": "00:08:17.560",
+      "end": "00:08:22.159",
+      "text": "just too much right maybe we didn't need"
+    },
+    {
+      "start_ms": 498720,
+      "end_ms": 504120,
+      "start": "00:08:18.720",
+      "end": "00:08:24.120",
+      "text": "that quinol but this fight um is very"
+    },
+    {
+      "start_ms": 502159,
+      "end_ms": 506120,
+      "start": "00:08:22.159",
+      "end": "00:08:26.120",
+      "text": "very similar n wants to go first they"
+    },
+    {
+      "start_ms": 504120,
+      "end_ms": 507800,
+      "start": "00:08:24.120",
+      "end": "00:08:27.800",
+      "text": "have the junal um the only difference"
+    },
+    {
+      "start_ms": 506120,
+      "end_ms": 509080,
+      "start": "00:08:26.120",
+      "end": "00:08:29.080",
+      "text": "here is that Ed is actually doing a"
+    },
+    {
+      "start_ms": 507800,
+      "end_ms": 511120,
+      "start": "00:08:27.800",
+      "end": "00:08:31.120",
+      "text": "little bit better in that they're"
+    },
+    {
+      "start_ms": 509080,
+      "end_ms": 512839,
+      "start": "00:08:29.080",
+      "end": "00:08:32.839",
+      "text": "setting in a spot that's way better for"
+    },
+    {
+      "start_ms": 511120,
+      "end_ms": 514320,
+      "start": "00:08:31.120",
+      "end": "00:08:34.320",
+      "text": "just the overpowering strategy if you"
+    },
+    {
+      "start_ms": 512839,
+      "end_ms": 515919,
+      "start": "00:08:32.839",
+      "end": "00:08:35.919",
+      "text": "want to just overpower and win off of"
+    },
+    {
+      "start_ms": 514320,
+      "end_ms": 517479,
+      "start": "00:08:34.320",
+      "end": "00:08:37.479",
+      "text": "your first turn you have to pick the"
+    },
+    {
+      "start_ms": 515919,
+      "end_ms": 519479,
+      "start": "00:08:35.919",
+      "end": "00:08:39.479",
+      "text": "area of the map that is the hardest to"
+    },
+    {
+      "start_ms": 517479,
+      "end_ms": 521839,
+      "start": "00:08:37.479",
+      "end": "00:08:41.839",
+      "text": "bait in and usually that's like spawn"
+    },
+    {
+      "start_ms": 519479,
+      "end_ms": 523640,
+      "start": "00:08:39.479",
+      "end": "00:08:43.640",
+      "text": "walkup is areas because the problem is"
+    },
+    {
+      "start_ms": 521839,
+      "end_ms": 524839,
+      "start": "00:08:41.839",
+      "end": "00:08:44.839",
+      "text": "if backline baits here they're cutting"
+    },
+    {
+      "start_ms": 523640,
+      "end_ms": 526240,
+      "start": "00:08:43.640",
+      "end": "00:08:46.240",
+      "text": "themselves back into spawn and they're"
+    },
+    {
+      "start_ms": 524839,
+      "end_ms": 528000,
+      "start": "00:08:44.839",
+      "end": "00:08:48.000",
+      "text": "just completely out of the fight"
+    },
+    {
+      "start_ms": 526240,
+      "end_ms": 529360,
+      "start": "00:08:46.240",
+      "end": "00:08:49.360",
+      "text": "entirely right whereas here like on"
+    },
+    {
+      "start_ms": 528000,
+      "end_ms": 530680,
+      "start": "00:08:48.000",
+      "end": "00:08:50.680",
+      "text": "point if you let the backg onun kind of"
+    },
+    {
+      "start_ms": 529360,
+      "end_ms": 531920,
+      "start": "00:08:49.360",
+      "end": "00:08:51.920",
+      "text": "bait here they can bash back and still"
+    },
+    {
+      "start_ms": 530680,
+      "end_ms": 534519,
+      "start": "00:08:50.680",
+      "end": "00:08:54.519",
+      "text": "kind of retain losos of everything"
+    },
+    {
+      "start_ms": 531920,
+      "end_ms": 536959,
+      "start": "00:08:51.920",
+      "end": "00:08:56.959",
+      "text": "that's going on um so this is good spot"
+    },
+    {
+      "start_ms": 534519,
+      "end_ms": 539480,
+      "start": "00:08:54.519",
+      "end": "00:08:59.480",
+      "text": "to engage is a good idea by an the"
+    },
+    {
+      "start_ms": 536959,
+      "end_ms": 541720,
+      "start": "00:08:56.959",
+      "end": "00:09:01.720",
+      "text": "problem is well there's two problems one"
+    },
+    {
+      "start_ms": 539480,
+      "end_ms": 543839,
+      "start": "00:08:59.480",
+      "end": "00:09:03.839",
+      "text": "kellex just walks up and bashes straight"
+    },
+    {
+      "start_ms": 541720,
+      "end_ms": 545440,
+      "start": "00:09:01.720",
+      "end": "00:09:05.440",
+      "text": "into the team in the junal and just dies"
+    },
+    {
+      "start_ms": 543839,
+      "end_ms": 546920,
+      "start": "00:09:03.839",
+      "end": "00:09:06.920",
+      "text": "right which is like not awesome even if"
+    },
+    {
+      "start_ms": 545440,
+      "end_ms": 548560,
+      "start": "00:09:05.440",
+      "end": "00:09:08.560",
+      "text": "you're going first the people that are"
+    },
+    {
+      "start_ms": 546920,
+      "end_ms": 550079,
+      "start": "00:09:06.920",
+      "end": "00:09:10.079",
+      "text": "tradeable still need to bait a little"
+    },
+    {
+      "start_ms": 548560,
+      "end_ms": 552279,
+      "start": "00:09:08.560",
+      "end": "00:09:12.279",
+      "text": "bit in the early fight and not just you"
+    },
+    {
+      "start_ms": 550079,
+      "end_ms": 554800,
+      "start": "00:09:10.079",
+      "end": "00:09:14.800",
+      "text": "know do ridiculous tradable diable"
+    },
+    {
+      "start_ms": 552279,
+      "end_ms": 554800,
+      "start": "00:09:12.279",
+      "end": "00:09:14.800",
+      "text": "things for no"
+    },
+    {
+      "start_ms": 555640,
+      "end_ms": 561000,
+      "start": "00:09:15.640",
+      "end": "00:09:21.000",
+      "text": "reason"
+    },
+    {
+      "start_ms": 557240,
+      "end_ms": 562880,
+      "start": "00:09:17.240",
+      "end": "00:09:22.880",
+      "text": "um and the other problem is that um NRG"
+    },
+    {
+      "start_ms": 561000,
+      "end_ms": 564880,
+      "start": "00:09:21.000",
+      "end": "00:09:24.880",
+      "text": "uh is ready to just double match SS on"
+    },
+    {
+      "start_ms": 562880,
+      "end_ms": 567079,
+      "start": "00:09:22.880",
+      "end": "00:09:27.079",
+      "text": "this corner right so if you are playing"
+    },
+    {
+      "start_ms": 564880,
+      "end_ms": 569040,
+      "start": "00:09:24.880",
+      "end": "00:09:29.040",
+      "text": "debate comp and you're retaking uh you"
+    },
+    {
+      "start_ms": 567079,
+      "end_ms": 570480,
+      "start": "00:09:27.079",
+      "end": "00:09:30.480",
+      "text": "need to be ready in this type of area"
+    },
+    {
+      "start_ms": 569040,
+      "end_ms": 572200,
+      "start": "00:09:29.040",
+      "end": "00:09:32.200",
+      "text": "you need have the discipline to be ready"
+    },
+    {
+      "start_ms": 570480,
+      "end_ms": 573920,
+      "start": "00:09:30.480",
+      "end": "00:09:33.920",
+      "text": "to instantly like combo ults to this"
+    },
+    {
+      "start_ms": 572200,
+      "end_ms": 576120,
+      "start": "00:09:32.200",
+      "end": "00:09:36.120",
+      "text": "type of thing because you can't really"
+    },
+    {
+      "start_ms": 573920,
+      "end_ms": 578399,
+      "start": "00:09:33.920",
+      "end": "00:09:38.399",
+      "text": "one for one your SS anymore um"
+    },
+    {
+      "start_ms": 576120,
+      "end_ms": 580800,
+      "start": "00:09:36.120",
+      "end": "00:09:40.800",
+      "text": "previously they've just used their uh"
+    },
+    {
+      "start_ms": 578399,
+      "end_ms": 583000,
+      "start": "00:09:38.399",
+      "end": "00:09:43.000",
+      "text": "malga copy to live the juns because the"
+    },
+    {
+      "start_ms": 580800,
+      "end_ms": 584360,
+      "start": "00:09:40.800",
+      "end": "00:09:44.360",
+      "text": "juns are really cable this Jun is not"
+    },
+    {
+      "start_ms": 583000,
+      "end_ms": 586839,
+      "start": "00:09:43.000",
+      "end": "00:09:46.839",
+      "text": "cable this is actually the first good"
+    },
+    {
+      "start_ms": 584360,
+      "end_ms": 588200,
+      "start": "00:09:44.360",
+      "end": "00:09:48.200",
+      "text": "Jun of the game uh from the inside so"
+    },
+    {
+      "start_ms": 586839,
+      "end_ms": 590160,
+      "start": "00:09:46.839",
+      "end": "00:09:50.160",
+      "text": "now you need to double your old you need"
+    },
+    {
+      "start_ms": 588200,
+      "end_ms": 591800,
+      "start": "00:09:48.200",
+      "end": "00:09:51.800",
+      "text": "to just pop them be willing to combo be"
+    },
+    {
+      "start_ms": 590160,
+      "end_ms": 593480,
+      "start": "00:09:50.160",
+      "end": "00:09:53.480",
+      "text": "willing to go two for one it's totally"
+    },
+    {
+      "start_ms": 591800,
+      "end_ms": 595320,
+      "start": "00:09:51.800",
+      "end": "00:09:55.320",
+      "text": "fine to go two for one or even three for"
+    },
+    {
+      "start_ms": 593480,
+      "end_ms": 596640,
+      "start": "00:09:53.480",
+      "end": "00:09:56.640",
+      "text": "one in this situation um because you"
+    },
+    {
+      "start_ms": 595320,
+      "end_ms": 598720,
+      "start": "00:09:55.320",
+      "end": "00:09:58.720",
+      "text": "really need this win this is a"
+    },
+    {
+      "start_ms": 596640,
+      "end_ms": 601760,
+      "start": "00:09:56.640",
+      "end": "00:10:01.760",
+      "text": "devastating loss for you if you're NRG"
+    },
+    {
+      "start_ms": 598720,
+      "end_ms": 603200,
+      "start": "00:09:58.720",
+      "end": "00:10:03.200",
+      "text": "retaking because this will snowball into"
+    },
+    {
+      "start_ms": 601760,
+      "end_ms": 604720,
+      "start": "00:10:01.760",
+      "end": "00:10:04.720",
+      "text": "charge building and then they'll start"
+    },
+    {
+      "start_ms": 603200,
+      "end_ms": 606880,
+      "start": "00:10:03.200",
+      "end": "00:10:06.880",
+      "text": "to cycle the rest of the and that's"
+    },
+    {
+      "start_ms": 604720,
+      "end_ms": 609600,
+      "start": "00:10:04.720",
+      "end": "00:10:09.600",
+      "text": "where you lose this match"
+    },
+    {
+      "start_ms": 606880,
+      "end_ms": 610760,
+      "start": "00:10:06.880",
+      "end": "00:10:10.760",
+      "text": "up so be ready to match those instantly"
+    },
+    {
+      "start_ms": 609600,
+      "end_ms": 613040,
+      "start": "00:10:09.600",
+      "end": "00:10:13.040",
+      "text": "um and they also map flip which is"
+    },
+    {
+      "start_ms": 610760,
+      "end_ms": 616399,
+      "start": "00:10:10.760",
+      "end": "00:10:16.399",
+      "text": "really nice in K"
+    },
+    {
+      "start_ms": 613040,
+      "end_ms": 618360,
+      "start": "00:10:13.040",
+      "end": "00:10:18.360",
+      "text": "dies now this fight um this is another"
+    },
+    {
+      "start_ms": 616399,
+      "end_ms": 621800,
+      "start": "00:10:16.399",
+      "end": "00:10:21.800",
+      "text": "like third turny is strategy you're"
+    },
+    {
+      "start_ms": 618360,
+      "end_ms": 621800,
+      "start": "00:10:18.360",
+      "end": "00:10:21.800",
+      "text": "going to see Kev starts his fight with"
+    },
+    {
+      "start_ms": 623440,
+      "end_ms": 626399,
+      "start": "00:10:23.440",
+      "end": "00:10:26.399",
+      "text": "blade and they actually take a decent"
+    },
+    {
+      "start_ms": 625320,
+      "end_ms": 628800,
+      "start": "00:10:25.320",
+      "end": "00:10:28.800",
+      "text": "neutral here and this looks like a"
+    },
+    {
+      "start_ms": 626399,
+      "end_ms": 631480,
+      "start": "00:10:26.399",
+      "end": "00:10:31.480",
+      "text": "decent first turn right the problem is"
+    },
+    {
+      "start_ms": 628800,
+      "end_ms": 633760,
+      "start": "00:10:28.800",
+      "end": "00:10:33.760",
+      "text": "that we pop our e we force the backline"
+    },
+    {
+      "start_ms": 631480,
+      "end_ms": 635959,
+      "start": "00:10:31.480",
+      "end": "00:10:35.959",
+      "text": "to kite and then we back up with our own"
+    },
+    {
+      "start_ms": 633760,
+      "end_ms": 637880,
+      "start": "00:10:33.760",
+      "end": "00:10:37.880",
+      "text": "e as our Genji is blading right this was"
+    },
+    {
+      "start_ms": 635959,
+      "end_ms": 640639,
+      "start": "00:10:35.959",
+      "end": "00:10:40.639",
+      "text": "your first turn was this neutral they"
+    },
+    {
+      "start_ms": 637880,
+      "end_ms": 642600,
+      "start": "00:10:37.880",
+      "end": "00:10:42.600",
+      "text": "backed up now all I have to do is just"
+    },
+    {
+      "start_ms": 640639,
+      "end_ms": 645160,
+      "start": "00:10:40.639",
+      "end": "00:10:45.160",
+      "text": "go in and swing right keep these people"
+    },
+    {
+      "start_ms": 642600,
+      "end_ms": 646519,
+      "start": "00:10:42.600",
+      "end": "00:10:46.519",
+      "text": "zoned give my Genji that e he can reach"
+    },
+    {
+      "start_ms": 645160,
+      "end_ms": 648440,
+      "start": "00:10:45.160",
+      "end": "00:10:48.440",
+      "text": "for these people if he can but if he"
+    },
+    {
+      "start_ms": 646519,
+      "end_ms": 649959,
+      "start": "00:10:46.519",
+      "end": "00:10:49.959",
+      "text": "doesn't we just fan kill the queen right"
+    },
+    {
+      "start_ms": 648440,
+      "end_ms": 652880,
+      "start": "00:10:48.440",
+      "end": "00:10:52.880",
+      "text": "and that's how you win this fight is"
+    },
+    {
+      "start_ms": 649959,
+      "end_ms": 654760,
+      "start": "00:10:49.959",
+      "end": "00:10:54.760",
+      "text": "dual WIC con either as we're walking up"
+    },
+    {
+      "start_ms": 652880,
+      "end_ms": 656519,
+      "start": "00:10:52.880",
+      "end": "00:10:56.519",
+      "text": "and I'm putting myself in between them"
+    },
+    {
+      "start_ms": 654760,
+      "end_ms": 658160,
+      "start": "00:10:54.760",
+      "end": "00:10:58.160",
+      "text": "either backline keeps themselves safe"
+    },
+    {
+      "start_ms": 656519,
+      "end_ms": 660120,
+      "start": "00:10:56.519",
+      "end": "00:11:00.120",
+      "text": "and I kill the people that are in our"
+    },
+    {
+      "start_ms": 658160,
+      "end_ms": 662240,
+      "start": "00:10:58.160",
+      "end": "00:11:02.240",
+      "text": "space or backline tries to bail these"
+    },
+    {
+      "start_ms": 660120,
+      "end_ms": 664160,
+      "start": "00:11:00.120",
+      "end": "00:11:04.160",
+      "text": "people out and I kill them instead um"
+    },
+    {
+      "start_ms": 662240,
+      "end_ms": 666440,
+      "start": "00:11:02.240",
+      "end": "00:11:06.440",
+      "text": "and it should be lose lose right now I"
+    },
+    {
+      "start_ms": 664160,
+      "end_ms": 668120,
+      "start": "00:11:04.160",
+      "end": "00:11:08.120",
+      "text": "do want to also add an addendum addendum"
+    },
+    {
+      "start_ms": 666440,
+      "end_ms": 669160,
+      "start": "00:11:06.440",
+      "end": "00:11:09.160",
+      "text": "is kind of a nerdy ass word right I want"
+    },
+    {
+      "start_ms": 668120,
+      "end_ms": 671360,
+      "start": "00:11:08.120",
+      "end": "00:11:11.360",
+      "text": "to add"
+    },
+    {
+      "start_ms": 669160,
+      "end_ms": 673480,
+      "start": "00:11:09.160",
+      "end": "00:11:13.480",
+      "text": "on that if you're the team approaching"
+    },
+    {
+      "start_ms": 671360,
+      "end_ms": 675440,
+      "start": "00:11:11.360",
+      "end": "00:11:15.440",
+      "text": "this um what you really want to do"
+    },
+    {
+      "start_ms": 673480,
+      "end_ms": 677160,
+      "start": "00:11:13.480",
+      "end": "00:11:17.160",
+      "text": "before rushing your first turn at all is"
+    },
+    {
+      "start_ms": 675440,
+      "end_ms": 678800,
+      "start": "00:11:15.440",
+      "end": "00:11:18.800",
+      "text": "you want to see what the setup looks"
+    },
+    {
+      "start_ms": 677160,
+      "end_ms": 680000,
+      "start": "00:11:17.160",
+      "end": "00:11:20.000",
+      "text": "like if they're baiting right because if"
+    },
+    {
+      "start_ms": 678800,
+      "end_ms": 681639,
+      "start": "00:11:18.800",
+      "end": "00:11:21.639",
+      "text": "they had just taken some time instead of"
+    },
+    {
+      "start_ms": 680000,
+      "end_ms": 683399,
+      "start": "00:11:20.000",
+      "end": "00:11:23.399",
+      "text": "just blind ringing this corner they"
+    },
+    {
+      "start_ms": 681639,
+      "end_ms": 684800,
+      "start": "00:11:21.639",
+      "end": "00:11:24.800",
+      "text": "would have seen that rack is in a really"
+    },
+    {
+      "start_ms": 683399,
+      "end_ms": 686160,
+      "start": "00:11:23.399",
+      "end": "00:11:26.160",
+      "text": "punishable position here right like we"
+    },
+    {
+      "start_ms": 684800,
+      "end_ms": 688160,
+      "start": "00:11:24.800",
+      "end": "00:11:28.160",
+      "text": "just swing and see how the back Line's"
+    },
+    {
+      "start_ms": 686160,
+      "end_ms": 689920,
+      "start": "00:11:26.160",
+      "end": "00:11:29.920",
+      "text": "baiting um and if we can just take the"
+    },
+    {
+      "start_ms": 688160,
+      "end_ms": 691120,
+      "start": "00:11:28.160",
+      "end": "00:11:31.120",
+      "text": "time to just clear these people we can"
+    },
+    {
+      "start_ms": 689920,
+      "end_ms": 692519,
+      "start": "00:11:29.920",
+      "end": "00:11:32.519",
+      "text": "probably just clear them with poke"
+    },
+    {
+      "start_ms": 691120,
+      "end_ms": 693839,
+      "start": "00:11:31.120",
+      "end": "00:11:33.839",
+      "text": "without even committing CDs in the first"
+    },
+    {
+      "start_ms": 692519,
+      "end_ms": 695600,
+      "start": "00:11:32.519",
+      "end": "00:11:35.600",
+      "text": "place they'll have to bash back to here"
+    },
+    {
+      "start_ms": 693839,
+      "end_ms": 697800,
+      "start": "00:11:33.839",
+      "end": "00:11:37.800",
+      "text": "here and then we can use that really"
+    },
+    {
+      "start_ms": 695600,
+      "end_ms": 699440,
+      "start": "00:11:35.600",
+      "end": "00:11:39.440",
+      "text": "overpowering first turn kind of thing um"
+    },
+    {
+      "start_ms": 697800,
+      "end_ms": 702160,
+      "start": "00:11:37.800",
+      "end": "00:11:42.160",
+      "text": "that would be even easier right but it's"
+    },
+    {
+      "start_ms": 699440,
+      "end_ms": 704040,
+      "start": "00:11:39.440",
+      "end": "00:11:44.040",
+      "text": "still definitely possible to make this"
+    },
+    {
+      "start_ms": 702160,
+      "end_ms": 705480,
+      "start": "00:11:42.160",
+      "end": "00:11:45.480",
+      "text": "neutral use the blade to Zone the"
+    },
+    {
+      "start_ms": 704040,
+      "end_ms": 707639,
+      "start": "00:11:44.040",
+      "end": "00:11:47.639",
+      "text": "backline use our third turn to kill the"
+    },
+    {
+      "start_ms": 705480,
+      "end_ms": 710240,
+      "start": "00:11:45.480",
+      "end": "00:11:50.240",
+      "text": "queen kind of thing like um in this"
+    },
+    {
+      "start_ms": 707639,
+      "end_ms": 711959,
+      "start": "00:11:47.639",
+      "end": "00:11:51.959",
+      "text": "fight and they're just really not making"
+    },
+    {
+      "start_ms": 710240,
+      "end_ms": 713639,
+      "start": "00:11:50.240",
+      "end": "00:11:53.639",
+      "text": "it work at all but I want to talk about"
+    },
+    {
+      "start_ms": 711959,
+      "end_ms": 715120,
+      "start": "00:11:51.959",
+      "end": "00:11:55.120",
+      "text": "this fight from how energy played well"
+    },
+    {
+      "start_ms": 713639,
+      "end_ms": 718440,
+      "start": "00:11:53.639",
+      "end": "00:11:58.440",
+      "text": "because there are two sides to this"
+    },
+    {
+      "start_ms": 715120,
+      "end_ms": 722040,
+      "start": "00:11:55.120",
+      "end": "00:12:02.040",
+      "text": "fight yes um the Juno Al was really bad"
+    },
+    {
+      "start_ms": 718440,
+      "end_ms": 724320,
+      "start": "00:11:58.440",
+      "end": "00:12:04.320",
+      "text": "but it was kind of 's fall and kind of"
+    },
+    {
+      "start_ms": 722040,
+      "end_ms": 726079,
+      "start": "00:12:02.040",
+      "end": "00:12:06.079",
+      "text": "NRG really playing a good bait um the"
+    },
+    {
+      "start_ms": 724320,
+      "end_ms": 727760,
+      "start": "00:12:04.320",
+      "end": "00:12:07.760",
+      "text": "thing here is that our backline it"
+    },
+    {
+      "start_ms": 726079,
+      "end_ms": 729279,
+      "start": "00:12:06.079",
+      "end": "00:12:09.279",
+      "text": "doesn't actually have to walk up at all"
+    },
+    {
+      "start_ms": 727760,
+      "end_ms": 730680,
+      "start": "00:12:07.760",
+      "end": "00:12:10.680",
+      "text": "in this early part of the bait because"
+    },
+    {
+      "start_ms": 729279,
+      "end_ms": 732519,
+      "start": "00:12:09.279",
+      "end": "00:12:12.519",
+      "text": "their backline can't really do anything"
+    },
+    {
+      "start_ms": 730680,
+      "end_ms": 735279,
+      "start": "00:12:10.680",
+      "end": "00:12:15.279",
+      "text": "either um and all we have to do is I"
+    },
+    {
+      "start_ms": 732519,
+      "end_ms": 738639,
+      "start": "00:12:12.519",
+      "end": "00:12:18.639",
+      "text": "need to look for ways to poke out the"
+    },
+    {
+      "start_ms": 735279,
+      "end_ms": 740680,
+      "start": "00:12:15.279",
+      "end": "00:12:20.680",
+      "text": "people that are trying to take aggro um"
+    },
+    {
+      "start_ms": 738639,
+      "end_ms": 742360,
+      "start": "00:12:18.639",
+      "end": "00:12:22.360",
+      "text": "whoever is like the most in front you"
+    },
+    {
+      "start_ms": 740680,
+      "end_ms": 744279,
+      "start": "00:12:20.680",
+      "end": "00:12:24.279",
+      "text": "would say right is we're developing"
+    },
+    {
+      "start_ms": 742360,
+      "end_ms": 747760,
+      "start": "00:12:22.360",
+      "end": "00:12:27.760",
+      "text": "multiple angles on these people and this"
+    },
+    {
+      "start_ms": 744279,
+      "end_ms": 749720,
+      "start": "00:12:24.279",
+      "end": "00:12:29.720",
+      "text": "is what makes it hard to um like bait"
+    },
+    {
+      "start_ms": 747760,
+      "end_ms": 751760,
+      "start": "00:12:27.760",
+      "end": "00:12:31.760",
+      "text": "right if these people want to play here"
+    },
+    {
+      "start_ms": 749720,
+      "end_ms": 753880,
+      "start": "00:12:29.720",
+      "end": "00:12:33.880",
+      "text": "until we touch point I have to shoot"
+    },
+    {
+      "start_ms": 751760,
+      "end_ms": 755519,
+      "start": "00:12:31.760",
+      "end": "00:12:35.519",
+      "text": "whoever's doing this and then eventually"
+    },
+    {
+      "start_ms": 753880,
+      "end_ms": 758040,
+      "start": "00:12:33.880",
+      "end": "00:12:38.040",
+      "text": "I will clear them or they'll be really"
+    },
+    {
+      "start_ms": 755519,
+      "end_ms": 760240,
+      "start": "00:12:35.519",
+      "end": "00:12:40.240",
+      "text": "really pressured to go first um I talked"
+    },
+    {
+      "start_ms": 758040,
+      "end_ms": 761560,
+      "start": "00:12:38.040",
+      "end": "00:12:41.560",
+      "text": "a lot in another video about um I think"
+    },
+    {
+      "start_ms": 760240,
+      "end_ms": 764279,
+      "start": "00:12:40.240",
+      "end": "00:12:44.279",
+      "text": "it was the same how Korea solved"
+    },
+    {
+      "start_ms": 761560,
+      "end_ms": 765760,
+      "start": "00:12:41.560",
+      "end": "00:12:45.760",
+      "text": "OverWatch video about we can bit and"
+    },
+    {
+      "start_ms": 764279,
+      "end_ms": 767040,
+      "start": "00:12:44.279",
+      "end": "00:12:47.040",
+      "text": "they can bit all day and everyone can"
+    },
+    {
+      "start_ms": 765760,
+      "end_ms": 768720,
+      "start": "00:12:45.760",
+      "end": "00:12:48.720",
+      "text": "want to go second and wait for that"
+    },
+    {
+      "start_ms": 767040,
+      "end_ms": 770160,
+      "start": "00:12:47.040",
+      "end": "00:12:50.160",
+      "text": "advantage and the whatever cool down"
+    },
+    {
+      "start_ms": 768720,
+      "end_ms": 771920,
+      "start": "00:12:48.720",
+      "end": "00:12:51.920",
+      "text": "thing you're going to get but if we're"
+    },
+    {
+      "start_ms": 770160,
+      "end_ms": 773160,
+      "start": "00:12:50.160",
+      "end": "00:12:53.160",
+      "text": "both baiting nobody's winning right"
+    },
+    {
+      "start_ms": 771920,
+      "end_ms": 775079,
+      "start": "00:12:51.920",
+      "end": "00:12:55.079",
+      "text": "maybe the team that has point is winning"
+    },
+    {
+      "start_ms": 773160,
+      "end_ms": 776920,
+      "start": "00:12:53.160",
+      "end": "00:12:56.920",
+      "text": "right but you definitely not winning if"
+    },
+    {
+      "start_ms": 775079,
+      "end_ms": 778839,
+      "start": "00:12:55.079",
+      "end": "00:12:58.839",
+      "text": "you're NRG if we're both baiting so I"
+    },
+    {
+      "start_ms": 776920,
+      "end_ms": 781279,
+      "start": "00:12:56.920",
+      "end": "00:13:01.279",
+      "text": "need to bait while making them feel"
+    },
+    {
+      "start_ms": 778839,
+      "end_ms": 783160,
+      "start": "00:12:58.839",
+      "end": "00:13:03.160",
+      "text": "pressure to go first and this is half of"
+    },
+    {
+      "start_ms": 781279,
+      "end_ms": 784760,
+      "start": "00:13:01.279",
+      "end": "00:13:04.760",
+      "text": "the battle right I talk a lot about"
+    },
+    {
+      "start_ms": 783160,
+      "end_ms": 786240,
+      "start": "00:13:03.160",
+      "end": "00:13:06.240",
+      "text": "positioning and specifically backline"
+    },
+    {
+      "start_ms": 784760,
+      "end_ms": 787920,
+      "start": "00:13:04.760",
+      "end": "00:13:07.920",
+      "text": "positioning right but this is the other"
+    },
+    {
+      "start_ms": 786240,
+      "end_ms": 789560,
+      "start": "00:13:06.240",
+      "end": "00:13:09.560",
+      "text": "half if you're backline is baiting"
+    },
+    {
+      "start_ms": 787920,
+      "end_ms": 790959,
+      "start": "00:13:07.920",
+      "end": "00:13:10.959",
+      "text": "correctly and your front line is not"
+    },
+    {
+      "start_ms": 789560,
+      "end_ms": 792680,
+      "start": "00:13:09.560",
+      "end": "00:13:12.680",
+      "text": "pressuring them to go first then"
+    },
+    {
+      "start_ms": 790959,
+      "end_ms": 795000,
+      "start": "00:13:10.959",
+      "end": "00:13:15.000",
+      "text": "ultimately you're doing nothing CU your"
+    },
+    {
+      "start_ms": 792680,
+      "end_ms": 796560,
+      "start": "00:13:12.680",
+      "end": "00:13:16.560",
+      "text": "back line is just doing air right like"
+    },
+    {
+      "start_ms": 795000,
+      "end_ms": 798519,
+      "start": "00:13:15.000",
+      "end": "00:13:18.519",
+      "text": "um so this is super important if you"
+    },
+    {
+      "start_ms": 796560,
+      "end_ms": 801000,
+      "start": "00:13:16.560",
+      "end": "00:13:21.000",
+      "text": "watch"
+    },
+    {
+      "start_ms": 798519,
+      "end_ms": 802800,
+      "start": "00:13:18.519",
+      "end": "00:13:22.800",
+      "text": "um NRG is doing a really good job at"
+    },
+    {
+      "start_ms": 801000,
+      "end_ms": 805959,
+      "start": "00:13:21.000",
+      "end": "00:13:25.959",
+      "text": "making ANS feel like they have to go"
+    },
+    {
+      "start_ms": 802800,
+      "end_ms": 807600,
+      "start": "00:13:22.800",
+      "end": "00:13:27.600",
+      "text": "first right he's in everybody's faces"
+    },
+    {
+      "start_ms": 805959,
+      "end_ms": 809680,
+      "start": "00:13:25.959",
+      "end": "00:13:29.680",
+      "text": "I'm sure Kell is walking up right now"
+    },
+    {
+      "start_ms": 807600,
+      "end_ms": 811760,
+      "start": "00:13:27.600",
+      "end": "00:13:31.760",
+      "text": "trie is probably showing too right and"
+    },
+    {
+      "start_ms": 809680,
+      "end_ms": 813079,
+      "start": "00:13:29.680",
+      "end": "00:13:33.079",
+      "text": "and feels like they have to go right now"
+    },
+    {
+      "start_ms": 811760,
+      "end_ms": 814079,
+      "start": "00:13:31.760",
+      "end": "00:13:34.079",
+      "text": "or they'll lose the eeko is going to get"
+    },
+    {
+      "start_ms": 813079,
+      "end_ms": 817839,
+      "start": "00:13:33.079",
+      "end": "00:13:37.839",
+      "text": "something the Queen's going to get"
+    },
+    {
+      "start_ms": 814079,
+      "end_ms": 820560,
+      "start": "00:13:34.079",
+      "end": "00:13:40.560",
+      "text": "something right um so this"
+    },
+    {
+      "start_ms": 817839,
+      "end_ms": 822519,
+      "start": "00:13:37.839",
+      "end": "00:13:42.519",
+      "text": "fight um was a really good fight from"
+    },
+    {
+      "start_ms": 820560,
+      "end_ms": 824079,
+      "start": "00:13:40.560",
+      "end": "00:13:44.079",
+      "text": "Midtown which was the second map of the"
+    },
+    {
+      "start_ms": 822519,
+      "end_ms": 826720,
+      "start": "00:13:42.519",
+      "end": "00:13:46.720",
+      "text": "series I believe sorry third map of the"
+    },
+    {
+      "start_ms": 824079,
+      "end_ms": 828720,
+      "start": "00:13:44.079",
+      "end": "00:13:48.720",
+      "text": "series um and this is a really beautiful"
+    },
+    {
+      "start_ms": 826720,
+      "end_ms": 829800,
+      "start": "00:13:46.720",
+      "end": "00:13:49.800",
+      "text": "setup um they won the first half of a"
+    },
+    {
+      "start_ms": 828720,
+      "end_ms": 832079,
+      "start": "00:13:48.720",
+      "end": "00:13:52.079",
+      "text": "point which is going to happen"
+    },
+    {
+      "start_ms": 829800,
+      "end_ms": 833880,
+      "start": "00:13:49.800",
+      "end": "00:13:53.880",
+      "text": "eventually and what they do is my people"
+    },
+    {
+      "start_ms": 832079,
+      "end_ms": 836680,
+      "start": "00:13:52.079",
+      "end": "00:13:56.680",
+      "text": "that can handle taking lots of Agro are"
+    },
+    {
+      "start_ms": 833880,
+      "end_ms": 839360,
+      "start": "00:13:53.880",
+      "end": "00:13:59.360",
+      "text": "going to go set up in really really hard"
+    },
+    {
+      "start_ms": 836680,
+      "end_ms": 842000,
+      "start": "00:13:56.680",
+      "end": "00:14:02.000",
+      "text": "to clear locations and this is of the"
+    },
+    {
+      "start_ms": 839360,
+      "end_ms": 844560,
+      "start": "00:13:59.360",
+      "end": "00:14:04.560",
+      "text": "most important things about playing the"
+    },
+    {
+      "start_ms": 842000,
+      "end_ms": 844560,
+      "start": "00:14:02.000",
+      "end": "00:14:04.560",
+      "text": "engaging"
+    },
+    {
+      "start_ms": 844800,
+      "end_ms": 849120,
+      "start": "00:14:04.800",
+      "end": "00:14:09.120",
+      "text": "comp um and I do want to be clear I've"
+    },
+    {
+      "start_ms": 847720,
+      "end_ms": 850480,
+      "start": "00:14:07.720",
+      "end": "00:14:10.480",
+      "text": "referred to this comp as the engaging"
+    },
+    {
+      "start_ms": 849120,
+      "end_ms": 852759,
+      "start": "00:14:09.120",
+      "end": "00:14:12.759",
+      "text": "comp so far because they are that in the"
+    },
+    {
+      "start_ms": 850480,
+      "end_ms": 855000,
+      "start": "00:14:10.480",
+      "end": "00:14:15.000",
+      "text": "neutral but in the old fight this comp"
+    },
+    {
+      "start_ms": 852759,
+      "end_ms": 856959,
+      "start": "00:14:12.759",
+      "end": "00:14:16.959",
+      "text": "can also form engages whenever they want"
+    },
+    {
+      "start_ms": 855000,
+      "end_ms": 858519,
+      "start": "00:14:15.000",
+      "end": "00:14:18.519",
+      "text": "to right like um so they're looking for"
+    },
+    {
+      "start_ms": 856959,
+      "end_ms": 860040,
+      "start": "00:14:16.959",
+      "end": "00:14:20.040",
+      "text": "a midf fight engage off of the CMP so"
+    },
+    {
+      "start_ms": 858519,
+      "end_ms": 861880,
+      "start": "00:14:18.519",
+      "end": "00:14:21.880",
+      "text": "they've become the engaging comp now and"
+    },
+    {
+      "start_ms": 860040,
+      "end_ms": 863279,
+      "start": "00:14:20.040",
+      "end": "00:14:23.279",
+      "text": "that's going to happen dynamically a lot"
+    },
+    {
+      "start_ms": 861880,
+      "end_ms": 864920,
+      "start": "00:14:21.880",
+      "end": "00:14:24.920",
+      "text": "in these matchups especially when teams"
+    },
+    {
+      "start_ms": 863279,
+      "end_ms": 867279,
+      "start": "00:14:23.279",
+      "end": "00:14:27.279",
+      "text": "swap to counter you so you kind of have"
+    },
+    {
+      "start_ms": 864920,
+      "end_ms": 868920,
+      "start": "00:14:24.920",
+      "end": "00:14:28.920",
+      "text": "to to keep your head on that but as a"
+    },
+    {
+      "start_ms": 867279,
+      "end_ms": 870600,
+      "start": "00:14:27.279",
+      "end": "00:14:30.600",
+      "text": "team that wants to engage in general"
+    },
+    {
+      "start_ms": 868920,
+      "end_ms": 871720,
+      "start": "00:14:28.920",
+      "end": "00:14:31.720",
+      "text": "right whether our combat is better for"
+    },
+    {
+      "start_ms": 870600,
+      "end_ms": 874079,
+      "start": "00:14:30.600",
+      "end": "00:14:34.079",
+      "text": "it or we just want to do it because of"
+    },
+    {
+      "start_ms": 871720,
+      "end_ms": 875839,
+      "start": "00:14:31.720",
+      "end": "00:14:35.839",
+      "text": "the SS or whatever what I want to do is"
+    },
+    {
+      "start_ms": 874079,
+      "end_ms": 877000,
+      "start": "00:14:34.079",
+      "end": "00:14:37.000",
+      "text": "I want to set up so that one my back"
+    },
+    {
+      "start_ms": 875839,
+      "end_ms": 879839,
+      "start": "00:14:35.839",
+      "end": "00:14:39.839",
+      "text": "lers are baiting and they're really hard"
+    },
+    {
+      "start_ms": 877000,
+      "end_ms": 881240,
+      "start": "00:14:37.000",
+      "end": "00:14:41.240",
+      "text": "to reach right that's obvious but two my"
+    },
+    {
+      "start_ms": 879839,
+      "end_ms": 883279,
+      "start": "00:14:39.839",
+      "end": "00:14:43.279",
+      "text": "people that are actually doing the"
+    },
+    {
+      "start_ms": 881240,
+      "end_ms": 884800,
+      "start": "00:14:41.240",
+      "end": "00:14:44.800",
+      "text": "engaging using my front liners are set"
+    },
+    {
+      "start_ms": 883279,
+      "end_ms": 887160,
+      "start": "00:14:43.279",
+      "end": "00:14:47.160",
+      "text": "up so that if they want to clear my"
+    },
+    {
+      "start_ms": 884800,
+      "end_ms": 889399,
+      "start": "00:14:44.800",
+      "end": "00:14:49.399",
+      "text": "frontliners out they have to walk into"
+    },
+    {
+      "start_ms": 887160,
+      "end_ms": 891279,
+      "start": "00:14:47.160",
+      "end": "00:14:51.279",
+      "text": "the spot that is where I can engage on"
+    },
+    {
+      "start_ms": 889399,
+      "end_ms": 893440,
+      "start": "00:14:49.399",
+      "end": "00:14:53.440",
+      "text": "them right or walk into a punishable"
+    },
+    {
+      "start_ms": 891279,
+      "end_ms": 895279,
+      "start": "00:14:51.279",
+      "end": "00:14:55.279",
+      "text": "spot and they if they don't do that they"
+    },
+    {
+      "start_ms": 893440,
+      "end_ms": 897040,
+      "start": "00:14:53.440",
+      "end": "00:14:57.040",
+      "text": "won't be able to clear me and I'll get"
+    },
+    {
+      "start_ms": 895279,
+      "end_ms": 898759,
+      "start": "00:14:55.279",
+      "end": "00:14:58.759",
+      "text": "to develop my angles even farther and"
+    },
+    {
+      "start_ms": 897040,
+      "end_ms": 901240,
+      "start": "00:14:57.040",
+      "end": "00:15:01.240",
+      "text": "I'll eventually reach and punish people"
+    },
+    {
+      "start_ms": 898759,
+      "end_ms": 903199,
+      "start": "00:14:58.759",
+      "end": "00:15:03.199",
+      "text": "right and so this is the lose lose if"
+    },
+    {
+      "start_ms": 901240,
+      "end_ms": 905880,
+      "start": "00:15:01.240",
+      "end": "00:15:05.880",
+      "text": "you're playing against the engaging comp"
+    },
+    {
+      "start_ms": 903199,
+      "end_ms": 907920,
+      "start": "00:15:03.199",
+      "end": "00:15:07.920",
+      "text": "is that I can't go clear scissors I"
+    },
+    {
+      "start_ms": 905880,
+      "end_ms": 909639,
+      "start": "00:15:05.880",
+      "end": "00:15:09.639",
+      "text": "can't go clear Kellen because if anyone"
+    },
+    {
+      "start_ms": 907920,
+      "end_ms": 910920,
+      "start": "00:15:07.920",
+      "end": "00:15:10.920",
+      "text": "walks into these spaces they'll they"
+    },
+    {
+      "start_ms": 909639,
+      "end_ms": 912399,
+      "start": "00:15:09.639",
+      "end": "00:15:12.399",
+      "text": "will die that's the trigger for the"
+    },
+    {
+      "start_ms": 910920,
+      "end_ms": 914160,
+      "start": "00:15:10.920",
+      "end": "00:15:14.160",
+      "text": "engage and those that person gets"
+    },
+    {
+      "start_ms": 912399,
+      "end_ms": 916480,
+      "start": "00:15:12.399",
+      "end": "00:15:16.480",
+      "text": "punished right"
+    },
+    {
+      "start_ms": 914160,
+      "end_ms": 918480,
+      "start": "00:15:14.160",
+      "end": "00:15:18.480",
+      "text": "so now if I in the only thing I can do"
+    },
+    {
+      "start_ms": 916480,
+      "end_ms": 920240,
+      "start": "00:15:16.480",
+      "end": "00:15:20.240",
+      "text": "here is I can fivan clear the top left"
+    },
+    {
+      "start_ms": 918480,
+      "end_ms": 922000,
+      "start": "00:15:18.480",
+      "end": "00:15:22.000",
+      "text": "stairs as you're coming out right and"
+    },
+    {
+      "start_ms": 920240,
+      "end_ms": 924079,
+      "start": "00:15:20.240",
+      "end": "00:15:24.079",
+      "text": "not having the discipline to do that is"
+    },
+    {
+      "start_ms": 922000,
+      "end_ms": 925519,
+      "start": "00:15:22.000",
+      "end": "00:15:25.519",
+      "text": "what's going to get kit trated here um"
+    },
+    {
+      "start_ms": 924079,
+      "end_ms": 926959,
+      "start": "00:15:24.079",
+      "end": "00:15:26.959",
+      "text": "and scissors doesn't get this copy off"
+    },
+    {
+      "start_ms": 925519,
+      "end_ms": 928639,
+      "start": "00:15:25.519",
+      "end": "00:15:28.639",
+      "text": "actually so they do end up losing this"
+    },
+    {
+      "start_ms": 926959,
+      "end_ms": 930319,
+      "start": "00:15:26.959",
+      "end": "00:15:30.319",
+      "text": "fight but I want to say like everything"
+    },
+    {
+      "start_ms": 928639,
+      "end_ms": 931959,
+      "start": "00:15:28.639",
+      "end": "00:15:31.959",
+      "text": "about this fight was successful and"
+    },
+    {
+      "start_ms": 930319,
+      "end_ms": 934319,
+      "start": "00:15:30.319",
+      "end": "00:15:34.319",
+      "text": "basically perfect except for scissors"
+    },
+    {
+      "start_ms": 931959,
+      "end_ms": 936560,
+      "start": "00:15:31.959",
+      "end": "00:15:36.560",
+      "text": "not pressing copy here when he needed to"
+    },
+    {
+      "start_ms": 934319,
+      "end_ms": 938680,
+      "start": "00:15:34.319",
+      "end": "00:15:38.680",
+      "text": "um and you can see how Kai um it's"
+    },
+    {
+      "start_ms": 936560,
+      "end_ms": 941399,
+      "start": "00:15:36.560",
+      "end": "00:15:41.399",
+      "text": "really really difficult for him to do"
+    },
+    {
+      "start_ms": 938680,
+      "end_ms": 942839,
+      "start": "00:15:38.680",
+      "end": "00:15:42.839",
+      "text": "anything because he can't move up until"
+    },
+    {
+      "start_ms": 941399,
+      "end_ms": 944639,
+      "start": "00:15:41.399",
+      "end": "00:15:44.639",
+      "text": "the echo gets cleared but nobody can"
+    },
+    {
+      "start_ms": 942839,
+      "end_ms": 947759,
+      "start": "00:15:42.839",
+      "end": "00:15:47.759",
+      "text": "clear the echo right so all we need to"
+    },
+    {
+      "start_ms": 944639,
+      "end_ms": 949120,
+      "start": "00:15:44.639",
+      "end": "00:15:49.120",
+      "text": "do is five man stack go top left um as"
+    },
+    {
+      "start_ms": 947759,
+      "end_ms": 950880,
+      "start": "00:15:47.759",
+      "end": "00:15:50.880",
+      "text": "our default and then we clear that"
+    },
+    {
+      "start_ms": 949120,
+      "end_ms": 953199,
+      "start": "00:15:49.120",
+      "end": "00:15:53.199",
+      "text": "outside of the map in and then scissors"
+    },
+    {
+      "start_ms": 950880,
+      "end_ms": 954639,
+      "start": "00:15:50.880",
+      "end": "00:15:54.639",
+      "text": "is we just kind of leave him semi"
+    },
+    {
+      "start_ms": 953199,
+      "end_ms": 956360,
+      "start": "00:15:53.199",
+      "end": "00:15:56.360",
+      "text": "useless right he has to start to reach"
+    },
+    {
+      "start_ms": 954639,
+      "end_ms": 958279,
+      "start": "00:15:54.639",
+      "end": "00:15:58.279",
+      "text": "over here for value and that's the best"
+    },
+    {
+      "start_ms": 956360,
+      "end_ms": 959720,
+      "start": "00:15:56.360",
+      "end": "00:15:59.720",
+      "text": "I can do but energy did a really good"
+    },
+    {
+      "start_ms": 958279,
+      "end_ms": 961920,
+      "start": "00:15:58.279",
+      "end": "00:16:01.920",
+      "text": "job with the setup"
+    },
+    {
+      "start_ms": 959720,
+      "end_ms": 962720,
+      "start": "00:15:59.720",
+      "end": "00:16:02.720",
+      "text": "um even if scissors hadn't gotten this"
+    },
+    {
+      "start_ms": 961920,
+      "end_ms": 964040,
+      "start": "00:16:01.920",
+      "end": "00:16:04.040",
+      "text": "he would have caught one of the"
+    },
+    {
+      "start_ms": 962720,
+      "end_ms": 965480,
+      "start": "00:16:02.720",
+      "end": "00:16:05.480",
+      "text": "backliners as they're trying to walk"
+    },
+    {
+      "start_ms": 964040,
+      "end_ms": 968319,
+      "start": "00:16:04.040",
+      "end": "00:16:08.319",
+      "text": "with their Maga and he will get value"
+    },
+    {
+      "start_ms": 965480,
+      "end_ms": 972519,
+      "start": "00:16:05.480",
+      "end": "00:16:12.519",
+      "text": "here so great job by"
+    },
+    {
+      "start_ms": 968319,
+      "end_ms": 973920,
+      "start": "00:16:08.319",
+      "end": "00:16:13.920",
+      "text": "energy now that's it for the ends map um"
+    },
+    {
+      "start_ms": 972519,
+      "end_ms": 976600,
+      "start": "00:16:12.519",
+      "end": "00:16:16.600",
+      "text": "to be honest it was a really free match"
+    },
+    {
+      "start_ms": 973920,
+      "end_ms": 979800,
+      "start": "00:16:13.920",
+      "end": "00:16:19.800",
+      "text": "for them um and had no idea what to do I"
+    },
+    {
+      "start_ms": 976600,
+      "end_ms": 982120,
+      "start": "00:16:16.600",
+      "end": "00:16:22.120",
+      "text": "want to start talking about Toronto um"
+    },
+    {
+      "start_ms": 979800,
+      "end_ms": 983519,
+      "start": "00:16:19.800",
+      "end": "00:16:23.519",
+      "text": "and this Toronto um the first map was"
+    },
+    {
+      "start_ms": 982120,
+      "end_ms": 984839,
+      "start": "00:16:22.120",
+      "end": "00:16:24.839",
+      "text": "ilios it was a lot of dive miror I don't"
+    },
+    {
+      "start_ms": 983519,
+      "end_ms": 986880,
+      "start": "00:16:23.519",
+      "end": "00:16:26.880",
+      "text": "want to cover that because nothing too"
+    },
+    {
+      "start_ms": 984839,
+      "end_ms": 989199,
+      "start": "00:16:24.839",
+      "end": "00:16:29.199",
+      "text": "crazy happened to be honest um but"
+    },
+    {
+      "start_ms": 986880,
+      "end_ms": 992120,
+      "start": "00:16:26.880",
+      "end": "00:16:32.120",
+      "text": "Toronto came out on the second map on"
+    },
+    {
+      "start_ms": 989199,
+      "end_ms": 995279,
+      "start": "00:16:29.199",
+      "end": "00:16:35.279",
+      "text": "zasa with a counter comp um and their"
+    },
+    {
+      "start_ms": 992120,
+      "end_ms": 997880,
+      "start": "00:16:32.120",
+      "end": "00:16:37.880",
+      "text": "counter comp was zarya uh they started"
+    },
+    {
+      "start_ms": 995279,
+      "end_ms": 1000560,
+      "start": "00:16:35.279",
+      "end": "00:16:40.560",
+      "text": "on ash Genji they later swapped a so gji"
+    },
+    {
+      "start_ms": 997880,
+      "end_ms": 1003600,
+      "start": "00:16:37.880",
+      "end": "00:16:43.600",
+      "text": "um and on this map uh they rolled out I"
+    },
+    {
+      "start_ms": 1000560,
+      "end_ms": 1005000,
+      "start": "00:16:40.560",
+      "end": "00:16:45.000",
+      "text": "believe Echo sojourn something like this"
+    },
+    {
+      "start_ms": 1003600,
+      "end_ms": 1006639,
+      "start": "00:16:43.600",
+      "end": "00:16:46.639",
+      "text": "but the important thing here is that"
+    },
+    {
+      "start_ms": 1005000,
+      "end_ms": 1008199,
+      "start": "00:16:45.000",
+      "end": "00:16:48.199",
+      "text": "this is a hard counter comp to the zor"
+    },
+    {
+      "start_ms": 1006639,
+      "end_ms": 1009959,
+      "start": "00:16:46.639",
+      "end": "00:16:49.959",
+      "text": "comp um and if you think about it in the"
+    },
+    {
+      "start_ms": 1008199,
+      "end_ms": 1011319,
+      "start": "00:16:48.199",
+      "end": "00:16:51.319",
+      "text": "terms like earlier where we're thinking"
+    },
+    {
+      "start_ms": 1009959,
+      "end_ms": 1014199,
+      "start": "00:16:49.959",
+      "end": "00:16:54.199",
+      "text": "about a neutral and then we're thinking"
+    },
+    {
+      "start_ms": 1011319,
+      "end_ms": 1016240,
+      "start": "00:16:51.319",
+      "end": "00:16:56.240",
+      "text": "about a n fight um this comp's neutral"
+    },
+    {
+      "start_ms": 1014199,
+      "end_ms": 1017920,
+      "start": "00:16:54.199",
+      "end": "00:16:57.920",
+      "text": "can play really slow and also can play"
+    },
+    {
+      "start_ms": 1016240,
+      "end_ms": 1019639,
+      "start": "00:16:56.240",
+      "end": "00:16:59.639",
+      "text": "really fast we can bubble the Genji in"
+    },
+    {
+      "start_ms": 1017920,
+      "end_ms": 1022480,
+      "start": "00:16:57.920",
+      "end": "00:17:02.480",
+      "text": "to pressure backline or to pressure the"
+    },
+    {
+      "start_ms": 1019639,
+      "end_ms": 1024079,
+      "start": "00:16:59.639",
+      "end": "00:17:04.079",
+      "text": "hit skin and then if we want to we can"
+    },
+    {
+      "start_ms": 1022480,
+      "end_ms": 1025439,
+      "start": "00:17:02.480",
+      "end": "00:17:05.439",
+      "text": "just play Z for eventual zarya charge"
+    },
+    {
+      "start_ms": 1024079,
+      "end_ms": 1027559,
+      "start": "00:17:04.079",
+      "end": "00:17:07.559",
+      "text": "and our zarya will carry a late fight"
+    },
+    {
+      "start_ms": 1025439,
+      "end_ms": 1029240,
+      "start": "00:17:05.439",
+      "end": "00:17:09.240",
+      "text": "with our Ash poken that kind of thing um"
+    },
+    {
+      "start_ms": 1027559,
+      "end_ms": 1030880,
+      "start": "00:17:07.559",
+      "end": "00:17:10.880",
+      "text": "and so it's really hard for the queen"
+    },
+    {
+      "start_ms": 1029240,
+      "end_ms": 1033199,
+      "start": "00:17:09.240",
+      "end": "00:17:13.199",
+      "text": "team to play like a slow neutral into"
+    },
+    {
+      "start_ms": 1030880,
+      "end_ms": 1034319,
+      "start": "00:17:10.880",
+      "end": "00:17:14.319",
+      "text": "this because if we play Slow the zarya"
+    },
+    {
+      "start_ms": 1033199,
+      "end_ms": 1035520,
+      "start": "00:17:13.199",
+      "end": "00:17:15.520",
+      "text": "is going to build charge and eventually"
+    },
+    {
+      "start_ms": 1034319,
+      "end_ms": 1037559,
+      "start": "00:17:14.319",
+      "end": "00:17:17.559",
+      "text": "the bubble gingi is going to get"
+    },
+    {
+      "start_ms": 1035520,
+      "end_ms": 1039000,
+      "start": "00:17:15.520",
+      "end": "00:17:19.000",
+      "text": "something um and so I just don't want to"
+    },
+    {
+      "start_ms": 1037559,
+      "end_ms": 1040760,
+      "start": "00:17:17.559",
+      "end": "00:17:20.760",
+      "text": "do that right like the chance that my"
+    },
+    {
+      "start_ms": 1039000,
+      "end_ms": 1042240,
+      "start": "00:17:19.000",
+      "end": "00:17:22.240",
+      "text": "queen is going to get value in in a long"
+    },
+    {
+      "start_ms": 1040760,
+      "end_ms": 1043919,
+      "start": "00:17:20.760",
+      "end": "00:17:23.919",
+      "text": "late fight is just lower than the"
+    },
+    {
+      "start_ms": 1042240,
+      "end_ms": 1046480,
+      "start": "00:17:22.240",
+      "end": "00:17:26.480",
+      "text": "chances are is going to do that so I"
+    },
+    {
+      "start_ms": 1043919,
+      "end_ms": 1048640,
+      "start": "00:17:23.919",
+      "end": "00:17:28.640",
+      "text": "kind of want to play Fast neutrals um"
+    },
+    {
+      "start_ms": 1046480,
+      "end_ms": 1050679,
+      "start": "00:17:26.480",
+      "end": "00:17:30.679",
+      "text": "the problem is that DPS line they rolled"
+    },
+    {
+      "start_ms": 1048640,
+      "end_ms": 1052120,
+      "start": "00:17:28.640",
+      "end": "00:17:32.120",
+      "text": "out is not good for fast neutrals the"
+    },
+    {
+      "start_ms": 1050679,
+      "end_ms": 1054720,
+      "start": "00:17:30.679",
+      "end": "00:17:34.720",
+      "text": "answer they found is actually the"
+    },
+    {
+      "start_ms": 1052120,
+      "end_ms": 1055760,
+      "start": "00:17:32.120",
+      "end": "00:17:35.760",
+      "text": "perfect answer uh Venture tra Genji I"
+    },
+    {
+      "start_ms": 1054720,
+      "end_ms": 1057360,
+      "start": "00:17:34.720",
+      "end": "00:17:37.360",
+      "text": "don't know if they had this prep before"
+    },
+    {
+      "start_ms": 1055760,
+      "end_ms": 1059320,
+      "start": "00:17:35.760",
+      "end": "00:17:39.320",
+      "text": "time or if this was a mid map swap"
+    },
+    {
+      "start_ms": 1057360,
+      "end_ms": 1061039,
+      "start": "00:17:37.360",
+      "end": "00:17:41.039",
+      "text": "whoever called this this is exactly the"
+    },
+    {
+      "start_ms": 1059320,
+      "end_ms": 1063760,
+      "start": "00:17:39.320",
+      "end": "00:17:43.760",
+      "text": "correct answer right we need a faster"
+    },
+    {
+      "start_ms": 1061039,
+      "end_ms": 1066440,
+      "start": "00:17:41.039",
+      "end": "00:17:46.440",
+      "text": "neutral to beat this comp um in the old"
+    },
+    {
+      "start_ms": 1063760,
+      "end_ms": 1068080,
+      "start": "00:17:43.760",
+      "end": "00:17:48.080",
+      "text": "fights um this comp is really really"
+    },
+    {
+      "start_ms": 1066440,
+      "end_ms": 1069799,
+      "start": "00:17:46.440",
+      "end": "00:17:49.799",
+      "text": "strong obviously grab is incredibly"
+    },
+    {
+      "start_ms": 1068080,
+      "end_ms": 1072200,
+      "start": "00:17:48.080",
+      "end": "00:17:52.200",
+      "text": "strong these ults are the same as these"
+    },
+    {
+      "start_ms": 1069799,
+      "end_ms": 1074360,
+      "start": "00:17:49.799",
+      "end": "00:17:54.360",
+      "text": "ults right um and these ults are pretty"
+    },
+    {
+      "start_ms": 1072200,
+      "end_ms": 1076360,
+      "start": "00:17:52.200",
+      "end": "00:17:56.360",
+      "text": "similar to these ults to be honest um so"
+    },
+    {
+      "start_ms": 1074360,
+      "end_ms": 1078039,
+      "start": "00:17:54.360",
+      "end": "00:17:58.039",
+      "text": "it just comes down to whether the queen"
+    },
+    {
+      "start_ms": 1076360,
+      "end_ms": 1080240,
+      "start": "00:17:56.360",
+      "end": "00:18:00.240",
+      "text": "alss or whether the gravs get more value"
+    },
+    {
+      "start_ms": 1078039,
+      "end_ms": 1082640,
+      "start": "00:17:58.039",
+      "end": "00:18:02.640",
+      "text": "in this type of fight um with the extra"
+    },
+    {
+      "start_ms": 1080240,
+      "end_ms": 1085159,
+      "start": "00:18:00.240",
+      "end": "00:18:05.159",
+      "text": "maybe you know outplay ability that you"
+    },
+    {
+      "start_ms": 1082640,
+      "end_ms": 1086559,
+      "start": "00:18:02.640",
+      "end": "00:18:06.559",
+      "text": "can bubble people caught in Queen um and"
+    },
+    {
+      "start_ms": 1085159,
+      "end_ms": 1089440,
+      "start": "00:18:05.159",
+      "end": "00:18:09.440",
+      "text": "so it becomes a little bit harder to get"
+    },
+    {
+      "start_ms": 1086559,
+      "end_ms": 1091360,
+      "start": "00:18:06.559",
+      "end": "00:18:11.360",
+      "text": "Queen off but it should be like a skill"
+    },
+    {
+      "start_ms": 1089440,
+      "end_ms": 1092720,
+      "start": "00:18:09.440",
+      "end": "00:18:12.720",
+      "text": "matchup in the SS um and it's a skill"
+    },
+    {
+      "start_ms": 1091360,
+      "end_ms": 1094159,
+      "start": "00:18:11.360",
+      "end": "00:18:14.159",
+      "text": "match up once you make this move in the"
+    },
+    {
+      "start_ms": 1092720,
+      "end_ms": 1095799,
+      "start": "00:18:12.720",
+      "end": "00:18:15.799",
+      "text": "neutral they lost the first point"
+    },
+    {
+      "start_ms": 1094159,
+      "end_ms": 1097159,
+      "start": "00:18:14.159",
+      "end": "00:18:17.159",
+      "text": "because they were hard counter comped"
+    },
+    {
+      "start_ms": 1095799,
+      "end_ms": 1099760,
+      "start": "00:18:15.799",
+      "end": "00:18:19.760",
+      "text": "they make this"
+    },
+    {
+      "start_ms": 1097159,
+      "end_ms": 1101039,
+      "start": "00:18:17.159",
+      "end": "00:18:21.039",
+      "text": "Swap and then now we are playing engage"
+    },
+    {
+      "start_ms": 1099760,
+      "end_ms": 1103039,
+      "start": "00:18:19.760",
+      "end": "00:18:23.039",
+      "text": "comp in the neutral and they're playing"
+    },
+    {
+      "start_ms": 1101039,
+      "end_ms": 1104799,
+      "start": "00:18:21.039",
+      "end": "00:18:24.799",
+      "text": "bait comp in the neutral um with a"
+    },
+    {
+      "start_ms": 1103039,
+      "end_ms": 1107240,
+      "start": "00:18:23.039",
+      "end": "00:18:27.240",
+      "text": "little bit of a difference that this is"
+    },
+    {
+      "start_ms": 1104799,
+      "end_ms": 1109280,
+      "start": "00:18:24.799",
+      "end": "00:18:29.280",
+      "text": "more of a hard like front line and"
+    },
+    {
+      "start_ms": 1107240,
+      "end_ms": 1112000,
+      "start": "00:18:27.240",
+      "end": "00:18:32.000",
+      "text": "backline comp whereas the magga is like"
+    },
+    {
+      "start_ms": 1109280,
+      "end_ms": 1113720,
+      "start": "00:18:29.280",
+      "end": "00:18:33.720",
+      "text": "more stacked um so what we're trying to"
+    },
+    {
+      "start_ms": 1112000,
+      "end_ms": 1117280,
+      "start": "00:18:32.000",
+      "end": "00:18:37.280",
+      "text": "do here if we're NRG is we're playing"
+    },
+    {
+      "start_ms": 1113720,
+      "end_ms": 1119320,
+      "start": "00:18:33.720",
+      "end": "00:18:39.320",
+      "text": "for dual wicon again um I want to engage"
+    },
+    {
+      "start_ms": 1117280,
+      "end_ms": 1121480,
+      "start": "00:18:37.280",
+      "end": "00:18:41.480",
+      "text": "on backliners that's the the core of"
+    },
+    {
+      "start_ms": 1119320,
+      "end_ms": 1123559,
+      "start": "00:18:39.320",
+      "end": "00:18:43.559",
+      "text": "this comp right if my Genji my queen and"
+    },
+    {
+      "start_ms": 1121480,
+      "end_ms": 1125600,
+      "start": "00:18:41.480",
+      "end": "00:18:45.600",
+      "text": "my Venture can reach these backliners we"
+    },
+    {
+      "start_ms": 1123559,
+      "end_ms": 1127720,
+      "start": "00:18:43.559",
+      "end": "00:18:47.720",
+      "text": "will kill them and we have lots of reach"
+    },
+    {
+      "start_ms": 1125600,
+      "end_ms": 1130960,
+      "start": "00:18:45.600",
+      "end": "00:18:50.960",
+      "text": "we're very fast um it should be pretty"
+    },
+    {
+      "start_ms": 1127720,
+      "end_ms": 1132200,
+      "start": "00:18:47.720",
+      "end": "00:18:52.200",
+      "text": "easy for us um the problem is good"
+    },
+    {
+      "start_ms": 1130960,
+      "end_ms": 1133640,
+      "start": "00:18:50.960",
+      "end": "00:18:53.640",
+      "text": "backliners are going to bait and they're"
+    },
+    {
+      "start_ms": 1132200,
+      "end_ms": 1135320,
+      "start": "00:18:52.200",
+      "end": "00:18:55.320",
+      "text": "going to be hard to reach and good"
+    },
+    {
+      "start_ms": 1133640,
+      "end_ms": 1136880,
+      "start": "00:18:53.640",
+      "end": "00:18:56.880",
+      "text": "frontliners will be slowing down your"
+    },
+    {
+      "start_ms": 1135320,
+      "end_ms": 1138480,
+      "start": "00:18:55.320",
+      "end": "00:18:58.480",
+      "text": "engage trying to trade your own"
+    },
+    {
+      "start_ms": 1136880,
+      "end_ms": 1140919,
+      "start": "00:18:56.880",
+      "end": "00:19:00.919",
+      "text": "backliners and Zone them off of you so"
+    },
+    {
+      "start_ms": 1138480,
+      "end_ms": 1143039,
+      "start": "00:18:58.480",
+      "end": "00:19:03.039",
+      "text": "they help you Chase um and it becomes"
+    },
+    {
+      "start_ms": 1140919,
+      "end_ms": 1145400,
+      "start": "00:19:00.919",
+      "end": "00:19:05.400",
+      "text": "difficult so we had to add another layer"
+    },
+    {
+      "start_ms": 1143039,
+      "end_ms": 1147240,
+      "start": "00:19:03.039",
+      "end": "00:19:07.240",
+      "text": "to this which is if frontliners are"
+    },
+    {
+      "start_ms": 1145400,
+      "end_ms": 1149280,
+      "start": "00:19:05.400",
+      "end": "00:19:09.280",
+      "text": "getting in our way we need to punish"
+    },
+    {
+      "start_ms": 1147240,
+      "end_ms": 1151440,
+      "start": "00:19:07.240",
+      "end": "00:19:11.440",
+      "text": "these frontliners first for being in our"
+    },
+    {
+      "start_ms": 1149280,
+      "end_ms": 1153280,
+      "start": "00:19:09.280",
+      "end": "00:19:13.280",
+      "text": "way while we are outside of the back on"
+    },
+    {
+      "start_ms": 1151440,
+      "end_ms": 1154840,
+      "start": "00:19:11.440",
+      "end": "00:19:14.840",
+      "text": "losos because they're baiting right so"
+    },
+    {
+      "start_ms": 1153280,
+      "end_ms": 1157039,
+      "start": "00:19:13.280",
+      "end": "00:19:17.039",
+      "text": "what we can do is this kind of fiveman"
+    },
+    {
+      "start_ms": 1154840,
+      "end_ms": 1159039,
+      "start": "00:19:14.840",
+      "end": "00:19:19.039",
+      "text": "Frontline punish style while we do this"
+    },
+    {
+      "start_ms": 1157039,
+      "end_ms": 1160880,
+      "start": "00:19:17.039",
+      "end": "00:19:20.880",
+      "text": "we force these bubbles out here we make"
+    },
+    {
+      "start_ms": 1159039,
+      "end_ms": 1163000,
+      "start": "00:19:19.039",
+      "end": "00:19:23.000",
+      "text": "the Genji feel really pressured to like"
+    },
+    {
+      "start_ms": 1160880,
+      "end_ms": 1165000,
+      "start": "00:19:20.880",
+      "end": "00:19:25.000",
+      "text": "do his engage early while they're out of"
+    },
+    {
+      "start_ms": 1163000,
+      "end_ms": 1166960,
+      "start": "00:19:23.000",
+      "end": "00:19:26.960",
+      "text": "their own back on losos and then one of"
+    },
+    {
+      "start_ms": 1165000,
+      "end_ms": 1168760,
+      "start": "00:19:25.000",
+      "end": "00:19:28.760",
+      "text": "two things will happen either the"
+    },
+    {
+      "start_ms": 1166960,
+      "end_ms": 1170080,
+      "start": "00:19:26.960",
+      "end": "00:19:30.080",
+      "text": "backline will be baiting and then that"
+    },
+    {
+      "start_ms": 1168760,
+      "end_ms": 1172000,
+      "start": "00:19:28.760",
+      "end": "00:19:32.000",
+      "text": "will allow us to punish these front"
+    },
+    {
+      "start_ms": 1170080,
+      "end_ms": 1173559,
+      "start": "00:19:30.080",
+      "end": "00:19:33.559",
+      "text": "liners and Zone them back and then we"
+    },
+    {
+      "start_ms": 1172000,
+      "end_ms": 1175120,
+      "start": "00:19:32.000",
+      "end": "00:19:35.120",
+      "text": "can make our engage happen right because"
+    },
+    {
+      "start_ms": 1173559,
+      "end_ms": 1177000,
+      "start": "00:19:33.559",
+      "end": "00:19:37.000",
+      "text": "as these people drop as they back up to"
+    },
+    {
+      "start_ms": 1175120,
+      "end_ms": 1178679,
+      "start": "00:19:35.120",
+      "end": "00:19:38.679",
+      "text": "their own backline my Venture can start"
+    },
+    {
+      "start_ms": 1177000,
+      "end_ms": 1180480,
+      "start": "00:19:37.000",
+      "end": "00:19:40.480",
+      "text": "to split my queen can and Genji can"
+    },
+    {
+      "start_ms": 1178679,
+      "end_ms": 1182679,
+      "start": "00:19:38.679",
+      "end": "00:19:42.679",
+      "text": "start to split we can form our pinches"
+    },
+    {
+      "start_ms": 1180480,
+      "end_ms": 1184760,
+      "start": "00:19:40.480",
+      "end": "00:19:44.760",
+      "text": "and we can punish these backliners right"
+    },
+    {
+      "start_ms": 1182679,
+      "end_ms": 1187000,
+      "start": "00:19:42.679",
+      "end": "00:19:47.000",
+      "text": "or the backliners will feel pressur to"
+    },
+    {
+      "start_ms": 1184760,
+      "end_ms": 1188679,
+      "start": "00:19:44.760",
+      "end": "00:19:48.679",
+      "text": "walk up in the early Pace early phase of"
+    },
+    {
+      "start_ms": 1187000,
+      "end_ms": 1190240,
+      "start": "00:19:47.000",
+      "end": "00:19:50.240",
+      "text": "the fight to stop their front liners"
+    },
+    {
+      "start_ms": 1188679,
+      "end_ms": 1191919,
+      "start": "00:19:48.679",
+      "end": "00:19:51.919",
+      "text": "from getting punished and then we can"
+    },
+    {
+      "start_ms": 1190240,
+      "end_ms": 1194679,
+      "start": "00:19:50.240",
+      "end": "00:19:54.679",
+      "text": "actually make these reaches right like"
+    },
+    {
+      "start_ms": 1191919,
+      "end_ms": 1196600,
+      "start": "00:19:51.919",
+      "end": "00:19:56.600",
+      "text": "right here and make this work um now the"
+    },
+    {
+      "start_ms": 1194679,
+      "end_ms": 1198080,
+      "start": "00:19:54.679",
+      "end": "00:19:58.080",
+      "text": "third scenario would be the front line"
+    },
+    {
+      "start_ms": 1196600,
+      "end_ms": 1199520,
+      "start": "00:19:56.600",
+      "end": "00:19:59.520",
+      "text": "stays up as the back onine baits and"
+    },
+    {
+      "start_ms": 1198080,
+      "end_ms": 1201159,
+      "start": "00:19:58.080",
+      "end": "00:20:01.159",
+      "text": "then we just kill front liners right you"
+    },
+    {
+      "start_ms": 1199520,
+      "end_ms": 1203000,
+      "start": "00:19:59.520",
+      "end": "00:20:03.000",
+      "text": "need to always be ready to do that that"
+    },
+    {
+      "start_ms": 1201159,
+      "end_ms": 1205720,
+      "start": "00:20:01.159",
+      "end": "00:20:05.720",
+      "text": "is a mistake um we will see someone do"
+    },
+    {
+      "start_ms": 1203000,
+      "end_ms": 1207280,
+      "start": "00:20:03.000",
+      "end": "00:20:07.280",
+      "text": "it one time so don't play too"
+    },
+    {
+      "start_ms": 1205720,
+      "end_ms": 1209000,
+      "start": "00:20:05.720",
+      "end": "00:20:09.000",
+      "text": "theoretically like oh we need to do this"
+    },
+    {
+      "start_ms": 1207280,
+      "end_ms": 1210200,
+      "start": "00:20:07.280",
+      "end": "00:20:10.200",
+      "text": "cuz cap said this whatever like if front"
+    },
+    {
+      "start_ms": 1209000,
+      "end_ms": 1211559,
+      "start": "00:20:09.000",
+      "end": "00:20:11.559",
+      "text": "liners stand in front of you and"
+    },
+    {
+      "start_ms": 1210200,
+      "end_ms": 1213360,
+      "start": "00:20:10.200",
+      "end": "00:20:13.360",
+      "text": "backliners Bay just kill the front"
+    },
+    {
+      "start_ms": 1211559,
+      "end_ms": 1214799,
+      "start": "00:20:11.559",
+      "end": "00:20:14.799",
+      "text": "liners it's be ready to do that at all"
+    },
+    {
+      "start_ms": 1213360,
+      "end_ms": 1217919,
+      "start": "00:20:13.360",
+      "end": "00:20:17.919",
+      "text": "times because it'll happen more often"
+    },
+    {
+      "start_ms": 1214799,
+      "end_ms": 1219720,
+      "start": "00:20:14.799",
+      "end": "00:20:19.720",
+      "text": "than you think but this fight is really"
+    },
+    {
+      "start_ms": 1217919,
+      "end_ms": 1221760,
+      "start": "00:20:17.919",
+      "end": "00:20:21.760",
+      "text": "really high level from NRG if you see"
+    },
+    {
+      "start_ms": 1219720,
+      "end_ms": 1223120,
+      "start": "00:20:19.720",
+      "end": "00:20:23.120",
+      "text": "this there are five men walking up sugar"
+    },
+    {
+      "start_ms": 1221760,
+      "end_ms": 1225240,
+      "start": "00:20:21.760",
+      "end": "00:20:25.240",
+      "text": "Fe feels really pressure to take this"
+    },
+    {
+      "start_ms": 1223120,
+      "end_ms": 1227039,
+      "start": "00:20:23.120",
+      "end": "00:20:27.039",
+      "text": "bubble but if you see they're really"
+    },
+    {
+      "start_ms": 1225240,
+      "end_ms": 1228799,
+      "start": "00:20:25.240",
+      "end": "00:20:28.799",
+      "text": "cleanly playing fiveman stacked in an"
+    },
+    {
+      "start_ms": 1227039,
+      "end_ms": 1230640,
+      "start": "00:20:27.039",
+      "end": "00:20:30.640",
+      "text": "area where the enemy backline they get"
+    },
+    {
+      "start_ms": 1228799,
+      "end_ms": 1232960,
+      "start": "00:20:28.799",
+      "end": "00:20:32.960",
+      "text": "off they're baiting cannot contribute to"
+    },
+    {
+      "start_ms": 1230640,
+      "end_ms": 1234960,
+      "start": "00:20:30.640",
+      "end": "00:20:34.960",
+      "text": "this fight at all which means yes"
+    },
+    {
+      "start_ms": 1232960,
+      "end_ms": 1236799,
+      "start": "00:20:32.960",
+      "end": "00:20:36.799",
+      "text": "someone is giving a bubble to sugarfree"
+    },
+    {
+      "start_ms": 1234960,
+      "end_ms": 1239280,
+      "start": "00:20:34.960",
+      "end": "00:20:39.280",
+      "text": "sugar is trying to get value but this is"
+    },
+    {
+      "start_ms": 1236799,
+      "end_ms": 1241480,
+      "start": "00:20:36.799",
+      "end": "00:20:41.480",
+      "text": "just a 3v5 at best so it's not going to"
+    },
+    {
+      "start_ms": 1239280,
+      "end_ms": 1243039,
+      "start": "00:20:39.280",
+      "end": "00:20:43.039",
+      "text": "do anything so phase one is good they go"
+    },
+    {
+      "start_ms": 1241480,
+      "end_ms": 1244240,
+      "start": "00:20:41.480",
+      "end": "00:20:44.240",
+      "text": "ring for ring top someone in trigger"
+    },
+    {
+      "start_ms": 1243039,
+      "end_ms": 1246080,
+      "start": "00:20:43.039",
+      "end": "00:20:46.080",
+      "text": "free have to drop after they don't get"
+    },
+    {
+      "start_ms": 1244240,
+      "end_ms": 1248240,
+      "start": "00:20:44.240",
+      "end": "00:20:48.240",
+      "text": "anything right and now is where the good"
+    },
+    {
+      "start_ms": 1246080,
+      "end_ms": 1249440,
+      "start": "00:20:46.080",
+      "end": "00:20:49.440",
+      "text": "part of the engage happens backline and"
+    },
+    {
+      "start_ms": 1248240,
+      "end_ms": 1251440,
+      "start": "00:20:48.240",
+      "end": "00:20:51.440",
+      "text": "queen are going to drop the point with"
+    },
+    {
+      "start_ms": 1249440,
+      "end_ms": 1252880,
+      "start": "00:20:49.440",
+      "end": "00:20:52.880",
+      "text": "our Genji the backline energy backline"
+    },
+    {
+      "start_ms": 1251440,
+      "end_ms": 1254200,
+      "start": "00:20:51.440",
+      "end": "00:20:54.200",
+      "text": "is going to get a really strong powerful"
+    },
+    {
+      "start_ms": 1252880,
+      "end_ms": 1255880,
+      "start": "00:20:52.880",
+      "end": "00:20:55.880",
+      "text": "position on point where they become"
+    },
+    {
+      "start_ms": 1254200,
+      "end_ms": 1258240,
+      "start": "00:20:54.200",
+      "end": "00:20:58.240",
+      "text": "really hard to trade and can contribute"
+    },
+    {
+      "start_ms": 1255880,
+      "end_ms": 1259240,
+      "start": "00:20:55.880",
+      "end": "00:20:59.240",
+      "text": "to chasing as far as the NRG frontliners"
+    },
+    {
+      "start_ms": 1258240,
+      "end_ms": 1260840,
+      "start": "00:20:58.240",
+      "end": "00:21:00.840",
+      "text": "want"
+    },
+    {
+      "start_ms": 1259240,
+      "end_ms": 1262559,
+      "start": "00:20:59.240",
+      "end": "00:21:02.559",
+      "text": "um Tree on Venture is going to form this"
+    },
+    {
+      "start_ms": 1260840,
+      "end_ms": 1263840,
+      "start": "00:21:00.840",
+      "end": "00:21:03.840",
+      "text": "pinch angle Queen and Genji are going to"
+    },
+    {
+      "start_ms": 1262559,
+      "end_ms": 1265600,
+      "start": "00:21:02.559",
+      "end": "00:21:05.600",
+      "text": "pinch from Main and they're going to"
+    },
+    {
+      "start_ms": 1263840,
+      "end_ms": 1267080,
+      "start": "00:21:03.840",
+      "end": "00:21:07.080",
+      "text": "catch these backliners as the zarya is"
+    },
+    {
+      "start_ms": 1265600,
+      "end_ms": 1269360,
+      "start": "00:21:05.600",
+      "end": "00:21:09.360",
+      "text": "kind of forced to back up to his own"
+    },
+    {
+      "start_ms": 1267080,
+      "end_ms": 1271480,
+      "start": "00:21:07.080",
+      "end": "00:21:11.480",
+      "text": "backline here right he develops this"
+    },
+    {
+      "start_ms": 1269360,
+      "end_ms": 1273720,
+      "start": "00:21:09.360",
+      "end": "00:21:13.720",
+      "text": "really nice"
+    },
+    {
+      "start_ms": 1271480,
+      "end_ms": 1275520,
+      "start": "00:21:11.480",
+      "end": "00:21:15.520",
+      "text": "angle and this is just beautiful follow"
+    },
+    {
+      "start_ms": 1273720,
+      "end_ms": 1277279,
+      "start": "00:21:13.720",
+      "end": "00:21:17.279",
+      "text": "up here this is all really really great"
+    },
+    {
+      "start_ms": 1275520,
+      "end_ms": 1278400,
+      "start": "00:21:15.520",
+      "end": "00:21:18.400",
+      "text": "from NRG like that was Picture Perfect"
+    },
+    {
+      "start_ms": 1277279,
+      "end_ms": 1281440,
+      "start": "00:21:17.279",
+      "end": "00:21:21.440",
+      "text": "everything about that fight from start"
+    },
+    {
+      "start_ms": 1278400,
+      "end_ms": 1284880,
+      "start": "00:21:18.400",
+      "end": "00:21:24.880",
+      "text": "to finish was good and that makes the"
+    },
+    {
+      "start_ms": 1281440,
+      "end_ms": 1286919,
+      "start": "00:21:21.440",
+      "end": "00:21:26.919",
+      "text": "loss a little bit more painful um let's"
+    },
+    {
+      "start_ms": 1284880,
+      "end_ms": 1289240,
+      "start": "00:21:24.880",
+      "end": "00:21:29.240",
+      "text": "watch this fight really quick here what"
+    },
+    {
+      "start_ms": 1286919,
+      "end_ms": 1290520,
+      "start": "00:21:26.919",
+      "end": "00:21:30.520",
+      "text": "I said a second ago was that you always"
+    },
+    {
+      "start_ms": 1289240,
+      "end_ms": 1292360,
+      "start": "00:21:29.240",
+      "end": "00:21:32.360",
+      "text": "have to be ready in the early phase of"
+    },
+    {
+      "start_ms": 1290520,
+      "end_ms": 1294000,
+      "start": "00:21:30.520",
+      "end": "00:21:34.000",
+      "text": "the fight we're 3 to wanting those front"
+    },
+    {
+      "start_ms": 1292360,
+      "end_ms": 1295799,
+      "start": "00:21:32.360",
+      "end": "00:21:35.799",
+      "text": "liners to punish them essentially and if"
+    },
+    {
+      "start_ms": 1294000,
+      "end_ms": 1297840,
+      "start": "00:21:34.000",
+      "end": "00:21:37.840",
+      "text": "a front liner makes a mistake be ready"
+    },
+    {
+      "start_ms": 1295799,
+      "end_ms": 1299480,
+      "start": "00:21:35.799",
+      "end": "00:21:39.480",
+      "text": "to just ditch the plan and kill them"
+    },
+    {
+      "start_ms": 1297840,
+      "end_ms": 1301919,
+      "start": "00:21:37.840",
+      "end": "00:21:41.919",
+      "text": "instead of reaching for backline at all"
+    },
+    {
+      "start_ms": 1299480,
+      "end_ms": 1303559,
+      "start": "00:21:39.480",
+      "end": "00:21:43.559",
+      "text": "in this type of fight um and that's what"
+    },
+    {
+      "start_ms": 1301919,
+      "end_ms": 1304880,
+      "start": "00:21:41.919",
+      "end": "00:21:44.880",
+      "text": "happens here is that someone pops a"
+    },
+    {
+      "start_ms": 1303559,
+      "end_ms": 1306679,
+      "start": "00:21:43.559",
+      "end": "00:21:46.679",
+      "text": "bubble in front of their faces and they"
+    },
+    {
+      "start_ms": 1304880,
+      "end_ms": 1308200,
+      "start": "00:21:44.880",
+      "end": "00:21:48.200",
+      "text": "say yo what the [ __ ] just happened and"
+    },
+    {
+      "start_ms": 1306679,
+      "end_ms": 1310720,
+      "start": "00:21:46.679",
+      "end": "00:21:50.720",
+      "text": "they just walk into someone five mana"
+    },
+    {
+      "start_ms": 1308200,
+      "end_ms": 1312080,
+      "start": "00:21:48.200",
+      "end": "00:21:52.080",
+      "text": "and just kill them right so even at the"
+    },
+    {
+      "start_ms": 1310720,
+      "end_ms": 1313919,
+      "start": "00:21:50.720",
+      "end": "00:21:53.919",
+      "text": "highest level this happens and if you're"
+    },
+    {
+      "start_ms": 1312080,
+      "end_ms": 1315480,
+      "start": "00:21:52.080",
+      "end": "00:21:55.480",
+      "text": "not ready to do this you won't win these"
+    },
+    {
+      "start_ms": 1313919,
+      "end_ms": 1319120,
+      "start": "00:21:53.919",
+      "end": "00:21:59.120",
+      "text": "type of fights and that will suck for"
+    },
+    {
+      "start_ms": 1315480,
+      "end_ms": 1320240,
+      "start": "00:21:55.480",
+      "end": "00:22:00.240",
+      "text": "you so be ready to do this"
+    },
+    {
+      "start_ms": 1319120,
+      "end_ms": 1322360,
+      "start": "00:21:59.120",
+      "end": "00:22:02.360",
+      "text": "now this"
+    },
+    {
+      "start_ms": 1320240,
+      "end_ms": 1323080,
+      "start": "00:22:00.240",
+      "end": "00:22:03.080",
+      "text": "fight is where things start to go wrong"
+    },
+    {
+      "start_ms": 1322360,
+      "end_ms": 1325600,
+      "start": "00:22:02.360",
+      "end": "00:22:05.600",
+      "text": "for"
+    },
+    {
+      "start_ms": 1323080,
+      "end_ms": 1327840,
+      "start": "00:22:03.080",
+      "end": "00:22:07.840",
+      "text": "energy"
+    },
+    {
+      "start_ms": 1325600,
+      "end_ms": 1329039,
+      "start": "00:22:05.600",
+      "end": "00:22:09.039",
+      "text": "um oh no sorry this is still a good"
+    },
+    {
+      "start_ms": 1327840,
+      "end_ms": 1330880,
+      "start": "00:22:07.840",
+      "end": "00:22:10.880",
+      "text": "fight from energy um I'm getting the"
+    },
+    {
+      "start_ms": 1329039,
+      "end_ms": 1332640,
+      "start": "00:22:09.039",
+      "end": "00:22:12.640",
+      "text": "fights mixed up this fight is really"
+    },
+    {
+      "start_ms": 1330880,
+      "end_ms": 1335039,
+      "start": "00:22:10.880",
+      "end": "00:22:15.039",
+      "text": "similar to the first engage they took"
+    },
+    {
+      "start_ms": 1332640,
+      "end_ms": 1336559,
+      "start": "00:22:12.640",
+      "end": "00:22:16.559",
+      "text": "where they're kind of assessing where uh"
+    },
+    {
+      "start_ms": 1335039,
+      "end_ms": 1337919,
+      "start": "00:22:15.039",
+      "end": "00:22:17.919",
+      "text": "Toronto's backline is Toronto has"
+    },
+    {
+      "start_ms": 1336559,
+      "end_ms": 1339600,
+      "start": "00:22:16.559",
+      "end": "00:22:19.600",
+      "text": "changed their backline setup from last"
+    },
+    {
+      "start_ms": 1337919,
+      "end_ms": 1341559,
+      "start": "00:22:17.919",
+      "end": "00:22:21.559",
+      "text": "time last time backline setup was main"
+    },
+    {
+      "start_ms": 1339600,
+      "end_ms": 1344159,
+      "start": "00:22:19.600",
+      "end": "00:22:24.159",
+      "text": "this time they're top right so now NRG"
+    },
+    {
+      "start_ms": 1341559,
+      "end_ms": 1345480,
+      "start": "00:22:21.559",
+      "end": "00:22:25.480",
+      "text": "says the way that we can punish the"
+    },
+    {
+      "start_ms": 1344159,
+      "end_ms": 1346880,
+      "start": "00:22:24.159",
+      "end": "00:22:26.880",
+      "text": "front line and kind of like draw them"
+    },
+    {
+      "start_ms": 1345480,
+      "end_ms": 1348320,
+      "start": "00:22:25.480",
+      "end": "00:22:28.320",
+      "text": "out of their own back on losos is"
+    },
+    {
+      "start_ms": 1346880,
+      "end_ms": 1350039,
+      "start": "00:22:26.880",
+      "end": "00:22:30.039",
+      "text": "through Maine this time if we go top"
+    },
+    {
+      "start_ms": 1348320,
+      "end_ms": 1351000,
+      "start": "00:22:28.320",
+      "end": "00:22:31.000",
+      "text": "right the back will have full LS of"
+    },
+    {
+      "start_ms": 1350039,
+      "end_ms": 1352440,
+      "start": "00:22:30.039",
+      "end": "00:22:32.440",
+      "text": "everything that's happening it'll be"
+    },
+    {
+      "start_ms": 1351000,
+      "end_ms": 1354039,
+      "start": "00:22:31.000",
+      "end": "00:22:34.039",
+      "text": "really hard this way it becomes really"
+    },
+    {
+      "start_ms": 1352440,
+      "end_ms": 1355520,
+      "start": "00:22:32.440",
+      "end": "00:22:35.520",
+      "text": "uncomfortable for the brig the brig has"
+    },
+    {
+      "start_ms": 1354039,
+      "end_ms": 1357840,
+      "start": "00:22:34.039",
+      "end": "00:22:37.840",
+      "text": "to drop to kind of get anything he"
+    },
+    {
+      "start_ms": 1355520,
+      "end_ms": 1359600,
+      "start": "00:22:35.520",
+      "end": "00:22:39.600",
+      "text": "doesn't want to do that so they go main"
+    },
+    {
+      "start_ms": 1357840,
+      "end_ms": 1360679,
+      "start": "00:22:37.840",
+      "end": "00:22:40.679",
+      "text": "really good decision they take this long"
+    },
+    {
+      "start_ms": 1359600,
+      "end_ms": 1362039,
+      "start": "00:22:39.600",
+      "end": "00:22:42.039",
+      "text": "prolonged fight where they're not"
+    },
+    {
+      "start_ms": 1360679,
+      "end_ms": 1363799,
+      "start": "00:22:40.679",
+      "end": "00:22:43.799",
+      "text": "rushing anything even though they're the"
+    },
+    {
+      "start_ms": 1362039,
+      "end_ms": 1366840,
+      "start": "00:22:42.039",
+      "end": "00:22:46.840",
+      "text": "engage comp right and I want to stress"
+    },
+    {
+      "start_ms": 1363799,
+      "end_ms": 1368760,
+      "start": "00:22:43.799",
+      "end": "00:22:48.760",
+      "text": "this too because you are the fast comp"
+    },
+    {
+      "start_ms": 1366840,
+      "end_ms": 1371480,
+      "start": "00:22:46.840",
+      "end": "00:22:51.480",
+      "text": "you don't need to go as soon as you see"
+    },
+    {
+      "start_ms": 1368760,
+      "end_ms": 1374400,
+      "start": "00:22:48.760",
+      "end": "00:22:54.400",
+      "text": "them right fast is acceleration it's 0"
+    },
+    {
+      "start_ms": 1371480,
+      "end_ms": 1376400,
+      "start": "00:22:51.480",
+      "end": "00:22:56.400",
+      "text": "to 100 when our trigger happens fast is"
+    },
+    {
+      "start_ms": 1374400,
+      "end_ms": 1379200,
+      "start": "00:22:54.400",
+      "end": "00:22:59.200",
+      "text": "not as speed we're not going 100 all the"
+    },
+    {
+      "start_ms": 1376400,
+      "end_ms": 1381600,
+      "start": "00:22:56.400",
+      "end": "00:23:01.600",
+      "text": "time we're zero and then we're 100 um"
+    },
+    {
+      "start_ms": 1379200,
+      "end_ms": 1383640,
+      "start": "00:22:59.200",
+      "end": "00:23:03.640",
+      "text": "when when we want to be you know and so"
+    },
+    {
+      "start_ms": 1381600,
+      "end_ms": 1384720,
+      "start": "00:23:01.600",
+      "end": "00:23:04.720",
+      "text": "sugar Fe is really pressured to to do"
+    },
+    {
+      "start_ms": 1383640,
+      "end_ms": 1386679,
+      "start": "00:23:03.640",
+      "end": "00:23:06.679",
+      "text": "something right because he's been doing"
+    },
+    {
+      "start_ms": 1384720,
+      "end_ms": 1388320,
+      "start": "00:23:04.720",
+      "end": "00:23:08.320",
+      "text": "nothing for a long time they live this"
+    },
+    {
+      "start_ms": 1386679,
+      "end_ms": 1390320,
+      "start": "00:23:06.679",
+      "end": "00:23:10.320",
+      "text": "bubble engage really cleanly now we're"
+    },
+    {
+      "start_ms": 1388320,
+      "end_ms": 1392400,
+      "start": "00:23:08.320",
+      "end": "00:23:12.400",
+      "text": "walking forward right someone only has"
+    },
+    {
+      "start_ms": 1390320,
+      "end_ms": 1394080,
+      "start": "00:23:10.320",
+      "end": "00:23:14.080",
+      "text": "one bubble he can't drop sugarfree just"
+    },
+    {
+      "start_ms": 1392400,
+      "end_ms": 1395320,
+      "start": "00:23:12.400",
+      "end": "00:23:15.320",
+      "text": "us his cool Downs he can't do anything"
+    },
+    {
+      "start_ms": 1394080,
+      "end_ms": 1397600,
+      "start": "00:23:14.080",
+      "end": "00:23:17.600",
+      "text": "someone drops"
+    },
+    {
+      "start_ms": 1395320,
+      "end_ms": 1399080,
+      "start": "00:23:15.320",
+      "end": "00:23:19.080",
+      "text": "anyways so now we have two wions we"
+    },
+    {
+      "start_ms": 1397600,
+      "end_ms": 1400919,
+      "start": "00:23:17.600",
+      "end": "00:23:20.919",
+      "text": "could just kill someone if we wanted"
+    },
+    {
+      "start_ms": 1399080,
+      "end_ms": 1402840,
+      "start": "00:23:19.080",
+      "end": "00:23:22.840",
+      "text": "right or I can reach for the backliners"
+    },
+    {
+      "start_ms": 1400919,
+      "end_ms": 1403919,
+      "start": "00:23:20.919",
+      "end": "00:23:23.919",
+      "text": "here he chooses to reach for backliners"
+    },
+    {
+      "start_ms": 1402840,
+      "end_ms": 1405559,
+      "start": "00:23:22.840",
+      "end": "00:23:25.559",
+      "text": "because they're really reachable and he"
+    },
+    {
+      "start_ms": 1403919,
+      "end_ms": 1407039,
+      "start": "00:23:23.919",
+      "end": "00:23:27.039",
+      "text": "kills rall right so everything about"
+    },
+    {
+      "start_ms": 1405559,
+      "end_ms": 1408559,
+      "start": "00:23:25.559",
+      "end": "00:23:28.559",
+      "text": "this fight start to finish is just as"
+    },
+    {
+      "start_ms": 1407039,
+      "end_ms": 1410320,
+      "start": "00:23:27.039",
+      "end": "00:23:30.320",
+      "text": "clean as the first engage and it's"
+    },
+    {
+      "start_ms": 1408559,
+      "end_ms": 1412640,
+      "start": "00:23:28.559",
+      "end": "00:23:32.640",
+      "text": "really great from NRG to see this like"
+    },
+    {
+      "start_ms": 1410320,
+      "end_ms": 1414279,
+      "start": "00:23:30.320",
+      "end": "00:23:34.279",
+      "text": "this is really high level um if they had"
+    },
+    {
+      "start_ms": 1412640,
+      "end_ms": 1415520,
+      "start": "00:23:32.640",
+      "end": "00:23:35.520",
+      "text": "been able to keep it to this"
+    },
+    {
+      "start_ms": 1414279,
+      "end_ms": 1417600,
+      "start": "00:23:34.279",
+      "end": "00:23:37.600",
+      "text": "understanding they would have been able"
+    },
+    {
+      "start_ms": 1415520,
+      "end_ms": 1420039,
+      "start": "00:23:35.520",
+      "end": "00:23:40.039",
+      "text": "to beat Toronto in this matchup I firmly"
+    },
+    {
+      "start_ms": 1417600,
+      "end_ms": 1422640,
+      "start": "00:23:37.600",
+      "end": "00:23:42.640",
+      "text": "believe that like looking at this um"
+    },
+    {
+      "start_ms": 1420039,
+      "end_ms": 1424640,
+      "start": "00:23:40.039",
+      "end": "00:23:44.640",
+      "text": "Toronto's comp was not the answer what"
+    },
+    {
+      "start_ms": 1422640,
+      "end_ms": 1426799,
+      "start": "00:23:42.640",
+      "end": "00:23:46.799",
+      "text": "happens in the next couple fights was"
+    },
+    {
+      "start_ms": 1424640,
+      "end_ms": 1430640,
+      "start": "00:23:44.640",
+      "end": "00:23:50.640",
+      "text": "Toronto's answer and unfortunately it's"
+    },
+    {
+      "start_ms": 1426799,
+      "end_ms": 1432080,
+      "start": "00:23:46.799",
+      "end": "00:23:52.080",
+      "text": "just the tankles um if you watch this"
+    },
+    {
+      "start_ms": 1430640,
+      "end_ms": 1434480,
+      "start": "00:23:50.640",
+      "end": "00:23:54.480",
+      "text": "the way that you have to play if any of"
+    },
+    {
+      "start_ms": 1432080,
+      "end_ms": 1436320,
+      "start": "00:23:52.080",
+      "end": "00:23:56.320",
+      "text": "you watch my videos as you're retaking"
+    },
+    {
+      "start_ms": 1434480,
+      "end_ms": 1437679,
+      "start": "00:23:54.480",
+      "end": "00:23:57.679",
+      "text": "is there's a corner here this is the"
+    },
+    {
+      "start_ms": 1436320,
+      "end_ms": 1439640,
+      "start": "00:23:56.320",
+      "end": "00:23:59.640",
+      "text": "corner the defending team is going to"
+    },
+    {
+      "start_ms": 1437679,
+      "end_ms": 1441080,
+      "start": "00:23:57.679",
+      "end": "00:24:01.080",
+      "text": "play and you need to be as far off of it"
+    },
+    {
+      "start_ms": 1439640,
+      "end_ms": 1442520,
+      "start": "00:23:59.640",
+      "end": "00:24:02.520",
+      "text": "as possible because what's going to"
+    },
+    {
+      "start_ms": 1441080,
+      "end_ms": 1443840,
+      "start": "00:24:01.080",
+      "end": "00:24:03.840",
+      "text": "happen is if you're playing close to the"
+    },
+    {
+      "start_ms": 1442520,
+      "end_ms": 1445320,
+      "start": "00:24:02.520",
+      "end": "00:24:05.320",
+      "text": "corner like you're about to see these"
+    },
+    {
+      "start_ms": 1443840,
+      "end_ms": 1446799,
+      "start": "00:24:03.840",
+      "end": "00:24:06.799",
+      "text": "people walk up they will just turn the"
+    },
+    {
+      "start_ms": 1445320,
+      "end_ms": 1448320,
+      "start": "00:24:05.320",
+      "end": "00:24:08.320",
+      "text": "corner and kill you with their olds and"
+    },
+    {
+      "start_ms": 1446799,
+      "end_ms": 1450159,
+      "start": "00:24:06.799",
+      "end": "00:24:10.159",
+      "text": "there's no counterplay if you're doing"
+    },
+    {
+      "start_ms": 1448320,
+      "end_ms": 1452000,
+      "start": "00:24:08.320",
+      "end": "00:24:12.000",
+      "text": "this there is counterplay the farther"
+    },
+    {
+      "start_ms": 1450159,
+      "end_ms": 1453799,
+      "start": "00:24:10.159",
+      "end": "00:24:13.799",
+      "text": "off you get off the corner I want you to"
+    },
+    {
+      "start_ms": 1452000,
+      "end_ms": 1455600,
+      "start": "00:24:12.000",
+      "end": "00:24:15.600",
+      "text": "imagine a scenario where they're off the"
+    },
+    {
+      "start_ms": 1453799,
+      "end_ms": 1457240,
+      "start": "00:24:13.799",
+      "end": "00:24:17.240",
+      "text": "corner here maybe one of the DPS is"
+    },
+    {
+      "start_ms": 1455600,
+      "end_ms": 1458480,
+      "start": "00:24:15.600",
+      "end": "00:24:18.480",
+      "text": "splitting this way for you know like if"
+    },
+    {
+      "start_ms": 1457240,
+      "end_ms": 1460159,
+      "start": "00:24:17.240",
+      "end": "00:24:20.159",
+      "text": "you need to touch or if you want to form"
+    },
+    {
+      "start_ms": 1458480,
+      "end_ms": 1461880,
+      "start": "00:24:18.480",
+      "end": "00:24:21.880",
+      "text": "an angle or something right but in this"
+    },
+    {
+      "start_ms": 1460159,
+      "end_ms": 1463799,
+      "start": "00:24:20.159",
+      "end": "00:24:23.799",
+      "text": "fight we can kind of just do this bait"
+    },
+    {
+      "start_ms": 1461880,
+      "end_ms": 1466679,
+      "start": "00:24:21.880",
+      "end": "00:24:26.679",
+      "text": "this grab someone is forced to kind of"
+    },
+    {
+      "start_ms": 1463799,
+      "end_ms": 1468440,
+      "start": "00:24:23.799",
+      "end": "00:24:28.440",
+      "text": "grab this wall or something right um and"
+    },
+    {
+      "start_ms": 1466679,
+      "end_ms": 1470399,
+      "start": "00:24:26.679",
+      "end": "00:24:30.399",
+      "text": "then we able to just pop a rally we're a"
+    },
+    {
+      "start_ms": 1468440,
+      "end_ms": 1472399,
+      "start": "00:24:28.440",
+      "end": "00:24:32.399",
+      "text": "to pop a vental and this Chase is really"
+    },
+    {
+      "start_ms": 1470399,
+      "end_ms": 1474600,
+      "start": "00:24:30.399",
+      "end": "00:24:34.600",
+      "text": "hard for these people um there becomes"
+    },
+    {
+      "start_ms": 1472399,
+      "end_ms": 1476480,
+      "start": "00:24:32.399",
+      "end": "00:24:36.480",
+      "text": "outplay ability if we walk up like"
+    },
+    {
+      "start_ms": 1474600,
+      "end_ms": 1479760,
+      "start": "00:24:34.600",
+      "end": "00:24:39.760",
+      "text": "you're going to see in a second"
+    },
+    {
+      "start_ms": 1476480,
+      "end_ms": 1481520,
+      "start": "00:24:36.480",
+      "end": "00:24:41.520",
+      "text": "here and we get grabbed on this corner"
+    },
+    {
+      "start_ms": 1479760,
+      "end_ms": 1483840,
+      "start": "00:24:39.760",
+      "end": "00:24:43.840",
+      "text": "what's the"
+    },
+    {
+      "start_ms": 1481520,
+      "end_ms": 1487520,
+      "start": "00:24:41.520",
+      "end": "00:24:47.520",
+      "text": "counterplay unfortunately the answer is"
+    },
+    {
+      "start_ms": 1483840,
+      "end_ms": 1489320,
+      "start": "00:24:43.840",
+      "end": "00:24:49.320",
+      "text": "nothing and you're all going to die and"
+    },
+    {
+      "start_ms": 1487520,
+      "end_ms": 1490880,
+      "start": "00:24:47.520",
+      "end": "00:24:50.880",
+      "text": "without counterplay in this fight it"
+    },
+    {
+      "start_ms": 1489320,
+      "end_ms": 1495200,
+      "start": "00:24:49.320",
+      "end": "00:24:55.200",
+      "text": "doesn't matter how well you play the"
+    },
+    {
+      "start_ms": 1490880,
+      "end_ms": 1498640,
+      "start": "00:24:50.880",
+      "end": "00:24:58.640",
+      "text": "engages because it's over right um and"
+    },
+    {
+      "start_ms": 1495200,
+      "end_ms": 1501120,
+      "start": "00:24:55.200",
+      "end": "00:25:01.120",
+      "text": "this is really what H energy was this"
+    },
+    {
+      "start_ms": 1498640,
+      "end_ms": 1503799,
+      "start": "00:24:58.640",
+      "end": "00:25:03.799",
+      "text": "really really struggle to outplay grab"
+    },
+    {
+      "start_ms": 1501120,
+      "end_ms": 1505919,
+      "start": "00:25:01.120",
+      "end": "00:25:05.919",
+      "text": "fights um with like poor Corner"
+    },
+    {
+      "start_ms": 1503799,
+      "end_ms": 1508360,
+      "start": "00:25:03.799",
+      "end": "00:25:08.360",
+      "text": "understanding and they"
+    },
+    {
+      "start_ms": 1505919,
+      "end_ms": 1510080,
+      "start": "00:25:05.919",
+      "end": "00:25:10.080",
+      "text": "also did not get value out of queeno"
+    },
+    {
+      "start_ms": 1508360,
+      "end_ms": 1512440,
+      "start": "00:25:08.360",
+      "end": "00:25:12.440",
+      "text": "right which is the other problem so in"
+    },
+    {
+      "start_ms": 1510080,
+      "end_ms": 1514000,
+      "start": "00:25:10.080",
+      "end": "00:25:14.000",
+      "text": "this fight you're about to watch they"
+    },
+    {
+      "start_ms": 1512440,
+      "end_ms": 1516760,
+      "start": "00:25:12.440",
+      "end": "00:25:16.760",
+      "text": "walk up they're taking their neutral"
+    },
+    {
+      "start_ms": 1514000,
+      "end_ms": 1518440,
+      "start": "00:25:14.000",
+      "end": "00:25:18.440",
+      "text": "here they're pressuring that zarya right"
+    },
+    {
+      "start_ms": 1516760,
+      "end_ms": 1520240,
+      "start": "00:25:16.760",
+      "end": "00:25:20.240",
+      "text": "um and they forced a bubble here on"
+    },
+    {
+      "start_ms": 1518440,
+      "end_ms": 1521640,
+      "start": "00:25:18.440",
+      "end": "00:25:21.640",
+      "text": "Meritt right which is what we were"
+    },
+    {
+      "start_ms": 1520240,
+      "end_ms": 1522840,
+      "start": "00:25:20.240",
+      "end": "00:25:22.840",
+      "text": "looking for right we're taking this"
+    },
+    {
+      "start_ms": 1521640,
+      "end_ms": 1524840,
+      "start": "00:25:21.640",
+      "end": "00:25:24.840",
+      "text": "first part of the neutral to force those"
+    },
+    {
+      "start_ms": 1522840,
+      "end_ms": 1527159,
+      "start": "00:25:22.840",
+      "end": "00:25:27.159",
+      "text": "Frontline CDs so that we can reach the"
+    },
+    {
+      "start_ms": 1524840,
+      "end_ms": 1528200,
+      "start": "00:25:24.840",
+      "end": "00:25:28.200",
+      "text": "backline or we can make the backline"
+    },
+    {
+      "start_ms": 1527159,
+      "end_ms": 1529320,
+      "start": "00:25:27.159",
+      "end": "00:25:29.320",
+      "text": "Zone themselves out of the fight and"
+    },
+    {
+      "start_ms": 1528200,
+      "end_ms": 1530919,
+      "start": "00:25:28.200",
+      "end": "00:25:30.919",
+      "text": "then that we can punish the frine"
+    },
+    {
+      "start_ms": 1529320,
+      "end_ms": 1534159,
+      "start": "00:25:29.320",
+      "end": "00:25:34.159",
+      "text": "afterwards the problem is they force"
+    },
+    {
+      "start_ms": 1530919,
+      "end_ms": 1537399,
+      "start": "00:25:30.919",
+      "end": "00:25:37.399",
+      "text": "this bubble and then Kellen just Queen"
+    },
+    {
+      "start_ms": 1534159,
+      "end_ms": 1540039,
+      "start": "00:25:34.159",
+      "end": "00:25:40.039",
+      "text": "alss the solo bubbled cast uh and hits"
+    },
+    {
+      "start_ms": 1537399,
+      "end_ms": 1542399,
+      "start": "00:25:37.399",
+      "end": "00:25:42.399",
+      "text": "nobody with this quinel and there's so"
+    },
+    {
+      "start_ms": 1540039,
+      "end_ms": 1543960,
+      "start": "00:25:40.039",
+      "end": "00:25:43.960",
+      "text": "many ways to win this fight after this"
+    },
+    {
+      "start_ms": 1542399,
+      "end_ms": 1545440,
+      "start": "00:25:42.399",
+      "end": "00:25:45.440",
+      "text": "happens the neutral was good you can see"
+    },
+    {
+      "start_ms": 1543960,
+      "end_ms": 1548000,
+      "start": "00:25:43.960",
+      "end": "00:25:48.000",
+      "text": "it on Kell's face that he knows he just"
+    },
+    {
+      "start_ms": 1545440,
+      "end_ms": 1550360,
+      "start": "00:25:45.440",
+      "end": "00:25:50.360",
+      "text": "lost the map for his team right we force"
+    },
+    {
+      "start_ms": 1548000,
+      "end_ms": 1552000,
+      "start": "00:25:48.000",
+      "end": "00:25:52.000",
+      "text": "this bubble and then I quen the"
+    },
+    {
+      "start_ms": 1550360,
+      "end_ms": 1553600,
+      "start": "00:25:50.360",
+      "end": "00:25:53.600",
+      "text": "backliners that are right in front of me"
+    },
+    {
+      "start_ms": 1552000,
+      "end_ms": 1556320,
+      "start": "00:25:52.000",
+      "end": "00:25:56.320",
+      "text": "or I"
+    },
+    {
+      "start_ms": 1553600,
+      "end_ms": 1557919,
+      "start": "00:25:53.600",
+      "end": "00:25:57.919",
+      "text": "queeno theara and I force the zarya"
+    },
+    {
+      "start_ms": 1556320,
+      "end_ms": 1560240,
+      "start": "00:25:56.320",
+      "end": "00:26:00.240",
+      "text": "bubble on herself maybe and I can kill"
+    },
+    {
+      "start_ms": 1557919,
+      "end_ms": 1561559,
+      "start": "00:25:57.919",
+      "end": "00:26:01.559",
+      "text": "thear or I just wait for the bubble to"
+    },
+    {
+      "start_ms": 1560240,
+      "end_ms": 1562600,
+      "start": "00:26:00.240",
+      "end": "00:26:02.600",
+      "text": "be down and I kill the there's so many"
+    },
+    {
+      "start_ms": 1561559,
+      "end_ms": 1564120,
+      "start": "00:26:01.559",
+      "end": "00:26:04.120",
+      "text": "things you can do here right but he"
+    },
+    {
+      "start_ms": 1562600,
+      "end_ms": 1567600,
+      "start": "00:26:02.600",
+      "end": "00:26:07.600",
+      "text": "literally just whiffed a queen Zero Man"
+    },
+    {
+      "start_ms": 1564120,
+      "end_ms": 1571279,
+      "start": "00:26:04.120",
+      "end": "00:26:11.279",
+      "text": "Queen all inexcusable um and that's two"
+    },
+    {
+      "start_ms": 1567600,
+      "end_ms": 1574279,
+      "start": "00:26:07.600",
+      "end": "00:26:14.279",
+      "text": "fights where we have really really done"
+    },
+    {
+      "start_ms": 1571279,
+      "end_ms": 1575720,
+      "start": "00:26:11.279",
+      "end": "00:26:15.720",
+      "text": "everything wrong and that hurts me uh"
+    },
+    {
+      "start_ms": 1574279,
+      "end_ms": 1577919,
+      "start": "00:26:14.279",
+      "end": "00:26:17.919",
+      "text": "because there are two fights where they"
+    },
+    {
+      "start_ms": 1575720,
+      "end_ms": 1580399,
+      "start": "00:26:15.720",
+      "end": "00:26:20.399",
+      "text": "did everything right um that level of"
+    },
+    {
+      "start_ms": 1577919,
+      "end_ms": 1582440,
+      "start": "00:26:17.919",
+      "end": "00:26:22.440",
+      "text": "like engagement I don't see from any na"
+    },
+    {
+      "start_ms": 1580399,
+      "end_ms": 1585360,
+      "start": "00:26:20.399",
+      "end": "00:26:25.360",
+      "text": "team not even Toronto right like no team"
+    },
+    {
+      "start_ms": 1582440,
+      "end_ms": 1586960,
+      "start": "00:26:22.440",
+      "end": "00:26:26.960",
+      "text": "does that that well whoever on NRG is"
+    },
+    {
+      "start_ms": 1585360,
+      "end_ms": 1587919,
+      "start": "00:26:25.360",
+      "end": "00:26:27.919",
+      "text": "doing that for this team I don't know if"
+    },
+    {
+      "start_ms": 1586960,
+      "end_ms": 1590279,
+      "start": "00:26:26.960",
+      "end": "00:26:30.279",
+      "text": "it's the coaching I don't know if it's"
+    },
+    {
+      "start_ms": 1587919,
+      "end_ms": 1592640,
+      "start": "00:26:27.919",
+      "end": "00:26:32.640",
+      "text": "one of the players is is leading this"
+    },
+    {
+      "start_ms": 1590279,
+      "end_ms": 1595279,
+      "start": "00:26:30.279",
+      "end": "00:26:35.279",
+      "text": "that player knows what they're doing and"
+    },
+    {
+      "start_ms": 1592640,
+      "end_ms": 1597520,
+      "start": "00:26:32.640",
+      "end": "00:26:37.520",
+      "text": "is being sabotaged by the way this team"
+    },
+    {
+      "start_ms": 1595279,
+      "end_ms": 1599200,
+      "start": "00:26:35.279",
+      "end": "00:26:39.200",
+      "text": "plays corners on retakes in the way that"
+    },
+    {
+      "start_ms": 1597520,
+      "end_ms": 1602480,
+      "start": "00:26:37.520",
+      "end": "00:26:42.480",
+      "text": "Kell is"
+    },
+    {
+      "start_ms": 1599200,
+      "end_ms": 1604480,
+      "start": "00:26:39.200",
+      "end": "00:26:44.480",
+      "text": "quilting now luckily Toronto has decided"
+    },
+    {
+      "start_ms": 1602480,
+      "end_ms": 1605960,
+      "start": "00:26:42.480",
+      "end": "00:26:45.960",
+      "text": "that if Kellen can make fight losing"
+    },
+    {
+      "start_ms": 1604480,
+      "end_ms": 1607760,
+      "start": "00:26:44.480",
+      "end": "00:26:47.760",
+      "text": "mistakes then we can make some fight"
+    },
+    {
+      "start_ms": 1605960,
+      "end_ms": 1611480,
+      "start": "00:26:45.960",
+      "end": "00:26:51.480",
+      "text": "losing mistakes and Vega has decided to"
+    },
+    {
+      "start_ms": 1607760,
+      "end_ms": 1615480,
+      "start": "00:26:47.760",
+      "end": "00:26:55.480",
+      "text": "retake in front of his karia right so"
+    },
+    {
+      "start_ms": 1611480,
+      "end_ms": 1617720,
+      "start": "00:26:51.480",
+      "end": "00:26:57.720",
+      "text": "this is a free kill and Kellen walks"
+    },
+    {
+      "start_ms": 1615480,
+      "end_ms": 1620200,
+      "start": "00:26:55.480",
+      "end": "00:27:00.200",
+      "text": "up right they see this positioning Kell"
+    },
+    {
+      "start_ms": 1617720,
+      "end_ms": 1622039,
+      "start": "00:26:57.720",
+      "end": "00:27:02.039",
+      "text": "gets a nice knife Vega gets bubbled but"
+    },
+    {
+      "start_ms": 1620200,
+      "end_ms": 1624399,
+      "start": "00:27:00.200",
+      "end": "00:27:04.399",
+      "text": "he's still dead right so the problem"
+    },
+    {
+      "start_ms": 1622039,
+      "end_ms": 1626960,
+      "start": "00:27:02.039",
+      "end": "00:27:06.960",
+      "text": "here we've been donated a pick by the"
+    },
+    {
+      "start_ms": 1624399,
+      "end_ms": 1629080,
+      "start": "00:27:04.399",
+      "end": "00:27:09.080",
+      "text": "Vega Foundation um the problem here is"
+    },
+    {
+      "start_ms": 1626960,
+      "end_ms": 1631240,
+      "start": "00:27:06.960",
+      "end": "00:27:11.240",
+      "text": "that there's gra this fight is really"
+    },
+    {
+      "start_ms": 1629080,
+      "end_ms": 1633840,
+      "start": "00:27:09.080",
+      "end": "00:27:13.840",
+      "text": "really turnable for Toronto so what do I"
+    },
+    {
+      "start_ms": 1631240,
+      "end_ms": 1635360,
+      "start": "00:27:11.240",
+      "end": "00:27:15.360",
+      "text": "need to do drop in the comments below"
+    },
+    {
+      "start_ms": 1633840,
+      "end_ms": 1637799,
+      "start": "00:27:13.840",
+      "end": "00:27:17.799",
+      "text": "I'm going to say it right now there's a"
+    },
+    {
+      "start_ms": 1635360,
+      "end_ms": 1640600,
+      "start": "00:27:15.360",
+      "end": "00:27:20.600",
+      "text": "corner it's not on my screen it's like"
+    },
+    {
+      "start_ms": 1637799,
+      "end_ms": 1642360,
+      "start": "00:27:17.799",
+      "end": "00:27:22.360",
+      "text": "uh right here to the bottom left right"
+    },
+    {
+      "start_ms": 1640600,
+      "end_ms": 1643440,
+      "start": "00:27:20.600",
+      "end": "00:27:23.440",
+      "text": "this is really this like little cubby"
+    },
+    {
+      "start_ms": 1642360,
+      "end_ms": 1645600,
+      "start": "00:27:22.360",
+      "end": "00:27:25.600",
+      "text": "thing this is the corner that we're"
+    },
+    {
+      "start_ms": 1643440,
+      "end_ms": 1648600,
+      "start": "00:27:23.440",
+      "end": "00:27:28.600",
+      "text": "playing and if I'm off of it as the"
+    },
+    {
+      "start_ms": 1645600,
+      "end_ms": 1651399,
+      "start": "00:27:25.600",
+      "end": "00:27:31.399",
+      "text": "backline where am I"
+    },
+    {
+      "start_ms": 1648600,
+      "end_ms": 1653520,
+      "start": "00:27:28.600",
+      "end": "00:27:33.520",
+      "text": "well unfortunately the place that I was"
+    },
+    {
+      "start_ms": 1651399,
+      "end_ms": 1655480,
+      "start": "00:27:31.399",
+      "end": "00:27:35.480",
+      "text": "is right here directly on top of the"
+    },
+    {
+      "start_ms": 1653520,
+      "end_ms": 1657200,
+      "start": "00:27:33.520",
+      "end": "00:27:37.200",
+      "text": "corner I get grabbed once again instead"
+    },
+    {
+      "start_ms": 1655480,
+      "end_ms": 1661640,
+      "start": "00:27:35.480",
+      "end": "00:27:41.640",
+      "text": "of being off this corner and I die right"
+    },
+    {
+      "start_ms": 1657200,
+      "end_ms": 1661640,
+      "start": "00:27:37.200",
+      "end": "00:27:41.640",
+      "text": "where do I need to be I need to"
+    },
+    {
+      "start_ms": 1663440,
+      "end_ms": 1667360,
+      "start": "00:27:43.440",
+      "end": "00:27:47.360",
+      "text": "be right here right where they are at"
+    },
+    {
+      "start_ms": 1665880,
+      "end_ms": 1668840,
+      "start": "00:27:45.880",
+      "end": "00:27:48.840",
+      "text": "the start of the fight this is off the"
+    },
+    {
+      "start_ms": 1667360,
+      "end_ms": 1670640,
+      "start": "00:27:47.360",
+      "end": "00:27:50.640",
+      "text": "corner I need to do this I need to"
+    },
+    {
+      "start_ms": 1668840,
+      "end_ms": 1672440,
+      "start": "00:27:48.840",
+      "end": "00:27:52.440",
+      "text": "maintain this I need to not get baited"
+    },
+    {
+      "start_ms": 1670640,
+      "end_ms": 1674039,
+      "start": "00:27:50.640",
+      "end": "00:27:54.039",
+      "text": "into walking up after that pick I need"
+    },
+    {
+      "start_ms": 1672440,
+      "end_ms": 1676799,
+      "start": "00:27:52.440",
+      "end": "00:27:56.799",
+      "text": "to be hard to trade I need to be hard to"
+    },
+    {
+      "start_ms": 1674039,
+      "end_ms": 1678840,
+      "start": "00:27:54.039",
+      "end": "00:27:58.840",
+      "text": "grab imagine this grab right I'm hard to"
+    },
+    {
+      "start_ms": 1676799,
+      "end_ms": 1680360,
+      "start": "00:27:56.799",
+      "end": "00:28:00.360",
+      "text": "reach you're trading past my Queen my"
+    },
+    {
+      "start_ms": 1678840,
+      "end_ms": 1682080,
+      "start": "00:27:58.840",
+      "end": "00:28:02.080",
+      "text": "Queen's trading your backliners this"
+    },
+    {
+      "start_ms": 1680360,
+      "end_ms": 1683279,
+      "start": "00:28:00.360",
+      "end": "00:28:03.279",
+      "text": "fight gets messy but a messy fight is"
+    },
+    {
+      "start_ms": 1682080,
+      "end_ms": 1686200,
+      "start": "00:28:02.080",
+      "end": "00:28:06.200",
+      "text": "the best that we can hope for against"
+    },
+    {
+      "start_ms": 1683279,
+      "end_ms": 1688159,
+      "start": "00:28:03.279",
+      "end": "00:28:08.159",
+      "text": "three ults when we have zero right um"
+    },
+    {
+      "start_ms": 1686200,
+      "end_ms": 1689919,
+      "start": "00:28:06.200",
+      "end": "00:28:09.919",
+      "text": "and that was would have been winable for"
+    },
+    {
+      "start_ms": 1688159,
+      "end_ms": 1692159,
+      "start": "00:28:08.159",
+      "end": "00:28:12.159",
+      "text": "them right um but it's just another grab"
+    },
+    {
+      "start_ms": 1689919,
+      "end_ms": 1693399,
+      "start": "00:28:09.919",
+      "end": "00:28:13.399",
+      "text": "fight they really failed to outplay and"
+    },
+    {
+      "start_ms": 1692159,
+      "end_ms": 1695600,
+      "start": "00:28:12.159",
+      "end": "00:28:15.600",
+      "text": "then we're going to see another queen Al"
+    },
+    {
+      "start_ms": 1693399,
+      "end_ms": 1697240,
+      "start": "00:28:13.399",
+      "end": "00:28:17.240",
+      "text": "that doesn't get any value right um the"
+    },
+    {
+      "start_ms": 1695600,
+      "end_ms": 1699720,
+      "start": "00:28:15.600",
+      "end": "00:28:19.720",
+      "text": "problem here and this is kind of a"
+    },
+    {
+      "start_ms": 1697240,
+      "end_ms": 1702919,
+      "start": "00:28:17.240",
+      "end": "00:28:22.919",
+      "text": "combination of both um in this type of"
+    },
+    {
+      "start_ms": 1699720,
+      "end_ms": 1704200,
+      "start": "00:28:19.720",
+      "end": "00:28:24.200",
+      "text": "fight where we really want a queeno um"
+    },
+    {
+      "start_ms": 1702919,
+      "end_ms": 1705760,
+      "start": "00:28:22.919",
+      "end": "00:28:25.760",
+      "text": "and that's like our main value there's"
+    },
+    {
+      "start_ms": 1704200,
+      "end_ms": 1707559,
+      "start": "00:28:24.200",
+      "end": "00:28:27.559",
+      "text": "two ways to play it either we start with"
+    },
+    {
+      "start_ms": 1705760,
+      "end_ms": 1709679,
+      "start": "00:28:25.760",
+      "end": "00:28:29.679",
+      "text": "our blade early we make them grab the"
+    },
+    {
+      "start_ms": 1707559,
+      "end_ms": 1711960,
+      "start": "00:28:27.559",
+      "end": "00:28:31.960",
+      "text": "blade uh he lives or he doesn't I don't"
+    },
+    {
+      "start_ms": 1709679,
+      "end_ms": 1713159,
+      "start": "00:28:29.679",
+      "end": "00:28:33.159",
+      "text": "even care right um I will queeno after"
+    },
+    {
+      "start_ms": 1711960,
+      "end_ms": 1714559,
+      "start": "00:28:31.960",
+      "end": "00:28:34.559",
+      "text": "that and I will kill everybody and"
+    },
+    {
+      "start_ms": 1713159,
+      "end_ms": 1716519,
+      "start": "00:28:33.159",
+      "end": "00:28:36.519",
+      "text": "that's fine we can trade scissors blade"
+    },
+    {
+      "start_ms": 1714559,
+      "end_ms": 1719120,
+      "start": "00:28:34.559",
+      "end": "00:28:39.120",
+      "text": "and even his life for that if we need to"
+    },
+    {
+      "start_ms": 1716519,
+      "end_ms": 1721200,
+      "start": "00:28:36.519",
+      "end": "00:28:41.200",
+      "text": "um or the maybe safer way to play it is"
+    },
+    {
+      "start_ms": 1719120,
+      "end_ms": 1722640,
+      "start": "00:28:39.120",
+      "end": "00:28:42.640",
+      "text": "we make someone touch point we hard"
+    },
+    {
+      "start_ms": 1721200,
+      "end_ms": 1723880,
+      "start": "00:28:41.200",
+      "end": "00:28:43.880",
+      "text": "fiveman shoot the person who gets"
+    },
+    {
+      "start_ms": 1722640,
+      "end_ms": 1725600,
+      "start": "00:28:42.640",
+      "end": "00:28:45.600",
+      "text": "touches point so they have to get"
+    },
+    {
+      "start_ms": 1723880,
+      "end_ms": 1727559,
+      "start": "00:28:43.880",
+      "end": "00:28:47.559",
+      "text": "bubbled and then after that bubble we"
+    },
+    {
+      "start_ms": 1725600,
+      "end_ms": 1728799,
+      "start": "00:28:45.600",
+      "end": "00:28:48.799",
+      "text": "can walk up um and we can look for our"
+    },
+    {
+      "start_ms": 1727559,
+      "end_ms": 1730039,
+      "start": "00:28:47.559",
+      "end": "00:28:50.039",
+      "text": "Queen all the problem is that you're"
+    },
+    {
+      "start_ms": 1728799,
+      "end_ms": 1731960,
+      "start": "00:28:48.799",
+      "end": "00:28:51.960",
+      "text": "going to have to outplay this grab at"
+    },
+    {
+      "start_ms": 1730039,
+      "end_ms": 1734799,
+      "start": "00:28:50.039",
+      "end": "00:28:54.799",
+      "text": "some point right so the same problem as"
+    },
+    {
+      "start_ms": 1731960,
+      "end_ms": 1736360,
+      "start": "00:28:51.960",
+      "end": "00:28:56.360",
+      "text": "before um is going to come into play um"
+    },
+    {
+      "start_ms": 1734799,
+      "end_ms": 1737760,
+      "start": "00:28:54.799",
+      "end": "00:28:57.760",
+      "text": "and you especially especially can't"
+    },
+    {
+      "start_ms": 1736360,
+      "end_ms": 1739039,
+      "start": "00:28:56.360",
+      "end": "00:28:59.039",
+      "text": "afford your queen to get grabbed your"
+    },
+    {
+      "start_ms": 1737760,
+      "end_ms": 1740600,
+      "start": "00:28:57.760",
+      "end": "00:29:00.600",
+      "text": "Genji needs to take some aggro your"
+    },
+    {
+      "start_ms": 1739039,
+      "end_ms": 1741679,
+      "start": "00:28:59.039",
+      "end": "00:29:01.679",
+      "text": "Tracer needs to take some aggro maybe"
+    },
+    {
+      "start_ms": 1740600,
+      "end_ms": 1743720,
+      "start": "00:29:00.600",
+      "end": "00:29:03.720",
+      "text": "even your backline needs to take a"
+    },
+    {
+      "start_ms": 1741679,
+      "end_ms": 1745919,
+      "start": "00:29:01.679",
+      "end": "00:29:05.919",
+      "text": "little bit of extra aggro right like if"
+    },
+    {
+      "start_ms": 1743720,
+      "end_ms": 1747720,
+      "start": "00:29:03.720",
+      "end": "00:29:07.720",
+      "text": "my backline if rack gets grabbed here as"
+    },
+    {
+      "start_ms": 1745919,
+      "end_ms": 1749720,
+      "start": "00:29:05.919",
+      "end": "00:29:09.720",
+      "text": "long as he's not directly on top of the"
+    },
+    {
+      "start_ms": 1747720,
+      "end_ms": 1751720,
+      "start": "00:29:07.720",
+      "end": "00:29:11.720",
+      "text": "corner um my queen will just get an Al"
+    },
+    {
+      "start_ms": 1749720,
+      "end_ms": 1754720,
+      "start": "00:29:09.720",
+      "end": "00:29:14.720",
+      "text": "and carry right so point"
+    },
+    {
+      "start_ms": 1751720,
+      "end_ms": 1755960,
+      "start": "00:29:11.720",
+      "end": "00:29:15.960",
+      "text": "isto the problem is someone touches"
+    },
+    {
+      "start_ms": 1754720,
+      "end_ms": 1757519,
+      "start": "00:29:14.720",
+      "end": "00:29:17.519",
+      "text": "point and I want you to pay attention to"
+    },
+    {
+      "start_ms": 1755960,
+      "end_ms": 1760159,
+      "start": "00:29:15.960",
+      "end": "00:29:20.159",
+      "text": "his health right here he starts the"
+    },
+    {
+      "start_ms": 1757519,
+      "end_ms": 1761559,
+      "start": "00:29:17.519",
+      "end": "00:29:21.559",
+      "text": "fight at 476 health and let's see how"
+    },
+    {
+      "start_ms": 1760159,
+      "end_ms": 1764760,
+      "start": "00:29:20.159",
+      "end": "00:29:24.760",
+      "text": "much damage he takes from the five"
+    },
+    {
+      "start_ms": 1761559,
+      "end_ms": 1764760,
+      "start": "00:29:21.559",
+      "end": "00:29:24.760",
+      "text": "people that are shooting him to for this"
+    },
+    {
+      "start_ms": 1765320,
+      "end_ms": 1769240,
+      "start": "00:29:25.320",
+      "end": "00:29:29.240",
+      "text": "bubble so unfortunately someone has"
+    },
+    {
+      "start_ms": 1767279,
+      "end_ms": 1771600,
+      "start": "00:29:27.279",
+      "end": "00:29:31.600",
+      "text": "gained Health with magical healing"
+    },
+    {
+      "start_ms": 1769240,
+      "end_ms": 1772960,
+      "start": "00:29:29.240",
+      "end": "00:29:32.960",
+      "text": "bullets from energy shock um and he"
+    },
+    {
+      "start_ms": 1771600,
+      "end_ms": 1774360,
+      "start": "00:29:31.600",
+      "end": "00:29:34.360",
+      "text": "taking no damage so this bubble doesn't"
+    },
+    {
+      "start_ms": 1772960,
+      "end_ms": 1776519,
+      "start": "00:29:32.960",
+      "end": "00:29:36.519",
+      "text": "get forced in the early fight and"
+    },
+    {
+      "start_ms": 1774360,
+      "end_ms": 1780000,
+      "start": "00:29:34.360",
+      "end": "00:29:40.000",
+      "text": "someone just decides to walk in and grab"
+    },
+    {
+      "start_ms": 1776519,
+      "end_ms": 1782200,
+      "start": "00:29:36.519",
+      "end": "00:29:42.200",
+      "text": "the windc con and the game is over right"
+    },
+    {
+      "start_ms": 1780000,
+      "end_ms": 1783559,
+      "start": "00:29:40.000",
+      "end": "00:29:43.559",
+      "text": "um so that's really unfortunate um you"
+    },
+    {
+      "start_ms": 1782200,
+      "end_ms": 1785279,
+      "start": "00:29:42.200",
+      "end": "00:29:45.279",
+      "text": "need to either go early outside with"
+    },
+    {
+      "start_ms": 1783559,
+      "end_ms": 1787080,
+      "start": "00:29:43.559",
+      "end": "00:29:47.080",
+      "text": "your blade and just make him grab the"
+    },
+    {
+      "start_ms": 1785279,
+      "end_ms": 1788799,
+      "start": "00:29:45.279",
+      "end": "00:29:48.799",
+      "text": "blade or you know like I said earlier"
+    },
+    {
+      "start_ms": 1787080,
+      "end_ms": 1790080,
+      "start": "00:29:47.080",
+      "end": "00:29:50.080",
+      "text": "like you can play that slow BTY neutral"
+    },
+    {
+      "start_ms": 1788799,
+      "end_ms": 1791679,
+      "start": "00:29:48.799",
+      "end": "00:29:51.679",
+      "text": "but your queen does not get to take the"
+    },
+    {
+      "start_ms": 1790080,
+      "end_ms": 1793080,
+      "start": "00:29:50.080",
+      "end": "00:29:53.080",
+      "text": "ago in that type of fight he needs to"
+    },
+    {
+      "start_ms": 1791679,
+      "end_ms": 1795600,
+      "start": "00:29:51.679",
+      "end": "00:29:55.600",
+      "text": "play selfishly for"
+    },
+    {
+      "start_ms": 1793080,
+      "end_ms": 1797440,
+      "start": "00:29:53.080",
+      "end": "00:29:57.440",
+      "text": "himself um finally we're going to watch"
+    },
+    {
+      "start_ms": 1795600,
+      "end_ms": 1799760,
+      "start": "00:29:55.600",
+      "end": "00:29:59.760",
+      "text": "one more fight of uh energy playing"
+    },
+    {
+      "start_ms": 1797440,
+      "end_ms": 1801440,
+      "start": "00:29:57.440",
+      "end": "00:30:01.440",
+      "text": "poorly in this matchup and again it's"
+    },
+    {
+      "start_ms": 1799760,
+      "end_ms": 1803360,
+      "start": "00:29:59.760",
+      "end": "00:30:03.360",
+      "text": "failing to be off the corner if you look"
+    },
+    {
+      "start_ms": 1801440,
+      "end_ms": 1804919,
+      "start": "00:30:01.440",
+      "end": "00:30:04.919",
+      "text": "at their setup here um they kind of want"
+    },
+    {
+      "start_ms": 1803360,
+      "end_ms": 1807399,
+      "start": "00:30:03.360",
+      "end": "00:30:07.399",
+      "text": "to do the same thing where they want to"
+    },
+    {
+      "start_ms": 1804919,
+      "end_ms": 1808799,
+      "start": "00:30:04.919",
+      "end": "00:30:08.799",
+      "text": "make uh Toronto touch hopefully force"
+    },
+    {
+      "start_ms": 1807399,
+      "end_ms": 1810200,
+      "start": "00:30:07.399",
+      "end": "00:30:10.200",
+      "text": "that bubble get this midf fight Queen"
+    },
+    {
+      "start_ms": 1808799,
+      "end_ms": 1812240,
+      "start": "00:30:08.799",
+      "end": "00:30:12.240",
+      "text": "all after the bubbles and start to kill"
+    },
+    {
+      "start_ms": 1810200,
+      "end_ms": 1813519,
+      "start": "00:30:10.200",
+      "end": "00:30:13.519",
+      "text": "people right should be easy um the"
+    },
+    {
+      "start_ms": 1812240,
+      "end_ms": 1817039,
+      "start": "00:30:12.240",
+      "end": "00:30:17.039",
+      "text": "problem is if you see the way they're"
+    },
+    {
+      "start_ms": 1813519,
+      "end_ms": 1818919,
+      "start": "00:30:13.519",
+      "end": "00:30:18.919",
+      "text": "set up where are we we're on the corner"
+    },
+    {
+      "start_ms": 1817039,
+      "end_ms": 1820720,
+      "start": "00:30:17.039",
+      "end": "00:30:20.720",
+      "text": "right which means what's going to happen"
+    },
+    {
+      "start_ms": 1818919,
+      "end_ms": 1823039,
+      "start": "00:30:18.919",
+      "end": "00:30:23.039",
+      "text": "is Vega is going to walk in he's going"
+    },
+    {
+      "start_ms": 1820720,
+      "end_ms": 1825039,
+      "start": "00:30:20.720",
+      "end": "00:30:25.039",
+      "text": "to say wait why are five people on this"
+    },
+    {
+      "start_ms": 1823039,
+      "end_ms": 1829760,
+      "start": "00:30:23.039",
+      "end": "00:30:29.760",
+      "text": "[ __ ] corner and he's going to pop"
+    },
+    {
+      "start_ms": 1825039,
+      "end_ms": 1831320,
+      "start": "00:30:25.039",
+      "end": "00:30:31.320",
+      "text": "rally and Bash everybody and"
+    },
+    {
+      "start_ms": 1829760,
+      "end_ms": 1833640,
+      "start": "00:30:29.760",
+      "end": "00:30:33.640",
+      "text": "and now it's going to be hard right Kell"
+    },
+    {
+      "start_ms": 1831320,
+      "end_ms": 1835080,
+      "start": "00:30:31.320",
+      "end": "00:30:35.080",
+      "text": "really feels pressured to do something"
+    },
+    {
+      "start_ms": 1833640,
+      "end_ms": 1839000,
+      "start": "00:30:33.640",
+      "end": "00:30:39.000",
+      "text": "um and he ends up reaching for this kind"
+    },
+    {
+      "start_ms": 1835080,
+      "end_ms": 1841720,
+      "start": "00:30:35.080",
+      "end": "00:30:41.720",
+      "text": "of weird queeno on these people and he"
+    },
+    {
+      "start_ms": 1839000,
+      "end_ms": 1843360,
+      "start": "00:30:39.000",
+      "end": "00:30:43.360",
+      "text": "hits one they're going to kill Rupal but"
+    },
+    {
+      "start_ms": 1841720,
+      "end_ms": 1844919,
+      "start": "00:30:41.720",
+      "end": "00:30:44.919",
+      "text": "now we're kind of in weird tradable"
+    },
+    {
+      "start_ms": 1843360,
+      "end_ms": 1846360,
+      "start": "00:30:43.360",
+      "end": "00:30:46.360",
+      "text": "positions and it's just not going to go"
+    },
+    {
+      "start_ms": 1844919,
+      "end_ms": 1848039,
+      "start": "00:30:44.919",
+      "end": "00:30:48.039",
+      "text": "well right the rally doesn't get much"
+    },
+    {
+      "start_ms": 1846360,
+      "end_ms": 1849640,
+      "start": "00:30:46.360",
+      "end": "00:30:49.640",
+      "text": "value right all you have to do in this"
+    },
+    {
+      "start_ms": 1848039,
+      "end_ms": 1852880,
+      "start": "00:30:48.039",
+      "end": "00:30:52.880",
+      "text": "type of"
+    },
+    {
+      "start_ms": 1849640,
+      "end_ms": 1855960,
+      "start": "00:30:49.640",
+      "end": "00:30:55.960",
+      "text": "fight and I promise um I'll be done"
+    },
+    {
+      "start_ms": 1852880,
+      "end_ms": 1859399,
+      "start": "00:30:52.880",
+      "end": "00:30:59.399",
+      "text": "saying it after this is get off of this"
+    },
+    {
+      "start_ms": 1855960,
+      "end_ms": 1861760,
+      "start": "00:30:55.960",
+      "end": "00:31:01.760",
+      "text": "[ __ ] Corner please put my queen here"
+    },
+    {
+      "start_ms": 1859399,
+      "end_ms": 1863480,
+      "start": "00:30:59.399",
+      "end": "00:31:03.480",
+      "text": "now who's touching zarya's touching"
+    },
+    {
+      "start_ms": 1861760,
+      "end_ms": 1866320,
+      "start": "00:31:01.760",
+      "end": "00:31:06.320",
+      "text": "Genji's touching this person is getting"
+    },
+    {
+      "start_ms": 1863480,
+      "end_ms": 1867559,
+      "start": "00:31:03.480",
+      "end": "00:31:07.559",
+      "text": "shot you can't ever clear the outside"
+    },
+    {
+      "start_ms": 1866320,
+      "end_ms": 1870080,
+      "start": "00:31:06.320",
+      "end": "00:31:10.080",
+      "text": "without getting a bubble forc and a"
+    },
+    {
+      "start_ms": 1867559,
+      "end_ms": 1871480,
+      "start": "00:31:07.559",
+      "end": "00:31:11.480",
+      "text": "fiveman Coen all right uh and you can't"
+    },
+    {
+      "start_ms": 1870080,
+      "end_ms": 1873559,
+      "start": "00:31:10.080",
+      "end": "00:31:13.559",
+      "text": "touch Point without getting a bubble"
+    },
+    {
+      "start_ms": 1871480,
+      "end_ms": 1875559,
+      "start": "00:31:11.480",
+      "end": "00:31:15.559",
+      "text": "forc right so it's lose lose for Toronto"
+    },
+    {
+      "start_ms": 1873559,
+      "end_ms": 1878320,
+      "start": "00:31:13.559",
+      "end": "00:31:18.320",
+      "text": "make them lose lose they'll have to"
+    },
+    {
+      "start_ms": 1875559,
+      "end_ms": 1879960,
+      "start": "00:31:15.559",
+      "end": "00:31:19.960",
+      "text": "start with OC uh to even get Point Flip"
+    },
+    {
+      "start_ms": 1878320,
+      "end_ms": 1881799,
+      "start": "00:31:18.320",
+      "end": "00:31:21.799",
+      "text": "right and that's fine you get an Al for"
+    },
+    {
+      "start_ms": 1879960,
+      "end_ms": 1883639,
+      "start": "00:31:19.960",
+      "end": "00:31:23.639",
+      "text": "a Point Flip we can retouch we can force"
+    },
+    {
+      "start_ms": 1881799,
+      "end_ms": 1884840,
+      "start": "00:31:21.799",
+      "end": "00:31:24.840",
+      "text": "the bubbles that way right whatever but"
+    },
+    {
+      "start_ms": 1883639,
+      "end_ms": 1886840,
+      "start": "00:31:23.639",
+      "end": "00:31:26.840",
+      "text": "they're not making them work for it at"
+    },
+    {
+      "start_ms": 1884840,
+      "end_ms": 1888639,
+      "start": "00:31:24.840",
+      "end": "00:31:28.639",
+      "text": "all they don't know how to play Corners"
+    },
+    {
+      "start_ms": 1886840,
+      "end_ms": 1891480,
+      "start": "00:31:26.840",
+      "end": "00:31:31.480",
+      "text": "um but I don't want to be too negative"
+    },
+    {
+      "start_ms": 1888639,
+      "end_ms": 1893120,
+      "start": "00:31:28.639",
+      "end": "00:31:33.120",
+      "text": "about nerg I do think um I started the"
+    },
+    {
+      "start_ms": 1891480,
+      "end_ms": 1894440,
+      "start": "00:31:31.480",
+      "end": "00:31:34.440",
+      "text": "video off kind of inflammator saying"
+    },
+    {
+      "start_ms": 1893120,
+      "end_ms": 1895720,
+      "start": "00:31:33.120",
+      "end": "00:31:35.720",
+      "text": "they got fifth six in the region which"
+    },
+    {
+      "start_ms": 1894440,
+      "end_ms": 1899000,
+      "start": "00:31:34.440",
+      "end": "00:31:39.000",
+      "text": "they did they were really terrible at"
+    },
+    {
+      "start_ms": 1895720,
+      "end_ms": 1901279,
+      "start": "00:31:35.720",
+      "end": "00:31:41.279",
+      "text": "that Arisa meta um but they came into"
+    },
+    {
+      "start_ms": 1899000,
+      "end_ms": 1902799,
+      "start": "00:31:39.000",
+      "end": "00:31:42.799",
+      "text": "their own style here they were really"
+    },
+    {
+      "start_ms": 1901279,
+      "end_ms": 1905080,
+      "start": "00:31:41.279",
+      "end": "00:31:45.080",
+      "text": "good at this style at least at some"
+    },
+    {
+      "start_ms": 1902799,
+      "end_ms": 1908080,
+      "start": "00:31:42.799",
+      "end": "00:31:48.080",
+      "text": "parts of it and they were just a couple"
+    },
+    {
+      "start_ms": 1905080,
+      "end_ms": 1910840,
+      "start": "00:31:45.080",
+      "end": "00:31:50.840",
+      "text": "bad ults and a couple bad uh outplaying"
+    },
+    {
+      "start_ms": 1908080,
+      "end_ms": 1912519,
+      "start": "00:31:48.080",
+      "end": "00:31:52.519",
+      "text": "ults fights away from being really"
+    },
+    {
+      "start_ms": 1910840,
+      "end_ms": 1914240,
+      "start": "00:31:50.840",
+      "end": "00:31:54.240",
+      "text": "competitive with Toronto which is"
+    },
+    {
+      "start_ms": 1912519,
+      "end_ms": 1916120,
+      "start": "00:31:52.519",
+      "end": "00:31:56.120",
+      "text": "Toronto is the uncontested number one"
+    },
+    {
+      "start_ms": 1914240,
+      "end_ms": 1918679,
+      "start": "00:31:54.240",
+      "end": "00:31:58.679",
+      "text": "North American team um with just a"
+    },
+    {
+      "start_ms": 1916120,
+      "end_ms": 1920519,
+      "start": "00:31:56.120",
+      "end": "00:32:00.519",
+      "text": "little bit of upgrades um they could"
+    },
+    {
+      "start_ms": 1918679,
+      "end_ms": 1922720,
+      "start": "00:31:58.679",
+      "end": "00:32:02.720",
+      "text": "have you know they could have really"
+    },
+    {
+      "start_ms": 1920519,
+      "end_ms": 1924200,
+      "start": "00:32:00.519",
+      "end": "00:32:04.200",
+      "text": "shocked the world here like actually"
+    },
+    {
+      "start_ms": 1922720,
+      "end_ms": 1925519,
+      "start": "00:32:02.720",
+      "end": "00:32:05.519",
+      "text": "like obviously fourth was a shock but"
+    },
+    {
+      "start_ms": 1924200,
+      "end_ms": 1928000,
+      "start": "00:32:04.200",
+      "end": "00:32:08.000",
+      "text": "like imagine if they came into this"
+    },
+    {
+      "start_ms": 1925519,
+      "end_ms": 1930000,
+      "start": "00:32:05.519",
+      "end": "00:32:10.000",
+      "text": "match and they beat Toronto like um yeah"
+    },
+    {
+      "start_ms": 1928000,
+      "end_ms": 1932919,
+      "start": "00:32:08.000",
+      "end": "00:32:12.919",
+      "text": "anyways I rambled enough this video is a"
+    },
+    {
+      "start_ms": 1930000,
+      "end_ms": 1936360,
+      "start": "00:32:10.000",
+      "end": "00:32:16.360",
+      "text": "little longer than my other ones um but"
+    },
+    {
+      "start_ms": 1932919,
+      "end_ms": 1936360,
+      "start": "00:32:12.919",
+      "end": "00:32:16.360",
+      "text": "I will see you guys later"
+    }
+  ]
+}

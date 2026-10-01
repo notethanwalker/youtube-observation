@@ -1,0 +1,2893 @@
+{
+  "video_id": "MYW1ztAeDQc",
+  "title": "Why do Dives Always Kill You",
+  "url": "https://www.youtube.com/watch?v=MYW1ztAeDQc",
+  "upload_date": "2025-04-30",
+  "duration_seconds": 929,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:21:48.771946+00:00",
+  "source_sha256": "e352d00684bb86fe039008b01bc2924466d4f07322d2bf52b16ec1b7ed2797f8",
+  "source_bytes": 310982,
+  "segment_count": 410,
+  "word_count": 2976,
+  "character_count": 15195,
+  "first_segment_ms": 1240,
+  "last_segment_end_ms": 929000,
+  "leading_gap_seconds": 1.24,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 1240,
+      "end_ms": 7120,
+      "start": "00:00:01.240",
+      "end": "00:00:07.120",
+      "text": "Imagine a scenario with me really"
+    },
+    {
+      "start_ms": 4040,
+      "end_ms": 10160,
+      "start": "00:00:04.040",
+      "end": "00:00:10.160",
+      "text": "quickly. You're playing a dive mirror."
+    },
+    {
+      "start_ms": 7120,
+      "end_ms": 13440,
+      "start": "00:00:07.120",
+      "end": "00:00:13.440",
+      "text": "Winston, Tracer, Sojourn, or Cassidy on"
+    },
+    {
+      "start_ms": 10160,
+      "end_ms": 15759,
+      "start": "00:00:10.160",
+      "end": "00:00:15.759",
+      "text": "a break. Both teams. Your Winston and"
+    },
+    {
+      "start_ms": 13440,
+      "end_ms": 17920,
+      "start": "00:00:13.440",
+      "end": "00:00:17.920",
+      "text": "your Tracer dive the enemy on a brrig"
+    },
+    {
+      "start_ms": 15759,
+      "end_ms": 20680,
+      "start": "00:00:15.759",
+      "end": "00:00:20.680",
+      "text": "and their Winston and their Tracer dive"
+    },
+    {
+      "start_ms": 17920,
+      "end_ms": 22960,
+      "start": "00:00:17.920",
+      "end": "00:00:22.960",
+      "text": "your onrig. Who is supposed to win this"
+    },
+    {
+      "start_ms": 20680,
+      "end_ms": 25039,
+      "start": "00:00:20.680",
+      "end": "00:00:25.039",
+      "text": "interaction? Are the onri supposed to"
+    },
+    {
+      "start_ms": 22960,
+      "end_ms": 27920,
+      "start": "00:00:22.960",
+      "end": "00:00:27.920",
+      "text": "live the dive or are the monkey and the"
+    },
+    {
+      "start_ms": 25039,
+      "end_ms": 29840,
+      "start": "00:00:25.039",
+      "end": "00:00:29.840",
+      "text": "tracers supposed to kill the backline?"
+    },
+    {
+      "start_ms": 27920,
+      "end_ms": 31199,
+      "start": "00:00:27.920",
+      "end": "00:00:31.199",
+      "text": "If you think about it, it might become"
+    },
+    {
+      "start_ms": 29840,
+      "end_ms": 33360,
+      "start": "00:00:29.840",
+      "end": "00:00:33.360",
+      "text": "obvious that there's not a clear-cut"
+    },
+    {
+      "start_ms": 31199,
+      "end_ms": 35200,
+      "start": "00:00:31.199",
+      "end": "00:00:35.200",
+      "text": "answer. If one of these was supposed to"
+    },
+    {
+      "start_ms": 33360,
+      "end_ms": 37680,
+      "start": "00:00:33.360",
+      "end": "00:00:37.680",
+      "text": "be winning this matchup every time, then"
+    },
+    {
+      "start_ms": 35200,
+      "end_ms": 38879,
+      "start": "00:00:35.200",
+      "end": "00:00:38.879",
+      "text": "the comp wouldn't work because if the"
+    },
+    {
+      "start_ms": 37680,
+      "end_ms": 40399,
+      "start": "00:00:37.680",
+      "end": "00:00:40.399",
+      "text": "monkey and the Tracer were supposed to"
+    },
+    {
+      "start_ms": 38879,
+      "end_ms": 42000,
+      "start": "00:00:38.879",
+      "end": "00:00:42.000",
+      "text": "always get the kills or they were"
+    },
+    {
+      "start_ms": 40399,
+      "end_ms": 44559,
+      "start": "00:00:40.399",
+      "end": "00:00:44.559",
+      "text": "favored enough that they did it more"
+    },
+    {
+      "start_ms": 42000,
+      "end_ms": 46640,
+      "start": "00:00:42.000",
+      "end": "00:00:46.640",
+      "text": "often than not, then they would always"
+    },
+    {
+      "start_ms": 44559,
+      "end_ms": 48320,
+      "start": "00:00:44.559",
+      "end": "00:00:48.320",
+      "text": "kill the enemy backline and the enemy"
+    },
+    {
+      "start_ms": 46640,
+      "end_ms": 50399,
+      "start": "00:00:46.640",
+      "end": "00:00:50.399",
+      "text": "front line would also always kill your"
+    },
+    {
+      "start_ms": 48320,
+      "end_ms": 53840,
+      "start": "00:00:48.320",
+      "end": "00:00:53.840",
+      "text": "backline and the comp would just be a"
+    },
+    {
+      "start_ms": 50399,
+      "end_ms": 55440,
+      "start": "00:00:50.399",
+      "end": "00:00:55.440",
+      "text": "disgusting mess of kills, trades, uh,"
+    },
+    {
+      "start_ms": 53840,
+      "end_ms": 57920,
+      "start": "00:00:53.840",
+      "end": "00:00:57.920",
+      "text": "and front lines turning to fight each"
+    },
+    {
+      "start_ms": 55440,
+      "end_ms": 61520,
+      "start": "00:00:55.440",
+      "end": "00:01:01.520",
+      "text": "other. Uh, since we know that's not what"
+    },
+    {
+      "start_ms": 57920,
+      "end_ms": 64159,
+      "start": "00:00:57.920",
+      "end": "00:01:04.159",
+      "text": "happens, the answer must be it depends."
+    },
+    {
+      "start_ms": 61520,
+      "end_ms": 65840,
+      "start": "00:01:01.520",
+      "end": "00:01:05.840",
+      "text": "Uh, and it depends on what. Maybe it"
+    },
+    {
+      "start_ms": 64159,
+      "end_ms": 67920,
+      "start": "00:01:04.159",
+      "end": "00:01:07.920",
+      "text": "depends on who's better. Maybe it"
+    },
+    {
+      "start_ms": 65840,
+      "end_ms": 70320,
+      "start": "00:01:05.840",
+      "end": "00:01:10.320",
+      "text": "depends on the alts. And it does depend"
+    },
+    {
+      "start_ms": 67920,
+      "end_ms": 71840,
+      "start": "00:01:07.920",
+      "end": "00:01:11.840",
+      "text": "on all of that. But the most important"
+    },
+    {
+      "start_ms": 70320,
+      "end_ms": 74880,
+      "start": "00:01:10.320",
+      "end": "00:01:14.880",
+      "text": "thing it depends on is what I want to"
+    },
+    {
+      "start_ms": 71840,
+      "end_ms": 77280,
+      "start": "00:01:11.840",
+      "end": "00:01:17.280",
+      "text": "talk about today, and that is how good"
+    },
+    {
+      "start_ms": 74880,
+      "end_ms": 79360,
+      "start": "00:01:14.880",
+      "end": "00:01:19.360",
+      "text": "is the dive. Um, and I'll say good in"
+    },
+    {
+      "start_ms": 77280,
+      "end_ms": 81280,
+      "start": "00:01:17.280",
+      "end": "00:01:21.280",
+      "text": "quotes because uh there's a lot of"
+    },
+    {
+      "start_ms": 79360,
+      "end_ms": 83119,
+      "start": "00:01:19.360",
+      "end": "00:01:23.119",
+      "text": "things that go into a good dive. Like I"
+    },
+    {
+      "start_ms": 81280,
+      "end_ms": 85280,
+      "start": "00:01:21.280",
+      "end": "00:01:25.280",
+      "text": "said earlier, the ults, the skill of the"
+    },
+    {
+      "start_ms": 83119,
+      "end_ms": 88240,
+      "start": "00:01:23.119",
+      "end": "00:01:28.240",
+      "text": "players, but the number one thing that"
+    },
+    {
+      "start_ms": 85280,
+      "end_ms": 90720,
+      "start": "00:01:25.280",
+      "end": "00:01:30.720",
+      "text": "makes a good dive, uh, and when I say"
+    },
+    {
+      "start_ms": 88240,
+      "end_ms": 92799,
+      "start": "00:01:28.240",
+      "end": "00:01:32.799",
+      "text": "good dive, what I mean is a dive where"
+    },
+    {
+      "start_ms": 90720,
+      "end_ms": 94960,
+      "start": "00:01:30.720",
+      "end": "00:01:34.960",
+      "text": "the Winston and the Tracer are supposed"
+    },
+    {
+      "start_ms": 92799,
+      "end_ms": 97439,
+      "start": "00:01:32.799",
+      "end": "00:01:37.439",
+      "text": "to kill the Anna in the break, right?"
+    },
+    {
+      "start_ms": 94960,
+      "end_ms": 100880,
+      "start": "00:01:34.960",
+      "end": "00:01:40.880",
+      "text": "This is what we're looking for is the"
+    },
+    {
+      "start_ms": 97439,
+      "end_ms": 103040,
+      "start": "00:01:37.439",
+      "end": "00:01:43.040",
+      "text": "setup of the dive, right? So, the setup,"
+    },
+    {
+      "start_ms": 100880,
+      "end_ms": 106320,
+      "start": "00:01:40.880",
+      "end": "00:01:46.320",
+      "text": "how well are the Winston and the Tracers"
+    },
+    {
+      "start_ms": 103040,
+      "end_ms": 108079,
+      "start": "00:01:43.040",
+      "end": "00:01:48.079",
+      "text": "staged? Uh, how much value are these two"
+    },
+    {
+      "start_ms": 106320,
+      "end_ms": 110320,
+      "start": "00:01:46.320",
+      "end": "00:01:50.320",
+      "text": "going to get on the dive? Right? How"
+    },
+    {
+      "start_ms": 108079,
+      "end_ms": 113040,
+      "start": "00:01:48.079",
+      "end": "00:01:53.040",
+      "text": "hard will it be to live? So, let's look"
+    },
+    {
+      "start_ms": 110320,
+      "end_ms": 114799,
+      "start": "00:01:50.320",
+      "end": "00:01:54.799",
+      "text": "at a couple examples of good dives, uh,"
+    },
+    {
+      "start_ms": 113040,
+      "end_ms": 117360,
+      "start": "00:01:53.040",
+      "end": "00:01:57.360",
+      "text": "where the Anna and the Brig are not"
+    },
+    {
+      "start_ms": 114799,
+      "end_ms": 119119,
+      "start": "00:01:54.799",
+      "end": "00:01:59.119",
+      "text": "supposed to live. Now, I want to say"
+    },
+    {
+      "start_ms": 117360,
+      "end_ms": 120880,
+      "start": "00:01:57.360",
+      "end": "00:02:00.880",
+      "text": "before we get started that I'm going to"
+    },
+    {
+      "start_ms": 119119,
+      "end_ms": 123799,
+      "start": "00:01:59.119",
+      "end": "00:02:03.799",
+      "text": "get angry at some point in this video."
+    },
+    {
+      "start_ms": 120880,
+      "end_ms": 127680,
+      "start": "00:02:00.880",
+      "end": "00:02:07.680",
+      "text": "And the reason for that is I absolutely"
+    },
+    {
+      "start_ms": 123799,
+      "end_ms": 132160,
+      "start": "00:02:03.799",
+      "end": "00:02:12.160",
+      "text": "hate dealing with this problem on teams."
+    },
+    {
+      "start_ms": 127680,
+      "end_ms": 134879,
+      "start": "00:02:07.680",
+      "end": "00:02:14.879",
+      "text": "And the problem is trying to live a good"
+    },
+    {
+      "start_ms": 132160,
+      "end_ms": 136480,
+      "start": "00:02:12.160",
+      "end": "00:02:16.480",
+      "text": "dive is impossible, right? It's"
+    },
+    {
+      "start_ms": 134879,
+      "end_ms": 137599,
+      "start": "00:02:14.879",
+      "end": "00:02:17.599",
+      "text": "literally impossible. And if you don't"
+    },
+    {
+      "start_ms": 136480,
+      "end_ms": 140239,
+      "start": "00:02:16.480",
+      "end": "00:02:20.239",
+      "text": "believe me, the fight we're about to"
+    },
+    {
+      "start_ms": 137599,
+      "end_ms": 142000,
+      "start": "00:02:17.599",
+      "end": "00:02:22.000",
+      "text": "watch will show you. Um, so let's just"
+    },
+    {
+      "start_ms": 140239,
+      "end_ms": 144080,
+      "start": "00:02:20.239",
+      "end": "00:02:24.080",
+      "text": "watch. This is Crazy Raccoon, the best"
+    },
+    {
+      "start_ms": 142000,
+      "end_ms": 146080,
+      "start": "00:02:22.000",
+      "end": "00:02:26.080",
+      "text": "team in the world. This is Nightmare,"
+    },
+    {
+      "start_ms": 144080,
+      "end_ms": 147280,
+      "start": "00:02:24.080",
+      "end": "00:02:27.280",
+      "text": "uh, the best North American team. Uh,"
+    },
+    {
+      "start_ms": 146080,
+      "end_ms": 149920,
+      "start": "00:02:26.080",
+      "end": "00:02:29.920",
+      "text": "and for those of you that don't know the"
+    },
+    {
+      "start_ms": 147280,
+      "end_ms": 152640,
+      "start": "00:02:27.280",
+      "end": "00:02:32.640",
+      "text": "context, this match was a very, very"
+    },
+    {
+      "start_ms": 149920,
+      "end_ms": 154480,
+      "start": "00:02:29.920",
+      "end": "00:02:34.480",
+      "text": "surprising upset um, at the Chinese land"
+    },
+    {
+      "start_ms": 152640,
+      "end_ms": 155760,
+      "start": "00:02:32.640",
+      "end": "00:02:35.760",
+      "text": "that happened recently because this is"
+    },
+    {
+      "start_ms": 154480,
+      "end_ms": 157360,
+      "start": "00:02:34.480",
+      "end": "00:02:37.360",
+      "text": "the best team in the world. They haven't"
+    },
+    {
+      "start_ms": 155760,
+      "end_ms": 159280,
+      "start": "00:02:35.760",
+      "end": "00:02:39.280",
+      "text": "lost a tournament in a very, very long"
+    },
+    {
+      "start_ms": 157360,
+      "end_ms": 161120,
+      "start": "00:02:37.360",
+      "end": "00:02:41.120",
+      "text": "time. And this is an NA team, a team"
+    },
+    {
+      "start_ms": 159280,
+      "end_ms": 163200,
+      "start": "00:02:39.280",
+      "end": "00:02:43.200",
+      "text": "that's supposed to be uh, from one of"
+    },
+    {
+      "start_ms": 161120,
+      "end_ms": 166239,
+      "start": "00:02:41.120",
+      "end": "00:02:46.239",
+      "text": "the weaker regions. And in this match,"
+    },
+    {
+      "start_ms": 163200,
+      "end_ms": 168239,
+      "start": "00:02:43.200",
+      "end": "00:02:48.239",
+      "text": "Nightmare upset CR 3 to1. Right? So if"
+    },
+    {
+      "start_ms": 166239,
+      "end_ms": 170560,
+      "start": "00:02:46.239",
+      "end": "00:02:50.560",
+      "text": "we look at one of these most important"
+    },
+    {
+      "start_ms": 168239,
+      "end_ms": 171480,
+      "start": "00:02:48.239",
+      "end": "00:02:51.480",
+      "text": "fights, this is Route 66, the final map"
+    },
+    {
+      "start_ms": 170560,
+      "end_ms": 175040,
+      "start": "00:02:50.560",
+      "end": "00:02:55.040",
+      "text": "of the"
+    },
+    {
+      "start_ms": 171480,
+      "end_ms": 177040,
+      "start": "00:02:51.480",
+      "end": "00:02:57.040",
+      "text": "series. Now, Nightmare just used Rush in"
+    },
+    {
+      "start_ms": 175040,
+      "end_ms": 179120,
+      "start": "00:02:55.040",
+      "end": "00:02:59.120",
+      "text": "the fight previously and then another"
+    },
+    {
+      "start_ms": 177040,
+      "end_ms": 180879,
+      "start": "00:02:57.040",
+      "end": "00:03:00.879",
+      "text": "monkey to live, right? So both teams are"
+    },
+    {
+      "start_ms": 179120,
+      "end_ms": 183120,
+      "start": "00:02:59.120",
+      "end": "00:03:03.120",
+      "text": "in a kind of similar position. But if"
+    },
+    {
+      "start_ms": 180879,
+      "end_ms": 187000,
+      "start": "00:03:00.879",
+      "end": "00:03:07.000",
+      "text": "you look at this, approaching this,"
+    },
+    {
+      "start_ms": 183120,
+      "end_ms": 187000,
+      "start": "00:03:03.120",
+      "end": "00:03:07.000",
+      "text": "Trong is going to walk up."
+    },
+    {
+      "start_ms": 187599,
+      "end_ms": 193519,
+      "start": "00:03:07.599",
+      "end": "00:03:13.519",
+      "text": "Kuffa jumps in. Trong bashes"
+    },
+    {
+      "start_ms": 190120,
+      "end_ms": 195840,
+      "start": "00:03:10.120",
+      "end": "00:03:15.840",
+      "text": "out. Tron gets nated. And if you look on"
+    },
+    {
+      "start_ms": 193519,
+      "end_ms": 197200,
+      "start": "00:03:13.519",
+      "end": "00:03:17.200",
+      "text": "the surface, it might seem like Churong"
+    },
+    {
+      "start_ms": 195840,
+      "end_ms": 198720,
+      "start": "00:03:15.840",
+      "end": "00:03:18.720",
+      "text": "did his job here, right? Like Churong"
+    },
+    {
+      "start_ms": 197200,
+      "end_ms": 201360,
+      "start": "00:03:17.200",
+      "end": "00:03:21.360",
+      "text": "and Shu did their job. We've lived the"
+    },
+    {
+      "start_ms": 198720,
+      "end_ms": 203120,
+      "start": "00:03:18.720",
+      "end": "00:03:23.120",
+      "text": "first part of the dive, the jump. Um, we"
+    },
+    {
+      "start_ms": 201360,
+      "end_ms": 205360,
+      "start": "00:03:21.360",
+      "end": "00:03:25.360",
+      "text": "bashed out. We used our nade to keep"
+    },
+    {
+      "start_ms": 203120,
+      "end_ms": 206879,
+      "start": "00:03:23.120",
+      "end": "00:03:26.879",
+      "text": "ourselves alive. But the problem is"
+    },
+    {
+      "start_ms": 205360,
+      "end_ms": 208239,
+      "start": "00:03:25.360",
+      "end": "00:03:28.239",
+      "text": "what's about to happen, right? First of"
+    },
+    {
+      "start_ms": 206879,
+      "end_ms": 209920,
+      "start": "00:03:26.879",
+      "end": "00:03:29.920",
+      "text": "all, there's a problem of Lip getting"
+    },
+    {
+      "start_ms": 208239,
+      "end_ms": 211280,
+      "start": "00:03:28.239",
+      "end": "00:03:31.280",
+      "text": "pulsed, right? But maybe you could say"
+    },
+    {
+      "start_ms": 209920,
+      "end_ms": 212400,
+      "start": "00:03:29.920",
+      "end": "00:03:32.400",
+      "text": "Lip should have slid out. Maybe we"
+    },
+    {
+      "start_ms": 211280,
+      "end_ms": 214239,
+      "start": "00:03:31.280",
+      "end": "00:03:34.239",
+      "text": "should have marked the pulse better,"
+    },
+    {
+      "start_ms": 212400,
+      "end_ms": 217720,
+      "start": "00:03:32.400",
+      "end": "00:03:37.720",
+      "text": "right? That's not really the damning"
+    },
+    {
+      "start_ms": 214239,
+      "end_ms": 217720,
+      "start": "00:03:34.239",
+      "end": "00:03:37.720",
+      "text": "part of this engage."
+    },
+    {
+      "start_ms": 219440,
+      "end_ms": 223519,
+      "start": "00:03:39.440",
+      "end": "00:03:43.519",
+      "text": "We're going to sleep Kafa after his"
+    },
+    {
+      "start_ms": 220799,
+      "end_ms": 223519,
+      "start": "00:03:40.799",
+      "end": "00:03:43.519",
+      "text": "bubble is over."
+    },
+    {
+      "start_ms": 223680,
+      "end_ms": 231400,
+      "start": "00:03:43.680",
+      "end": "00:03:51.400",
+      "text": "We're going to use rally to try and live"
+    },
+    {
+      "start_ms": 227599,
+      "end_ms": 234400,
+      "start": "00:03:47.599",
+      "end": "00:03:54.400",
+      "text": "and we're still going to die,"
+    },
+    {
+      "start_ms": 231400,
+      "end_ms": 236239,
+      "start": "00:03:51.400",
+      "end": "00:03:56.239",
+      "text": "right? So, if we lived the first part of"
+    },
+    {
+      "start_ms": 234400,
+      "end_ms": 239040,
+      "start": "00:03:54.400",
+      "end": "00:03:59.040",
+      "text": "the engage by bashing out and using our"
+    },
+    {
+      "start_ms": 236239,
+      "end_ms": 241599,
+      "start": "00:03:56.239",
+      "end": "00:04:01.599",
+      "text": "nade and we slept monkey and we rallied"
+    },
+    {
+      "start_ms": 239040,
+      "end_ms": 244319,
+      "start": "00:03:59.040",
+      "end": "00:04:04.319",
+      "text": "to live and we still died, not only did"
+    },
+    {
+      "start_ms": 241599,
+      "end_ms": 246159,
+      "start": "00:04:01.599",
+      "end": "00:04:06.159",
+      "text": "we die, but essentially one v2 died to"
+    },
+    {
+      "start_ms": 244319,
+      "end_ms": 248480,
+      "start": "00:04:04.319",
+      "end": "00:04:08.480",
+      "text": "the monkey, then what more were we"
+    },
+    {
+      "start_ms": 246159,
+      "end_ms": 249760,
+      "start": "00:04:06.159",
+      "end": "00:04:09.760",
+      "text": "supposed to do? It might look like Trong"
+    },
+    {
+      "start_ms": 248480,
+      "end_ms": 251280,
+      "start": "00:04:08.480",
+      "end": "00:04:11.280",
+      "text": "did everything he was supposed to do"
+    },
+    {
+      "start_ms": 249760,
+      "end_ms": 254560,
+      "start": "00:04:09.760",
+      "end": "00:04:14.560",
+      "text": "here."
+    },
+    {
+      "start_ms": 251280,
+      "end_ms": 256160,
+      "start": "00:04:11.280",
+      "end": "00:04:16.160",
+      "text": "But the problem is the premise. Players"
+    },
+    {
+      "start_ms": 254560,
+      "end_ms": 258320,
+      "start": "00:04:14.560",
+      "end": "00:04:18.320",
+      "text": "will look at these kind of dives and"
+    },
+    {
+      "start_ms": 256160,
+      "end_ms": 260400,
+      "start": "00:04:16.160",
+      "end": "00:04:20.400",
+      "text": "say, \"How could I have lived that dive"
+    },
+    {
+      "start_ms": 258320,
+      "end_ms": 262479,
+      "start": "00:04:18.320",
+      "end": "00:04:22.479",
+      "text": "better?\" And that is the issue. If you"
+    },
+    {
+      "start_ms": 260400,
+      "end_ms": 265120,
+      "start": "00:04:20.400",
+      "end": "00:04:25.120",
+      "text": "ever find yourself trying to think about"
+    },
+    {
+      "start_ms": 262479,
+      "end_ms": 268080,
+      "start": "00:04:22.479",
+      "end": "00:04:28.080",
+      "text": "how you could have lived a dive better,"
+    },
+    {
+      "start_ms": 265120,
+      "end_ms": 270240,
+      "start": "00:04:25.120",
+      "end": "00:04:30.240",
+      "text": "it's probably the wrong place to be"
+    },
+    {
+      "start_ms": 268080,
+      "end_ms": 272880,
+      "start": "00:04:28.080",
+      "end": "00:04:32.880",
+      "text": "looking because you can't live a good"
+    },
+    {
+      "start_ms": 270240,
+      "end_ms": 275040,
+      "start": "00:04:30.240",
+      "end": "00:04:35.040",
+      "text": "dive. If you look at how well Kuffa and"
+    },
+    {
+      "start_ms": 272880,
+      "end_ms": 278400,
+      "start": "00:04:32.880",
+      "end": "00:04:38.400",
+      "text": "Zer were staged here and how actually"
+    },
+    {
+      "start_ms": 275040,
+      "end_ms": 279840,
+      "start": "00:04:35.040",
+      "end": "00:04:39.840",
+      "text": "good this dive is, Zer is top left"
+    },
+    {
+      "start_ms": 278400,
+      "end_ms": 281520,
+      "start": "00:04:38.400",
+      "end": "00:04:41.520",
+      "text": "because he used the rush from the fight"
+    },
+    {
+      "start_ms": 279840,
+      "end_ms": 283600,
+      "start": "00:04:39.840",
+      "end": "00:04:43.600",
+      "text": "before to get top left, right? So the"
+    },
+    {
+      "start_ms": 281520,
+      "end_ms": 286880,
+      "start": "00:04:41.520",
+      "end": "00:04:46.880",
+      "text": "Tracer has an amazing position. Tough"
+    },
+    {
+      "start_ms": 283600,
+      "end_ms": 289199,
+      "start": "00:04:43.600",
+      "end": "00:04:49.199",
+      "text": "his jump from here is a very very good"
+    },
+    {
+      "start_ms": 286880,
+      "end_ms": 291680,
+      "start": "00:04:46.880",
+      "end": "00:04:51.680",
+      "text": "jump. So the setup of this dive is too"
+    },
+    {
+      "start_ms": 289199,
+      "end_ms": 294080,
+      "start": "00:04:49.199",
+      "end": "00:04:54.080",
+      "text": "good to lift the dive. So if you find"
+    },
+    {
+      "start_ms": 291680,
+      "end_ms": 295919,
+      "start": "00:04:51.680",
+      "end": "00:04:55.919",
+      "text": "yourself trying to worry about this part"
+    },
+    {
+      "start_ms": 294080,
+      "end_ms": 298400,
+      "start": "00:04:54.080",
+      "end": "00:04:58.400",
+      "text": "onward, you're already doing yourself a"
+    },
+    {
+      "start_ms": 295919,
+      "end_ms": 301040,
+      "start": "00:04:55.919",
+      "end": "00:05:01.040",
+      "text": "disservice. What you need to do is go"
+    },
+    {
+      "start_ms": 298400,
+      "end_ms": 302960,
+      "start": "00:04:58.400",
+      "end": "00:05:02.960",
+      "text": "back farther and think about how do we"
+    },
+    {
+      "start_ms": 301040,
+      "end_ms": 304960,
+      "start": "00:05:01.040",
+      "end": "00:05:04.960",
+      "text": "stop the dive from being good in the"
+    },
+    {
+      "start_ms": 302960,
+      "end_ms": 306720,
+      "start": "00:05:02.960",
+      "end": "00:05:06.720",
+      "text": "first place because that's how you live."
+    },
+    {
+      "start_ms": 304960,
+      "end_ms": 309280,
+      "start": "00:05:04.960",
+      "end": "00:05:09.280",
+      "text": "If we're on a rig, we're not trying to"
+    },
+    {
+      "start_ms": 306720,
+      "end_ms": 310960,
+      "start": "00:05:06.720",
+      "end": "00:05:10.960",
+      "text": "live a good dive ever. I'm trying to not"
+    },
+    {
+      "start_ms": 309280,
+      "end_ms": 312240,
+      "start": "00:05:09.280",
+      "end": "00:05:12.240",
+      "text": "have a good dive happen to me. I'm"
+    },
+    {
+      "start_ms": 310960,
+      "end_ms": 313960,
+      "start": "00:05:10.960",
+      "end": "00:05:13.960",
+      "text": "trying to stop it from happening in the"
+    },
+    {
+      "start_ms": 312240,
+      "end_ms": 316320,
+      "start": "00:05:12.240",
+      "end": "00:05:16.320",
+      "text": "first place. Right? So now I need to"
+    },
+    {
+      "start_ms": 313960,
+      "end_ms": 318000,
+      "start": "00:05:13.960",
+      "end": "00:05:18.000",
+      "text": "think, how do I stop the monkeykey's"
+    },
+    {
+      "start_ms": 316320,
+      "end_ms": 319759,
+      "start": "00:05:16.320",
+      "end": "00:05:19.759",
+      "text": "jump from being good, right? What's the"
+    },
+    {
+      "start_ms": 318000,
+      "end_ms": 321520,
+      "start": "00:05:18.000",
+      "end": "00:05:21.520",
+      "text": "best place for me to go where I can"
+    },
+    {
+      "start_ms": 319759,
+      "end_ms": 323840,
+      "start": "00:05:19.759",
+      "end": "00:05:23.840",
+      "text": "actually whip the jump and he can't get"
+    },
+    {
+      "start_ms": 321520,
+      "end_ms": 325600,
+      "start": "00:05:21.520",
+      "end": "00:05:25.600",
+      "text": "behind me? Right? And also I need to"
+    },
+    {
+      "start_ms": 323840,
+      "end_ms": 327440,
+      "start": "00:05:23.840",
+      "end": "00:05:27.440",
+      "text": "think how do I clear this tracer out of"
+    },
+    {
+      "start_ms": 325600,
+      "end_ms": 329039,
+      "start": "00:05:25.600",
+      "end": "00:05:29.039",
+      "text": "the spot. The tracer being here means"
+    },
+    {
+      "start_ms": 327440,
+      "end_ms": 330800,
+      "start": "00:05:27.440",
+      "end": "00:05:30.800",
+      "text": "the dive is always going to be good if I"
+    },
+    {
+      "start_ms": 329039,
+      "end_ms": 332240,
+      "start": "00:05:29.039",
+      "end": "00:05:32.240",
+      "text": "walk up, right? Maybe I can walk around"
+    },
+    {
+      "start_ms": 330800,
+      "end_ms": 334800,
+      "start": "00:05:30.800",
+      "end": "00:05:34.800",
+      "text": "through the right. If I think I can"
+    },
+    {
+      "start_ms": 332240,
+      "end_ms": 336560,
+      "start": "00:05:32.240",
+      "end": "00:05:36.560",
+      "text": "force this way or I need to let my So"
+    },
+    {
+      "start_ms": 334800,
+      "end_ms": 337759,
+      "start": "00:05:34.800",
+      "end": "00:05:37.759",
+      "text": "farm a rail. I need to take my back on"
+    },
+    {
+      "start_ms": 336560,
+      "end_ms": 339680,
+      "start": "00:05:36.560",
+      "end": "00:05:39.680",
+      "text": "with her and we need to go clear this"
+    },
+    {
+      "start_ms": 337759,
+      "end_ms": 341120,
+      "start": "00:05:37.759",
+      "end": "00:05:41.120",
+      "text": "tracer before we walk up, right? Maybe I"
+    },
+    {
+      "start_ms": 339680,
+      "end_ms": 343680,
+      "start": "00:05:39.680",
+      "end": "00:05:43.680",
+      "text": "can even have my front liners go clear"
+    },
+    {
+      "start_ms": 341120,
+      "end_ms": 345520,
+      "start": "00:05:41.120",
+      "end": "00:05:45.520",
+      "text": "this. And that's fine because then we"
+    },
+    {
+      "start_ms": 343680,
+      "end_ms": 347680,
+      "start": "00:05:43.680",
+      "end": "00:05:47.680",
+      "text": "can walk up into a dive that's not so"
+    },
+    {
+      "start_ms": 345520,
+      "end_ms": 349199,
+      "start": "00:05:45.520",
+      "end": "00:05:49.199",
+      "text": "good and we can actually if I bash back,"
+    },
+    {
+      "start_ms": 347680,
+      "end_ms": 351199,
+      "start": "00:05:47.680",
+      "end": "00:05:51.199",
+      "text": "we use our native live, we hit this"
+    },
+    {
+      "start_ms": 349199,
+      "end_ms": 352680,
+      "start": "00:05:49.199",
+      "end": "00:05:52.680",
+      "text": "sleep, then you'll start actually living"
+    },
+    {
+      "start_ms": 351199,
+      "end_ms": 355120,
+      "start": "00:05:51.199",
+      "end": "00:05:55.120",
+      "text": "this type of dive."
+    },
+    {
+      "start_ms": 352680,
+      "end_ms": 357919,
+      "start": "00:05:52.680",
+      "end": "00:05:57.919",
+      "text": "Right now, if that didn't fully convince"
+    },
+    {
+      "start_ms": 355120,
+      "end_ms": 360880,
+      "start": "00:05:55.120",
+      "end": "00:06:00.880",
+      "text": "you, let's look at one of the most"
+    },
+    {
+      "start_ms": 357919,
+      "end_ms": 362720,
+      "start": "00:05:57.919",
+      "end": "00:06:02.720",
+      "text": "extreme examples ever. So, this is"
+    },
+    {
+      "start_ms": 360880,
+      "end_ms": 364400,
+      "start": "00:06:00.880",
+      "end": "00:06:04.400",
+      "text": "Falcons versus once again. It's from the"
+    },
+    {
+      "start_ms": 362720,
+      "end_ms": 365680,
+      "start": "00:06:02.720",
+      "end": "00:06:05.680",
+      "text": "same Chinese tournament. This was a very"
+    },
+    {
+      "start_ms": 364400,
+      "end_ms": 368639,
+      "start": "00:06:04.400",
+      "end": "00:06:08.639",
+      "text": "good match. I do recommend you go watch"
+    },
+    {
+      "start_ms": 365680,
+      "end_ms": 371720,
+      "start": "00:06:05.680",
+      "end": "00:06:11.720",
+      "text": "it. Um, but this matchup is a better"
+    },
+    {
+      "start_ms": 368639,
+      "end_ms": 374080,
+      "start": "00:06:08.639",
+      "end": "00:06:14.080",
+      "text": "example because it's very clear from the"
+    },
+    {
+      "start_ms": 371720,
+      "end_ms": 376800,
+      "start": "00:06:11.720",
+      "end": "00:06:16.800",
+      "text": "comps what the play styles are going to"
+    },
+    {
+      "start_ms": 374080,
+      "end_ms": 378639,
+      "start": "00:06:14.080",
+      "end": "00:06:18.639",
+      "text": "be. Right? Once again comp is a hard"
+    },
+    {
+      "start_ms": 376800,
+      "end_ms": 380960,
+      "start": "00:06:16.800",
+      "end": "00:06:20.960",
+      "text": "engage comp. Really, the only thing that"
+    },
+    {
+      "start_ms": 378639,
+      "end_ms": 383600,
+      "start": "00:06:18.639",
+      "end": "00:06:23.600",
+      "text": "this team can do is farm molts and hard"
+    },
+    {
+      "start_ms": 380960,
+      "end_ms": 385600,
+      "start": "00:06:20.960",
+      "end": "00:06:25.600",
+      "text": "dive, right? Um, that's the wind con."
+    },
+    {
+      "start_ms": 383600,
+      "end_ms": 387039,
+      "start": "00:06:23.600",
+      "end": "00:06:27.039",
+      "text": "This team is basically the opposite."
+    },
+    {
+      "start_ms": 385600,
+      "end_ms": 388479,
+      "start": "00:06:25.600",
+      "end": "00:06:28.479",
+      "text": "This team wants to poke as hard as"
+    },
+    {
+      "start_ms": 387039,
+      "end_ms": 391039,
+      "start": "00:06:27.039",
+      "end": "00:06:31.039",
+      "text": "possible and they want to live these"
+    },
+    {
+      "start_ms": 388479,
+      "end_ms": 392720,
+      "start": "00:06:28.479",
+      "end": "00:06:32.720",
+      "text": "dives, right? So, there's no better"
+    },
+    {
+      "start_ms": 391039,
+      "end_ms": 394800,
+      "start": "00:06:31.039",
+      "end": "00:06:34.800",
+      "text": "matchup than this one for understanding"
+    },
+    {
+      "start_ms": 392720,
+      "end_ms": 397759,
+      "start": "00:06:32.720",
+      "end": "00:06:37.759",
+      "text": "this fundamental. And also, there's no"
+    },
+    {
+      "start_ms": 394800,
+      "end_ms": 399840,
+      "start": "00:06:34.800",
+      "end": "00:06:39.840",
+      "text": "better fight than this one to prove that"
+    },
+    {
+      "start_ms": 397759,
+      "end_ms": 401600,
+      "start": "00:06:37.759",
+      "end": "00:06:41.600",
+      "text": "it's impossible to live a good dive. If"
+    },
+    {
+      "start_ms": 399840,
+      "end_ms": 404319,
+      "start": "00:06:39.840",
+      "end": "00:06:44.319",
+      "text": "you watch what Falcons has here, first"
+    },
+    {
+      "start_ms": 401600,
+      "end_ms": 406240,
+      "start": "00:06:41.600",
+      "end": "00:06:46.240",
+      "text": "of all, Falcons has point control. And"
+    },
+    {
+      "start_ms": 404319,
+      "end_ms": 408560,
+      "start": "00:06:44.319",
+      "end": "00:06:48.560",
+      "text": "they start with a pretty good bait,"
+    },
+    {
+      "start_ms": 406240,
+      "end_ms": 410560,
+      "start": "00:06:46.240",
+      "end": "00:06:50.560",
+      "text": "right? My Div.A's on point. I have Cast"
+    },
+    {
+      "start_ms": 408560,
+      "end_ms": 412880,
+      "start": "00:06:48.560",
+      "end": "00:06:52.880",
+      "text": "Torb, the strongest DPS line for living"
+    },
+    {
+      "start_ms": 410560,
+      "end_ms": 414479,
+      "start": "00:06:50.560",
+      "end": "00:06:54.479",
+      "text": "dives. I have Juno Brig, the strongest"
+    },
+    {
+      "start_ms": 412880,
+      "end_ms": 416400,
+      "start": "00:06:52.880",
+      "end": "00:06:56.400",
+      "text": "backline for living dives. And I have"
+    },
+    {
+      "start_ms": 414479,
+      "end_ms": 418319,
+      "start": "00:06:54.479",
+      "end": "00:06:58.319",
+      "text": "Div.A, which is the best peel tank. So,"
+    },
+    {
+      "start_ms": 416400,
+      "end_ms": 421039,
+      "start": "00:06:56.400",
+      "end": "00:07:01.039",
+      "text": "this is basically the best comp that you"
+    },
+    {
+      "start_ms": 418319,
+      "end_ms": 424160,
+      "start": "00:06:58.319",
+      "end": "00:07:04.160",
+      "text": "can make for living dives. On top of"
+    },
+    {
+      "start_ms": 421039,
+      "end_ms": 426319,
+      "start": "00:07:01.039",
+      "end": "00:07:06.319",
+      "text": "that, we have four ults. incredible ults"
+    },
+    {
+      "start_ms": 424160,
+      "end_ms": 428400,
+      "start": "00:07:04.160",
+      "end": "00:07:08.400",
+      "text": "for living dives, right? I have tool, I"
+    },
+    {
+      "start_ms": 426319,
+      "end_ms": 430319,
+      "start": "00:07:06.319",
+      "end": "00:07:10.319",
+      "text": "have no I have bomb. So my div.a can"
+    },
+    {
+      "start_ms": 428400,
+      "end_ms": 432800,
+      "start": "00:07:08.400",
+      "end": "00:07:12.800",
+      "text": "bait and live, right? If he needs to"
+    },
+    {
+      "start_ms": 430319,
+      "end_ms": 436080,
+      "start": "00:07:10.319",
+      "end": "00:07:16.080",
+      "text": "bait himself. And also we have rally. So"
+    },
+    {
+      "start_ms": 432800,
+      "end_ms": 438240,
+      "start": "00:07:12.800",
+      "end": "00:07:18.240",
+      "text": "there's really no reason if we can live"
+    },
+    {
+      "start_ms": 436080,
+      "end_ms": 439919,
+      "start": "00:07:16.080",
+      "end": "00:07:19.919",
+      "text": "a dive that this fight we should not be"
+    },
+    {
+      "start_ms": 438240,
+      "end_ms": 443160,
+      "start": "00:07:18.240",
+      "end": "00:07:23.160",
+      "text": "able to live a dive. Now let's watch"
+    },
+    {
+      "start_ms": 439919,
+      "end_ms": 443160,
+      "start": "00:07:19.919",
+      "end": "00:07:23.160",
+      "text": "what happens."
+    },
+    {
+      "start_ms": 447120,
+      "end_ms": 453599,
+      "start": "00:07:27.120",
+      "end": "00:07:33.599",
+      "text": "They ring"
+    },
+    {
+      "start_ms": 448360,
+      "end_ms": 455520,
+      "start": "00:07:28.360",
+      "end": "00:07:35.520",
+      "text": "up. Rush comes out. Horvolt comes out on"
+    },
+    {
+      "start_ms": 453599,
+      "end_ms": 457840,
+      "start": "00:07:33.599",
+      "end": "00:07:37.840",
+      "text": "mid bombs to live. They use noon and"
+    },
+    {
+      "start_ms": 455520,
+      "end_ms": 457840,
+      "start": "00:07:35.520",
+      "end": "00:07:37.840",
+      "text": "they use"
+    },
+    {
+      "start_ms": 457960,
+      "end_ms": 461599,
+      "start": "00:07:37.960",
+      "end": "00:07:41.599",
+      "text": "rally and we still"
+    },
+    {
+      "start_ms": 465160,
+      "end_ms": 471120,
+      "start": "00:07:45.160",
+      "end": "00:07:51.120",
+      "text": "die."
+    },
+    {
+      "start_ms": 467160,
+      "end_ms": 473440,
+      "start": "00:07:47.160",
+      "end": "00:07:53.440",
+      "text": "So four ults come out. Our comp is"
+    },
+    {
+      "start_ms": 471120,
+      "end_ms": 477199,
+      "start": "00:07:51.120",
+      "end": "00:07:57.199",
+      "text": "incredibly good at living dives and it's"
+    },
+    {
+      "start_ms": 473440,
+      "end_ms": 478960,
+      "start": "00:07:53.440",
+      "end": "00:07:58.960",
+      "text": "still not enough to live a good dive."
+    },
+    {
+      "start_ms": 477199,
+      "end_ms": 481639,
+      "start": "00:07:57.199",
+      "end": "00:08:01.639",
+      "text": "So, if something if this fight does not"
+    },
+    {
+      "start_ms": 478960,
+      "end_ms": 484560,
+      "start": "00:07:58.960",
+      "end": "00:08:04.560",
+      "text": "prove to you that you cannot live a good"
+    },
+    {
+      "start_ms": 481639,
+      "end_ms": 486639,
+      "start": "00:08:01.639",
+      "end": "00:08:06.639",
+      "text": "dive, then I don't know what will. So,"
+    },
+    {
+      "start_ms": 484560,
+      "end_ms": 489759,
+      "start": "00:08:04.560",
+      "end": "00:08:09.759",
+      "text": "from now on, we're going to talk about"
+    },
+    {
+      "start_ms": 486639,
+      "end_ms": 491720,
+      "start": "00:08:06.639",
+      "end": "00:08:11.720",
+      "text": "how do we stop a good dive from"
+    },
+    {
+      "start_ms": 489759,
+      "end_ms": 494639,
+      "start": "00:08:09.759",
+      "end": "00:08:14.639",
+      "text": "happening. And this is something that"
+    },
+    {
+      "start_ms": 491720,
+      "end_ms": 497599,
+      "start": "00:08:11.720",
+      "end": "00:08:17.599",
+      "text": "Falcons is really, really, really good"
+    },
+    {
+      "start_ms": 494639,
+      "end_ms": 499840,
+      "start": "00:08:14.639",
+      "end": "00:08:19.840",
+      "text": "at sometimes. Uh, and that's why they"
+    },
+    {
+      "start_ms": 497599,
+      "end_ms": 501360,
+      "start": "00:08:17.599",
+      "end": "00:08:21.360",
+      "text": "play this comp. Um, Enman actually plays"
+    },
+    {
+      "start_ms": 499840,
+      "end_ms": 503680,
+      "start": "00:08:19.840",
+      "end": "00:08:23.680",
+      "text": "monkey occasionally. He did it on this"
+    },
+    {
+      "start_ms": 501360,
+      "end_ms": 507039,
+      "start": "00:08:21.360",
+      "end": "00:08:27.039",
+      "text": "map against someone else. I think it was"
+    },
+    {
+      "start_ms": 503680,
+      "end_ms": 508720,
+      "start": "00:08:23.680",
+      "end": "00:08:28.720",
+      "text": "crazy raccoon. But this comp fits"
+    },
+    {
+      "start_ms": 507039,
+      "end_ms": 510160,
+      "start": "00:08:27.039",
+      "end": "00:08:30.160",
+      "text": "Falcon's play style really well. And"
+    },
+    {
+      "start_ms": 508720,
+      "end_ms": 512640,
+      "start": "00:08:28.720",
+      "end": "00:08:32.640",
+      "text": "that's partially because of how good"
+    },
+    {
+      "start_ms": 510160,
+      "end_ms": 514000,
+      "start": "00:08:30.160",
+      "end": "00:08:34.000",
+      "text": "they are at retaking. So the retake is"
+    },
+    {
+      "start_ms": 512640,
+      "end_ms": 516080,
+      "start": "00:08:32.640",
+      "end": "00:08:36.080",
+      "text": "when the enemy team has control of the"
+    },
+    {
+      "start_ms": 514000,
+      "end_ms": 518800,
+      "start": "00:08:34.000",
+      "end": "00:08:38.800",
+      "text": "map or of the point specifically and we"
+    },
+    {
+      "start_ms": 516080,
+      "end_ms": 520959,
+      "start": "00:08:36.080",
+      "end": "00:08:40.959",
+      "text": "have to go fight them, right? The way"
+    },
+    {
+      "start_ms": 518800,
+      "end_ms": 523039,
+      "start": "00:08:38.800",
+      "end": "00:08:43.039",
+      "text": "that Falcons retakes the map makes it"
+    },
+    {
+      "start_ms": 520959,
+      "end_ms": 526800,
+      "start": "00:08:40.959",
+      "end": "00:08:46.800",
+      "text": "impossible to set up a good dive onto"
+    },
+    {
+      "start_ms": 523039,
+      "end_ms": 526800,
+      "start": "00:08:43.039",
+      "end": "00:08:46.800",
+      "text": "them. Right? So now let's watch this"
+    },
+    {
+      "start_ms": 529399,
+      "end_ms": 534160,
+      "start": "00:08:49.399",
+      "end": "00:08:54.160",
+      "text": "retake. And if you pause here, this"
+    },
+    {
+      "start_ms": 532160,
+      "end_ms": 536000,
+      "start": "00:08:52.160",
+      "end": "00:08:56.000",
+      "text": "might seem odd to you. We just looked at"
+    },
+    {
+      "start_ms": 534160,
+      "end_ms": 537440,
+      "start": "00:08:54.160",
+      "end": "00:08:57.440",
+      "text": "main. The vast majority of people would"
+    },
+    {
+      "start_ms": 536000,
+      "end_ms": 539680,
+      "start": "00:08:56.000",
+      "end": "00:08:59.680",
+      "text": "have just gone main, right? Why wouldn't"
+    },
+    {
+      "start_ms": 537440,
+      "end_ms": 541839,
+      "start": "00:08:57.440",
+      "end": "00:09:01.839",
+      "text": "we? And now we're going all the way far"
+    },
+    {
+      "start_ms": 539680,
+      "end_ms": 545399,
+      "start": "00:08:59.680",
+      "end": "00:09:05.399",
+      "text": "right when point is over here. How does"
+    },
+    {
+      "start_ms": 541839,
+      "end_ms": 545399,
+      "start": "00:09:01.839",
+      "end": "00:09:05.399",
+      "text": "this make any sense?"
+    },
+    {
+      "start_ms": 551600,
+      "end_ms": 555600,
+      "start": "00:09:11.600",
+      "end": "00:09:15.600",
+      "text": "Well, if you think about the setup here,"
+    },
+    {
+      "start_ms": 553360,
+      "end_ms": 558080,
+      "start": "00:09:13.360",
+      "end": "00:09:18.080",
+      "text": "setup is really good for living, right?"
+    },
+    {
+      "start_ms": 555600,
+      "end_ms": 560480,
+      "start": "00:09:15.600",
+      "end": "00:09:20.480",
+      "text": "Guay setup is incredibly difficult. We"
+    },
+    {
+      "start_ms": 558080,
+      "end_ms": 563200,
+      "start": "00:09:18.080",
+      "end": "00:09:23.200",
+      "text": "can bash out here if we need, right? So,"
+    },
+    {
+      "start_ms": 560480,
+      "end_ms": 565279,
+      "start": "00:09:20.480",
+      "end": "00:09:25.279",
+      "text": "this is pretty easy to live."
+    },
+    {
+      "start_ms": 563200,
+      "end_ms": 568160,
+      "start": "00:09:23.200",
+      "end": "00:09:28.160",
+      "text": "If we watch from Guway's POV, it becomes"
+    },
+    {
+      "start_ms": 565279,
+      "end_ms": 568160,
+      "start": "00:09:25.279",
+      "end": "00:09:28.160",
+      "text": "way more obvious,"
+    },
+    {
+      "start_ms": 568200,
+      "end_ms": 575480,
+      "start": "00:09:28.200",
+      "end": "00:09:35.480",
+      "text": "right? Guay's setting up to dive early."
+    },
+    {
+      "start_ms": 571440,
+      "end_ms": 575480,
+      "start": "00:09:31.440",
+      "end": "00:09:35.480",
+      "text": "What else would we do on this comp?"
+    },
+    {
+      "start_ms": 579200,
+      "end_ms": 583920,
+      "start": "00:09:39.200",
+      "end": "00:09:43.920",
+      "text": "The problem is right around here, you"
+    },
+    {
+      "start_ms": 582160,
+      "end_ms": 586399,
+      "start": "00:09:42.160",
+      "end": "00:09:46.399",
+      "text": "realize how powerful what Falcons is"
+    },
+    {
+      "start_ms": 583920,
+      "end_ms": 588959,
+      "start": "00:09:43.920",
+      "end": "00:09:48.959",
+      "text": "doing really is. Guo has to at this"
+    },
+    {
+      "start_ms": 586399,
+      "end_ms": 591040,
+      "start": "00:09:46.399",
+      "end": "00:09:51.040",
+      "text": "moment decide, do I dive here? This was"
+    },
+    {
+      "start_ms": 588959,
+      "end_ms": 592880,
+      "start": "00:09:48.959",
+      "end": "00:09:52.880",
+      "text": "probably our plan, right? was to to farm"
+    },
+    {
+      "start_ms": 591040,
+      "end_ms": 595360,
+      "start": "00:09:51.040",
+      "end": "00:09:55.360",
+      "text": "B and do a B dive or maybe overclock or"
+    },
+    {
+      "start_ms": 592880,
+      "end_ms": 598160,
+      "start": "00:09:52.880",
+      "end": "00:09:58.160",
+      "text": "something. But if I dive here, it's very"
+    },
+    {
+      "start_ms": 595360,
+      "end_ms": 599920,
+      "start": "00:09:55.360",
+      "end": "00:09:59.920",
+      "text": "very far. I'm definitely going to not"
+    },
+    {
+      "start_ms": 598160,
+      "end_ms": 601279,
+      "start": "00:09:58.160",
+      "end": "00:10:01.279",
+      "text": "make it in all the way. Our dive is"
+    },
+    {
+      "start_ms": 599920,
+      "end_ms": 602880,
+      "start": "00:09:59.920",
+      "end": "00:10:02.880",
+      "text": "going to suck, right? It's not good"
+    },
+    {
+      "start_ms": 601279,
+      "end_ms": 604399,
+      "start": "00:10:01.279",
+      "end": "00:10:04.399",
+      "text": "anymore. And now they can actually live"
+    },
+    {
+      "start_ms": 602880,
+      "end_ms": 607360,
+      "start": "00:10:02.880",
+      "end": "00:10:07.360",
+      "text": "this dive and I'm going to get punished,"
+    },
+    {
+      "start_ms": 604399,
+      "end_ms": 609320,
+      "start": "00:10:04.399",
+      "end": "00:10:09.320",
+      "text": "right? Or do I leave and we give Falcons"
+    },
+    {
+      "start_ms": 607360,
+      "end_ms": 611519,
+      "start": "00:10:07.360",
+      "end": "00:10:11.519",
+      "text": "the map, right? And both of these"
+    },
+    {
+      "start_ms": 609320,
+      "end_ms": 613360,
+      "start": "00:10:09.320",
+      "end": "00:10:13.360",
+      "text": "decisions, first of all, they both are"
+    },
+    {
+      "start_ms": 611519,
+      "end_ms": 615200,
+      "start": "00:10:11.519",
+      "end": "00:10:15.200",
+      "text": "not very good, right? If you're once"
+    },
+    {
+      "start_ms": 613360,
+      "end_ms": 617079,
+      "start": "00:10:13.360",
+      "end": "00:10:17.079",
+      "text": "again, but it's difficult to make this"
+    },
+    {
+      "start_ms": 615200,
+      "end_ms": 619360,
+      "start": "00:10:15.200",
+      "end": "00:10:19.360",
+      "text": "decision in the moment."
+    },
+    {
+      "start_ms": 617079,
+      "end_ms": 621519,
+      "start": "00:10:17.079",
+      "end": "00:10:21.519",
+      "text": "um especially if your plan as a dive"
+    },
+    {
+      "start_ms": 619360,
+      "end_ms": 623600,
+      "start": "00:10:19.360",
+      "end": "00:10:23.600",
+      "text": "team was to hold close and dive and now"
+    },
+    {
+      "start_ms": 621519,
+      "end_ms": 625560,
+      "start": "00:10:21.519",
+      "end": "00:10:25.560",
+      "text": "you can see eventually Guay just gives"
+    },
+    {
+      "start_ms": 623600,
+      "end_ms": 629959,
+      "start": "00:10:23.600",
+      "end": "00:10:29.959",
+      "text": "the space"
+    },
+    {
+      "start_ms": 625560,
+      "end_ms": 632880,
+      "start": "00:10:25.560",
+      "end": "00:10:32.880",
+      "text": "right so this is fundamental number"
+    },
+    {
+      "start_ms": 629959,
+      "end_ms": 635600,
+      "start": "00:10:29.959",
+      "end": "00:10:35.600",
+      "text": "one when we're retaking right into"
+    },
+    {
+      "start_ms": 632880,
+      "end_ms": 637440,
+      "start": "00:10:32.880",
+      "end": "00:10:37.440",
+      "text": "divers that are probably set up we find"
+    },
+    {
+      "start_ms": 635600,
+      "end_ms": 639440,
+      "start": "00:10:35.600",
+      "end": "00:10:39.440",
+      "text": "a way to clear them right and this is"
+    },
+    {
+      "start_ms": 637440,
+      "end_ms": 641279,
+      "start": "00:10:37.440",
+      "end": "00:10:41.279",
+      "text": "what CR is missing on the fight that we"
+    },
+    {
+      "start_ms": 639440,
+      "end_ms": 643600,
+      "start": "00:10:39.440",
+      "end": "00:10:43.600",
+      "text": "watch against nightmare if we're going"
+    },
+    {
+      "start_ms": 641279,
+      "end_ms": 645519,
+      "start": "00:10:41.279",
+      "end": "00:10:45.519",
+      "text": "to retake into a tracer and a monkey we"
+    },
+    {
+      "start_ms": 643600,
+      "end_ms": 647680,
+      "start": "00:10:43.600",
+      "end": "00:10:47.680",
+      "text": "need to find a way to clear the tracer"
+    },
+    {
+      "start_ms": 645519,
+      "end_ms": 649120,
+      "start": "00:10:45.519",
+      "end": "00:10:49.120",
+      "text": "and the monkey setup up before we walk"
+    },
+    {
+      "start_ms": 647680,
+      "end_ms": 650519,
+      "start": "00:10:47.680",
+      "end": "00:10:50.519",
+      "text": "up and start worrying about living the"
+    },
+    {
+      "start_ms": 649120,
+      "end_ms": 652880,
+      "start": "00:10:49.120",
+      "end": "00:10:52.880",
+      "text": "dive."
+    },
+    {
+      "start_ms": 650519,
+      "end_ms": 654279,
+      "start": "00:10:50.519",
+      "end": "00:10:54.279",
+      "text": "Right now, let's watch another example."
+    },
+    {
+      "start_ms": 652880,
+      "end_ms": 656959,
+      "start": "00:10:52.880",
+      "end": "00:10:56.959",
+      "text": "Very"
+    },
+    {
+      "start_ms": 654279,
+      "end_ms": 659120,
+      "start": "00:10:54.279",
+      "end": "00:10:59.120",
+      "text": "similar. Same map. We're retaking this"
+    },
+    {
+      "start_ms": 656959,
+      "end_ms": 661279,
+      "start": "00:10:56.959",
+      "end": "00:11:01.279",
+      "text": "point instead. Right. Instead of walking"
+    },
+    {
+      "start_ms": 659120,
+      "end_ms": 661279,
+      "start": "00:10:59.120",
+      "end": "00:11:01.279",
+      "text": "from"
+    },
+    {
+      "start_ms": 663959,
+      "end_ms": 667760,
+      "start": "00:11:03.959",
+      "end": "00:11:07.760",
+      "text": "main, we're going to show main a little"
+    },
+    {
+      "start_ms": 666000,
+      "end_ms": 669600,
+      "start": "00:11:06.000",
+      "end": "00:11:09.600",
+      "text": "bit, right? Just to make the monkey hold"
+    },
+    {
+      "start_ms": 667760,
+      "end_ms": 670720,
+      "start": "00:11:07.760",
+      "end": "00:11:10.720",
+      "text": "here. Because if we immediately start on"
+    },
+    {
+      "start_ms": 669600,
+      "end_ms": 671839,
+      "start": "00:11:09.600",
+      "end": "00:11:11.839",
+      "text": "the right, then the monkey can just set"
+    },
+    {
+      "start_ms": 670720,
+      "end_ms": 673040,
+      "start": "00:11:10.720",
+      "end": "00:11:13.040",
+      "text": "up on the right in the first place,"
+    },
+    {
+      "start_ms": 671839,
+      "end_ms": 674640,
+      "start": "00:11:11.839",
+      "end": "00:11:14.640",
+      "text": "right? So, we're going to poke here for"
+    },
+    {
+      "start_ms": 673040,
+      "end_ms": 676079,
+      "start": "00:11:13.040",
+      "end": "00:11:16.079",
+      "text": "a little bit. And also, usually our"
+    },
+    {
+      "start_ms": 674640,
+      "end_ms": 677839,
+      "start": "00:11:14.640",
+      "end": "00:11:17.839",
+      "text": "div.a is going to stay here for a little"
+    },
+    {
+      "start_ms": 676079,
+      "end_ms": 679120,
+      "start": "00:11:16.079",
+      "end": "00:11:19.120",
+      "text": "bit to make sure people have to stay"
+    },
+    {
+      "start_ms": 677839,
+      "end_ms": 681519,
+      "start": "00:11:17.839",
+      "end": "00:11:21.519",
+      "text": "here, right? And they can't match us"
+    },
+    {
+      "start_ms": 679120,
+      "end_ms": 682839,
+      "start": "00:11:19.120",
+      "end": "00:11:22.839",
+      "text": "rotation early. But after we poked now,"
+    },
+    {
+      "start_ms": 681519,
+      "end_ms": 685880,
+      "start": "00:11:21.519",
+      "end": "00:11:25.880",
+      "text": "we're going to go far"
+    },
+    {
+      "start_ms": 682839,
+      "end_ms": 687920,
+      "start": "00:11:22.839",
+      "end": "00:11:27.920",
+      "text": "right. And"
+    },
+    {
+      "start_ms": 685880,
+      "end_ms": 690800,
+      "start": "00:11:25.880",
+      "end": "00:11:30.800",
+      "text": "again, once again, has to make a"
+    },
+    {
+      "start_ms": 687920,
+      "end_ms": 693040,
+      "start": "00:11:27.920",
+      "end": "00:11:33.040",
+      "text": "decision here. Do I dive? Cuz if I dive"
+    },
+    {
+      "start_ms": 690800,
+      "end_ms": 694959,
+      "start": "00:11:30.800",
+      "end": "00:11:34.959",
+      "text": "here now, my setup is not good anymore."
+    },
+    {
+      "start_ms": 693040,
+      "end_ms": 696959,
+      "start": "00:11:33.040",
+      "end": "00:11:36.959",
+      "text": "And now it's very livable. Right? This"
+    },
+    {
+      "start_ms": 694959,
+      "end_ms": 698720,
+      "start": "00:11:34.959",
+      "end": "00:11:38.720",
+      "text": "is the difference. I don't have to live"
+    },
+    {
+      "start_ms": 696959,
+      "end_ms": 700519,
+      "start": "00:11:36.959",
+      "end": "00:11:40.519",
+      "text": "a good dive because a good dive can't"
+    },
+    {
+      "start_ms": 698720,
+      "end_ms": 703519,
+      "start": "00:11:38.720",
+      "end": "00:11:43.519",
+      "text": "happen."
+    },
+    {
+      "start_ms": 700519,
+      "end_ms": 705519,
+      "start": "00:11:40.519",
+      "end": "00:11:45.519",
+      "text": "Right? Bubble gets forced. Gu is in a"
+    },
+    {
+      "start_ms": 703519,
+      "end_ms": 707360,
+      "start": "00:11:43.519",
+      "end": "00:11:47.360",
+      "text": "really awkward position. He has to jump"
+    },
+    {
+      "start_ms": 705519,
+      "end_ms": 709519,
+      "start": "00:11:45.519",
+      "end": "00:11:49.519",
+      "text": "out to point, right? And so these two"
+    },
+    {
+      "start_ms": 707360,
+      "end_ms": 712560,
+      "start": "00:11:47.360",
+      "end": "00:11:52.560",
+      "text": "fights are very, very incredible"
+    },
+    {
+      "start_ms": 709519,
+      "end_ms": 714320,
+      "start": "00:11:49.519",
+      "end": "00:11:54.320",
+      "text": "examples of how to be playing against"
+    },
+    {
+      "start_ms": 712560,
+      "end_ms": 717399,
+      "start": "00:11:52.560",
+      "end": "00:11:57.399",
+      "text": "dive or against hard engage comps in"
+    },
+    {
+      "start_ms": 714320,
+      "end_ms": 720560,
+      "start": "00:11:54.320",
+      "end": "00:12:00.560",
+      "text": "general, right? How do I clear this"
+    },
+    {
+      "start_ms": 717399,
+      "end_ms": 723720,
+      "start": "00:11:57.399",
+      "end": "00:12:03.720",
+      "text": "setup? Now, if we go back to this fight,"
+    },
+    {
+      "start_ms": 720560,
+      "end_ms": 726240,
+      "start": "00:12:00.560",
+      "end": "00:12:06.240",
+      "text": "right, this was a fight that I said this"
+    },
+    {
+      "start_ms": 723720,
+      "end_ms": 728320,
+      "start": "00:12:03.720",
+      "end": "00:12:08.320",
+      "text": "team should have an incredibly easy time"
+    },
+    {
+      "start_ms": 726240,
+      "end_ms": 729839,
+      "start": "00:12:06.240",
+      "end": "00:12:09.839",
+      "text": "of living this. Um, and if you think"
+    },
+    {
+      "start_ms": 728320,
+      "end_ms": 732320,
+      "start": "00:12:08.320",
+      "end": "00:12:12.320",
+      "text": "about it, even though we know that they"
+    },
+    {
+      "start_ms": 729839,
+      "end_ms": 734079,
+      "start": "00:12:09.839",
+      "end": "00:12:14.079",
+      "text": "lose this fight, on paper, they should"
+    },
+    {
+      "start_ms": 732320,
+      "end_ms": 736000,
+      "start": "00:12:12.320",
+      "end": "00:12:16.000",
+      "text": "have a good chance of living this dive."
+    },
+    {
+      "start_ms": 734079,
+      "end_ms": 738160,
+      "start": "00:12:14.079",
+      "end": "00:12:18.160",
+      "text": "So, if we're not retaking, we're"
+    },
+    {
+      "start_ms": 736000,
+      "end_ms": 740399,
+      "start": "00:12:16.000",
+      "end": "00:12:20.399",
+      "text": "defending the retake instead. What does"
+    },
+    {
+      "start_ms": 738160,
+      "end_ms": 742240,
+      "start": "00:12:18.160",
+      "end": "00:12:22.240",
+      "text": "it look like to stop a good dive from"
+    },
+    {
+      "start_ms": 740399,
+      "end_ms": 745120,
+      "start": "00:12:20.399",
+      "end": "00:12:25.120",
+      "text": "happening? And this is actually kind of"
+    },
+    {
+      "start_ms": 742240,
+      "end_ms": 747200,
+      "start": "00:12:22.240",
+      "end": "00:12:27.200",
+      "text": "in a weird way more difficult than doing"
+    },
+    {
+      "start_ms": 745120,
+      "end_ms": 748959,
+      "start": "00:12:25.120",
+      "end": "00:12:28.959",
+      "text": "the retake. The retake is actually"
+    },
+    {
+      "start_ms": 747200,
+      "end_ms": 750720,
+      "start": "00:12:27.200",
+      "end": "00:12:30.720",
+      "text": "pretty easy because finding the outside"
+    },
+    {
+      "start_ms": 748959,
+      "end_ms": 752399,
+      "start": "00:12:28.959",
+      "end": "00:12:32.399",
+      "text": "of the map and and clearing very very"
+    },
+    {
+      "start_ms": 750720,
+      "end_ms": 753839,
+      "start": "00:12:30.720",
+      "end": "00:12:33.839",
+      "text": "passively, taking the widest angles"
+    },
+    {
+      "start_ms": 752399,
+      "end_ms": 755680,
+      "start": "00:12:32.399",
+      "end": "00:12:35.680",
+      "text": "possible, that's actually not that"
+    },
+    {
+      "start_ms": 753839,
+      "end_ms": 757200,
+      "start": "00:12:33.839",
+      "end": "00:12:37.200",
+      "text": "difficult to do. Starting with control"
+    },
+    {
+      "start_ms": 755680,
+      "end_ms": 758720,
+      "start": "00:12:35.680",
+      "end": "00:12:38.720",
+      "text": "of the point when the enemy team can go"
+    },
+    {
+      "start_ms": 757200,
+      "end_ms": 759920,
+      "start": "00:12:37.200",
+      "end": "00:12:39.920",
+      "text": "anywhere on the map that they want is"
+    },
+    {
+      "start_ms": 758720,
+      "end_ms": 761279,
+      "start": "00:12:38.720",
+      "end": "00:12:41.279",
+      "text": "actually the more difficult thing to do"
+    },
+    {
+      "start_ms": 759920,
+      "end_ms": 763200,
+      "start": "00:12:39.920",
+      "end": "00:12:43.200",
+      "text": "when you're playing this type of play"
+    },
+    {
+      "start_ms": 761279,
+      "end_ms": 765760,
+      "start": "00:12:41.279",
+      "end": "00:12:45.760",
+      "text": "style to stop good dives from happening"
+    },
+    {
+      "start_ms": 763200,
+      "end_ms": 768079,
+      "start": "00:12:43.200",
+      "end": "00:12:48.079",
+      "text": "and to live dives. Right? So, what's the"
+    },
+    {
+      "start_ms": 765760,
+      "end_ms": 769519,
+      "start": "00:12:45.760",
+      "end": "00:12:49.519",
+      "text": "moment the dive starts to become good?"
+    },
+    {
+      "start_ms": 768079,
+      "end_ms": 771440,
+      "start": "00:12:48.079",
+      "end": "00:12:51.440",
+      "text": "This is what we pinpoint. And there's"
+    },
+    {
+      "start_ms": 769519,
+      "end_ms": 773200,
+      "start": "00:12:49.519",
+      "end": "00:12:53.200",
+      "text": "two things I'm looking for. One, I'm"
+    },
+    {
+      "start_ms": 771440,
+      "end_ms": 774720,
+      "start": "00:12:51.440",
+      "end": "00:12:54.720",
+      "text": "looking for DPS to start splitting and"
+    },
+    {
+      "start_ms": 773200,
+      "end_ms": 777120,
+      "start": "00:12:53.200",
+      "end": "00:12:57.120",
+      "text": "getting good angles, right? If anyone"
+    },
+    {
+      "start_ms": 774720,
+      "end_ms": 779200,
+      "start": "00:12:54.720",
+      "end": "00:12:59.200",
+      "text": "gets top right, if anyone gets top left,"
+    },
+    {
+      "start_ms": 777120,
+      "end_ms": 781760,
+      "start": "00:12:57.120",
+      "end": "00:13:01.760",
+      "text": "these are warning signs, right, that the"
+    },
+    {
+      "start_ms": 779200,
+      "end_ms": 783200,
+      "start": "00:12:59.200",
+      "end": "00:13:03.200",
+      "text": "setup is about to become good, right? We"
+    },
+    {
+      "start_ms": 781760,
+      "end_ms": 784959,
+      "start": "00:13:01.760",
+      "end": "00:13:04.959",
+      "text": "need to start doing something. either we"
+    },
+    {
+      "start_ms": 783200,
+      "end_ms": 786480,
+      "start": "00:13:03.200",
+      "end": "00:13:06.480",
+      "text": "need to go match those people if we have"
+    },
+    {
+      "start_ms": 784959,
+      "end_ms": 787920,
+      "start": "00:13:04.959",
+      "end": "00:13:07.920",
+      "text": "the ability to or we need to start"
+    },
+    {
+      "start_ms": 786480,
+      "end_ms": 789920,
+      "start": "00:13:06.480",
+      "end": "00:13:09.920",
+      "text": "pushing other people out to make sure"
+    },
+    {
+      "start_ms": 787920,
+      "end_ms": 792079,
+      "start": "00:13:07.920",
+      "end": "00:13:12.079",
+      "text": "that they can't help this person. Right?"
+    },
+    {
+      "start_ms": 789920,
+      "end_ms": 793839,
+      "start": "00:13:09.920",
+      "end": "00:13:13.839",
+      "text": "The other thing is pretty simple the"
+    },
+    {
+      "start_ms": 792079,
+      "end_ms": 795680,
+      "start": "00:13:12.079",
+      "end": "00:13:15.680",
+      "text": "monkey getting space. If the monkey"
+    },
+    {
+      "start_ms": 793839,
+      "end_ms": 797760,
+      "start": "00:13:13.839",
+      "end": "00:13:17.760",
+      "text": "starts to get space the better his jump"
+    },
+    {
+      "start_ms": 795680,
+      "end_ms": 800079,
+      "start": "00:13:15.680",
+      "end": "00:13:20.079",
+      "text": "is going to be from where he is, the"
+    },
+    {
+      "start_ms": 797760,
+      "end_ms": 803519,
+      "start": "00:13:17.760",
+      "end": "00:13:23.519",
+      "text": "more we are pressured to stop this"
+    },
+    {
+      "start_ms": 800079,
+      "end_ms": 805279,
+      "start": "00:13:20.079",
+      "end": "00:13:25.279",
+      "text": "setup, right? So if you watch here, the"
+    },
+    {
+      "start_ms": 803519,
+      "end_ms": 806800,
+      "start": "00:13:23.519",
+      "end": "00:13:26.800",
+      "text": "tracer is left. So this is warning sign"
+    },
+    {
+      "start_ms": 805279,
+      "end_ms": 808480,
+      "start": "00:13:25.279",
+      "end": "00:13:28.480",
+      "text": "number one. We need to start walking up"
+    },
+    {
+      "start_ms": 806800,
+      "end_ms": 809760,
+      "start": "00:13:26.800",
+      "end": "00:13:29.760",
+      "text": "a little bit because the tracer setup is"
+    },
+    {
+      "start_ms": 808480,
+      "end_ms": 813240,
+      "start": "00:13:28.480",
+      "end": "00:13:33.240",
+      "text": "about to become good. It's getting"
+    },
+    {
+      "start_ms": 809760,
+      "end_ms": 813240,
+      "start": "00:13:29.760",
+      "end": "00:13:33.240",
+      "text": "better every second."
+    },
+    {
+      "start_ms": 816000,
+      "end_ms": 819040,
+      "start": "00:13:36.000",
+      "end": "00:13:39.040",
+      "text": "Right. So, warning sign number one that"
+    },
+    {
+      "start_ms": 817839,
+      "end_ms": 821279,
+      "start": "00:13:37.839",
+      "end": "00:13:41.279",
+      "text": "we should start doing something. Warning"
+    },
+    {
+      "start_ms": 819040,
+      "end_ms": 823760,
+      "start": "00:13:39.040",
+      "end": "00:13:43.760",
+      "text": "sign number two has just happened. Ushe"
+    },
+    {
+      "start_ms": 821279,
+      "end_ms": 826800,
+      "start": "00:13:41.279",
+      "end": "00:13:46.800",
+      "text": "is on point. Right. So, this setup, if"
+    },
+    {
+      "start_ms": 823760,
+      "end_ms": 829040,
+      "start": "00:13:43.760",
+      "end": "00:13:49.040",
+      "text": "you think about it, is very good from"
+    },
+    {
+      "start_ms": 826800,
+      "end_ms": 831440,
+      "start": "00:13:46.800",
+      "end": "00:13:51.440",
+      "text": "now, right? So, what we need to do is"
+    },
+    {
+      "start_ms": 829040,
+      "end_ms": 834240,
+      "start": "00:13:49.040",
+      "end": "00:13:54.240",
+      "text": "use one of these alts to clear this"
+    },
+    {
+      "start_ms": 831440,
+      "end_ms": 836240,
+      "start": "00:13:51.440",
+      "end": "00:13:56.240",
+      "text": "setup and take it back to a position"
+    },
+    {
+      "start_ms": 834240,
+      "end_ms": 837760,
+      "start": "00:13:54.240",
+      "end": "00:13:57.760",
+      "text": "where their setup is not good and we"
+    },
+    {
+      "start_ms": 836240,
+      "end_ms": 838839,
+      "start": "00:13:56.240",
+      "end": "00:13:58.839",
+      "text": "don't have to be living a good dive,"
+    },
+    {
+      "start_ms": 837760,
+      "end_ms": 841279,
+      "start": "00:13:57.760",
+      "end": "00:14:01.279",
+      "text": "right?"
+    },
+    {
+      "start_ms": 838839,
+      "end_ms": 842560,
+      "start": "00:13:58.839",
+      "end": "00:14:02.560",
+      "text": "Um, if this is a pure neutral, you can"
+    },
+    {
+      "start_ms": 841279,
+      "end_ms": 844000,
+      "start": "00:14:01.279",
+      "end": "00:14:04.000",
+      "text": "do this just with the swing like they"
+    },
+    {
+      "start_ms": 842560,
+      "end_ms": 846560,
+      "start": "00:14:02.560",
+      "end": "00:14:06.560",
+      "text": "did, right? You could just ring up and"
+    },
+    {
+      "start_ms": 844000,
+      "end_ms": 848320,
+      "start": "00:14:04.000",
+      "end": "00:14:08.320",
+      "text": "they actually do understand this pretty"
+    },
+    {
+      "start_ms": 846560,
+      "end_ms": 850079,
+      "start": "00:14:06.560",
+      "end": "00:14:10.079",
+      "text": "well, right? You can see them feel the"
+    },
+    {
+      "start_ms": 848320,
+      "end_ms": 851680,
+      "start": "00:14:08.320",
+      "end": "00:14:11.680",
+      "text": "pressure and ring up. The difference is"
+    },
+    {
+      "start_ms": 850079,
+      "end_ms": 852959,
+      "start": "00:14:10.079",
+      "end": "00:14:12.959",
+      "text": "this is a really big old fight, so you"
+    },
+    {
+      "start_ms": 851680,
+      "end_ms": 854639,
+      "start": "00:14:11.680",
+      "end": "00:14:14.639",
+      "text": "need to commit one of your ults to do"
+    },
+    {
+      "start_ms": 852959,
+      "end_ms": 856160,
+      "start": "00:14:12.959",
+      "end": "00:14:16.160",
+      "text": "this, right? Um, we're not going to be"
+    },
+    {
+      "start_ms": 854639,
+      "end_ms": 858240,
+      "start": "00:14:14.639",
+      "end": "00:14:18.240",
+      "text": "able to clear this setup when they have"
+    },
+    {
+      "start_ms": 856160,
+      "end_ms": 860720,
+      "start": "00:14:16.160",
+      "end": "00:14:20.720",
+      "text": "three incredibly, incredibly strongs"
+    },
+    {
+      "start_ms": 858240,
+      "end_ms": 862800,
+      "start": "00:14:18.240",
+      "end": "00:14:22.800",
+      "text": "with just a whip shot, right? I need to"
+    },
+    {
+      "start_ms": 860720,
+      "end_ms": 864720,
+      "start": "00:14:20.720",
+      "end": "00:14:24.720",
+      "text": "pop one of my DPS ults. I probably also"
+    },
+    {
+      "start_ms": 862800,
+      "end_ms": 866800,
+      "start": "00:14:22.800",
+      "end": "00:14:26.800",
+      "text": "need to pop my rally. I need to use my"
+    },
+    {
+      "start_ms": 864720,
+      "end_ms": 869040,
+      "start": "00:14:24.720",
+      "end": "00:14:29.040",
+      "text": "ults to clear this setup now and the"
+    },
+    {
+      "start_ms": 866800,
+      "end_ms": 871120,
+      "start": "00:14:26.800",
+      "end": "00:14:31.120",
+      "text": "dive won't get to a position where it's"
+    },
+    {
+      "start_ms": 869040,
+      "end_ms": 873680,
+      "start": "00:14:29.040",
+      "end": "00:14:33.680",
+      "text": "good. Right? Unfortunately, they wait"
+    },
+    {
+      "start_ms": 871120,
+      "end_ms": 877399,
+      "start": "00:14:31.120",
+      "end": "00:14:37.399",
+      "text": "too late to pop their alts. And now the"
+    },
+    {
+      "start_ms": 873680,
+      "end_ms": 877399,
+      "start": "00:14:33.680",
+      "end": "00:14:37.399",
+      "text": "dive is good. Right?"
+    },
+    {
+      "start_ms": 878079,
+      "end_ms": 881279,
+      "start": "00:14:38.079",
+      "end": "00:14:41.279",
+      "text": "So, I don't have many more fights to"
+    },
+    {
+      "start_ms": 879920,
+      "end_ms": 883040,
+      "start": "00:14:39.920",
+      "end": "00:14:43.040",
+      "text": "look at. I wanted to keep this video"
+    },
+    {
+      "start_ms": 881279,
+      "end_ms": 885360,
+      "start": "00:14:41.279",
+      "end": "00:14:45.360",
+      "text": "kind of short. But the important"
+    },
+    {
+      "start_ms": 883040,
+      "end_ms": 887680,
+      "start": "00:14:43.040",
+      "end": "00:14:47.680",
+      "text": "takeaway, if you skip to the end, you"
+    },
+    {
+      "start_ms": 885360,
+      "end_ms": 889279,
+      "start": "00:14:45.360",
+      "end": "00:14:49.279",
+      "text": "cannot live a good dive ever. Doesn't"
+    },
+    {
+      "start_ms": 887680,
+      "end_ms": 891199,
+      "start": "00:14:47.680",
+      "end": "00:14:51.199",
+      "text": "matter who you are, doesn't matter how"
+    },
+    {
+      "start_ms": 889279,
+      "end_ms": 893519,
+      "start": "00:14:49.279",
+      "end": "00:14:53.519",
+      "text": "much better you are than the enemy team,"
+    },
+    {
+      "start_ms": 891199,
+      "end_ms": 895920,
+      "start": "00:14:51.199",
+      "end": "00:14:55.920",
+      "text": "you will never live a good dive. So, if"
+    },
+    {
+      "start_ms": 893519,
+      "end_ms": 898240,
+      "start": "00:14:53.519",
+      "end": "00:14:58.240",
+      "text": "you're playing against engage comps,"
+    },
+    {
+      "start_ms": 895920,
+      "end_ms": 900880,
+      "start": "00:14:55.920",
+      "end": "00:15:00.880",
+      "text": "hard engage comps, dive comps, you need"
+    },
+    {
+      "start_ms": 898240,
+      "end_ms": 903040,
+      "start": "00:14:58.240",
+      "end": "00:15:03.040",
+      "text": "to think about how do I make the dive"
+    },
+    {
+      "start_ms": 900880,
+      "end_ms": 905040,
+      "start": "00:15:00.880",
+      "end": "00:15:05.040",
+      "text": "bad? How do I retake in a way that"
+    },
+    {
+      "start_ms": 903040,
+      "end_ms": 908000,
+      "start": "00:15:03.040",
+      "end": "00:15:08.000",
+      "text": "doesn't make me divable? Where I get"
+    },
+    {
+      "start_ms": 905040,
+      "end_ms": 910720,
+      "start": "00:15:05.040",
+      "end": "00:15:10.720",
+      "text": "around divers where they're pressured to"
+    },
+    {
+      "start_ms": 908000,
+      "end_ms": 912240,
+      "start": "00:15:08.000",
+      "end": "00:15:12.240",
+      "text": "jump over very, very long distances,"
+    },
+    {
+      "start_ms": 910720,
+      "end_ms": 914199,
+      "start": "00:15:10.720",
+      "end": "00:15:14.199",
+      "text": "right? And I have high amounts of"
+    },
+    {
+      "start_ms": 912240,
+      "end_ms": 916480,
+      "start": "00:15:12.240",
+      "end": "00:15:16.480",
+      "text": "information. If I'm defending the"
+    },
+    {
+      "start_ms": 914199,
+      "end_ms": 918480,
+      "start": "00:15:14.199",
+      "end": "00:15:18.480",
+      "text": "retake, what is the exact moment where"
+    },
+    {
+      "start_ms": 916480,
+      "end_ms": 919920,
+      "start": "00:15:16.480",
+      "end": "00:15:19.920",
+      "text": "their setup is about to become good? And"
+    },
+    {
+      "start_ms": 918480,
+      "end_ms": 922320,
+      "start": "00:15:18.480",
+      "end": "00:15:22.320",
+      "text": "how do I stop that from happening,"
+    },
+    {
+      "start_ms": 919920,
+      "end_ms": 925120,
+      "start": "00:15:19.920",
+      "end": "00:15:25.120",
+      "text": "right? At any cost. Even if I want to"
+    },
+    {
+      "start_ms": 922320,
+      "end_ms": 929000,
+      "start": "00:15:22.320",
+      "end": "00:15:29.000",
+      "text": "play slow, I'm not going to let them get"
+    },
+    {
+      "start_ms": 925120,
+      "end_ms": 929000,
+      "start": "00:15:25.120",
+      "end": "00:15:29.000",
+      "text": "a good setup ever."
+    }
+  ]
+}

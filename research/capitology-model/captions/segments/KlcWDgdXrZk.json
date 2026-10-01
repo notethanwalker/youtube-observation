@@ -1,0 +1,3089 @@
+{
+  "video_id": "KlcWDgdXrZk",
+  "title": "Playing Second: The Mind Control Warfare of Team Falcons",
+  "url": "https://www.youtube.com/watch?v=KlcWDgdXrZk",
+  "upload_date": "2026-03-08",
+  "duration_seconds": 844,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:20:02.011935+00:00",
+  "source_sha256": "975ced3a024a13da174df95da6dc7197fc1374dc448a2467c64ce61f6ba2dad1",
+  "source_bytes": 254672,
+  "segment_count": 438,
+  "word_count": 3013,
+  "character_count": 16437,
+  "first_segment_ms": 320,
+  "last_segment_end_ms": 845680,
+  "leading_gap_seconds": 0.32,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 320,
+      "end_ms": 3160,
+      "start": "00:00:00.320",
+      "end": "00:00:03.160",
+      "text": "If you're into competitive OverWatch,"
+    },
+    {
+      "start_ms": 1840,
+      "end_ms": 5240,
+      "start": "00:00:01.840",
+      "end": "00:00:05.240",
+      "text": "you might have heard that some teams"
+    },
+    {
+      "start_ms": 3160,
+      "end_ms": 6800,
+      "start": "00:00:03.160",
+      "end": "00:00:06.800",
+      "text": "like to play first and some teams like"
+    },
+    {
+      "start_ms": 5240,
+      "end_ms": 8280,
+      "start": "00:00:05.240",
+      "end": "00:00:08.280",
+      "text": "to play second."
+    },
+    {
+      "start_ms": 6800,
+      "end_ms": 9960,
+      "start": "00:00:06.800",
+      "end": "00:00:09.960",
+      "text": "If you've ever watched my channel or my"
+    },
+    {
+      "start_ms": 8280,
+      "end_ms": 11760,
+      "start": "00:00:08.280",
+      "end": "00:00:11.760",
+      "text": "streams, you'll know that I don't like"
+    },
+    {
+      "start_ms": 9960,
+      "end_ms": 13200,
+      "start": "00:00:09.960",
+      "end": "00:00:13.200",
+      "text": "these terms very much."
+    },
+    {
+      "start_ms": 11760,
+      "end_ms": 15840,
+      "start": "00:00:11.760",
+      "end": "00:00:15.840",
+      "text": "And that's because they're great"
+    },
+    {
+      "start_ms": 13200,
+      "end_ms": 17280,
+      "start": "00:00:13.200",
+      "end": "00:00:17.280",
+      "text": "descriptors for what's going on,"
+    },
+    {
+      "start_ms": 15840,
+      "end_ms": 20920,
+      "start": "00:00:15.840",
+      "end": "00:00:20.920",
+      "text": "but they often get thrown around as"
+    },
+    {
+      "start_ms": 17280,
+      "end_ms": 23080,
+      "start": "00:00:17.280",
+      "end": "00:00:23.080",
+      "text": "pieces of advice. You should play first."
+    },
+    {
+      "start_ms": 20920,
+      "end_ms": 24280,
+      "start": "00:00:20.920",
+      "end": "00:00:24.280",
+      "text": "Or you should play second. And even"
+    },
+    {
+      "start_ms": 23080,
+      "end_ms": 25800,
+      "start": "00:00:23.080",
+      "end": "00:00:25.800",
+      "text": "though that's a good description of the"
+    },
+    {
+      "start_ms": 24280,
+      "end_ms": 27680,
+      "start": "00:00:24.280",
+      "end": "00:00:27.680",
+      "text": "play style, it's not going to teach"
+    },
+    {
+      "start_ms": 25800,
+      "end_ms": 28920,
+      "start": "00:00:25.800",
+      "end": "00:00:28.920",
+      "text": "anyone how to do it. Today we'll be"
+    },
+    {
+      "start_ms": 27680,
+      "end_ms": 30320,
+      "start": "00:00:27.680",
+      "end": "00:00:30.320",
+      "text": "watching one of the most interesting"
+    },
+    {
+      "start_ms": 28920,
+      "end_ms": 32279,
+      "start": "00:00:28.920",
+      "end": "00:00:32.279",
+      "text": "matches from the boot camp tournament"
+    },
+    {
+      "start_ms": 30320,
+      "end_ms": 33560,
+      "start": "00:00:30.320",
+      "end": "00:00:33.560",
+      "text": "that happened recently. Team Falcons and"
+    },
+    {
+      "start_ms": 32279,
+      "end_ms": 35440,
+      "start": "00:00:32.279",
+      "end": "00:00:35.440",
+      "text": "Crazy Raccoon have played each other"
+    },
+    {
+      "start_ms": 33560,
+      "end_ms": 37560,
+      "start": "00:00:33.560",
+      "end": "00:00:37.560",
+      "text": "more times than I can count, and you"
+    },
+    {
+      "start_ms": 35440,
+      "end_ms": 39200,
+      "start": "00:00:35.440",
+      "end": "00:00:39.200",
+      "text": "couldn't ask for a better example of a"
+    },
+    {
+      "start_ms": 37560,
+      "end_ms": 41000,
+      "start": "00:00:37.560",
+      "end": "00:00:41.000",
+      "text": "team that plays first against a team"
+    },
+    {
+      "start_ms": 39200,
+      "end_ms": 42800,
+      "start": "00:00:39.200",
+      "end": "00:00:42.800",
+      "text": "that plays second. Now, what does it"
+    },
+    {
+      "start_ms": 41000,
+      "end_ms": 44240,
+      "start": "00:00:41.000",
+      "end": "00:00:44.240",
+      "text": "mean to do both things? What are the"
+    },
+    {
+      "start_ms": 42800,
+      "end_ms": 47040,
+      "start": "00:00:42.800",
+      "end": "00:00:47.040",
+      "text": "strengths and weaknesses of each play"
+    },
+    {
+      "start_ms": 44240,
+      "end_ms": 48480,
+      "start": "00:00:44.240",
+      "end": "00:00:48.480",
+      "text": "style? And how do you actually do them"
+    },
+    {
+      "start_ms": 47040,
+      "end_ms": 49880,
+      "start": "00:00:47.040",
+      "end": "00:00:49.880",
+      "text": "in the game?"
+    },
+    {
+      "start_ms": 48480,
+      "end_ms": 51560,
+      "start": "00:00:48.480",
+      "end": "00:00:51.560",
+      "text": "The first fight we're going to look at"
+    },
+    {
+      "start_ms": 49880,
+      "end_ms": 52760,
+      "start": "00:00:49.880",
+      "end": "00:00:52.760",
+      "text": "is a couple fights in into first point"
+    },
+    {
+      "start_ms": 51560,
+      "end_ms": 54320,
+      "start": "00:00:51.560",
+      "end": "00:00:54.320",
+      "text": "defense."
+    },
+    {
+      "start_ms": 52760,
+      "end_ms": 56560,
+      "start": "00:00:52.760",
+      "end": "00:00:56.560",
+      "text": "The initial ideas of playing second are"
+    },
+    {
+      "start_ms": 54320,
+      "end_ms": 59040,
+      "start": "00:00:54.320",
+      "end": "00:00:59.040",
+      "text": "pretty obvious. We aren't going to try"
+    },
+    {
+      "start_ms": 56560,
+      "end_ms": 61560,
+      "start": "00:00:56.560",
+      "end": "00:01:01.560",
+      "text": "to stop Crazy Raccoon from making their"
+    },
+    {
+      "start_ms": 59040,
+      "end_ms": 63320,
+      "start": "00:00:59.040",
+      "end": "00:01:03.320",
+      "text": "first decision. Here, Falcons lets Crazy"
+    },
+    {
+      "start_ms": 61560,
+      "end_ms": 64440,
+      "start": "00:01:01.560",
+      "end": "00:01:04.440",
+      "text": "Raccoon rotate through top and get into"
+    },
+    {
+      "start_ms": 63320,
+      "end_ms": 66280,
+      "start": "00:01:03.320",
+      "end": "00:01:06.280",
+      "text": "the room."
+    },
+    {
+      "start_ms": 64440,
+      "end_ms": 68200,
+      "start": "00:01:04.440",
+      "end": "00:01:08.200",
+      "text": "We are, however, going to set ourselves"
+    },
+    {
+      "start_ms": 66280,
+      "end_ms": 70320,
+      "start": "00:01:06.280",
+      "end": "00:01:10.320",
+      "text": "up flexibly so that we can punish"
+    },
+    {
+      "start_ms": 68200,
+      "end_ms": 71760,
+      "start": "00:01:08.200",
+      "end": "00:01:11.760",
+      "text": "whatever decision they make. Here,"
+    },
+    {
+      "start_ms": 70320,
+      "end_ms": 73240,
+      "start": "00:01:10.320",
+      "end": "00:01:13.240",
+      "text": "Hanbin and Checkmate are both stuffing"
+    },
+    {
+      "start_ms": 71760,
+      "end_ms": 74520,
+      "start": "00:01:11.760",
+      "end": "00:01:14.520",
+      "text": "the room, while Merit's punishing the"
+    },
+    {
+      "start_ms": 73240,
+      "end_ms": 76200,
+      "start": "00:01:13.240",
+      "end": "00:01:16.200",
+      "text": "point touch."
+    },
+    {
+      "start_ms": 74520,
+      "end_ms": 78240,
+      "start": "00:01:14.520",
+      "end": "00:01:18.240",
+      "text": "With Heesang dead to some bad micra on"
+    },
+    {
+      "start_ms": 76200,
+      "end_ms": 80200,
+      "start": "00:01:16.200",
+      "end": "00:01:20.200",
+      "text": "point, Crazy Raccoon's going to spend"
+    },
+    {
+      "start_ms": 78240,
+      "end_ms": 82720,
+      "start": "00:01:18.240",
+      "end": "00:01:22.720",
+      "text": "some time in this room"
+    },
+    {
+      "start_ms": 80200,
+      "end_ms": 84840,
+      "start": "00:01:20.200",
+      "end": "00:01:24.840",
+      "text": "figuring out what the best decision is."
+    },
+    {
+      "start_ms": 82720,
+      "end_ms": 86520,
+      "start": "00:01:22.720",
+      "end": "00:01:26.520",
+      "text": "This is the core of the problem. Falcons"
+    },
+    {
+      "start_ms": 84840,
+      "end_ms": 88040,
+      "start": "00:01:24.840",
+      "end": "00:01:28.040",
+      "text": "is not going to stop Crazy Raccoon from"
+    },
+    {
+      "start_ms": 86520,
+      "end_ms": 89400,
+      "start": "00:01:26.520",
+      "end": "00:01:29.400",
+      "text": "making decisions, but they're going to"
+    },
+    {
+      "start_ms": 88040,
+      "end_ms": 92120,
+      "start": "00:01:28.040",
+      "end": "00:01:32.120",
+      "text": "let them make the decision and then"
+    },
+    {
+      "start_ms": 89400,
+      "end_ms": 94760,
+      "start": "00:01:29.400",
+      "end": "00:01:34.760",
+      "text": "punish them for it. Now, let them make"
+    },
+    {
+      "start_ms": 92120,
+      "end_ms": 96320,
+      "start": "00:01:32.120",
+      "end": "00:01:36.320",
+      "text": "the decision is not great terminology."
+    },
+    {
+      "start_ms": 94760,
+      "end_ms": 97640,
+      "start": "00:01:34.760",
+      "end": "00:01:37.640",
+      "text": "Really, what they're doing is pressuring"
+    },
+    {
+      "start_ms": 96320,
+      "end_ms": 99480,
+      "start": "00:01:36.320",
+      "end": "00:01:39.480",
+      "text": "and forcing them to make certain"
+    },
+    {
+      "start_ms": 97640,
+      "end_ms": 100800,
+      "start": "00:01:37.640",
+      "end": "00:01:40.800",
+      "text": "specific decisions,"
+    },
+    {
+      "start_ms": 99480,
+      "end_ms": 102960,
+      "start": "00:01:39.480",
+      "end": "00:01:42.960",
+      "text": "but we'll get into the example of that"
+    },
+    {
+      "start_ms": 100800,
+      "end_ms": 105240,
+      "start": "00:01:40.800",
+      "end": "00:01:45.240",
+      "text": "later. Here, Checkmate's going to let"
+    },
+    {
+      "start_ms": 102960,
+      "end_ms": 106800,
+      "start": "00:01:42.960",
+      "end": "00:01:46.800",
+      "text": "Hanbin stuff left on his own, and he's"
+    },
+    {
+      "start_ms": 105240,
+      "end_ms": 108800,
+      "start": "00:01:45.240",
+      "end": "00:01:48.800",
+      "text": "going to go set back up flexibly and"
+    },
+    {
+      "start_ms": 106800,
+      "end_ms": 110080,
+      "start": "00:01:46.800",
+      "end": "00:01:50.080",
+      "text": "take the top right. If you're going to"
+    },
+    {
+      "start_ms": 108800,
+      "end_ms": 112160,
+      "start": "00:01:48.800",
+      "end": "00:01:52.160",
+      "text": "be letting the enemy team make a"
+    },
+    {
+      "start_ms": 110080,
+      "end_ms": 114120,
+      "start": "00:01:50.080",
+      "end": "00:01:54.120",
+      "text": "decision, you need to set up so you can"
+    },
+    {
+      "start_ms": 112160,
+      "end_ms": 115920,
+      "start": "00:01:52.160",
+      "end": "00:01:55.920",
+      "text": "punish them no matter what they do."
+    },
+    {
+      "start_ms": 114120,
+      "end_ms": 117480,
+      "start": "00:01:54.120",
+      "end": "00:01:57.480",
+      "text": "Crazy Raccoon can rotate under here,"
+    },
+    {
+      "start_ms": 115920,
+      "end_ms": 119600,
+      "start": "00:01:55.920",
+      "end": "00:01:59.600",
+      "text": "they can rotate through left, or they"
+    },
+    {
+      "start_ms": 117480,
+      "end_ms": 121800,
+      "start": "00:01:57.480",
+      "end": "00:02:01.800",
+      "text": "can come out top. Hanbin's watching"
+    },
+    {
+      "start_ms": 119600,
+      "end_ms": 123560,
+      "start": "00:01:59.600",
+      "end": "00:02:03.560",
+      "text": "left, Merit's watching main, and"
+    },
+    {
+      "start_ms": 121800,
+      "end_ms": 125280,
+      "start": "00:02:01.800",
+      "end": "00:02:05.280",
+      "text": "Checkmate's stuffing the top right."
+    },
+    {
+      "start_ms": 123560,
+      "end_ms": 127520,
+      "start": "00:02:03.560",
+      "end": "00:02:07.520",
+      "text": "After he gets that scouting, he backs"
+    },
+    {
+      "start_ms": 125280,
+      "end_ms": 129640,
+      "start": "00:02:05.280",
+      "end": "00:02:09.640",
+      "text": "down. Again, we're not trying to stop"
+    },
+    {
+      "start_ms": 127520,
+      "end_ms": 130920,
+      "start": "00:02:07.520",
+      "end": "00:02:10.920",
+      "text": "them from coming out right. I'm just"
+    },
+    {
+      "start_ms": 129640,
+      "end_ms": 133200,
+      "start": "00:02:09.640",
+      "end": "00:02:13.200",
+      "text": "trying to make sure I'm in a position to"
+    },
+    {
+      "start_ms": 130920,
+      "end_ms": 135280,
+      "start": "00:02:10.920",
+      "end": "00:02:15.280",
+      "text": "punish them if they do. You can see the"
+    },
+    {
+      "start_ms": 133200,
+      "end_ms": 136840,
+      "start": "00:02:13.200",
+      "end": "00:02:16.840",
+      "text": "same for Hanbin on point. He's not"
+    },
+    {
+      "start_ms": 135280,
+      "end_ms": 138920,
+      "start": "00:02:15.280",
+      "end": "00:02:18.920",
+      "text": "actually trying to stop them from going"
+    },
+    {
+      "start_ms": 136840,
+      "end_ms": 140520,
+      "start": "00:02:16.840",
+      "end": "00:02:20.520",
+      "text": "left, just setting himself up so that if"
+    },
+    {
+      "start_ms": 138920,
+      "end_ms": 142080,
+      "start": "00:02:18.920",
+      "end": "00:02:22.080",
+      "text": "they do go left, he's ready to punish"
+    },
+    {
+      "start_ms": 140520,
+      "end_ms": 143880,
+      "start": "00:02:20.520",
+      "end": "00:02:23.880",
+      "text": "them. Now that Crazy Raccoon are"
+    },
+    {
+      "start_ms": 142080,
+      "end_ms": 146400,
+      "start": "00:02:22.080",
+      "end": "00:02:26.400",
+      "text": "peaking, Hanbin and Checkmate are going"
+    },
+    {
+      "start_ms": 143880,
+      "end_ms": 148680,
+      "start": "00:02:23.880",
+      "end": "00:02:28.680",
+      "text": "to offer them a CD trade. For a lot of"
+    },
+    {
+      "start_ms": 146400,
+      "end_ms": 150440,
+      "start": "00:02:26.400",
+      "end": "00:02:30.440",
+      "text": "teams, this would feel pretty weird. If"
+    },
+    {
+      "start_ms": 148680,
+      "end_ms": 152080,
+      "start": "00:02:28.680",
+      "end": "00:02:32.080",
+      "text": "we're the defending team,"
+    },
+    {
+      "start_ms": 150440,
+      "end_ms": 154560,
+      "start": "00:02:30.440",
+      "end": "00:02:34.560",
+      "text": "and in addition, we're a team that likes"
+    },
+    {
+      "start_ms": 152080,
+      "end_ms": 157160,
+      "start": "00:02:32.080",
+      "end": "00:02:37.160",
+      "text": "to play second, why are we walking in"
+    },
+    {
+      "start_ms": 154560,
+      "end_ms": 158640,
+      "start": "00:02:34.560",
+      "end": "00:02:38.640",
+      "text": "and offering them free CDs? The answer"
+    },
+    {
+      "start_ms": 157160,
+      "end_ms": 160640,
+      "start": "00:02:37.160",
+      "end": "00:02:40.640",
+      "text": "to this is part of the paradox of"
+    },
+    {
+      "start_ms": 158640,
+      "end_ms": 162280,
+      "start": "00:02:38.640",
+      "end": "00:02:42.280",
+      "text": "playing first or second. If we're"
+    },
+    {
+      "start_ms": 160640,
+      "end_ms": 164360,
+      "start": "00:02:40.640",
+      "end": "00:02:44.360",
+      "text": "playing second, and we want them to make"
+    },
+    {
+      "start_ms": 162280,
+      "end_ms": 166280,
+      "start": "00:02:42.280",
+      "end": "00:02:46.280",
+      "text": "a decision, and we want to punish it,"
+    },
+    {
+      "start_ms": 164360,
+      "end_ms": 169000,
+      "start": "00:02:44.360",
+      "end": "00:02:49.000",
+      "text": "what if they never make a decision? What"
+    },
+    {
+      "start_ms": 166280,
+      "end_ms": 170680,
+      "start": "00:02:46.280",
+      "end": "00:02:50.680",
+      "text": "if they slowly eat the map, focus out,"
+    },
+    {
+      "start_ms": 169000,
+      "end_ms": 172520,
+      "start": "00:02:49.000",
+      "end": "00:02:52.520",
+      "text": "and play a disciplined and controlled"
+    },
+    {
+      "start_ms": 170680,
+      "end_ms": 174520,
+      "start": "00:02:50.680",
+      "end": "00:02:54.520",
+      "text": "playstyle? If they never make a big"
+    },
+    {
+      "start_ms": 172520,
+      "end_ms": 177440,
+      "start": "00:02:52.520",
+      "end": "00:02:57.440",
+      "text": "commitment, the game becomes a fishing"
+    },
+    {
+      "start_ms": 174520,
+      "end_ms": 180160,
+      "start": "00:02:54.520",
+      "end": "00:03:00.160",
+      "text": "war. One that's very Vendetta. If you"
+    },
+    {
+      "start_ms": 177440,
+      "end_ms": 183239,
+      "start": "00:02:57.440",
+      "end": "00:03:03.239",
+      "text": "offer the enemy team CD trades, they're"
+    },
+    {
+      "start_ms": 180160,
+      "end_ms": 185000,
+      "start": "00:03:00.160",
+      "end": "00:03:05.000",
+      "text": "much, much more likely to react to this."
+    },
+    {
+      "start_ms": 183239,
+      "end_ms": 186560,
+      "start": "00:03:03.239",
+      "end": "00:03:06.560",
+      "text": "If you offer the enemy team this type of"
+    },
+    {
+      "start_ms": 185000,
+      "end_ms": 189000,
+      "start": "00:03:05.000",
+      "end": "00:03:09.000",
+      "text": "CD trade that Hanbin and Checkmate are"
+    },
+    {
+      "start_ms": 186560,
+      "end_ms": 191480,
+      "start": "00:03:06.560",
+      "end": "00:03:11.480",
+      "text": "both doing, they're very pressured to"
+    },
+    {
+      "start_ms": 189000,
+      "end_ms": 193600,
+      "start": "00:03:09.000",
+      "end": "00:03:13.600",
+      "text": "react to this in a specific way. To peek"
+    },
+    {
+      "start_ms": 191480,
+      "end_ms": 196000,
+      "start": "00:03:11.480",
+      "end": "00:03:16.000",
+      "text": "top, or to peek out of this door. This"
+    },
+    {
+      "start_ms": 193600,
+      "end_ms": 198600,
+      "start": "00:03:13.600",
+      "end": "00:03:18.600",
+      "text": "does a couple things. One, it limits the"
+    },
+    {
+      "start_ms": 196000,
+      "end_ms": 200519,
+      "start": "00:03:16.000",
+      "end": "00:03:20.519",
+      "text": "enemy team's reasonable options."
+    },
+    {
+      "start_ms": 198600,
+      "end_ms": 202680,
+      "start": "00:03:18.600",
+      "end": "00:03:22.680",
+      "text": "Of the three options before, Crazy"
+    },
+    {
+      "start_ms": 200519,
+      "end_ms": 205519,
+      "start": "00:03:20.519",
+      "end": "00:03:25.519",
+      "text": "Raccoon is now highly likely to either"
+    },
+    {
+      "start_ms": 202680,
+      "end_ms": 207320,
+      "start": "00:03:22.680",
+      "end": "00:03:27.320",
+      "text": "go top, or go here. Percentage-wise, it"
+    },
+    {
+      "start_ms": 205519,
+      "end_ms": 209320,
+      "start": "00:03:25.519",
+      "end": "00:03:29.320",
+      "text": "may look something like this. This"
+    },
+    {
+      "start_ms": 207320,
+      "end_ms": 211640,
+      "start": "00:03:27.320",
+      "end": "00:03:31.640",
+      "text": "partially mind controls the enemy team"
+    },
+    {
+      "start_ms": 209320,
+      "end_ms": 213040,
+      "start": "00:03:29.320",
+      "end": "00:03:33.040",
+      "text": "into making the decision you want. As"
+    },
+    {
+      "start_ms": 211640,
+      "end_ms": 215000,
+      "start": "00:03:31.640",
+      "end": "00:03:35.000",
+      "text": "the team that plays second, there's"
+    },
+    {
+      "start_ms": 213040,
+      "end_ms": 217000,
+      "start": "00:03:33.040",
+      "end": "00:03:37.000",
+      "text": "nothing better than understanding before"
+    },
+    {
+      "start_ms": 215000,
+      "end_ms": 219239,
+      "start": "00:03:35.000",
+      "end": "00:03:39.239",
+      "text": "it happens, how the enemy team is going"
+    },
+    {
+      "start_ms": 217000,
+      "end_ms": 221480,
+      "start": "00:03:37.000",
+      "end": "00:03:41.480",
+      "text": "to play. Crazy Raccoon, however, is"
+    },
+    {
+      "start_ms": 219239,
+      "end_ms": 223280,
+      "start": "00:03:39.239",
+      "end": "00:03:43.280",
+      "text": "incredibly disciplined. They realize"
+    },
+    {
+      "start_ms": 221480,
+      "end_ms": 224920,
+      "start": "00:03:41.480",
+      "end": "00:03:44.920",
+      "text": "this bait for what it is, and take the"
+    },
+    {
+      "start_ms": 223280,
+      "end_ms": 228040,
+      "start": "00:03:43.280",
+      "end": "00:03:48.040",
+      "text": "opportunity to go left to the free"
+    },
+    {
+      "start_ms": 224920,
+      "end_ms": 229720,
+      "start": "00:03:44.920",
+      "end": "00:03:49.720",
+      "text": "space. Falcon's, just as good, keeps up"
+    },
+    {
+      "start_ms": 228040,
+      "end_ms": 232120,
+      "start": "00:03:48.040",
+      "end": "00:03:52.120",
+      "text": "with the rotation, and sets themselves"
+    },
+    {
+      "start_ms": 229720,
+      "end_ms": 234400,
+      "start": "00:03:49.720",
+      "end": "00:03:54.400",
+      "text": "up, again, flexibly, to punish this"
+    },
+    {
+      "start_ms": 232120,
+      "end_ms": 235840,
+      "start": "00:03:52.120",
+      "end": "00:03:55.840",
+      "text": "decision instead. From Checkmate's POV,"
+    },
+    {
+      "start_ms": 234400,
+      "end_ms": 237760,
+      "start": "00:03:54.400",
+      "end": "00:03:57.760",
+      "text": "it's a little tricky to understand the"
+    },
+    {
+      "start_ms": 235840,
+      "end_ms": 240000,
+      "start": "00:03:55.840",
+      "end": "00:04:00.000",
+      "text": "pressure that Crazy Raccoon feels inside"
+    },
+    {
+      "start_ms": 237760,
+      "end_ms": 242280,
+      "start": "00:03:57.760",
+      "end": "00:04:02.280",
+      "text": "this room. From Lip's POV, it's a little"
+    },
+    {
+      "start_ms": 240000,
+      "end_ms": 244480,
+      "start": "00:04:00.000",
+      "end": "00:04:04.480",
+      "text": "bit more obvious just how pressured they"
+    },
+    {
+      "start_ms": 242280,
+      "end_ms": 247160,
+      "start": "00:04:02.280",
+      "end": "00:04:07.160",
+      "text": "are to make a quick decision here. Lip"
+    },
+    {
+      "start_ms": 244480,
+      "end_ms": 248720,
+      "start": "00:04:04.480",
+      "end": "00:04:08.720",
+      "text": "actually wants to peek top earlier. Just"
+    },
+    {
+      "start_ms": 247160,
+      "end_ms": 250520,
+      "start": "00:04:07.160",
+      "end": "00:04:10.520",
+      "text": "like we were saying, there's a 30%"
+    },
+    {
+      "start_ms": 248720,
+      "end_ms": 252600,
+      "start": "00:04:08.720",
+      "end": "00:04:12.600",
+      "text": "chance they'll come here after Checkmate"
+    },
+    {
+      "start_ms": 250520,
+      "end_ms": 254440,
+      "start": "00:04:10.520",
+      "end": "00:04:14.440",
+      "text": "uses his cooldowns. The team considers"
+    },
+    {
+      "start_ms": 252600,
+      "end_ms": 256480,
+      "start": "00:04:12.600",
+      "end": "00:04:16.480",
+      "text": "going here for a second, but even though"
+    },
+    {
+      "start_ms": 254440,
+      "end_ms": 258320,
+      "start": "00:04:14.440",
+      "end": "00:04:18.320",
+      "text": "Hanbin has used the CDs, they realize"
+    },
+    {
+      "start_ms": 256480,
+      "end_ms": 260160,
+      "start": "00:04:16.480",
+      "end": "00:04:20.160",
+      "text": "pushing this is not going to be easy."
+    },
+    {
+      "start_ms": 258320,
+      "end_ms": 261720,
+      "start": "00:04:18.320",
+      "end": "00:04:21.720",
+      "text": "They go to right side instead, knowing"
+    },
+    {
+      "start_ms": 260160,
+      "end_ms": 263080,
+      "start": "00:04:20.160",
+      "end": "00:04:23.080",
+      "text": "that Checkmate and Hanbin should both be"
+    },
+    {
+      "start_ms": 261720,
+      "end_ms": 265000,
+      "start": "00:04:21.720",
+      "end": "00:04:25.000",
+      "text": "out of position from trying to punish"
+    },
+    {
+      "start_ms": 263080,
+      "end_ms": 266200,
+      "start": "00:04:23.080",
+      "end": "00:04:26.200",
+      "text": "the left side, and hoping they can sneak"
+    },
+    {
+      "start_ms": 265000,
+      "end_ms": 268000,
+      "start": "00:04:25.000",
+      "end": "00:04:28.000",
+      "text": "through the right side fast enough to"
+    },
+    {
+      "start_ms": 266200,
+      "end_ms": 269919,
+      "start": "00:04:26.200",
+      "end": "00:04:29.919",
+      "text": "get some kills. Now, they are down one"
+    },
+    {
+      "start_ms": 268000,
+      "end_ms": 271280,
+      "start": "00:04:28.000",
+      "end": "00:04:31.280",
+      "text": "from the point touch, so they're extra"
+    },
+    {
+      "start_ms": 269919,
+      "end_ms": 273160,
+      "start": "00:04:29.919",
+      "end": "00:04:33.160",
+      "text": "pressured to just try and get a trade"
+    },
+    {
+      "start_ms": 271280,
+      "end_ms": 274720,
+      "start": "00:04:31.280",
+      "end": "00:04:34.720",
+      "text": "here. You can already see the way that"
+    },
+    {
+      "start_ms": 273160,
+      "end_ms": 276680,
+      "start": "00:04:33.160",
+      "end": "00:04:36.680",
+      "text": "Team Falcons is controlling Crazy"
+    },
+    {
+      "start_ms": 274720,
+      "end_ms": 278560,
+      "start": "00:04:34.720",
+      "end": "00:04:38.560",
+      "text": "Raccoon's decision-making, and is ready"
+    },
+    {
+      "start_ms": 276680,
+      "end_ms": 280360,
+      "start": "00:04:36.680",
+      "end": "00:04:40.360",
+      "text": "to punish anything that they do. In one"
+    },
+    {
+      "start_ms": 278560,
+      "end_ms": 282440,
+      "start": "00:04:38.560",
+      "end": "00:04:42.440",
+      "text": "of the next fights, Falcons changed"
+    },
+    {
+      "start_ms": 280360,
+      "end_ms": 284040,
+      "start": "00:04:40.360",
+      "end": "00:04:44.040",
+      "text": "their setup pretty significantly. Before"
+    },
+    {
+      "start_ms": 282440,
+      "end_ms": 285640,
+      "start": "00:04:42.440",
+      "end": "00:04:45.640",
+      "text": "letting them rotate into the room,"
+    },
+    {
+      "start_ms": 284040,
+      "end_ms": 287800,
+      "start": "00:04:44.040",
+      "end": "00:04:47.800",
+      "text": "Hanbin and Checkmate actually take much"
+    },
+    {
+      "start_ms": 285640,
+      "end_ms": 290240,
+      "start": "00:04:45.640",
+      "end": "00:04:50.240",
+      "text": "more aggressive positions, and offer"
+    },
+    {
+      "start_ms": 287800,
+      "end_ms": 292760,
+      "start": "00:04:47.800",
+      "end": "00:04:52.760",
+      "text": "these early CD trades one more time. Any"
+    },
+    {
+      "start_ms": 290240,
+      "end_ms": 294800,
+      "start": "00:04:50.240",
+      "end": "00:04:54.800",
+      "text": "GM5 or above tank player would tell you"
+    },
+    {
+      "start_ms": 292760,
+      "end_ms": 296720,
+      "start": "00:04:52.760",
+      "end": "00:04:56.720",
+      "text": "using your cooldowns this early in space"
+    },
+    {
+      "start_ms": 294800,
+      "end_ms": 299440,
+      "start": "00:04:54.800",
+      "end": "00:04:59.440",
+      "text": "you don't actually want and your team"
+    },
+    {
+      "start_ms": 296720,
+      "end_ms": 301160,
+      "start": "00:04:56.720",
+      "end": "00:05:01.160",
+      "text": "can't use is a big mistake. So, why is"
+    },
+    {
+      "start_ms": 299440,
+      "end_ms": 302560,
+      "start": "00:04:59.440",
+      "end": "00:05:02.560",
+      "text": "Hanbin doing it? If you think about it"
+    },
+    {
+      "start_ms": 301160,
+      "end_ms": 304880,
+      "start": "00:05:01.160",
+      "end": "00:05:04.880",
+      "text": "the same as before, it becomes pretty"
+    },
+    {
+      "start_ms": 302560,
+      "end_ms": 306840,
+      "start": "00:05:02.560",
+      "end": "00:05:06.840",
+      "text": "obvious. Crazy Raccoon sees that Hanbin"
+    },
+    {
+      "start_ms": 304880,
+      "end_ms": 309040,
+      "start": "00:05:04.880",
+      "end": "00:05:09.040",
+      "text": "is down to CD. He's also in a very"
+    },
+    {
+      "start_ms": 306840,
+      "end_ms": 311080,
+      "start": "00:05:06.840",
+      "end": "00:05:11.080",
+      "text": "punishable position. It's incredibly"
+    },
+    {
+      "start_ms": 309040,
+      "end_ms": 312680,
+      "start": "00:05:09.040",
+      "end": "00:05:12.680",
+      "text": "likely that Crazy Raccoon's next move is"
+    },
+    {
+      "start_ms": 311080,
+      "end_ms": 315040,
+      "start": "00:05:11.080",
+      "end": "00:05:15.040",
+      "text": "going to be to punish Hanbin. And"
+    },
+    {
+      "start_ms": 312680,
+      "end_ms": 317160,
+      "start": "00:05:12.680",
+      "end": "00:05:17.160",
+      "text": "Checkmate has set himself up so that if"
+    },
+    {
+      "start_ms": 315040,
+      "end_ms": 318919,
+      "start": "00:05:15.040",
+      "end": "00:05:18.919",
+      "text": "they punish Hanbin, he has a great angle"
+    },
+    {
+      "start_ms": 317160,
+      "end_ms": 320919,
+      "start": "00:05:17.160",
+      "end": "00:05:20.919",
+      "text": "for his own engage. As you watch this"
+    },
+    {
+      "start_ms": 318919,
+      "end_ms": 323120,
+      "start": "00:05:18.919",
+      "end": "00:05:23.120",
+      "text": "fight play out, Crazy Raccoon does take"
+    },
+    {
+      "start_ms": 320919,
+      "end_ms": 325240,
+      "start": "00:05:20.919",
+      "end": "00:05:25.240",
+      "text": "the bait. And to be clear, almost any"
+    },
+    {
+      "start_ms": 323120,
+      "end_ms": 326440,
+      "start": "00:05:23.120",
+      "end": "00:05:26.440",
+      "text": "team would. It's a free advantage being"
+    },
+    {
+      "start_ms": 325240,
+      "end_ms": 328680,
+      "start": "00:05:25.240",
+      "end": "00:05:28.680",
+      "text": "offered to you at the beginning of the"
+    },
+    {
+      "start_ms": 326440,
+      "end_ms": 330120,
+      "start": "00:05:26.440",
+      "end": "00:05:30.120",
+      "text": "game. Why wouldn't you take it? It's"
+    },
+    {
+      "start_ms": 328680,
+      "end_ms": 333160,
+      "start": "00:05:28.680",
+      "end": "00:05:33.160",
+      "text": "important to understand that there's a"
+    },
+    {
+      "start_ms": 330120,
+      "end_ms": 335080,
+      "start": "00:05:30.120",
+      "end": "00:05:35.080",
+      "text": "reason teams take bait. Crazy Raccoon is"
+    },
+    {
+      "start_ms": 333160,
+      "end_ms": 336720,
+      "start": "00:05:33.160",
+      "end": "00:05:36.720",
+      "text": "actually in a very good position here."
+    },
+    {
+      "start_ms": 335080,
+      "end_ms": 338680,
+      "start": "00:05:35.080",
+      "end": "00:05:38.680",
+      "text": "The pulse is going to force the suzu,"
+    },
+    {
+      "start_ms": 336720,
+      "end_ms": 339880,
+      "start": "00:05:36.720",
+      "end": "00:05:39.880",
+      "text": "most of Hanbin's CDs have been forced,"
+    },
+    {
+      "start_ms": 338680,
+      "end_ms": 342000,
+      "start": "00:05:38.680",
+      "end": "00:05:42.000",
+      "text": "and he was forced to give a large part"
+    },
+    {
+      "start_ms": 339880,
+      "end_ms": 343440,
+      "start": "00:05:39.880",
+      "end": "00:05:43.440",
+      "text": "of the map. Lip also had the discipline"
+    },
+    {
+      "start_ms": 342000,
+      "end_ms": 345160,
+      "start": "00:05:42.000",
+      "end": "00:05:45.160",
+      "text": "to shoot out Checkmate before the fight"
+    },
+    {
+      "start_ms": 343440,
+      "end_ms": 347960,
+      "start": "00:05:43.440",
+      "end": "00:05:47.960",
+      "text": "started, so they technically have two"
+    },
+    {
+      "start_ms": 345160,
+      "end_ms": 350000,
+      "start": "00:05:45.160",
+      "end": "00:05:50.000",
+      "text": "advantages. The problem is very similar."
+    },
+    {
+      "start_ms": 347960,
+      "end_ms": 351920,
+      "start": "00:05:47.960",
+      "end": "00:05:51.920",
+      "text": "Through this bait, Hanbin has all but"
+    },
+    {
+      "start_ms": 350000,
+      "end_ms": 354000,
+      "start": "00:05:50.000",
+      "end": "00:05:54.000",
+      "text": "guaranteed Crazy Raccoon is going to"
+    },
+    {
+      "start_ms": 351920,
+      "end_ms": 356040,
+      "start": "00:05:51.920",
+      "end": "00:05:56.040",
+      "text": "play a specific way. They've forced me"
+    },
+    {
+      "start_ms": 354000,
+      "end_ms": 358200,
+      "start": "00:05:54.000",
+      "end": "00:05:58.200",
+      "text": "out, they've punished all my CDs, and"
+    },
+    {
+      "start_ms": 356040,
+      "end_ms": 359960,
+      "start": "00:05:56.040",
+      "end": "00:05:59.960",
+      "text": "they forced our team Suzu. They're going"
+    },
+    {
+      "start_ms": 358200,
+      "end_ms": 361800,
+      "start": "00:05:58.200",
+      "end": "00:06:01.800",
+      "text": "to use their ults around this corner and"
+    },
+    {
+      "start_ms": 359960,
+      "end_ms": 363720,
+      "start": "00:05:59.960",
+      "end": "00:06:03.720",
+      "text": "try to kill me. But if you look at team"
+    },
+    {
+      "start_ms": 361800,
+      "end_ms": 366000,
+      "start": "00:06:01.800",
+      "end": "00:06:06.000",
+      "text": "Falcon's setup, that's exactly what they"
+    },
+    {
+      "start_ms": 363720,
+      "end_ms": 369000,
+      "start": "00:06:03.720",
+      "end": "00:06:09.000",
+      "text": "want. If Crazy Raccoon pushes through"
+    },
+    {
+      "start_ms": 366000,
+      "end_ms": 370280,
+      "start": "00:06:06.000",
+      "end": "00:06:10.280",
+      "text": "here, even with rush, Checkmate and Chi"
+    },
+    {
+      "start_ms": 369000,
+      "end_ms": 373160,
+      "start": "00:06:09.000",
+      "end": "00:06:13.160",
+      "text": "are going to go over the top with the"
+    },
+    {
+      "start_ms": 370280,
+      "end_ms": 375200,
+      "start": "00:06:10.280",
+      "end": "00:06:15.200",
+      "text": "cat ult with beautiful engage angles"
+    },
+    {
+      "start_ms": 373160,
+      "end_ms": 377120,
+      "start": "00:06:13.160",
+      "end": "00:06:17.120",
+      "text": "while Mary and Fielder easily push from"
+    },
+    {
+      "start_ms": 375200,
+      "end_ms": 379040,
+      "start": "00:06:15.200",
+      "end": "00:06:19.040",
+      "text": "high. Combined with a domino ult from"
+    },
+    {
+      "start_ms": 377120,
+      "end_ms": 380680,
+      "start": "00:06:17.120",
+      "end": "00:06:20.680",
+      "text": "Hanbin as he baits himself, the"
+    },
+    {
+      "start_ms": 379040,
+      "end_ms": 382480,
+      "start": "00:06:19.040",
+      "end": "00:06:22.480",
+      "text": "advantage that Crazy Raccoon started"
+    },
+    {
+      "start_ms": 380680,
+      "end_ms": 384040,
+      "start": "00:06:20.680",
+      "end": "00:06:24.040",
+      "text": "this fight off with does not turn into"
+    },
+    {
+      "start_ms": 382480,
+      "end_ms": 385919,
+      "start": "00:06:22.480",
+      "end": "00:06:25.919",
+      "text": "anything. And they're easily mind"
+    },
+    {
+      "start_ms": 384040,
+      "end_ms": 387120,
+      "start": "00:06:24.040",
+      "end": "00:06:27.120",
+      "text": "controlled into another losing fight. If"
+    },
+    {
+      "start_ms": 385919,
+      "end_ms": 389200,
+      "start": "00:06:25.919",
+      "end": "00:06:29.200",
+      "text": "you again watch this fight from Crazy"
+    },
+    {
+      "start_ms": 387120,
+      "end_ms": 390919,
+      "start": "00:06:27.120",
+      "end": "00:06:30.919",
+      "text": "Raccoon's POV, the decision they made is"
+    },
+    {
+      "start_ms": 389200,
+      "end_ms": 392280,
+      "start": "00:06:29.200",
+      "end": "00:06:32.280",
+      "text": "pretty understandable. Checkmate's"
+    },
+    {
+      "start_ms": 390919,
+      "end_ms": 394520,
+      "start": "00:06:30.919",
+      "end": "00:06:34.520",
+      "text": "really far, so I'm just going to shoot"
+    },
+    {
+      "start_ms": 392280,
+      "end_ms": 395880,
+      "start": "00:06:32.280",
+      "end": "00:06:35.880",
+      "text": "him out if I can, but Hanbin is super"
+    },
+    {
+      "start_ms": 394520,
+      "end_ms": 398160,
+      "start": "00:06:34.520",
+      "end": "00:06:38.160",
+      "text": "out of position and just used his"
+    },
+    {
+      "start_ms": 395880,
+      "end_ms": 399919,
+      "start": "00:06:35.880",
+      "end": "00:06:39.919",
+      "text": "cooldowns. Why wouldn't we punish him?"
+    },
+    {
+      "start_ms": 398160,
+      "end_ms": 402520,
+      "start": "00:06:38.160",
+      "end": "00:06:42.520",
+      "text": "The problem as a team that's going first"
+    },
+    {
+      "start_ms": 399919,
+      "end_ms": 404720,
+      "start": "00:06:39.919",
+      "end": "00:06:44.720",
+      "text": "is understanding how to properly punish"
+    },
+    {
+      "start_ms": 402520,
+      "end_ms": 405960,
+      "start": "00:06:42.520",
+      "end": "00:06:45.960",
+      "text": "every advantage. The difficulty of this"
+    },
+    {
+      "start_ms": 404720,
+      "end_ms": 408160,
+      "start": "00:06:44.720",
+      "end": "00:06:48.160",
+      "text": "play style is that quick"
+    },
+    {
+      "start_ms": 405960,
+      "end_ms": 409560,
+      "start": "00:06:45.960",
+      "end": "00:06:49.560",
+      "text": "decision-making. Can you quickly analyze"
+    },
+    {
+      "start_ms": 408160,
+      "end_ms": 411560,
+      "start": "00:06:48.160",
+      "end": "00:06:51.560",
+      "text": "all the options that you have for"
+    },
+    {
+      "start_ms": 409560,
+      "end_ms": 414160,
+      "start": "00:06:49.560",
+      "end": "00:06:54.160",
+      "text": "punishing a specific advantage? If we"
+    },
+    {
+      "start_ms": 411560,
+      "end_ms": 415560,
+      "start": "00:06:51.560",
+      "end": "00:06:55.560",
+      "text": "force Hanbin out here, should we rush"
+    },
+    {
+      "start_ms": 414160,
+      "end_ms": 417320,
+      "start": "00:06:54.160",
+      "end": "00:06:57.320",
+      "text": "and push him and try to kill him off"
+    },
+    {
+      "start_ms": 415560,
+      "end_ms": 419360,
+      "start": "00:06:55.560",
+      "end": "00:06:59.360",
+      "text": "that advantage? Or should we take the"
+    },
+    {
+      "start_ms": 417320,
+      "end_ms": 421200,
+      "start": "00:06:57.320",
+      "end": "00:07:01.200",
+      "text": "other half of the map that's now free"
+    },
+    {
+      "start_ms": 419360,
+      "end_ms": 422880,
+      "start": "00:06:59.360",
+      "end": "00:07:02.880",
+      "text": "and try to punish his team for Hanbin"
+    },
+    {
+      "start_ms": 421200,
+      "end_ms": 425000,
+      "start": "00:07:01.200",
+      "end": "00:07:05.000",
+      "text": "being out of the fight? If you make the"
+    },
+    {
+      "start_ms": 422880,
+      "end_ms": 426880,
+      "start": "00:07:02.880",
+      "end": "00:07:06.880",
+      "text": "wrong decision, getting advantages isn't"
+    },
+    {
+      "start_ms": 425000,
+      "end_ms": 428240,
+      "start": "00:07:05.000",
+      "end": "00:07:08.240",
+      "text": "going to help you at all. At best,"
+    },
+    {
+      "start_ms": 426880,
+      "end_ms": 430080,
+      "start": "00:07:06.880",
+      "end": "00:07:10.080",
+      "text": "you're going to throw them away on"
+    },
+    {
+      "start_ms": 428240,
+      "end_ms": 432360,
+      "start": "00:07:08.240",
+      "end": "00:07:12.360",
+      "text": "accident as the enemy team bails the"
+    },
+    {
+      "start_ms": 430080,
+      "end_ms": 434560,
+      "start": "00:07:10.080",
+      "end": "00:07:14.560",
+      "text": "person out. At worst, you end up doing"
+    },
+    {
+      "start_ms": 432360,
+      "end_ms": 436240,
+      "start": "00:07:12.360",
+      "end": "00:07:16.240",
+      "text": "exactly what the enemy team wants, and"
+    },
+    {
+      "start_ms": 434560,
+      "end_ms": 438400,
+      "start": "00:07:14.560",
+      "end": "00:07:18.400",
+      "text": "you open up his four teammates for"
+    },
+    {
+      "start_ms": 436240,
+      "end_ms": 440720,
+      "start": "00:07:16.240",
+      "end": "00:07:20.720",
+      "text": "incredible value. In the next example,"
+    },
+    {
+      "start_ms": 438400,
+      "end_ms": 443120,
+      "start": "00:07:18.400",
+      "end": "00:07:23.120",
+      "text": "Falcon sets up in a very similar way."
+    },
+    {
+      "start_ms": 440720,
+      "end_ms": 445160,
+      "start": "00:07:20.720",
+      "end": "00:07:25.160",
+      "text": "Offering the CD trade on Hanbin while"
+    },
+    {
+      "start_ms": 443120,
+      "end_ms": 447640,
+      "start": "00:07:23.120",
+      "end": "00:07:27.640",
+      "text": "everyone else sets up to punish. Here,"
+    },
+    {
+      "start_ms": 445160,
+      "end_ms": 449960,
+      "start": "00:07:25.160",
+      "end": "00:07:29.960",
+      "text": "Crazy Raccoon takes the same trade. And"
+    },
+    {
+      "start_ms": 447640,
+      "end_ms": 451440,
+      "start": "00:07:27.640",
+      "end": "00:07:31.440",
+      "text": "to be clear, they should. Why wouldn't"
+    },
+    {
+      "start_ms": 449960,
+      "end_ms": 453080,
+      "start": "00:07:29.960",
+      "end": "00:07:33.080",
+      "text": "we take the free advantage of forcing"
+    },
+    {
+      "start_ms": 451440,
+      "end_ms": 455560,
+      "start": "00:07:31.440",
+      "end": "00:07:35.560",
+      "text": "the CDs out of the person who's closest"
+    },
+    {
+      "start_ms": 453080,
+      "end_ms": 457600,
+      "start": "00:07:33.080",
+      "end": "00:07:37.600",
+      "text": "to us? But now with Hanbin punished on"
+    },
+    {
+      "start_ms": 455560,
+      "end_ms": 458680,
+      "start": "00:07:35.560",
+      "end": "00:07:38.680",
+      "text": "the right side, they make the correct"
+    },
+    {
+      "start_ms": 457600,
+      "end_ms": 460280,
+      "start": "00:07:37.600",
+      "end": "00:07:40.280",
+      "text": "decision."
+    },
+    {
+      "start_ms": 458680,
+      "end_ms": 462880,
+      "start": "00:07:38.680",
+      "end": "00:07:42.880",
+      "text": "What if we use this small advantage on"
+    },
+    {
+      "start_ms": 460280,
+      "end_ms": 465120,
+      "start": "00:07:40.280",
+      "end": "00:07:45.120",
+      "text": "Hanbin to use our B and push the other"
+    },
+    {
+      "start_ms": 462880,
+      "end_ms": 467040,
+      "start": "00:07:42.880",
+      "end": "00:07:47.040",
+      "text": "side of the map. With this timing, they"
+    },
+    {
+      "start_ms": 465120,
+      "end_ms": 469320,
+      "start": "00:07:45.120",
+      "end": "00:07:49.320",
+      "text": "slip through the right side"
+    },
+    {
+      "start_ms": 467040,
+      "end_ms": 470320,
+      "start": "00:07:47.040",
+      "end": "00:07:50.320",
+      "text": "using B to kill Merit and Checkmate."
+    },
+    {
+      "start_ms": 469320,
+      "end_ms": 472320,
+      "start": "00:07:49.320",
+      "end": "00:07:52.320",
+      "text": "Here, you can start to see the"
+    },
+    {
+      "start_ms": 470320,
+      "end_ms": 473800,
+      "start": "00:07:50.320",
+      "end": "00:07:53.800",
+      "text": "weaknesses of playing second. If we're"
+    },
+    {
+      "start_ms": 472320,
+      "end_ms": 475960,
+      "start": "00:07:52.320",
+      "end": "00:07:55.960",
+      "text": "going to let the enemy team make a"
+    },
+    {
+      "start_ms": 473800,
+      "end_ms": 477760,
+      "start": "00:07:53.800",
+      "end": "00:07:57.760",
+      "text": "decision and we don't limit their"
+    },
+    {
+      "start_ms": 475960,
+      "end_ms": 479680,
+      "start": "00:07:55.960",
+      "end": "00:07:59.680",
+      "text": "options enough and pressure the wrong"
+    },
+    {
+      "start_ms": 477760,
+      "end_ms": 481800,
+      "start": "00:07:57.760",
+      "end": "00:08:01.800",
+      "text": "decision enough, there's a chance"
+    },
+    {
+      "start_ms": 479680,
+      "end_ms": 484120,
+      "start": "00:07:59.680",
+      "end": "00:08:04.120",
+      "text": "they'll make the right decision, blow"
+    },
+    {
+      "start_ms": 481800,
+      "end_ms": 486280,
+      "start": "00:08:01.800",
+      "end": "00:08:06.280",
+      "text": "past us completely, and win the fight"
+    },
+    {
+      "start_ms": 484120,
+      "end_ms": 487840,
+      "start": "00:08:04.120",
+      "end": "00:08:07.840",
+      "text": "before we're able to punish them. Now,"
+    },
+    {
+      "start_ms": 486280,
+      "end_ms": 489560,
+      "start": "00:08:06.280",
+      "end": "00:08:09.560",
+      "text": "there was probably way for Checkmate to"
+    },
+    {
+      "start_ms": 487840,
+      "end_ms": 490920,
+      "start": "00:08:07.840",
+      "end": "00:08:10.920",
+      "text": "punish this much better."
+    },
+    {
+      "start_ms": 489560,
+      "end_ms": 493080,
+      "start": "00:08:09.560",
+      "end": "00:08:13.080",
+      "text": "He was expecting them to punish Hanbin"
+    },
+    {
+      "start_ms": 490920,
+      "end_ms": 494840,
+      "start": "00:08:10.920",
+      "end": "00:08:14.840",
+      "text": "in the same way and didn't keep himself"
+    },
+    {
+      "start_ms": 493080,
+      "end_ms": 496640,
+      "start": "00:08:13.080",
+      "end": "00:08:16.640",
+      "text": "flexible enough to punish this right"
+    },
+    {
+      "start_ms": 494840,
+      "end_ms": 498280,
+      "start": "00:08:14.840",
+      "end": "00:08:18.280",
+      "text": "side rotation with his ult. If he had"
+    },
+    {
+      "start_ms": 496640,
+      "end_ms": 500400,
+      "start": "00:08:16.640",
+      "end": "00:08:20.400",
+      "text": "been faster, watching in the air, and"
+    },
+    {
+      "start_ms": 498280,
+      "end_ms": 502480,
+      "start": "00:08:18.280",
+      "end": "00:08:22.480",
+      "text": "ulting right now, there's a good chance"
+    },
+    {
+      "start_ms": 500400,
+      "end_ms": 504160,
+      "start": "00:08:20.400",
+      "end": "00:08:24.160",
+      "text": "he gets multiple kills through the beat."
+    },
+    {
+      "start_ms": 502480,
+      "end_ms": 506200,
+      "start": "00:08:22.480",
+      "end": "00:08:26.200",
+      "text": "From Lip's POV, you can start to see the"
+    },
+    {
+      "start_ms": 504160,
+      "end_ms": 507560,
+      "start": "00:08:24.160",
+      "end": "00:08:27.560",
+      "text": "adaptation form. With this advantage on"
+    },
+    {
+      "start_ms": 506200,
+      "end_ms": 508919,
+      "start": "00:08:26.200",
+      "end": "00:08:28.919",
+      "text": "Hanbin on the right side of the map,"
+    },
+    {
+      "start_ms": 507560,
+      "end_ms": 511160,
+      "start": "00:08:27.560",
+      "end": "00:08:31.160",
+      "text": "we're going to punish Team Falcons for"
+    },
+    {
+      "start_ms": 508919,
+      "end_ms": 512039,
+      "start": "00:08:28.919",
+      "end": "00:08:32.039",
+      "text": "doing this by letting Hanbin be useless"
+    },
+    {
+      "start_ms": 511160,
+      "end_ms": 513360,
+      "start": "00:08:31.160",
+      "end": "00:08:33.360",
+      "text": "here."
+    },
+    {
+      "start_ms": 512039,
+      "end_ms": 514680,
+      "start": "00:08:32.039",
+      "end": "00:08:34.680",
+      "text": "Instantly slipping to the left side for"
+    },
+    {
+      "start_ms": 513360,
+      "end_ms": 516320,
+      "start": "00:08:33.360",
+      "end": "00:08:36.320",
+      "text": "this kill."
+    },
+    {
+      "start_ms": 514680,
+      "end_ms": 518320,
+      "start": "00:08:34.680",
+      "end": "00:08:38.320",
+      "text": "Realistically, they don't even need B"
+    },
+    {
+      "start_ms": 516320,
+      "end_ms": 520200,
+      "start": "00:08:36.320",
+      "end": "00:08:40.200",
+      "text": "for this to work. And it's also capped"
+    },
+    {
+      "start_ms": 518320,
+      "end_ms": 522080,
+      "start": "00:08:38.320",
+      "end": "00:08:42.080",
+      "text": "off by Merit one-shotting his thing on"
+    },
+    {
+      "start_ms": 520200,
+      "end_ms": 523039,
+      "start": "00:08:40.200",
+      "end": "00:08:43.039",
+      "text": "the way in. But the play is good enough"
+    },
+    {
+      "start_ms": 522080,
+      "end_ms": 525160,
+      "start": "00:08:42.080",
+      "end": "00:08:45.160",
+      "text": "that they'll end up cleaning up this"
+    },
+    {
+      "start_ms": 523039,
+      "end_ms": 526360,
+      "start": "00:08:43.039",
+      "end": "00:08:46.360",
+      "text": "fight anyways. Here on second point,"
+    },
+    {
+      "start_ms": 525160,
+      "end_ms": 528520,
+      "start": "00:08:45.160",
+      "end": "00:08:48.520",
+      "text": "they're taking a similar approach"
+    },
+    {
+      "start_ms": 526360,
+      "end_ms": 530000,
+      "start": "00:08:46.360",
+      "end": "00:08:50.000",
+      "text": "conceptually, but it's Checkmate who's"
+    },
+    {
+      "start_ms": 528520,
+      "end_ms": 531920,
+      "start": "00:08:48.520",
+      "end": "00:08:51.920",
+      "text": "going to be trying to force the early CD"
+    },
+    {
+      "start_ms": 530000,
+      "end_ms": 533320,
+      "start": "00:08:50.000",
+      "end": "00:08:53.320",
+      "text": "trade instead of Hanbin. Here, we see"
+    },
+    {
+      "start_ms": 531920,
+      "end_ms": 535120,
+      "start": "00:08:51.920",
+      "end": "00:08:55.120",
+      "text": "another fight where Team Falcons"
+    },
+    {
+      "start_ms": 533320,
+      "end_ms": 537560,
+      "start": "00:08:53.320",
+      "end": "00:08:57.560",
+      "text": "struggles to properly control Crazy"
+    },
+    {
+      "start_ms": 535120,
+      "end_ms": 539280,
+      "start": "00:08:55.120",
+      "end": "00:08:59.280",
+      "text": "Racoons options. If Crazy Racoon takes"
+    },
+    {
+      "start_ms": 537560,
+      "end_ms": 541240,
+      "start": "00:08:57.560",
+      "end": "00:09:01.240",
+      "text": "the time to clear Checkmate here, the"
+    },
+    {
+      "start_ms": 539280,
+      "end_ms": 543360,
+      "start": "00:08:59.280",
+      "end": "00:09:03.360",
+      "text": "people that are supposed to benefit are"
+    },
+    {
+      "start_ms": 541240,
+      "end_ms": 545000,
+      "start": "00:09:01.240",
+      "end": "00:09:05.000",
+      "text": "Chiyo, Hanbin, and Merit. They'll use"
+    },
+    {
+      "start_ms": 543360,
+      "end_ms": 547000,
+      "start": "00:09:03.360",
+      "end": "00:09:07.000",
+      "text": "this timing from clearing Checkmate to"
+    },
+    {
+      "start_ms": 545000,
+      "end_ms": 548560,
+      "start": "00:09:05.000",
+      "end": "00:09:08.560",
+      "text": "cross through, and we can use that"
+    },
+    {
+      "start_ms": 547000,
+      "end_ms": 551040,
+      "start": "00:09:07.000",
+      "end": "00:09:11.040",
+      "text": "timing for Hanbin to drop and look for"
+    },
+    {
+      "start_ms": 548560,
+      "end_ms": 552680,
+      "start": "00:09:08.560",
+      "end": "00:09:12.680",
+      "text": "his ult, or Chiyo to look for his ult."
+    },
+    {
+      "start_ms": 551040,
+      "end_ms": 554120,
+      "start": "00:09:11.040",
+      "end": "00:09:14.120",
+      "text": "Falcons hesitate to punish from this"
+    },
+    {
+      "start_ms": 552680,
+      "end_ms": 556040,
+      "start": "00:09:12.680",
+      "end": "00:09:16.040",
+      "text": "position, though,"
+    },
+    {
+      "start_ms": 554120,
+      "end_ms": 557640,
+      "start": "00:09:14.120",
+      "end": "00:09:17.640",
+      "text": "and their hesitation lets Crazy Racoon"
+    },
+    {
+      "start_ms": 556040,
+      "end_ms": 559600,
+      "start": "00:09:16.040",
+      "end": "00:09:19.600",
+      "text": "slip through and rotate to the room"
+    },
+    {
+      "start_ms": 557640,
+      "end_ms": 561480,
+      "start": "00:09:17.640",
+      "end": "00:09:21.480",
+      "text": "unpunished. Here, you can see another"
+    },
+    {
+      "start_ms": 559600,
+      "end_ms": 562680,
+      "start": "00:09:19.600",
+      "end": "00:09:22.680",
+      "text": "weakness of playing second in this way."
+    },
+    {
+      "start_ms": 561480,
+      "end_ms": 564800,
+      "start": "00:09:21.480",
+      "end": "00:09:24.800",
+      "text": "If you're going to let the enemy team"
+    },
+    {
+      "start_ms": 562680,
+      "end_ms": 566800,
+      "start": "00:09:22.680",
+      "end": "00:09:26.800",
+      "text": "make decisions and you aren't fast"
+    },
+    {
+      "start_ms": 564800,
+      "end_ms": 569240,
+      "start": "00:09:24.800",
+      "end": "00:09:29.240",
+      "text": "enough to punish them, they'll get a lot"
+    },
+    {
+      "start_ms": 566800,
+      "end_ms": 572080,
+      "start": "00:09:26.800",
+      "end": "00:09:32.080",
+      "text": "of things for free. Free rotations, free"
+    },
+    {
+      "start_ms": 569240,
+      "end_ms": 573280,
+      "start": "00:09:29.240",
+      "end": "00:09:33.280",
+      "text": "map space, and at worst, free kills. As"
+    },
+    {
+      "start_ms": 572080,
+      "end_ms": 575080,
+      "start": "00:09:32.080",
+      "end": "00:09:35.080",
+      "text": "they peek my teammates that aren't"
+    },
+    {
+      "start_ms": 573280,
+      "end_ms": 577200,
+      "start": "00:09:33.280",
+      "end": "00:09:37.200",
+      "text": "prepared to be peeked. From Crazy"
+    },
+    {
+      "start_ms": 575080,
+      "end_ms": 578800,
+      "start": "00:09:35.080",
+      "end": "00:09:38.800",
+      "text": "Racoon's POV, you can see the way"
+    },
+    {
+      "start_ms": 577200,
+      "end_ms": 581160,
+      "start": "00:09:37.200",
+      "end": "00:09:41.160",
+      "text": "they're starting to adapt. It's very"
+    },
+    {
+      "start_ms": 578800,
+      "end_ms": 582800,
+      "start": "00:09:38.800",
+      "end": "00:09:42.800",
+      "text": "unlikely that the first person we punish"
+    },
+    {
+      "start_ms": 581160,
+      "end_ms": 584160,
+      "start": "00:09:41.160",
+      "end": "00:09:44.160",
+      "text": "is going to be the person that dies."
+    },
+    {
+      "start_ms": 582800,
+      "end_ms": 586040,
+      "start": "00:09:42.800",
+      "end": "00:09:46.040",
+      "text": "Instead of getting baited onto the"
+    },
+    {
+      "start_ms": 584160,
+      "end_ms": 588400,
+      "start": "00:09:44.160",
+      "end": "00:09:48.400",
+      "text": "person that's using their CDs badly on"
+    },
+    {
+      "start_ms": 586040,
+      "end_ms": 589600,
+      "start": "00:09:46.040",
+      "end": "00:09:49.600",
+      "text": "purpose, we're going to punish them and"
+    },
+    {
+      "start_ms": 588400,
+      "end_ms": 591320,
+      "start": "00:09:48.400",
+      "end": "00:09:51.320",
+      "text": "then we're going to get another"
+    },
+    {
+      "start_ms": 589600,
+      "end_ms": 593040,
+      "start": "00:09:49.600",
+      "end": "00:09:53.040",
+      "text": "advantage. On first point, it was"
+    },
+    {
+      "start_ms": 591320,
+      "end_ms": 594360,
+      "start": "00:09:51.320",
+      "end": "00:09:54.360",
+      "text": "slipping through left with beat. Here,"
+    },
+    {
+      "start_ms": 593040,
+      "end_ms": 596000,
+      "start": "00:09:53.040",
+      "end": "00:09:56.000",
+      "text": "it's slipping through right and taking"
+    },
+    {
+      "start_ms": 594360,
+      "end_ms": 597480,
+      "start": "00:09:54.360",
+      "end": "00:09:57.480",
+      "text": "the room. You'll also notice that even"
+    },
+    {
+      "start_ms": 596000,
+      "end_ms": 599080,
+      "start": "00:09:56.000",
+      "end": "00:09:59.080",
+      "text": "though they clear checkmate very early"
+    },
+    {
+      "start_ms": 597480,
+      "end_ms": 601280,
+      "start": "00:09:57.480",
+      "end": "00:10:01.280",
+      "text": "into this fight, they don't rush the"
+    },
+    {
+      "start_ms": 599080,
+      "end_ms": 603640,
+      "start": "00:09:59.080",
+      "end": "00:10:03.640",
+      "text": "decision to rotate. If they do, it'll be"
+    },
+    {
+      "start_ms": 601280,
+      "end_ms": 604800,
+      "start": "00:10:01.280",
+      "end": "00:10:04.800",
+      "text": "very easy for Hanbin and Xepher to drop"
+    },
+    {
+      "start_ms": 603640,
+      "end_ms": 606640,
+      "start": "00:10:03.640",
+      "end": "00:10:06.640",
+      "text": "and use their ults to punish this"
+    },
+    {
+      "start_ms": 604800,
+      "end_ms": 608600,
+      "start": "00:10:04.800",
+      "end": "00:10:08.600",
+      "text": "rotate. They take some extra time to"
+    },
+    {
+      "start_ms": 606640,
+      "end_ms": 611000,
+      "start": "00:10:06.640",
+      "end": "00:10:11.000",
+      "text": "shoot top, make it difficult for Hanbin"
+    },
+    {
+      "start_ms": 608600,
+      "end_ms": 612920,
+      "start": "00:10:08.600",
+      "end": "00:10:12.920",
+      "text": "to drop, and continue to play to stack"
+    },
+    {
+      "start_ms": 611000,
+      "end_ms": 614400,
+      "start": "00:10:11.000",
+      "end": "00:10:14.400",
+      "text": "all of these advantages together instead"
+    },
+    {
+      "start_ms": 612920,
+      "end_ms": 616080,
+      "start": "00:10:12.920",
+      "end": "00:10:16.080",
+      "text": "of use any one of them to win the fight"
+    },
+    {
+      "start_ms": 614400,
+      "end_ms": 618960,
+      "start": "00:10:14.400",
+      "end": "00:10:18.960",
+      "text": "individually. Now, at this point in the"
+    },
+    {
+      "start_ms": 616080,
+      "end_ms": 621360,
+      "start": "00:10:16.080",
+      "end": "00:10:21.360",
+      "text": "video, you might say, \"Cap, this is just"
+    },
+    {
+      "start_ms": 618960,
+      "end_ms": 622400,
+      "start": "00:10:18.960",
+      "end": "00:10:22.400",
+      "text": "how teams play on defense. This is what"
+    },
+    {
+      "start_ms": 621360,
+      "end_ms": 624160,
+      "start": "00:10:21.360",
+      "end": "00:10:24.160",
+      "text": "you're supposed to do when you're"
+    },
+    {
+      "start_ms": 622400,
+      "end_ms": 625960,
+      "start": "00:10:22.400",
+      "end": "00:10:25.960",
+      "text": "defending the retake.\" Now, of course,"
+    },
+    {
+      "start_ms": 624160,
+      "end_ms": 627480,
+      "start": "00:10:24.160",
+      "end": "00:10:27.480",
+      "text": "loyal viewer, I'll let that slide"
+    },
+    {
+      "start_ms": 625960,
+      "end_ms": 628920,
+      "start": "00:10:25.960",
+      "end": "00:10:28.920",
+      "text": "because you don't know any better, but"
+    },
+    {
+      "start_ms": 627480,
+      "end_ms": 631760,
+      "start": "00:10:27.480",
+      "end": "00:10:31.760",
+      "text": "this idea is not something that's"
+    },
+    {
+      "start_ms": 628920,
+      "end_ms": 633440,
+      "start": "00:10:28.920",
+      "end": "00:10:33.440",
+      "text": "exclusive to defending retakes. Here on"
+    },
+    {
+      "start_ms": 631760,
+      "end_ms": 635200,
+      "start": "00:10:31.760",
+      "end": "00:10:35.200",
+      "text": "second attack, you can see Falcons"
+    },
+    {
+      "start_ms": 633440,
+      "end_ms": 637680,
+      "start": "00:10:33.440",
+      "end": "00:10:37.680",
+      "text": "trying the same thing. They're going to"
+    },
+    {
+      "start_ms": 635200,
+      "end_ms": 639839,
+      "start": "00:10:35.200",
+      "end": "00:10:39.839",
+      "text": "offer Checkmate's early CD trade as a"
+    },
+    {
+      "start_ms": 637680,
+      "end_ms": 641600,
+      "start": "00:10:37.680",
+      "end": "00:10:41.600",
+      "text": "window for Crazy Raccoon to punish,"
+    },
+    {
+      "start_ms": 639839,
+      "end_ms": 643400,
+      "start": "00:10:39.839",
+      "end": "00:10:43.400",
+      "text": "trying to control the way Crazy Raccoon"
+    },
+    {
+      "start_ms": 641600,
+      "end_ms": 645800,
+      "start": "00:10:41.600",
+      "end": "00:10:45.800",
+      "text": "plays and hoping to make them use one of"
+    },
+    {
+      "start_ms": 643400,
+      "end_ms": 647920,
+      "start": "00:10:43.400",
+      "end": "00:10:47.920",
+      "text": "their ults to push main. Hanbin is also"
+    },
+    {
+      "start_ms": 645800,
+      "end_ms": 649839,
+      "start": "00:10:45.800",
+      "end": "00:10:49.839",
+      "text": "using his CD main, making this very,"
+    },
+    {
+      "start_ms": 647920,
+      "end_ms": 651640,
+      "start": "00:10:47.920",
+      "end": "00:10:51.640",
+      "text": "very convincing of a window for Crazy"
+    },
+    {
+      "start_ms": 649839,
+      "end_ms": 653480,
+      "start": "00:10:49.839",
+      "end": "00:10:53.480",
+      "text": "Raccoon to take. They are going to take"
+    },
+    {
+      "start_ms": 651640,
+      "end_ms": 655120,
+      "start": "00:10:51.640",
+      "end": "00:10:55.120",
+      "text": "it and use their rush, and now Falcons"
+    },
+    {
+      "start_ms": 653480,
+      "end_ms": 656880,
+      "start": "00:10:53.480",
+      "end": "00:10:56.880",
+      "text": "has successfully controlled Crazy"
+    },
+    {
+      "start_ms": 655120,
+      "end_ms": 658680,
+      "start": "00:10:55.120",
+      "end": "00:10:58.680",
+      "text": "Raccoon's decision-making. At this point"
+    },
+    {
+      "start_ms": 656880,
+      "end_ms": 660680,
+      "start": "00:10:56.880",
+      "end": "00:11:00.680",
+      "text": "in the fight, it's a skill match-up."
+    },
+    {
+      "start_ms": 658680,
+      "end_ms": 662520,
+      "start": "00:10:58.680",
+      "end": "00:11:02.520",
+      "text": "Since Falcons offered their CDs up early"
+    },
+    {
+      "start_ms": 660680,
+      "end_ms": 664880,
+      "start": "00:11:00.680",
+      "end": "00:11:04.880",
+      "text": "to bait Crazy Raccoon into using an ult"
+    },
+    {
+      "start_ms": 662520,
+      "end_ms": 666960,
+      "start": "00:11:02.520",
+      "end": "00:11:06.960",
+      "text": "here, do we have enough CDs left to"
+    },
+    {
+      "start_ms": 664880,
+      "end_ms": 668880,
+      "start": "00:11:04.880",
+      "end": "00:11:08.880",
+      "text": "actually live this ult? This is where"
+    },
+    {
+      "start_ms": 666960,
+      "end_ms": 671320,
+      "start": "00:11:06.960",
+      "end": "00:11:11.320",
+      "text": "most of the counterplay is. There's a"
+    },
+    {
+      "start_ms": 668880,
+      "end_ms": 673040,
+      "start": "00:11:08.880",
+      "end": "00:11:13.040",
+      "text": "reason teams try both styles. Even if"
+    },
+    {
+      "start_ms": 671320,
+      "end_ms": 675280,
+      "start": "00:11:11.320",
+      "end": "00:11:15.280",
+      "text": "you can use your CDs to control the"
+    },
+    {
+      "start_ms": 673040,
+      "end_ms": 677960,
+      "start": "00:11:13.040",
+      "end": "00:11:17.960",
+      "text": "enemy team's playstyle, are you able to"
+    },
+    {
+      "start_ms": 675280,
+      "end_ms": 680320,
+      "start": "00:11:15.280",
+      "end": "00:11:20.320",
+      "text": "win the fight without CDs? Here, Falcons"
+    },
+    {
+      "start_ms": 677960,
+      "end_ms": 681880,
+      "start": "00:11:17.960",
+      "end": "00:11:21.880",
+      "text": "matches the rush and Checkmate slips"
+    },
+    {
+      "start_ms": 680320,
+      "end_ms": 683720,
+      "start": "00:11:20.320",
+      "end": "00:11:23.720",
+      "text": "out. With two ults left on Crazy"
+    },
+    {
+      "start_ms": 681880,
+      "end_ms": 685600,
+      "start": "00:11:21.880",
+      "end": "00:11:25.600",
+      "text": "Raccoon's side, it's a little tricky for"
+    },
+    {
+      "start_ms": 683720,
+      "end_ms": 687360,
+      "start": "00:11:23.720",
+      "end": "00:11:27.360",
+      "text": "Falcons, who probably should have saved"
+    },
+    {
+      "start_ms": 685600,
+      "end_ms": 688640,
+      "start": "00:11:25.600",
+      "end": "00:11:28.640",
+      "text": "their rush since it was obvious that"
+    },
+    {
+      "start_ms": 687360,
+      "end_ms": 690160,
+      "start": "00:11:27.360",
+      "end": "00:11:30.160",
+      "text": "Checkmate was not going to be able to"
+    },
+    {
+      "start_ms": 688640,
+      "end_ms": 692040,
+      "start": "00:11:28.640",
+      "end": "00:11:32.040",
+      "text": "use it. Now, with both teams having"
+    },
+    {
+      "start_ms": 690160,
+      "end_ms": 693960,
+      "start": "00:11:30.160",
+      "end": "00:11:33.960",
+      "text": "flipped map, Crazy Raccoon is going to"
+    },
+    {
+      "start_ms": 692040,
+      "end_ms": 695280,
+      "start": "00:11:32.040",
+      "end": "00:11:35.280",
+      "text": "be pushed and clean up all these kills"
+    },
+    {
+      "start_ms": 693960,
+      "end_ms": 697040,
+      "start": "00:11:33.960",
+      "end": "00:11:37.040",
+      "text": "top. Here you can see more of the"
+    },
+    {
+      "start_ms": 695280,
+      "end_ms": 698600,
+      "start": "00:11:35.280",
+      "end": "00:11:38.600",
+      "text": "strengths and weaknesses of both styles."
+    },
+    {
+      "start_ms": 697040,
+      "end_ms": 700520,
+      "start": "00:11:37.040",
+      "end": "00:11:40.520",
+      "text": "Team Falcons is offering the bait of"
+    },
+    {
+      "start_ms": 698600,
+      "end_ms": 702080,
+      "start": "00:11:38.600",
+      "end": "00:11:42.080",
+      "text": "Checkmate and Hanbin CDs, but Crazy"
+    },
+    {
+      "start_ms": 700520,
+      "end_ms": 703600,
+      "start": "00:11:40.520",
+      "end": "00:11:43.600",
+      "text": "Racoon is more than willing to take that"
+    },
+    {
+      "start_ms": 702080,
+      "end_ms": 706360,
+      "start": "00:11:42.080",
+      "end": "00:11:46.360",
+      "text": "bait. If we're the team that's playing"
+    },
+    {
+      "start_ms": 703600,
+      "end_ms": 708240,
+      "start": "00:11:43.600",
+      "end": "00:11:48.240",
+      "text": "first and we react correctly, especially"
+    },
+    {
+      "start_ms": 706360,
+      "end_ms": 710000,
+      "start": "00:11:46.360",
+      "end": "00:11:50.000",
+      "text": "in a situation where reacting correctly"
+    },
+    {
+      "start_ms": 708240,
+      "end_ms": 711840,
+      "start": "00:11:48.240",
+      "end": "00:11:51.840",
+      "text": "is pretty easy because there really"
+    },
+    {
+      "start_ms": 710000,
+      "end_ms": 713840,
+      "start": "00:11:50.000",
+      "end": "00:11:53.840",
+      "text": "aren't any complicated rotation options"
+    },
+    {
+      "start_ms": 711840,
+      "end_ms": 716000,
+      "start": "00:11:51.840",
+      "end": "00:11:56.000",
+      "text": "here, we can just trust ourselves to"
+    },
+    {
+      "start_ms": 713840,
+      "end_ms": 717760,
+      "start": "00:11:53.840",
+      "end": "00:11:57.760",
+      "text": "push together off the CD advantage and"
+    },
+    {
+      "start_ms": 716000,
+      "end_ms": 719040,
+      "start": "00:11:56.000",
+      "end": "00:11:59.040",
+      "text": "use our rush to get a kill. You can also"
+    },
+    {
+      "start_ms": 717760,
+      "end_ms": 721120,
+      "start": "00:11:57.760",
+      "end": "00:12:01.120",
+      "text": "see some of the weaknesses of playing"
+    },
+    {
+      "start_ms": 719040,
+      "end_ms": 723320,
+      "start": "00:11:59.040",
+      "end": "00:12:03.320",
+      "text": "second in this fight. If my team loves"
+    },
+    {
+      "start_ms": 721120,
+      "end_ms": 725440,
+      "start": "00:12:01.120",
+      "end": "00:12:05.440",
+      "text": "playing second, but any one person on my"
+    },
+    {
+      "start_ms": 723320,
+      "end_ms": 726800,
+      "start": "00:12:03.320",
+      "end": "00:12:06.800",
+      "text": "team either doesn't understand the plan"
+    },
+    {
+      "start_ms": 725440,
+      "end_ms": 728920,
+      "start": "00:12:05.440",
+      "end": "00:12:08.920",
+      "text": "or doesn't trust that we're going to be"
+    },
+    {
+      "start_ms": 726800,
+      "end_ms": 731000,
+      "start": "00:12:06.800",
+      "end": "00:12:11.000",
+      "text": "able to live, we just end up in a"
+    },
+    {
+      "start_ms": 728920,
+      "end_ms": 733280,
+      "start": "00:12:08.920",
+      "end": "00:12:13.280",
+      "text": "mirrored rush fight where we started the"
+    },
+    {
+      "start_ms": 731000,
+      "end_ms": 735040,
+      "start": "00:12:11.000",
+      "end": "00:12:15.040",
+      "text": "fight by blowing our CDs on nothing."
+    },
+    {
+      "start_ms": 733280,
+      "end_ms": 737000,
+      "start": "00:12:13.280",
+      "end": "00:12:17.000",
+      "text": "Playing second is really difficult if"
+    },
+    {
+      "start_ms": 735040,
+      "end_ms": 739080,
+      "start": "00:12:15.040",
+      "end": "00:12:19.080",
+      "text": "the gameplay flow loop looks something"
+    },
+    {
+      "start_ms": 737000,
+      "end_ms": 741600,
+      "start": "00:12:17.000",
+      "end": "00:12:21.600",
+      "text": "like use your CDs to bait the enemy"
+    },
+    {
+      "start_ms": 739080,
+      "end_ms": 743560,
+      "start": "00:12:19.080",
+      "end": "00:12:23.560",
+      "text": "decision, but then respond to them with"
+    },
+    {
+      "start_ms": 741600,
+      "end_ms": 745960,
+      "start": "00:12:21.600",
+      "end": "00:12:25.960",
+      "text": "a very similar decision. They're just"
+    },
+    {
+      "start_ms": 743560,
+      "end_ms": 747320,
+      "start": "00:12:23.560",
+      "end": "00:12:27.320",
+      "text": "going to have more CDs. To cap this off"
+    },
+    {
+      "start_ms": 745960,
+      "end_ms": 749240,
+      "start": "00:12:25.960",
+      "end": "00:12:29.240",
+      "text": "is one interesting fight towards the end"
+    },
+    {
+      "start_ms": 747320,
+      "end_ms": 751080,
+      "start": "00:12:27.320",
+      "end": "00:12:31.080",
+      "text": "of the map. Falcons wins a messy fight"
+    },
+    {
+      "start_ms": 749240,
+      "end_ms": 753160,
+      "start": "00:12:29.240",
+      "end": "00:12:33.160",
+      "text": "and are poking up. But due to some bad"
+    },
+    {
+      "start_ms": 751080,
+      "end_ms": 755200,
+      "start": "00:12:31.080",
+      "end": "00:12:35.200",
+      "text": "micro, Max is able to find an early pick"
+    },
+    {
+      "start_ms": 753160,
+      "end_ms": 756960,
+      "start": "00:12:33.160",
+      "end": "00:12:36.960",
+      "text": "on Merit on the high ground. Now Falcons"
+    },
+    {
+      "start_ms": 755200,
+      "end_ms": 758640,
+      "start": "00:12:35.200",
+      "end": "00:12:38.640",
+      "text": "are in an incredibly tricky position."
+    },
+    {
+      "start_ms": 756960,
+      "end_ms": 760839,
+      "start": "00:12:36.960",
+      "end": "00:12:40.839",
+      "text": "Nine out of 10 teams would simply just"
+    },
+    {
+      "start_ms": 758640,
+      "end_ms": 762720,
+      "start": "00:12:38.640",
+      "end": "00:12:42.720",
+      "text": "try to disengage here. Falcons, however,"
+    },
+    {
+      "start_ms": 760839,
+      "end_ms": 764280,
+      "start": "00:12:40.839",
+      "end": "00:12:44.280",
+      "text": "with a deep understanding of how to win"
+    },
+    {
+      "start_ms": 762720,
+      "end_ms": 766280,
+      "start": "00:12:42.720",
+      "end": "00:12:46.280",
+      "text": "fights after the enemy team makes the"
+    },
+    {
+      "start_ms": 764280,
+      "end_ms": 768520,
+      "start": "00:12:44.280",
+      "end": "00:12:48.520",
+      "text": "first decision, is going to do something"
+    },
+    {
+      "start_ms": 766280,
+      "end_ms": 770520,
+      "start": "00:12:46.280",
+      "end": "00:12:50.520",
+      "text": "different. Max and Heesang both just set"
+    },
+    {
+      "start_ms": 768520,
+      "end_ms": 772480,
+      "start": "00:12:48.520",
+      "end": "00:12:52.480",
+      "text": "up for this kill on Merit. Max has used"
+    },
+    {
+      "start_ms": 770520,
+      "end_ms": 774280,
+      "start": "00:12:50.520",
+      "end": "00:12:54.280",
+      "text": "his cool down to push and I can see the"
+    },
+    {
+      "start_ms": 772480,
+      "end_ms": 776120,
+      "start": "00:12:52.480",
+      "end": "00:12:56.120",
+      "text": "rest of his team walking up. We still"
+    },
+    {
+      "start_ms": 774280,
+      "end_ms": 778560,
+      "start": "00:12:54.280",
+      "end": "00:12:58.560",
+      "text": "have decent ults in an okay enough"
+    },
+    {
+      "start_ms": 776120,
+      "end_ms": 780800,
+      "start": "00:12:56.120",
+      "end": "00:13:00.800",
+      "text": "position. Instead of full disengaging,"
+    },
+    {
+      "start_ms": 778560,
+      "end_ms": 782839,
+      "start": "00:12:58.560",
+      "end": "00:13:02.839",
+      "text": "what Checkmate's going to do is stage"
+    },
+    {
+      "start_ms": 780800,
+      "end_ms": 784680,
+      "start": "00:13:00.800",
+      "end": "00:13:04.680",
+      "text": "even deeper, knowing that Crazy Racoon"
+    },
+    {
+      "start_ms": 782839,
+      "end_ms": 787440,
+      "start": "00:13:02.839",
+      "end": "00:13:07.440",
+      "text": "sees it and will try and punish him for"
+    },
+    {
+      "start_ms": 784680,
+      "end_ms": 789760,
+      "start": "00:13:04.680",
+      "end": "00:13:09.760",
+      "text": "this. Again, offering that early type of"
+    },
+    {
+      "start_ms": 787440,
+      "end_ms": 792400,
+      "start": "00:13:07.440",
+      "end": "00:13:12.400",
+      "text": "CD trade and pressuring the enemy team"
+    },
+    {
+      "start_ms": 789760,
+      "end_ms": 795360,
+      "start": "00:13:09.760",
+      "end": "00:13:15.360",
+      "text": "to react in a specific way that's easy"
+    },
+    {
+      "start_ms": 792400,
+      "end_ms": 795360,
+      "start": "00:13:12.400",
+      "end": "00:13:15.360",
+      "text": "for you to punish."
+    },
+    {
+      "start_ms": 797320,
+      "end_ms": 800880,
+      "start": "00:13:17.320",
+      "end": "00:13:20.880",
+      "text": "Going into the bottom right room,"
+    },
+    {
+      "start_ms": 798720,
+      "end_ms": 802320,
+      "start": "00:13:18.720",
+      "end": "00:13:22.320",
+      "text": "Checkmate's going to pop ult knowing"
+    },
+    {
+      "start_ms": 800880,
+      "end_ms": 804360,
+      "start": "00:13:20.880",
+      "end": "00:13:24.360",
+      "text": "that they're going to chase him in here."
+    },
+    {
+      "start_ms": 802320,
+      "end_ms": 805839,
+      "start": "00:13:22.320",
+      "end": "00:13:25.839",
+      "text": "He's correct and is going to hit Max,"
+    },
+    {
+      "start_ms": 804360,
+      "end_ms": 807400,
+      "start": "00:13:24.360",
+      "end": "00:13:27.400",
+      "text": "which boosts him into the room, splits"
+    },
+    {
+      "start_ms": 805839,
+      "end_ms": 809640,
+      "start": "00:13:25.839",
+      "end": "00:13:29.640",
+      "text": "him, and kills him. Turning this"
+    },
+    {
+      "start_ms": 807400,
+      "end_ms": 812120,
+      "start": "00:13:27.400",
+      "end": "00:13:32.120",
+      "text": "impossible fight into a win. Now, you"
+    },
+    {
+      "start_ms": 809640,
+      "end_ms": 814800,
+      "start": "00:13:29.640",
+      "end": "00:13:34.800",
+      "text": "might say, \"Cap, Max just entered the"
+    },
+    {
+      "start_ms": 812120,
+      "end_ms": 817840,
+      "start": "00:13:32.120",
+      "end": "00:13:37.840",
+      "text": "game. I wouldn't do this.\" And to that,"
+    },
+    {
+      "start_ms": 814800,
+      "end_ms": 819800,
+      "start": "00:13:34.800",
+      "end": "00:13:39.800",
+      "text": "I say, \"Yes, you would.\" Almost anyone"
+    },
+    {
+      "start_ms": 817840,
+      "end_ms": 822160,
+      "start": "00:13:37.840",
+      "end": "00:13:42.160",
+      "text": "would. Max is one of the best players in"
+    },
+    {
+      "start_ms": 819800,
+      "end_ms": 824320,
+      "start": "00:13:39.800",
+      "end": "00:13:44.320",
+      "text": "the world, and even he bites on bait"
+    },
+    {
+      "start_ms": 822160,
+      "end_ms": 826280,
+      "start": "00:13:42.160",
+      "end": "00:13:46.280",
+      "text": "like that. Because as we've seen, you"
+    },
+    {
+      "start_ms": 824320,
+      "end_ms": 827880,
+      "start": "00:13:44.320",
+      "end": "00:13:47.880",
+      "text": "have to bite on bait a lot of the time."
+    },
+    {
+      "start_ms": 826280,
+      "end_ms": 830160,
+      "start": "00:13:46.280",
+      "end": "00:13:50.160",
+      "text": "If the enemy Vendetta takes a deeper"
+    },
+    {
+      "start_ms": 827880,
+      "end_ms": 831760,
+      "start": "00:13:47.880",
+      "end": "00:13:51.760",
+      "text": "angle and I don't punish him, he's going"
+    },
+    {
+      "start_ms": 830160,
+      "end_ms": 833480,
+      "start": "00:13:50.160",
+      "end": "00:13:53.480",
+      "text": "to control the map and get to my back"
+    },
+    {
+      "start_ms": 831760,
+      "end_ms": 835560,
+      "start": "00:13:51.760",
+      "end": "00:13:55.560",
+      "text": "line. A lot of these mistakes are"
+    },
+    {
+      "start_ms": 833480,
+      "end_ms": 837800,
+      "start": "00:13:53.480",
+      "end": "00:13:57.800",
+      "text": "pressured and forced because they're"
+    },
+    {
+      "start_ms": 835560,
+      "end_ms": 839880,
+      "start": "00:13:55.560",
+      "end": "00:13:59.880",
+      "text": "doing things that I do have to react to."
+    },
+    {
+      "start_ms": 837800,
+      "end_ms": 841520,
+      "start": "00:13:57.800",
+      "end": "00:14:01.520",
+      "text": "The counterplay comes in how I react to"
+    },
+    {
+      "start_ms": 839880,
+      "end_ms": 845680,
+      "start": "00:13:59.880",
+      "end": "00:14:05.680",
+      "text": "it, whether I make the right decision or"
+    },
+    {
+      "start_ms": 841520,
+      "end_ms": 845680,
+      "start": "00:14:01.520",
+      "end": "00:14:05.680",
+      "text": "not, and how quickly I'm able to do it."
+    }
+  ]
+}

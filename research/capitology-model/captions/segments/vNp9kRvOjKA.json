@@ -1,0 +1,1738 @@
+{
+  "video_id": "vNp9kRvOjKA",
+  "title": "You're Not Trying That Hard",
+  "url": "https://www.youtube.com/watch?v=vNp9kRvOjKA",
+  "upload_date": "2025-04-23",
+  "duration_seconds": 656,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:21:50.861927+00:00",
+  "source_sha256": "3d7ab5805ce5ee35c9225fb35b336d7489e6602fb5efc912347391c445705132",
+  "source_bytes": 173490,
+  "segment_count": 245,
+  "word_count": 1607,
+  "character_count": 8448,
+  "first_segment_ms": 2639,
+  "last_segment_end_ms": 657440,
+  "leading_gap_seconds": 2.639,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 2639,
+      "end_ms": 8720,
+      "start": "00:00:02.639",
+      "end": "00:00:08.720",
+      "text": "you are not really"
+    },
+    {
+      "start_ms": 5960,
+      "end_ms": 12000,
+      "start": "00:00:05.960",
+      "end": "00:00:12.000",
+      "text": "trying. I want to make a different kind"
+    },
+    {
+      "start_ms": 8720,
+      "end_ms": 13840,
+      "start": "00:00:08.720",
+      "end": "00:00:13.840",
+      "text": "of video today. I don't have any script."
+    },
+    {
+      "start_ms": 12000,
+      "end_ms": 14839,
+      "start": "00:00:12.000",
+      "end": "00:00:14.839",
+      "text": "I'm going to do all one take. I'm not"
+    },
+    {
+      "start_ms": 13840,
+      "end_ms": 18160,
+      "start": "00:00:13.840",
+      "end": "00:00:18.160",
+      "text": "going to do any"
+    },
+    {
+      "start_ms": 14839,
+      "end_ms": 20960,
+      "start": "00:00:14.839",
+      "end": "00:00:20.960",
+      "text": "editing. Um, this is kind of loosely"
+    },
+    {
+      "start_ms": 18160,
+      "end_ms": 23279,
+      "start": "00:00:18.160",
+      "end": "00:00:23.279",
+      "text": "inspired by the the types of videos that"
+    },
+    {
+      "start_ms": 20960,
+      "end_ms": 26320,
+      "start": "00:00:20.960",
+      "end": "00:00:26.320",
+      "text": "Spilo would do where he would rant about"
+    },
+    {
+      "start_ms": 23279,
+      "end_ms": 27840,
+      "start": "00:00:23.279",
+      "end": "00:00:27.840",
+      "text": "one topic for a while. And I want to do"
+    },
+    {
+      "start_ms": 26320,
+      "end_ms": 31439,
+      "start": "00:00:26.320",
+      "end": "00:00:31.439",
+      "text": "the same thing about something that's"
+    },
+    {
+      "start_ms": 27840,
+      "end_ms": 33079,
+      "start": "00:00:27.840",
+      "end": "00:00:33.079",
+      "text": "really important to me, which is"
+    },
+    {
+      "start_ms": 31439,
+      "end_ms": 36000,
+      "start": "00:00:31.439",
+      "end": "00:00:36.000",
+      "text": "um"
+    },
+    {
+      "start_ms": 33079,
+      "end_ms": 38160,
+      "start": "00:00:33.079",
+      "end": "00:00:38.160",
+      "text": "people have this misconception. Anyone"
+    },
+    {
+      "start_ms": 36000,
+      "end_ms": 39760,
+      "start": "00:00:36.000",
+      "end": "00:00:39.760",
+      "text": "who's trying anything, and the lens that"
+    },
+    {
+      "start_ms": 38160,
+      "end_ms": 41040,
+      "start": "00:00:38.160",
+      "end": "00:00:41.040",
+      "text": "I'm going to use is my personal"
+    },
+    {
+      "start_ms": 39760,
+      "end_ms": 44200,
+      "start": "00:00:39.760",
+      "end": "00:00:44.200",
+      "text": "experience because it wouldn't make"
+    },
+    {
+      "start_ms": 41040,
+      "end_ms": 47640,
+      "start": "00:00:41.040",
+      "end": "00:00:47.640",
+      "text": "sense to do anything else."
+    },
+    {
+      "start_ms": 44200,
+      "end_ms": 51039,
+      "start": "00:00:44.200",
+      "end": "00:00:51.039",
+      "text": "But people have this misconception"
+    },
+    {
+      "start_ms": 47640,
+      "end_ms": 53680,
+      "start": "00:00:47.640",
+      "end": "00:00:53.680",
+      "text": "that when you're trying to to reach"
+    },
+    {
+      "start_ms": 51039,
+      "end_ms": 56640,
+      "start": "00:00:51.039",
+      "end": "00:00:56.640",
+      "text": "something or reach a goal, specifically"
+    },
+    {
+      "start_ms": 53680,
+      "end_ms": 60320,
+      "start": "00:00:53.680",
+      "end": "00:01:00.320",
+      "text": "when that goal is something that a lot"
+    },
+    {
+      "start_ms": 56640,
+      "end_ms": 63120,
+      "start": "00:00:56.640",
+      "end": "00:01:03.120",
+      "text": "of people are striving for, if you are"
+    },
+    {
+      "start_ms": 60320,
+      "end_ms": 67040,
+      "start": "00:01:00.320",
+      "end": "00:01:07.040",
+      "text": "doing any kind of competition or sport"
+    },
+    {
+      "start_ms": 63120,
+      "end_ms": 69760,
+      "start": "00:01:03.120",
+      "end": "00:01:09.760",
+      "text": "or you're a competitive gamer and you"
+    },
+    {
+      "start_ms": 67040,
+      "end_ms": 71520,
+      "start": "00:01:07.040",
+      "end": "00:01:11.520",
+      "text": "think to yourself, I'm trying to reach"
+    },
+    {
+      "start_ms": 69760,
+      "end_ms": 73360,
+      "start": "00:01:09.760",
+      "end": "00:01:13.360",
+      "text": "the top league, right? or maybe I'm"
+    },
+    {
+      "start_ms": 71520,
+      "end_ms": 76000,
+      "start": "00:01:11.520",
+      "end": "00:01:16.000",
+      "text": "trying to reach the second top league"
+    },
+    {
+      "start_ms": 73360,
+      "end_ms": 79240,
+      "start": "00:01:13.360",
+      "end": "00:01:19.240",
+      "text": "and you have a more realistic goal or"
+    },
+    {
+      "start_ms": 76000,
+      "end_ms": 81400,
+      "start": "00:01:16.000",
+      "end": "00:01:21.400",
+      "text": "whatever your goal is. The"
+    },
+    {
+      "start_ms": 79240,
+      "end_ms": 86080,
+      "start": "00:01:19.240",
+      "end": "00:01:26.080",
+      "text": "misconception"
+    },
+    {
+      "start_ms": 81400,
+      "end_ms": 90080,
+      "start": "00:01:21.400",
+      "end": "00:01:30.080",
+      "text": "is when I reach that level, I will"
+    },
+    {
+      "start_ms": 86080,
+      "end_ms": 93439,
+      "start": "00:01:26.080",
+      "end": "00:01:33.439",
+      "text": "change my life to what those people do,"
+    },
+    {
+      "start_ms": 90080,
+      "end_ms": 95280,
+      "start": "00:01:30.080",
+      "end": "00:01:35.280",
+      "text": "right? And when I speak with people, I"
+    },
+    {
+      "start_ms": 93439,
+      "end_ms": 99119,
+      "start": "00:01:33.439",
+      "end": "00:01:39.119",
+      "text": "speak with players, I speak with"
+    },
+    {
+      "start_ms": 95280,
+      "end_ms": 101360,
+      "start": "00:01:35.280",
+      "end": "00:01:41.360",
+      "text": "competitors, and I I did a lot of"
+    },
+    {
+      "start_ms": 99119,
+      "end_ms": 104159,
+      "start": "00:01:39.119",
+      "end": "00:01:44.159",
+      "text": "competitions throughout my life. I I did"
+    },
+    {
+      "start_ms": 101360,
+      "end_ms": 106560,
+      "start": "00:01:41.360",
+      "end": "00:01:46.560",
+      "text": "MMA for seven years. I did wrestling for"
+    },
+    {
+      "start_ms": 104159,
+      "end_ms": 108399,
+      "start": "00:01:44.159",
+      "end": "00:01:48.399",
+      "text": "four years. In high school, I was"
+    },
+    {
+      "start_ms": 106560,
+      "end_ms": 110399,
+      "start": "00:01:46.560",
+      "end": "00:01:50.399",
+      "text": "friends with a lot of athletes, you"
+    },
+    {
+      "start_ms": 108399,
+      "end_ms": 111799,
+      "start": "00:01:48.399",
+      "end": "00:01:51.799",
+      "text": "know, uh people who wanted to be"
+    },
+    {
+      "start_ms": 110399,
+      "end_ms": 114960,
+      "start": "00:01:50.399",
+      "end": "00:01:54.960",
+      "text": "professional"
+    },
+    {
+      "start_ms": 111799,
+      "end_ms": 117759,
+      "start": "00:01:51.799",
+      "end": "00:01:57.759",
+      "text": "musicians. And almost everyone thought"
+    },
+    {
+      "start_ms": 114960,
+      "end_ms": 122759,
+      "start": "00:01:54.960",
+      "end": "00:02:02.759",
+      "text": "this way. They thought when I make the"
+    },
+    {
+      "start_ms": 117759,
+      "end_ms": 125600,
+      "start": "00:01:57.759",
+      "end": "00:02:05.600",
+      "text": "league, when I make D1 College, when I"
+    },
+    {
+      "start_ms": 122759,
+      "end_ms": 127439,
+      "start": "00:02:02.759",
+      "end": "00:02:07.439",
+      "text": "make contenders in Overwatch League,"
+    },
+    {
+      "start_ms": 125600,
+      "end_ms": 132239,
+      "start": "00:02:05.600",
+      "end": "00:02:12.239",
+      "text": "whatever it's going to be, they think"
+    },
+    {
+      "start_ms": 127439,
+      "end_ms": 133920,
+      "start": "00:02:07.439",
+      "end": "00:02:13.920",
+      "text": "when I make that, I will start doing"
+    },
+    {
+      "start_ms": 132239,
+      "end_ms": 136160,
+      "start": "00:02:12.239",
+      "end": "00:02:16.160",
+      "text": "what those people do and I will start"
+    },
+    {
+      "start_ms": 133920,
+      "end_ms": 140599,
+      "start": "00:02:13.920",
+      "end": "00:02:20.599",
+      "text": "trying as hard as those people try and I"
+    },
+    {
+      "start_ms": 136160,
+      "end_ms": 144280,
+      "start": "00:02:16.160",
+      "end": "00:02:24.280",
+      "text": "will change my life to reflect what they"
+    },
+    {
+      "start_ms": 140599,
+      "end_ms": 148080,
+      "start": "00:02:20.599",
+      "end": "00:02:28.080",
+      "text": "do. Especially people who"
+    },
+    {
+      "start_ms": 144280,
+      "end_ms": 151200,
+      "start": "00:02:24.280",
+      "end": "00:02:31.200",
+      "text": "think they deserve a shot at the next"
+    },
+    {
+      "start_ms": 148080,
+      "end_ms": 153519,
+      "start": "00:02:28.080",
+      "end": "00:02:33.519",
+      "text": "level in whatever that is. They think if"
+    },
+    {
+      "start_ms": 151200,
+      "end_ms": 157040,
+      "start": "00:02:31.200",
+      "end": "00:02:37.040",
+      "text": "only someone would take a chance on me,"
+    },
+    {
+      "start_ms": 153519,
+      "end_ms": 158879,
+      "start": "00:02:33.519",
+      "end": "00:02:38.879",
+      "text": "I would show them how hard I can try. If"
+    },
+    {
+      "start_ms": 157040,
+      "end_ms": 160800,
+      "start": "00:02:37.040",
+      "end": "00:02:40.800",
+      "text": "only someone would take a chance on me,"
+    },
+    {
+      "start_ms": 158879,
+      "end_ms": 162400,
+      "start": "00:02:38.879",
+      "end": "00:02:42.400",
+      "text": "I would show them how much I could"
+    },
+    {
+      "start_ms": 160800,
+      "end_ms": 166720,
+      "start": "00:02:40.800",
+      "end": "00:02:46.720",
+      "text": "improve."
+    },
+    {
+      "start_ms": 162400,
+      "end_ms": 169239,
+      "start": "00:02:42.400",
+      "end": "00:02:49.239",
+      "text": "And that is the worst mentality you"
+    },
+    {
+      "start_ms": 166720,
+      "end_ms": 173440,
+      "start": "00:02:46.720",
+      "end": "00:02:53.440",
+      "text": "could possibly have as someone"
+    },
+    {
+      "start_ms": 169239,
+      "end_ms": 174599,
+      "start": "00:02:49.239",
+      "end": "00:02:54.599",
+      "text": "who wants to move up in anything because"
+    },
+    {
+      "start_ms": 173440,
+      "end_ms": 177840,
+      "start": "00:02:53.440",
+      "end": "00:02:57.840",
+      "text": "if you"
+    },
+    {
+      "start_ms": 174599,
+      "end_ms": 180720,
+      "start": "00:02:54.599",
+      "end": "00:03:00.720",
+      "text": "wanted to reach the next level, you"
+    },
+    {
+      "start_ms": 177840,
+      "end_ms": 183120,
+      "start": "00:02:57.840",
+      "end": "00:03:03.120",
+      "text": "would already be doing what those people"
+    },
+    {
+      "start_ms": 180720,
+      "end_ms": 184800,
+      "start": "00:03:00.720",
+      "end": "00:03:04.800",
+      "text": "do."
+    },
+    {
+      "start_ms": 183120,
+      "end_ms": 187519,
+      "start": "00:03:03.120",
+      "end": "00:03:07.519",
+      "text": "That's the misconception is"
+    },
+    {
+      "start_ms": 184800,
+      "end_ms": 191760,
+      "start": "00:03:04.800",
+      "end": "00:03:11.760",
+      "text": "understanding that if you want to be the"
+    },
+    {
+      "start_ms": 187519,
+      "end_ms": 195200,
+      "start": "00:03:07.519",
+      "end": "00:03:15.200",
+      "text": "next level, you need to do what they do"
+    },
+    {
+      "start_ms": 191760,
+      "end_ms": 197760,
+      "start": "00:03:11.760",
+      "end": "00:03:17.760",
+      "text": "to get there. Not only because everybody"
+    },
+    {
+      "start_ms": 195200,
+      "end_ms": 200480,
+      "start": "00:03:15.200",
+      "end": "00:03:20.480",
+      "text": "at your level is doing what people at"
+    },
+    {
+      "start_ms": 197760,
+      "end_ms": 202879,
+      "start": "00:03:17.760",
+      "end": "00:03:22.879",
+      "text": "your level do. And if you do that, you"
+    },
+    {
+      "start_ms": 200480,
+      "end_ms": 205280,
+      "start": "00:03:20.480",
+      "end": "00:03:25.280",
+      "text": "will improve at the rate of your peers,"
+    },
+    {
+      "start_ms": 202879,
+      "end_ms": 207519,
+      "start": "00:03:22.879",
+      "end": "00:03:27.519",
+      "text": "right? You can't all move up. That's not"
+    },
+    {
+      "start_ms": 205280,
+      "end_ms": 209519,
+      "start": "00:03:25.280",
+      "end": "00:03:29.519",
+      "text": "how it works. And even if you could,"
+    },
+    {
+      "start_ms": 207519,
+      "end_ms": 211599,
+      "start": "00:03:27.519",
+      "end": "00:03:31.599",
+      "text": "there's people around you that are"
+    },
+    {
+      "start_ms": 209519,
+      "end_ms": 213760,
+      "start": "00:03:29.519",
+      "end": "00:03:33.760",
+      "text": "already doing what those people do. and"
+    },
+    {
+      "start_ms": 211599,
+      "end_ms": 216840,
+      "start": "00:03:31.599",
+      "end": "00:03:36.840",
+      "text": "those people will see that improvement"
+    },
+    {
+      "start_ms": 213760,
+      "end_ms": 219200,
+      "start": "00:03:33.760",
+      "end": "00:03:39.200",
+      "text": "and especially in situations"
+    },
+    {
+      "start_ms": 216840,
+      "end_ms": 222200,
+      "start": "00:03:36.840",
+      "end": "00:03:42.200",
+      "text": "where there's some kind of interaction"
+    },
+    {
+      "start_ms": 219200,
+      "end_ms": 225120,
+      "start": "00:03:39.200",
+      "end": "00:03:45.120",
+      "text": "between the levels"
+    },
+    {
+      "start_ms": 222200,
+      "end_ms": 226720,
+      "start": "00:03:42.200",
+      "end": "00:03:46.720",
+      "text": "and I see this all the time on teams"
+    },
+    {
+      "start_ms": 225120,
+      "end_ms": 229159,
+      "start": "00:03:45.120",
+      "end": "00:03:49.159",
+      "text": "where"
+    },
+    {
+      "start_ms": 226720,
+      "end_ms": 231840,
+      "start": "00:03:46.720",
+      "end": "00:03:51.840",
+      "text": "um the teams in you know the third tier"
+    },
+    {
+      "start_ms": 229159,
+      "end_ms": 234319,
+      "start": "00:03:49.159",
+      "end": "00:03:54.319",
+      "text": "think if only one of the second tier"
+    },
+    {
+      "start_ms": 231840,
+      "end_ms": 238319,
+      "start": "00:03:51.840",
+      "end": "00:03:58.319",
+      "text": "teams would take a chance on me and pick"
+    },
+    {
+      "start_ms": 234319,
+      "end_ms": 242400,
+      "start": "00:03:54.319",
+      "end": "00:04:02.400",
+      "text": "me up you know but the thing is everyone"
+    },
+    {
+      "start_ms": 238319,
+      "end_ms": 245439,
+      "start": "00:03:58.319",
+      "end": "00:04:05.439",
+      "text": "in the second tier knows who you are and"
+    },
+    {
+      "start_ms": 242400,
+      "end_ms": 246840,
+      "start": "00:04:02.400",
+      "end": "00:04:06.840",
+      "text": "they know some things about you and all"
+    },
+    {
+      "start_ms": 245439,
+      "end_ms": 251360,
+      "start": "00:04:05.439",
+      "end": "00:04:11.360",
+      "text": "they know about"
+    },
+    {
+      "start_ms": 246840,
+      "end_ms": 252959,
+      "start": "00:04:06.840",
+      "end": "00:04:12.959",
+      "text": "you is the impression they get from the"
+    },
+    {
+      "start_ms": 251360,
+      "end_ms": 254879,
+      "start": "00:04:11.360",
+      "end": "00:04:14.879",
+      "text": "very few interactions that you'll have"
+    },
+    {
+      "start_ms": 252959,
+      "end_ms": 256880,
+      "start": "00:04:12.959",
+      "end": "00:04:16.880",
+      "text": "with them, right? And so what that will"
+    },
+    {
+      "start_ms": 254879,
+      "end_ms": 260079,
+      "start": "00:04:14.879",
+      "end": "00:04:20.079",
+      "text": "be is the public image you make of"
+    },
+    {
+      "start_ms": 256880,
+      "end_ms": 262160,
+      "start": "00:04:16.880",
+      "end": "00:04:22.160",
+      "text": "yourself is one, but the more important"
+    },
+    {
+      "start_ms": 260079,
+      "end_ms": 265120,
+      "start": "00:04:20.079",
+      "end": "00:04:25.120",
+      "text": "thing is what other people say about"
+    },
+    {
+      "start_ms": 262160,
+      "end_ms": 268800,
+      "start": "00:04:22.160",
+      "end": "00:04:28.800",
+      "text": "you. Because even if you've never spoken"
+    },
+    {
+      "start_ms": 265120,
+      "end_ms": 270479,
+      "start": "00:04:25.120",
+      "end": "00:04:30.479",
+      "text": "to someone, they have heard someone say"
+    },
+    {
+      "start_ms": 268800,
+      "end_ms": 274240,
+      "start": "00:04:28.800",
+      "end": "00:04:34.240",
+      "text": "something about you and that's their"
+    },
+    {
+      "start_ms": 270479,
+      "end_ms": 275680,
+      "start": "00:04:30.479",
+      "end": "00:04:35.680",
+      "text": "impression. And if that person says, \"Oh"
+    },
+    {
+      "start_ms": 274240,
+      "end_ms": 276840,
+      "start": "00:04:34.240",
+      "end": "00:04:36.840",
+      "text": "yeah, he doesn't try that hard. He's not"
+    },
+    {
+      "start_ms": 275680,
+      "end_ms": 280080,
+      "start": "00:04:35.680",
+      "end": "00:04:40.080",
+      "text": "that"
+    },
+    {
+      "start_ms": 276840,
+      "end_ms": 282800,
+      "start": "00:04:36.840",
+      "end": "00:04:42.800",
+      "text": "good.\" That's you. That's how you exist"
+    },
+    {
+      "start_ms": 280080,
+      "end_ms": 286160,
+      "start": "00:04:40.080",
+      "end": "00:04:46.160",
+      "text": "in the world to most people. And if"
+    },
+    {
+      "start_ms": 282800,
+      "end_ms": 289360,
+      "start": "00:04:42.800",
+      "end": "00:04:49.360",
+      "text": "you're not capable of doing what the"
+    },
+    {
+      "start_ms": 286160,
+      "end_ms": 290199,
+      "start": "00:04:46.160",
+      "end": "00:04:50.199",
+      "text": "people above you do before you reach"
+    },
+    {
+      "start_ms": 289360,
+      "end_ms": 294600,
+      "start": "00:04:49.360",
+      "end": "00:04:54.600",
+      "text": "that"
+    },
+    {
+      "start_ms": 290199,
+      "end_ms": 296720,
+      "start": "00:04:50.199",
+      "end": "00:04:56.720",
+      "text": "level, you are not ready for that"
+    },
+    {
+      "start_ms": 294600,
+      "end_ms": 298479,
+      "start": "00:04:54.600",
+      "end": "00:04:58.479",
+      "text": "level. Now, I don't know how much longer"
+    },
+    {
+      "start_ms": 296720,
+      "end_ms": 302000,
+      "start": "00:04:56.720",
+      "end": "00:05:02.000",
+      "text": "I'm going to ramble about this because"
+    },
+    {
+      "start_ms": 298479,
+      "end_ms": 304240,
+      "start": "00:04:58.479",
+      "end": "00:05:04.240",
+      "text": "that's the main point. Um, the sentence"
+    },
+    {
+      "start_ms": 302000,
+      "end_ms": 307680,
+      "start": "00:05:02.000",
+      "end": "00:05:07.680",
+      "text": "I started the video off with was you're"
+    },
+    {
+      "start_ms": 304240,
+      "end_ms": 309400,
+      "start": "00:05:04.240",
+      "end": "00:05:09.400",
+      "text": "not trying that hard. And what I mean is"
+    },
+    {
+      "start_ms": 307680,
+      "end_ms": 312320,
+      "start": "00:05:07.680",
+      "end": "00:05:12.320",
+      "text": "no matter how hard you think you're"
+    },
+    {
+      "start_ms": 309400,
+      "end_ms": 313840,
+      "start": "00:05:09.400",
+      "end": "00:05:13.840",
+      "text": "trying, if you have stagnated somewhere"
+    },
+    {
+      "start_ms": 312320,
+      "end_ms": 315919,
+      "start": "00:05:12.320",
+      "end": "00:05:15.919",
+      "text": "and you feel like you're stuck in a"
+    },
+    {
+      "start_ms": 313840,
+      "end_ms": 318560,
+      "start": "00:05:13.840",
+      "end": "00:05:18.560",
+      "text": "loop, you're stuck in the matrix, and"
+    },
+    {
+      "start_ms": 315919,
+      "end_ms": 321680,
+      "start": "00:05:15.919",
+      "end": "00:05:21.680",
+      "text": "you feel like the reason I'm not"
+    },
+    {
+      "start_ms": 318560,
+      "end_ms": 324000,
+      "start": "00:05:18.560",
+      "end": "00:05:24.000",
+      "text": "improving is because the system or"
+    },
+    {
+      "start_ms": 321680,
+      "end_ms": 326720,
+      "start": "00:05:21.680",
+      "end": "00:05:26.720",
+      "text": "because the people above me are keeping"
+    },
+    {
+      "start_ms": 324000,
+      "end_ms": 328919,
+      "start": "00:05:24.000",
+      "end": "00:05:28.919",
+      "text": "me down or something is holding me back."
+    },
+    {
+      "start_ms": 326720,
+      "end_ms": 333600,
+      "start": "00:05:26.720",
+      "end": "00:05:33.600",
+      "text": "You're wrong."
+    },
+    {
+      "start_ms": 328919,
+      "end_ms": 336720,
+      "start": "00:05:28.919",
+      "end": "00:05:36.720",
+      "text": "And more importantly, the mindset that I"
+    },
+    {
+      "start_ms": 333600,
+      "end_ms": 338960,
+      "start": "00:05:33.600",
+      "end": "00:05:38.960",
+      "text": "would try that hard if only they would"
+    },
+    {
+      "start_ms": 336720,
+      "end_ms": 341600,
+      "start": "00:05:36.720",
+      "end": "00:05:41.600",
+      "text": "take a chance on me or if only I would"
+    },
+    {
+      "start_ms": 338960,
+      "end_ms": 343759,
+      "start": "00:05:38.960",
+      "end": "00:05:43.759",
+      "text": "be given the opportunity. I could try"
+    },
+    {
+      "start_ms": 341600,
+      "end_ms": 348240,
+      "start": "00:05:41.600",
+      "end": "00:05:48.240",
+      "text": "that hard. I would try that hard. You"
+    },
+    {
+      "start_ms": 343759,
+      "end_ms": 350560,
+      "start": "00:05:43.759",
+      "end": "00:05:50.560",
+      "text": "won't because you'll do what you want to"
+    },
+    {
+      "start_ms": 348240,
+      "end_ms": 352479,
+      "start": "00:05:48.240",
+      "end": "00:05:52.479",
+      "text": "do and are capable of doing. And if you"
+    },
+    {
+      "start_ms": 350560,
+      "end_ms": 354400,
+      "start": "00:05:50.560",
+      "end": "00:05:54.400",
+      "text": "were capable of doing it and you did"
+    },
+    {
+      "start_ms": 352479,
+      "end_ms": 356560,
+      "start": "00:05:52.479",
+      "end": "00:05:56.560",
+      "text": "want to do it, you would already be"
+    },
+    {
+      "start_ms": 354400,
+      "end_ms": 359520,
+      "start": "00:05:54.400",
+      "end": "00:05:59.520",
+      "text": "doing it. Everyone would see it."
+    },
+    {
+      "start_ms": 356560,
+      "end_ms": 361440,
+      "start": "00:05:56.560",
+      "end": "00:06:01.440",
+      "text": "Everyone would know it."
+    },
+    {
+      "start_ms": 359520,
+      "end_ms": 363560,
+      "start": "00:05:59.520",
+      "end": "00:06:03.560",
+      "text": "and you wouldn't need to be given the"
+    },
+    {
+      "start_ms": 361440,
+      "end_ms": 365960,
+      "start": "00:06:01.440",
+      "end": "00:06:05.960",
+      "text": "opportunity because you would take"
+    },
+    {
+      "start_ms": 363560,
+      "end_ms": 368919,
+      "start": "00:06:03.560",
+      "end": "00:06:08.919",
+      "text": "it. And that's important. That's the"
+    },
+    {
+      "start_ms": 365960,
+      "end_ms": 373440,
+      "start": "00:06:05.960",
+      "end": "00:06:13.440",
+      "text": "takeaway."
+    },
+    {
+      "start_ms": 368919,
+      "end_ms": 374680,
+      "start": "00:06:08.919",
+      "end": "00:06:14.680",
+      "text": "Um, I do want to say that it's harsh."
+    },
+    {
+      "start_ms": 373440,
+      "end_ms": 378080,
+      "start": "00:06:13.440",
+      "end": "00:06:18.080",
+      "text": "It's very"
+    },
+    {
+      "start_ms": 374680,
+      "end_ms": 380960,
+      "start": "00:06:14.680",
+      "end": "00:06:20.960",
+      "text": "absolutist. There might be extreme"
+    },
+    {
+      "start_ms": 378080,
+      "end_ms": 382639,
+      "start": "00:06:18.080",
+      "end": "00:06:22.639",
+      "text": "situations in your unique circumstance"
+    },
+    {
+      "start_ms": 380960,
+      "end_ms": 384240,
+      "start": "00:06:20.960",
+      "end": "00:06:24.240",
+      "text": "that do make you different from everyone"
+    },
+    {
+      "start_ms": 382639,
+      "end_ms": 387759,
+      "start": "00:06:22.639",
+      "end": "00:06:27.759",
+      "text": "else. But the important thing is that"
+    },
+    {
+      "start_ms": 384240,
+      "end_ms": 391280,
+      "start": "00:06:24.240",
+      "end": "00:06:31.280",
+      "text": "that doesn't matter. If you want to get"
+    },
+    {
+      "start_ms": 387759,
+      "end_ms": 394199,
+      "start": "00:06:27.759",
+      "end": "00:06:34.199",
+      "text": "better at something, especially if you"
+    },
+    {
+      "start_ms": 391280,
+      "end_ms": 396280,
+      "start": "00:06:31.280",
+      "end": "00:06:36.280",
+      "text": "want to be the best at"
+    },
+    {
+      "start_ms": 394199,
+      "end_ms": 398600,
+      "start": "00:06:34.199",
+      "end": "00:06:38.600",
+      "text": "something, you need"
+    },
+    {
+      "start_ms": 396280,
+      "end_ms": 403479,
+      "start": "00:06:36.280",
+      "end": "00:06:43.479",
+      "text": "to be"
+    },
+    {
+      "start_ms": 398600,
+      "end_ms": 407120,
+      "start": "00:06:38.600",
+      "end": "00:06:47.120",
+      "text": "honest with how much you're"
+    },
+    {
+      "start_ms": 403479,
+      "end_ms": 409039,
+      "start": "00:06:43.479",
+      "end": "00:06:49.039",
+      "text": "wasting. And this is specifically for"
+    },
+    {
+      "start_ms": 407120,
+      "end_ms": 410800,
+      "start": "00:06:47.120",
+      "end": "00:06:50.800",
+      "text": "people that have ambitions, right? If"
+    },
+    {
+      "start_ms": 409039,
+      "end_ms": 412800,
+      "start": "00:06:49.039",
+      "end": "00:06:52.800",
+      "text": "you don't have ambitions, if your goal"
+    },
+    {
+      "start_ms": 410800,
+      "end_ms": 414800,
+      "start": "00:06:50.800",
+      "end": "00:06:54.800",
+      "text": "is to have fun, there's nothing wrong"
+    },
+    {
+      "start_ms": 412800,
+      "end_ms": 418319,
+      "start": "00:06:52.800",
+      "end": "00:06:58.319",
+      "text": "with that. That's totally fine. and this"
+    },
+    {
+      "start_ms": 414800,
+      "end_ms": 420800,
+      "start": "00:06:54.800",
+      "end": "00:07:00.800",
+      "text": "isn't for you. I'm only harsh towards"
+    },
+    {
+      "start_ms": 418319,
+      "end_ms": 424080,
+      "start": "00:06:58.319",
+      "end": "00:07:04.080",
+      "text": "people that claim to have those"
+    },
+    {
+      "start_ms": 420800,
+      "end_ms": 427319,
+      "start": "00:07:00.800",
+      "end": "00:07:07.319",
+      "text": "ambitions and don't do anything about"
+    },
+    {
+      "start_ms": 424080,
+      "end_ms": 432160,
+      "start": "00:07:04.080",
+      "end": "00:07:12.160",
+      "text": "them. Because if you are doing"
+    },
+    {
+      "start_ms": 427319,
+      "end_ms": 434599,
+      "start": "00:07:07.319",
+      "end": "00:07:14.599",
+      "text": "something for four or more hours a day,"
+    },
+    {
+      "start_ms": 432160,
+      "end_ms": 437919,
+      "start": "00:07:12.160",
+      "end": "00:07:17.919",
+      "text": "that is a part-time job or"
+    },
+    {
+      "start_ms": 434599,
+      "end_ms": 440720,
+      "start": "00:07:14.599",
+      "end": "00:07:20.720",
+      "text": "more worth of what you're doing. That's"
+    },
+    {
+      "start_ms": 437919,
+      "end_ms": 444080,
+      "start": "00:07:17.919",
+      "end": "00:07:24.080",
+      "text": "a significant part of your life. And if"
+    },
+    {
+      "start_ms": 440720,
+      "end_ms": 445919,
+      "start": "00:07:20.720",
+      "end": "00:07:25.919",
+      "text": "you are holding on to that excuse and"
+    },
+    {
+      "start_ms": 444080,
+      "end_ms": 449120,
+      "start": "00:07:24.080",
+      "end": "00:07:29.120",
+      "text": "that little bit of hope that says one"
+    },
+    {
+      "start_ms": 445919,
+      "end_ms": 452000,
+      "start": "00:07:25.919",
+      "end": "00:07:32.000",
+      "text": "day I'll get lucky and I'll get given"
+    },
+    {
+      "start_ms": 449120,
+      "end_ms": 455039,
+      "start": "00:07:29.120",
+      "end": "00:07:35.039",
+      "text": "that special opportunity and then I'll"
+    },
+    {
+      "start_ms": 452000,
+      "end_ms": 457360,
+      "start": "00:07:32.000",
+      "end": "00:07:37.360",
+      "text": "start using my time wisely. Then you're"
+    },
+    {
+      "start_ms": 455039,
+      "end_ms": 459880,
+      "start": "00:07:35.039",
+      "end": "00:07:39.880",
+      "text": "wasting all of your time because you're"
+    },
+    {
+      "start_ms": 457360,
+      "end_ms": 463280,
+      "start": "00:07:37.360",
+      "end": "00:07:43.280",
+      "text": "already spending your time doing this. I"
+    },
+    {
+      "start_ms": 459880,
+      "end_ms": 467560,
+      "start": "00:07:39.880",
+      "end": "00:07:47.560",
+      "text": "know players, I know competitors that"
+    },
+    {
+      "start_ms": 463280,
+      "end_ms": 470800,
+      "start": "00:07:43.280",
+      "end": "00:07:50.800",
+      "text": "spend eight hours a day playing some"
+    },
+    {
+      "start_ms": 467560,
+      "end_ms": 472639,
+      "start": "00:07:47.560",
+      "end": "00:07:52.639",
+      "text": "game, whether it's I do this amount of"
+    },
+    {
+      "start_ms": 470800,
+      "end_ms": 474160,
+      "start": "00:07:50.800",
+      "end": "00:07:54.160",
+      "text": "scrims and I do this amount of just"
+    },
+    {
+      "start_ms": 472639,
+      "end_ms": 476319,
+      "start": "00:07:52.639",
+      "end": "00:07:56.319",
+      "text": "playing ranked and I play with my"
+    },
+    {
+      "start_ms": 474160,
+      "end_ms": 477840,
+      "start": "00:07:54.160",
+      "end": "00:07:57.840",
+      "text": "friends and and all that stuff, and you"
+    },
+    {
+      "start_ms": 476319,
+      "end_ms": 480560,
+      "start": "00:07:56.319",
+      "end": "00:08:00.560",
+      "text": "say to yourself, \"Well, I'm not taking"
+    },
+    {
+      "start_ms": 477840,
+      "end_ms": 482479,
+      "start": "00:07:57.840",
+      "end": "00:08:02.479",
+      "text": "it that seriously.\" Yes, you are. It's"
+    },
+    {
+      "start_ms": 480560,
+      "end_ms": 484599,
+      "start": "00:08:00.560",
+      "end": "00:08:04.599",
+      "text": "your life."
+    },
+    {
+      "start_ms": 482479,
+      "end_ms": 488479,
+      "start": "00:08:02.479",
+      "end": "00:08:08.479",
+      "text": "understand"
+    },
+    {
+      "start_ms": 484599,
+      "end_ms": 490960,
+      "start": "00:08:04.599",
+      "end": "00:08:10.960",
+      "text": "that if you were honest about how much"
+    },
+    {
+      "start_ms": 488479,
+      "end_ms": 493199,
+      "start": "00:08:08.479",
+      "end": "00:08:13.199",
+      "text": "this controls you and how much it means"
+    },
+    {
+      "start_ms": 490960,
+      "end_ms": 496720,
+      "start": "00:08:10.960",
+      "end": "00:08:16.720",
+      "text": "to you and you were willing to stop"
+    },
+    {
+      "start_ms": 493199,
+      "end_ms": 498400,
+      "start": "00:08:13.199",
+      "end": "00:08:18.400",
+      "text": "hiding behind the shield of it doesn't"
+    },
+    {
+      "start_ms": 496720,
+      "end_ms": 499919,
+      "start": "00:08:16.720",
+      "end": "00:08:19.919",
+      "text": "mean that much to me. I'm not really"
+    },
+    {
+      "start_ms": 498400,
+      "end_ms": 501720,
+      "start": "00:08:18.400",
+      "end": "00:08:21.720",
+      "text": "trying that hard. I don't actually"
+    },
+    {
+      "start_ms": 499919,
+      "end_ms": 503639,
+      "start": "00:08:19.919",
+      "end": "00:08:23.639",
+      "text": "really want this that"
+    },
+    {
+      "start_ms": 501720,
+      "end_ms": 507680,
+      "start": "00:08:21.720",
+      "end": "00:08:27.680",
+      "text": "badly."
+    },
+    {
+      "start_ms": 503639,
+      "end_ms": 509520,
+      "start": "00:08:23.639",
+      "end": "00:08:29.520",
+      "text": "Then you can grasp what it takes to get"
+    },
+    {
+      "start_ms": 507680,
+      "end_ms": 511280,
+      "start": "00:08:27.680",
+      "end": "00:08:31.280",
+      "text": "to the next level. People will be"
+    },
+    {
+      "start_ms": 509520,
+      "end_ms": 513159,
+      "start": "00:08:29.520",
+      "end": "00:08:33.159",
+      "text": "willing to help you. People will be"
+    },
+    {
+      "start_ms": 511280,
+      "end_ms": 516000,
+      "start": "00:08:31.280",
+      "end": "00:08:36.000",
+      "text": "willing to try and give you"
+    },
+    {
+      "start_ms": 513159,
+      "end_ms": 519680,
+      "start": "00:08:33.159",
+      "end": "00:08:39.680",
+      "text": "opportunities if you show you are"
+    },
+    {
+      "start_ms": 516000,
+      "end_ms": 521599,
+      "start": "00:08:36.000",
+      "end": "00:08:41.599",
+      "text": "already ready for it. And I think I'm"
+    },
+    {
+      "start_ms": 519680,
+      "end_ms": 523200,
+      "start": "00:08:39.680",
+      "end": "00:08:43.200",
+      "text": "going to end the video here. I've"
+    },
+    {
+      "start_ms": 521599,
+      "end_ms": 525200,
+      "start": "00:08:41.599",
+      "end": "00:08:45.200",
+      "text": "rambled on long enough. How long has"
+    },
+    {
+      "start_ms": 523200,
+      "end_ms": 529080,
+      "start": "00:08:43.200",
+      "end": "00:08:49.080",
+      "text": "this been? Eight minutes. Eight minute"
+    },
+    {
+      "start_ms": 525200,
+      "end_ms": 533360,
+      "start": "00:08:45.200",
+      "end": "00:08:53.360",
+      "text": "video. It's pretty short."
+    },
+    {
+      "start_ms": 529080,
+      "end_ms": 535680,
+      "start": "00:08:49.080",
+      "end": "00:08:55.680",
+      "text": "Um, I left this kind of vague because"
+    },
+    {
+      "start_ms": 533360,
+      "end_ms": 539440,
+      "start": "00:08:53.360",
+      "end": "00:08:59.440",
+      "text": "um, I am a professional or I was a"
+    },
+    {
+      "start_ms": 535680,
+      "end_ms": 542959,
+      "start": "00:08:55.680",
+      "end": "00:09:02.959",
+      "text": "professional Overwatch coach, but it's"
+    },
+    {
+      "start_ms": 539440,
+      "end_ms": 544680,
+      "start": "00:08:59.440",
+      "end": "00:09:04.680",
+      "text": "not a lesson I learned from Overwatch"
+    },
+    {
+      "start_ms": 542959,
+      "end_ms": 547519,
+      "start": "00:09:02.959",
+      "end": "00:09:07.519",
+      "text": "and it's not a lesson you're going to"
+    },
+    {
+      "start_ms": 544680,
+      "end_ms": 549600,
+      "start": "00:09:04.680",
+      "end": "00:09:09.600",
+      "text": "learn from what you're doing on your on"
+    },
+    {
+      "start_ms": 547519,
+      "end_ms": 551440,
+      "start": "00:09:07.519",
+      "end": "00:09:11.440",
+      "text": "your own, you know. It's a lesson that"
+    },
+    {
+      "start_ms": 549600,
+      "end_ms": 555519,
+      "start": "00:09:09.600",
+      "end": "00:09:15.519",
+      "text": "you learn from looking at the people"
+    },
+    {
+      "start_ms": 551440,
+      "end_ms": 557040,
+      "start": "00:09:11.440",
+      "end": "00:09:17.040",
+      "text": "around you and seeing who is getting"
+    },
+    {
+      "start_ms": 555519,
+      "end_ms": 558640,
+      "start": "00:09:15.519",
+      "end": "00:09:18.640",
+      "text": "opportunities and who's really getting"
+    },
+    {
+      "start_ms": 557040,
+      "end_ms": 560480,
+      "start": "00:09:17.040",
+      "end": "00:09:20.480",
+      "text": "better. You know, if you look at the"
+    },
+    {
+      "start_ms": 558640,
+      "end_ms": 562240,
+      "start": "00:09:18.640",
+      "end": "00:09:22.240",
+      "text": "people around you and you think this"
+    },
+    {
+      "start_ms": 560480,
+      "end_ms": 563760,
+      "start": "00:09:20.480",
+      "end": "00:09:23.760",
+      "text": "person didn't deserve that, this person"
+    },
+    {
+      "start_ms": 562240,
+      "end_ms": 566120,
+      "start": "00:09:22.240",
+      "end": "00:09:26.120",
+      "text": "didn't deserve that. I'm better than"
+    },
+    {
+      "start_ms": 563760,
+      "end_ms": 567640,
+      "start": "00:09:23.760",
+      "end": "00:09:27.640",
+      "text": "this person. I was better than this"
+    },
+    {
+      "start_ms": 566120,
+      "end_ms": 571120,
+      "start": "00:09:26.120",
+      "end": "00:09:31.120",
+      "text": "person."
+    },
+    {
+      "start_ms": 567640,
+      "end_ms": 572800,
+      "start": "00:09:27.640",
+      "end": "00:09:32.800",
+      "text": "Um, one, you're probably wrong and not"
+    },
+    {
+      "start_ms": 571120,
+      "end_ms": 574320,
+      "start": "00:09:31.120",
+      "end": "00:09:34.320",
+      "text": "objective because things don't really"
+    },
+    {
+      "start_ms": 572800,
+      "end_ms": 575760,
+      "start": "00:09:32.800",
+      "end": "00:09:35.760",
+      "text": "happen that way most of the time."
+    },
+    {
+      "start_ms": 574320,
+      "end_ms": 577360,
+      "start": "00:09:34.320",
+      "end": "00:09:37.360",
+      "text": "Occasionally they do and occasionally"
+    },
+    {
+      "start_ms": 575760,
+      "end_ms": 578640,
+      "start": "00:09:35.760",
+      "end": "00:09:38.640",
+      "text": "you're right, but on a grand scale"
+    },
+    {
+      "start_ms": 577360,
+      "end_ms": 581560,
+      "start": "00:09:37.360",
+      "end": "00:09:41.560",
+      "text": "you're wrong. That's not how things"
+    },
+    {
+      "start_ms": 578640,
+      "end_ms": 584720,
+      "start": "00:09:38.640",
+      "end": "00:09:44.720",
+      "text": "work, right?"
+    },
+    {
+      "start_ms": 581560,
+      "end_ms": 587760,
+      "start": "00:09:41.560",
+      "end": "00:09:47.760",
+      "text": "Because it's just not like you have to"
+    },
+    {
+      "start_ms": 584720,
+      "end_ms": 590040,
+      "start": "00:09:44.720",
+      "end": "00:09:50.040",
+      "text": "trust me on that, unfortunately. Um,"
+    },
+    {
+      "start_ms": 587760,
+      "end_ms": 593560,
+      "start": "00:09:47.760",
+      "end": "00:09:53.560",
+      "text": "yeah, I'm going to end the video."
+    },
+    {
+      "start_ms": 590040,
+      "end_ms": 595560,
+      "start": "00:09:50.040",
+      "end": "00:09:55.560",
+      "text": "Um, I will say before I"
+    },
+    {
+      "start_ms": 593560,
+      "end_ms": 597959,
+      "start": "00:09:53.560",
+      "end": "00:09:57.959",
+      "text": "end, if"
+    },
+    {
+      "start_ms": 595560,
+      "end_ms": 601720,
+      "start": "00:09:55.560",
+      "end": "00:10:01.720",
+      "text": "you take"
+    },
+    {
+      "start_ms": 597959,
+      "end_ms": 605160,
+      "start": "00:09:57.959",
+      "end": "00:10:05.160",
+      "text": "control of your own situation and you"
+    },
+    {
+      "start_ms": 601720,
+      "end_ms": 608080,
+      "start": "00:10:01.720",
+      "end": "00:10:08.080",
+      "text": "think I'm a tier three, whatever"
+    },
+    {
+      "start_ms": 605160,
+      "end_ms": 612399,
+      "start": "00:10:05.160",
+      "end": "00:10:12.399",
+      "text": "competitor, I want to reach the tier"
+    },
+    {
+      "start_ms": 608080,
+      "end_ms": 614959,
+      "start": "00:10:08.080",
+      "end": "00:10:14.959",
+      "text": "above me. I'm going to do what those"
+    },
+    {
+      "start_ms": 612399,
+      "end_ms": 617600,
+      "start": "00:10:12.399",
+      "end": "00:10:17.600",
+      "text": "people do and pretend I'm in that tier"
+    },
+    {
+      "start_ms": 614959,
+      "end_ms": 619680,
+      "start": "00:10:14.959",
+      "end": "00:10:19.680",
+      "text": "and I'm going to think if I was gifted"
+    },
+    {
+      "start_ms": 617600,
+      "end_ms": 622160,
+      "start": "00:10:17.600",
+      "end": "00:10:22.160",
+      "text": "that opportunity right now, a miracle"
+    },
+    {
+      "start_ms": 619680,
+      "end_ms": 624880,
+      "start": "00:10:19.680",
+      "end": "00:10:24.880",
+      "text": "opportunity that is lucky and that I"
+    },
+    {
+      "start_ms": 622160,
+      "end_ms": 628480,
+      "start": "00:10:22.160",
+      "end": "00:10:28.480",
+      "text": "probably don't deserve, what would I do?"
+    },
+    {
+      "start_ms": 624880,
+      "end_ms": 630000,
+      "start": "00:10:24.880",
+      "end": "00:10:30.000",
+      "text": "Put yourself in that mindset. If I'm an"
+    },
+    {
+      "start_ms": 628480,
+      "end_ms": 632680,
+      "start": "00:10:28.480",
+      "end": "00:10:32.680",
+      "text": "Overwatch player, I'm a tier three"
+    },
+    {
+      "start_ms": 630000,
+      "end_ms": 636480,
+      "start": "00:10:30.000",
+      "end": "00:10:36.480",
+      "text": "Overwatch player and I get gifted an"
+    },
+    {
+      "start_ms": 632680,
+      "end_ms": 639040,
+      "start": "00:10:32.680",
+      "end": "00:10:39.040",
+      "text": "opportunity to be on an incredible team."
+    },
+    {
+      "start_ms": 636480,
+      "end_ms": 642200,
+      "start": "00:10:36.480",
+      "end": "00:10:42.200",
+      "text": "All the players are better than me. What"
+    },
+    {
+      "start_ms": 639040,
+      "end_ms": 646720,
+      "start": "00:10:39.040",
+      "end": "00:10:46.720",
+      "text": "would I do? How hard would I"
+    },
+    {
+      "start_ms": 642200,
+      "end_ms": 648440,
+      "start": "00:10:42.200",
+      "end": "00:10:48.440",
+      "text": "try? How much would I grow? And why am I"
+    },
+    {
+      "start_ms": 646720,
+      "end_ms": 651040,
+      "start": "00:10:46.720",
+      "end": "00:10:51.040",
+      "text": "not doing that right"
+    },
+    {
+      "start_ms": 648440,
+      "end_ms": 653680,
+      "start": "00:10:48.440",
+      "end": "00:10:53.680",
+      "text": "now? And that's what I'll leave you"
+    },
+    {
+      "start_ms": 651040,
+      "end_ms": 657440,
+      "start": "00:10:51.040",
+      "end": "00:10:57.440",
+      "text": "with. Um, like it, leave a comment,"
+    },
+    {
+      "start_ms": 653680,
+      "end_ms": 657440,
+      "start": "00:10:53.680",
+      "end": "00:10:57.440",
+      "text": "subscribe, hit the bell, all that"
+    }
+  ]
+}

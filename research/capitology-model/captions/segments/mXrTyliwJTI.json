@@ -1,0 +1,149 @@
+{
+  "video_id": "mXrTyliwJTI",
+  "title": "HE HID FOR 14 SECONDS??",
+  "url": "https://www.youtube.com/watch?v=mXrTyliwJTI",
+  "upload_date": "2026-04-16",
+  "duration_seconds": 60,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:19:52.382248+00:00",
+  "source_sha256": "ae46f83b75d87cdbcfe53c88ad35ccd96db379f695f1f32f664cf77fd32e8a23",
+  "source_bytes": 9046,
+  "segment_count": 18,
+  "word_count": 95,
+  "character_count": 503,
+  "first_segment_ms": 1280,
+  "last_segment_end_ms": 62080,
+  "leading_gap_seconds": 1.28,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 1280,
+      "end_ms": 5880,
+      "start": "00:00:01.280",
+      "end": "00:00:05.880",
+      "text": "Okay."
+    },
+    {
+      "start_ms": 2280,
+      "end_ms": 5880,
+      "start": "00:00:02.280",
+      "end": "00:00:05.880",
+      "text": "He goes behind the wall at 13."
+    },
+    {
+      "start_ms": 18080,
+      "end_ms": 22080,
+      "start": "00:00:18.080",
+      "end": "00:00:22.080",
+      "text": "Oh my god."
+    },
+    {
+      "start_ms": 19800,
+      "end_ms": 24320,
+      "start": "00:00:19.800",
+      "end": "00:00:24.320",
+      "text": "He just hid behind the wall for 14"
+    },
+    {
+      "start_ms": 22080,
+      "end_ms": 26440,
+      "start": "00:00:22.080",
+      "end": "00:00:26.440",
+      "text": "seconds."
+    },
+    {
+      "start_ms": 24320,
+      "end_ms": 30280,
+      "start": "00:00:24.320",
+      "end": "00:00:30.280",
+      "text": "That is ridiculous. This is the one of"
+    },
+    {
+      "start_ms": 26440,
+      "end_ms": 33440,
+      "start": "00:00:26.440",
+      "end": "00:00:33.440",
+      "text": "the top hitscan fights I have ever seen."
+    },
+    {
+      "start_ms": 30280,
+      "end_ms": 35640,
+      "start": "00:00:30.280",
+      "end": "00:00:35.640",
+      "text": "14 seconds?"
+    },
+    {
+      "start_ms": 33440,
+      "end_ms": 38080,
+      "start": "00:00:33.440",
+      "end": "00:00:38.080",
+      "text": "Then he hides here and sneaks. Then he"
+    },
+    {
+      "start_ms": 35640,
+      "end_ms": 40360,
+      "start": "00:00:35.640",
+      "end": "00:00:40.360",
+      "text": "goes top?"
+    },
+    {
+      "start_ms": 38080,
+      "end_ms": 42520,
+      "start": "00:00:38.080",
+      "end": "00:00:42.520",
+      "text": "Doesn't take the shot like a real-life"
+    },
+    {
+      "start_ms": 40360,
+      "end_ms": 44920,
+      "start": "00:00:40.360",
+      "end": "00:00:44.920",
+      "text": "professional trained sniper. Doesn't"
+    },
+    {
+      "start_ms": 42520,
+      "end_ms": 48040,
+      "start": "00:00:42.520",
+      "end": "00:00:48.040",
+      "text": "take the shot. The trigger discipline of"
+    },
+    {
+      "start_ms": 44920,
+      "end_ms": 51200,
+      "start": "00:00:44.920",
+      "end": "00:00:51.200",
+      "text": "a top graduate Navy SEAL."
+    },
+    {
+      "start_ms": 48040,
+      "end_ms": 54560,
+      "start": "00:00:48.040",
+      "end": "00:00:54.560",
+      "text": "Hits the perfect nade."
+    },
+    {
+      "start_ms": 51200,
+      "end_ms": 57920,
+      "start": "00:00:51.200",
+      "end": "00:00:57.920",
+      "text": "15 old charge off this nade."
+    },
+    {
+      "start_ms": 54560,
+      "end_ms": 62080,
+      "start": "00:00:54.560",
+      "end": "00:01:02.080",
+      "text": "Forces every CD, then emeralds as he's"
+    },
+    {
+      "start_ms": 57920,
+      "end_ms": 62080,
+      "start": "00:00:57.920",
+      "end": "00:01:02.080",
+      "text": "falling into his fall and kills him."
+    }
+  ]
+}

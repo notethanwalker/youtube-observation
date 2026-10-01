@@ -1,0 +1,254 @@
+{
+  "video_id": "KLwLiiYYewQ",
+  "title": "DON'T hold the choke?",
+  "url": "https://www.youtube.com/watch?v=KLwLiiYYewQ",
+  "upload_date": "2026-07-08",
+  "duration_seconds": 53,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:19:25.900815+00:00",
+  "source_sha256": "a2eba7165b9f8fd2d54ce2729f65161e62dda5b93727b404f22ad47a2a7f42f5",
+  "source_bytes": 20003,
+  "segment_count": 33,
+  "word_count": 240,
+  "character_count": 1237,
+  "first_segment_ms": 0,
+  "last_segment_end_ms": 54160,
+  "leading_gap_seconds": 0.0,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 0,
+      "end_ms": 2680,
+      "start": "00:00:00.000",
+      "end": "00:00:02.680",
+      "text": "I think realistically this is really"
+    },
+    {
+      "start_ms": 1200,
+      "end_ms": 3920,
+      "start": "00:00:01.200",
+      "end": "00:00:03.920",
+      "text": "high level from both teams and like this"
+    },
+    {
+      "start_ms": 2680,
+      "end_ms": 5600,
+      "start": "00:00:02.680",
+      "end": "00:00:05.600",
+      "text": "probably comes down to micro from these"
+    },
+    {
+      "start_ms": 3920,
+      "end_ms": 6840,
+      "start": "00:00:03.920",
+      "end": "00:00:06.840",
+      "text": "kills. But this is like this is"
+    },
+    {
+      "start_ms": 5600,
+      "end_ms": 8000,
+      "start": "00:00:05.600",
+      "end": "00:00:08.000",
+      "text": "something that's so important to me man."
+    },
+    {
+      "start_ms": 6840,
+      "end_ms": 9960,
+      "start": "00:00:06.840",
+      "end": "00:00:09.960",
+      "text": "Like I need to make like a whole 10"
+    },
+    {
+      "start_ms": 8000,
+      "end_ms": 10920,
+      "start": "00:00:08.000",
+      "end": "00:00:10.920",
+      "text": "videos on this. Poke up past the choke."
+    },
+    {
+      "start_ms": 9960,
+      "end_ms": 13120,
+      "start": "00:00:09.960",
+      "end": "00:00:13.120",
+      "text": "We poke past the choke, we know where"
+    },
+    {
+      "start_ms": 10920,
+      "end_ms": 14920,
+      "start": "00:00:10.920",
+      "end": "00:00:14.920",
+      "text": "they are. We poke up and then we back up"
+    },
+    {
+      "start_ms": 13120,
+      "end_ms": 17520,
+      "start": "00:00:13.120",
+      "end": "00:00:17.520",
+      "text": "behind the choke cuz playing the choke"
+    },
+    {
+      "start_ms": 14920,
+      "end_ms": 19320,
+      "start": "00:00:14.920",
+      "end": "00:00:19.320",
+      "text": "defensively kind of sucks because you"
+    },
+    {
+      "start_ms": 17520,
+      "end_ms": 20640,
+      "start": "00:00:17.520",
+      "end": "00:00:20.640",
+      "text": "let the enemy team set up their play"
+    },
+    {
+      "start_ms": 19320,
+      "end_ms": 22120,
+      "start": "00:00:19.320",
+      "end": "00:00:22.120",
+      "text": "instead of doing your play, right? And"
+    },
+    {
+      "start_ms": 20640,
+      "end_ms": 24320,
+      "start": "00:00:20.640",
+      "end": "00:00:24.320",
+      "text": "so they don't play here and they stay in"
+    },
+    {
+      "start_ms": 22120,
+      "end_ms": 26080,
+      "start": "00:00:22.120",
+      "end": "00:00:26.080",
+      "text": "control. This is so important. They let"
+    },
+    {
+      "start_ms": 24320,
+      "end_ms": 28640,
+      "start": "00:00:24.320",
+      "end": "00:00:28.640",
+      "text": "them come here and when they start to"
+    },
+    {
+      "start_ms": 26080,
+      "end_ms": 30200,
+      "start": "00:00:26.080",
+      "end": "00:00:30.200",
+      "text": "walk through to stop them from exploding"
+    },
+    {
+      "start_ms": 28640,
+      "end_ms": 31480,
+      "start": "00:00:28.640",
+      "end": "00:00:31.480",
+      "text": "out of the choke, they throw some CC use"
+    },
+    {
+      "start_ms": 30200,
+      "end_ms": 33360,
+      "start": "00:00:30.200",
+      "end": "00:00:33.360",
+      "text": "here and slow this down, right? They"
+    },
+    {
+      "start_ms": 31480,
+      "end_ms": 34520,
+      "start": "00:00:31.480",
+      "end": "00:00:34.520",
+      "text": "throw the right click. Max walks up,"
+    },
+    {
+      "start_ms": 33360,
+      "end_ms": 36080,
+      "start": "00:00:33.360",
+      "end": "00:00:36.080",
+      "text": "they throw the slow. And this is how"
+    },
+    {
+      "start_ms": 34520,
+      "end_ms": 37560,
+      "start": "00:00:34.520",
+      "end": "00:00:37.560",
+      "text": "they stay in control. Great from Fusion"
+    },
+    {
+      "start_ms": 36080,
+      "end_ms": 38880,
+      "start": "00:00:36.080",
+      "end": "00:00:38.880",
+      "text": "and Minds too, you know, like the way"
+    },
+    {
+      "start_ms": 37560,
+      "end_ms": 40440,
+      "start": "00:00:37.560",
+      "end": "00:00:40.440",
+      "text": "they do this walk up. The way Funny"
+    },
+    {
+      "start_ms": 38880,
+      "end_ms": 42520,
+      "start": "00:00:38.880",
+      "end": "00:00:42.520",
+      "text": "Astro's here. Yeah, even though Max"
+    },
+    {
+      "start_ms": 40440,
+      "end_ms": 44200,
+      "start": "00:00:40.440",
+      "end": "00:00:44.200",
+      "text": "dies, they they rip the rally and they"
+    },
+    {
+      "start_ms": 42520,
+      "end_ms": 46080,
+      "start": "00:00:42.520",
+      "end": "00:00:46.080",
+      "text": "rip the Bashanal and decide to turn it"
+    },
+    {
+      "start_ms": 44200,
+      "end_ms": 47600,
+      "start": "00:00:44.200",
+      "end": "00:00:47.600",
+      "text": "and they get huge kills. Which also high"
+    },
+    {
+      "start_ms": 46080,
+      "end_ms": 49040,
+      "start": "00:00:46.080",
+      "end": "00:00:49.040",
+      "text": "level, right? Like your tank is dead,"
+    },
+    {
+      "start_ms": 47600,
+      "end_ms": 50440,
+      "start": "00:00:47.600",
+      "end": "00:00:50.440",
+      "text": "like [ __ ] him, bro. Let's just let's"
+    },
+    {
+      "start_ms": 49040,
+      "end_ms": 51560,
+      "start": "00:00:49.040",
+      "end": "00:00:51.560",
+      "text": "just win without him. Just incredible"
+    },
+    {
+      "start_ms": 50440,
+      "end_ms": 54160,
+      "start": "00:00:50.440",
+      "end": "00:00:54.160",
+      "text": "stuff. This is a beautiful fight"
+    },
+    {
+      "start_ms": 51560,
+      "end_ms": 54160,
+      "start": "00:00:51.560",
+      "end": "00:00:54.160",
+      "text": "actually."
+    }
+  ]
+}

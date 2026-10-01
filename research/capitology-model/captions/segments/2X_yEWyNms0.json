@@ -1,0 +1,2235 @@
+{
+  "video_id": "2X_yEWyNms0",
+  "title": "How I Would Fix Overwatch (As A Former Pro)",
+  "url": "https://www.youtube.com/watch?v=2X_yEWyNms0",
+  "upload_date": "2025-09-23",
+  "duration_seconds": 617,
+  "caption_language": "en",
+  "caption_kind": "automatic",
+  "source_format": "YouTube json3",
+  "acquired_at": "2026-10-01T22:21:01.796092+00:00",
+  "source_sha256": "c594fc8de68b92a5299a2833f2a12a11fbdeb0364ad817d2375c23e36652ea95",
+  "source_bytes": 234557,
+  "segment_count": 316,
+  "word_count": 2215,
+  "character_count": 12066,
+  "first_segment_ms": 719,
+  "last_segment_end_ms": 618880,
+  "leading_gap_seconds": 0.719,
+  "trailing_gap_seconds": 0.0,
+  "status": "acquired",
+  "segments": [
+    {
+      "start_ms": 719,
+      "end_ms": 5359,
+      "start": "00:00:00.719",
+      "end": "00:00:05.359",
+      "text": "Very short balancing rant. Okay, someone"
+    },
+    {
+      "start_ms": 3520,
+      "end_ms": 8639,
+      "start": "00:00:03.520",
+      "end": "00:00:08.639",
+      "text": "was asking me about this the other day."
+    },
+    {
+      "start_ms": 5359,
+      "end_ms": 12880,
+      "start": "00:00:05.359",
+      "end": "00:00:12.880",
+      "text": "Like, what would I change? There's a lot"
+    },
+    {
+      "start_ms": 8639,
+      "end_ms": 15920,
+      "start": "00:00:08.639",
+      "end": "00:00:15.920",
+      "text": "I would change. Boom. Okay. Boom. Boom."
+    },
+    {
+      "start_ms": 12880,
+      "end_ms": 18480,
+      "start": "00:00:12.880",
+      "end": "00:00:18.480",
+      "text": "Boom. Boom. Boom. Boom. Let's do this."
+    },
+    {
+      "start_ms": 15920,
+      "end_ms": 19760,
+      "start": "00:00:15.920",
+      "end": "00:00:19.760",
+      "text": "Boom. Boom. There we go. Okay. So, now"
+    },
+    {
+      "start_ms": 18480,
+      "end_ms": 22080,
+      "start": "00:00:18.480",
+      "end": "00:00:22.080",
+      "text": "we're going to start the rant. Someone"
+    },
+    {
+      "start_ms": 19760,
+      "end_ms": 24800,
+      "start": "00:00:19.760",
+      "end": "00:00:24.800",
+      "text": "asked me the other day what I would do"
+    },
+    {
+      "start_ms": 22080,
+      "end_ms": 27599,
+      "start": "00:00:22.080",
+      "end": "00:00:27.599",
+      "text": "if I had to fix the game just for some"
+    },
+    {
+      "start_ms": 24800,
+      "end_ms": 29039,
+      "start": "00:00:24.800",
+      "end": "00:00:29.039",
+      "text": "some very recent history. got a couple"
+    },
+    {
+      "start_ms": 27599,
+      "end_ms": 31920,
+      "start": "00:00:27.599",
+      "end": "00:00:31.920",
+      "text": "changes that led us to where we are now,"
+    },
+    {
+      "start_ms": 29039,
+      "end_ms": 34480,
+      "start": "00:00:29.039",
+      "end": "00:00:34.480",
+      "text": "which is like this kind of weird dive"
+    },
+    {
+      "start_ms": 31920,
+      "end_ms": 37360,
+      "start": "00:00:31.920",
+      "end": "00:00:37.360",
+      "text": "sim reaper meta that's just like nothing"
+    },
+    {
+      "start_ms": 34480,
+      "end_ms": 38879,
+      "start": "00:00:34.480",
+      "end": "00:00:38.879",
+      "text": "is really good. And the kind of lowlife"
+    },
+    {
+      "start_ms": 37360,
+      "end_ms": 40640,
+      "start": "00:00:37.360",
+      "end": "00:00:40.640",
+      "text": "like characters that are not supposed to"
+    },
+    {
+      "start_ms": 38879,
+      "end_ms": 42559,
+      "start": "00:00:38.879",
+      "end": "00:00:42.559",
+      "text": "be good are kind of just the only things"
+    },
+    {
+      "start_ms": 40640,
+      "end_ms": 44879,
+      "start": "00:00:40.640",
+      "end": "00:00:44.879",
+      "text": "that are left in a in a usable state."
+    },
+    {
+      "start_ms": 42559,
+      "end_ms": 46719,
+      "start": "00:00:42.559",
+      "end": "00:00:46.719",
+      "text": "And this is because games got [ __ ]"
+    },
+    {
+      "start_ms": 44879,
+      "end_ms": 49039,
+      "start": "00:00:44.879",
+      "end": "00:00:49.039",
+      "text": "destroyed. Like like this patch that"
+    },
+    {
+      "start_ms": 46719,
+      "end_ms": 50719,
+      "start": "00:00:46.719",
+      "end": "00:00:50.719",
+      "text": "came out this season was like one of the"
+    },
+    {
+      "start_ms": 49039,
+      "end_ms": 52559,
+      "start": "00:00:49.039",
+      "end": "00:00:52.559",
+      "text": "worst patches ever in my opinion. We"
+    },
+    {
+      "start_ms": 50719,
+      "end_ms": 54320,
+      "start": "00:00:50.719",
+      "end": "00:00:54.320",
+      "text": "obliterated hits game completely. Ram"
+    },
+    {
+      "start_ms": 52559,
+      "end_ms": 56719,
+      "start": "00:00:52.559",
+      "end": "00:00:56.719",
+      "text": "got completely obliterated. Hazard got"
+    },
+    {
+      "start_ms": 54320,
+      "end_ms": 58160,
+      "start": "00:00:54.320",
+      "end": "00:00:58.160",
+      "text": "super nerfed. They fixed armor which is"
+    },
+    {
+      "start_ms": 56719,
+      "end_ms": 59359,
+      "start": "00:00:56.719",
+      "end": "00:00:59.359",
+      "text": "obviously should have happened but on"
+    },
+    {
+      "start_ms": 58160,
+      "end_ms": 61280,
+      "start": "00:00:58.160",
+      "end": "00:01:01.280",
+      "text": "top of these two things like destroyed"
+    },
+    {
+      "start_ms": 59359,
+      "end_ms": 63199,
+      "start": "00:00:59.359",
+      "end": "00:01:03.199",
+      "text": "these characters so hit scans had to be"
+    },
+    {
+      "start_ms": 61280,
+      "end_ms": 65840,
+      "start": "00:01:01.280",
+      "end": "00:01:05.840",
+      "text": "replaced with these like weird"
+    },
+    {
+      "start_ms": 63199,
+      "end_ms": 67439,
+      "start": "00:01:03.199",
+      "end": "00:01:07.439",
+      "text": "situational characters mobile tanks were"
+    },
+    {
+      "start_ms": 65840,
+      "end_ms": 68960,
+      "start": "00:01:05.840",
+      "end": "00:01:08.960",
+      "text": "good and just like the whole play style"
+    },
+    {
+      "start_ms": 67439,
+      "end_ms": 70799,
+      "start": "00:01:07.439",
+      "end": "00:01:10.799",
+      "text": "is kind of controlled by the fact that"
+    },
+    {
+      "start_ms": 68960,
+      "end_ms": 73200,
+      "start": "00:01:08.960",
+      "end": "00:01:13.200",
+      "text": "there's no hit scan. This is the way"
+    },
+    {
+      "start_ms": 70799,
+      "end_ms": 74960,
+      "start": "00:01:10.799",
+      "end": "00:01:14.960",
+      "text": "that I would separate the characters of"
+    },
+    {
+      "start_ms": 73200,
+      "end_ms": 76720,
+      "start": "00:01:13.200",
+      "end": "00:01:16.720",
+      "text": "Overwatch. And I think that the way"
+    },
+    {
+      "start_ms": 74960,
+      "end_ms": 79840,
+      "start": "00:01:14.960",
+      "end": "00:01:19.840",
+      "text": "Overwatch, the dev team, approaches"
+    },
+    {
+      "start_ms": 76720,
+      "end_ms": 81840,
+      "start": "00:01:16.720",
+      "end": "00:01:21.840",
+      "text": "balance philosophy is a combination of"
+    },
+    {
+      "start_ms": 79840,
+      "end_ms": 83200,
+      "start": "00:01:19.840",
+      "end": "00:01:23.200",
+      "text": "they look at the stats, they look at the"
+    },
+    {
+      "start_ms": 81840,
+      "end_ms": 85200,
+      "start": "00:01:21.840",
+      "end": "00:01:25.200",
+      "text": "pick rates and the win rates of these"
+    },
+    {
+      "start_ms": 83200,
+      "end_ms": 87200,
+      "start": "00:01:23.200",
+      "end": "00:01:27.200",
+      "text": "heroes across all the ranks and and they"
+    },
+    {
+      "start_ms": 85200,
+      "end_ms": 88720,
+      "start": "00:01:25.200",
+      "end": "00:01:28.720",
+      "text": "do actually give a decent amount of"
+    },
+    {
+      "start_ms": 87200,
+      "end_ms": 90960,
+      "start": "00:01:27.200",
+      "end": "00:01:30.960",
+      "text": "special treatment to the higher ranks."
+    },
+    {
+      "start_ms": 88720,
+      "end_ms": 92400,
+      "start": "00:01:28.720",
+      "end": "00:01:32.400",
+      "text": "Like people complain a lot that they"
+    },
+    {
+      "start_ms": 90960,
+      "end_ms": 94320,
+      "start": "00:01:30.960",
+      "end": "00:01:34.320",
+      "text": "don't do that, but they literally do."
+    },
+    {
+      "start_ms": 92400,
+      "end_ms": 95759,
+      "start": "00:01:32.400",
+      "end": "00:01:35.759",
+      "text": "Like if you listen to the dev talks,"
+    },
+    {
+      "start_ms": 94320,
+      "end_ms": 97439,
+      "start": "00:01:34.320",
+      "end": "00:01:37.439",
+      "text": "whatever, if you watch the the guy that"
+    },
+    {
+      "start_ms": 95759,
+      "end_ms": 100320,
+      "start": "00:01:35.759",
+      "end": "00:01:40.320",
+      "text": "tweets about balance patches, like they"
+    },
+    {
+      "start_ms": 97439,
+      "end_ms": 102320,
+      "start": "00:01:37.439",
+      "end": "00:01:42.320",
+      "text": "look at GM and champ more than the other"
+    },
+    {
+      "start_ms": 100320,
+      "end_ms": 104479,
+      "start": "00:01:40.320",
+      "end": "00:01:44.479",
+      "text": "ranks because it's it just makes sense"
+    },
+    {
+      "start_ms": 102320,
+      "end_ms": 107360,
+      "start": "00:01:42.320",
+      "end": "00:01:47.360",
+      "text": "that you would use the people that know"
+    },
+    {
+      "start_ms": 104479,
+      "end_ms": 108479,
+      "start": "00:01:44.479",
+      "end": "00:01:48.479",
+      "text": "how to play the game as your limus test"
+    },
+    {
+      "start_ms": 107360,
+      "end_ms": 109840,
+      "start": "00:01:47.360",
+      "end": "00:01:49.840",
+      "text": "for what's actually good and what's"
+    },
+    {
+      "start_ms": 108479,
+      "end_ms": 111840,
+      "start": "00:01:48.479",
+      "end": "00:01:51.840",
+      "text": "actually bad, right? And how to do those"
+    },
+    {
+      "start_ms": 109840,
+      "end_ms": 113600,
+      "start": "00:01:49.840",
+      "end": "00:01:53.600",
+      "text": "changes. The problem is that they look"
+    },
+    {
+      "start_ms": 111840,
+      "end_ms": 115840,
+      "start": "00:01:51.840",
+      "end": "00:01:55.840",
+      "text": "at heroes really individually. Like if"
+    },
+    {
+      "start_ms": 113600,
+      "end_ms": 117680,
+      "start": "00:01:53.600",
+      "end": "00:01:57.680",
+      "text": "you look at the way patches get balanced"
+    },
+    {
+      "start_ms": 115840,
+      "end_ms": 118799,
+      "start": "00:01:55.840",
+      "end": "00:01:58.799",
+      "text": "and characters get changed, you can tell"
+    },
+    {
+      "start_ms": 117680,
+      "end_ms": 120320,
+      "start": "00:01:57.680",
+      "end": "00:02:00.320",
+      "text": "that all they're doing is they're"
+    },
+    {
+      "start_ms": 118799,
+      "end_ms": 122320,
+      "start": "00:01:58.799",
+      "end": "00:02:02.320",
+      "text": "looking at very individual characters"
+    },
+    {
+      "start_ms": 120320,
+      "end_ms": 123680,
+      "start": "00:02:00.320",
+      "end": "00:02:03.680",
+      "text": "that are good or bad, buffing or nerfing"
+    },
+    {
+      "start_ms": 122320,
+      "end_ms": 125680,
+      "start": "00:02:02.320",
+      "end": "00:02:05.680",
+      "text": "those characters individually based on"
+    },
+    {
+      "start_ms": 123680,
+      "end_ms": 128800,
+      "start": "00:02:03.680",
+      "end": "00:02:08.800",
+      "text": "those stats. That doesn't give you a"
+    },
+    {
+      "start_ms": 125680,
+      "end_ms": 130479,
+      "start": "00:02:05.680",
+      "end": "00:02:10.479",
+      "text": "complete view of why things are the way"
+    },
+    {
+      "start_ms": 128800,
+      "end_ms": 132000,
+      "start": "00:02:08.800",
+      "end": "00:02:12.000",
+      "text": "they are. Why is Genji so good right"
+    },
+    {
+      "start_ms": 130479,
+      "end_ms": 135680,
+      "start": "00:02:10.479",
+      "end": "00:02:15.680",
+      "text": "now? Right? Like the devs, I can just"
+    },
+    {
+      "start_ms": 132000,
+      "end_ms": 137440,
+      "start": "00:02:12.000",
+      "end": "00:02:17.440",
+      "text": "tell they looked at the stats and they"
+    },
+    {
+      "start_ms": 135680,
+      "end_ms": 138879,
+      "start": "00:02:15.680",
+      "end": "00:02:18.879",
+      "text": "saw Genji was really good right now,"
+    },
+    {
+      "start_ms": 137440,
+      "end_ms": 140319,
+      "start": "00:02:17.440",
+      "end": "00:02:20.319",
+      "text": "right? Especially in GM and champion and"
+    },
+    {
+      "start_ms": 138879,
+      "end_ms": 142239,
+      "start": "00:02:18.879",
+      "end": "00:02:22.239",
+      "text": "pro play. And they said, \"Okay, let's"
+    },
+    {
+      "start_ms": 140319,
+      "end_ms": 145599,
+      "start": "00:02:20.319",
+      "end": "00:02:25.599",
+      "text": "nerf Genji deflect.\" But this is a"
+    },
+    {
+      "start_ms": 142239,
+      "end_ms": 147520,
+      "start": "00:02:22.239",
+      "end": "00:02:27.520",
+      "text": "horrible change in my opinion because"
+    },
+    {
+      "start_ms": 145599,
+      "end_ms": 149040,
+      "start": "00:02:25.599",
+      "end": "00:02:29.040",
+      "text": "you're completely missing the reason why"
+    },
+    {
+      "start_ms": 147520,
+      "end_ms": 151520,
+      "start": "00:02:27.520",
+      "end": "00:02:31.520",
+      "text": "Genji is good. You're missing the point,"
+    },
+    {
+      "start_ms": 149040,
+      "end_ms": 154800,
+      "start": "00:02:29.040",
+      "end": "00:02:34.800",
+      "text": "right? And this is the point. A role"
+    },
+    {
+      "start_ms": 151520,
+      "end_ms": 157040,
+      "start": "00:02:31.520",
+      "end": "00:02:37.040",
+      "text": "needs to be balanced within itself. They"
+    },
+    {
+      "start_ms": 154800,
+      "end_ms": 158640,
+      "start": "00:02:34.800",
+      "end": "00:02:38.640",
+      "text": "look at Genji and they say, \"Genji's"
+    },
+    {
+      "start_ms": 157040,
+      "end_ms": 159920,
+      "start": "00:02:37.040",
+      "end": "00:02:39.920",
+      "text": "really strong, right? Let's nerf"
+    },
+    {
+      "start_ms": 158640,
+      "end_ms": 162160,
+      "start": "00:02:38.640",
+      "end": "00:02:42.160",
+      "text": "deflect.\" But what they're not looking"
+    },
+    {
+      "start_ms": 159920,
+      "end_ms": 163840,
+      "start": "00:02:39.920",
+      "end": "00:02:43.840",
+      "text": "at is that flex DPS as a whole is really"
+    },
+    {
+      "start_ms": 162160,
+      "end_ms": 165599,
+      "start": "00:02:42.160",
+      "end": "00:02:45.599",
+      "text": "strong. These characters are all really"
+    },
+    {
+      "start_ms": 163840,
+      "end_ms": 167599,
+      "start": "00:02:43.840",
+      "end": "00:02:47.599",
+      "text": "strong and these characters are all"
+    },
+    {
+      "start_ms": 165599,
+      "end_ms": 169760,
+      "start": "00:02:45.599",
+      "end": "00:02:49.760",
+      "text": "really bad, right? Besides maybe like"
+    },
+    {
+      "start_ms": 167599,
+      "end_ms": 171760,
+      "start": "00:02:47.599",
+      "end": "00:02:51.760",
+      "text": "Hanzo in a in a couple of situations,"
+    },
+    {
+      "start_ms": 169760,
+      "end_ms": 173040,
+      "start": "00:02:49.760",
+      "end": "00:02:53.040",
+      "text": "right? And that's way more important"
+    },
+    {
+      "start_ms": 171760,
+      "end_ms": 175200,
+      "start": "00:02:51.760",
+      "end": "00:02:55.200",
+      "text": "than whether Genji and Tracer"
+    },
+    {
+      "start_ms": 173040,
+      "end_ms": 176480,
+      "start": "00:02:53.040",
+      "end": "00:02:56.480",
+      "text": "individually are good or not. Because if"
+    },
+    {
+      "start_ms": 175200,
+      "end_ms": 179120,
+      "start": "00:02:55.200",
+      "end": "00:02:59.120",
+      "text": "you just look at what characters are"
+    },
+    {
+      "start_ms": 176480,
+      "end_ms": 181519,
+      "start": "00:02:56.480",
+      "end": "00:03:01.519",
+      "text": "good, you miss all of these roles"
+    },
+    {
+      "start_ms": 179120,
+      "end_ms": 183519,
+      "start": "00:02:59.120",
+      "end": "00:03:03.519",
+      "text": "besides these bottom two need to always"
+    },
+    {
+      "start_ms": 181519,
+      "end_ms": 185360,
+      "start": "00:03:01.519",
+      "end": "00:03:05.360",
+      "text": "be good to some degree, right? There"
+    },
+    {
+      "start_ms": 183519,
+      "end_ms": 187519,
+      "start": "00:03:03.519",
+      "end": "00:03:07.519",
+      "text": "needs to be at least one good character"
+    },
+    {
+      "start_ms": 185360,
+      "end_ms": 189280,
+      "start": "00:03:05.360",
+      "end": "00:03:09.280",
+      "text": "in every role that's very thin ice,"
+    },
+    {
+      "start_ms": 187519,
+      "end_ms": 191040,
+      "start": "00:03:07.519",
+      "end": "00:03:11.040",
+      "text": "right? If we have like a hard meta,"
+    },
+    {
+      "start_ms": 189280,
+      "end_ms": 192239,
+      "start": "00:03:09.280",
+      "end": "00:03:12.239",
+      "text": "that's okay situationally for small"
+    },
+    {
+      "start_ms": 191040,
+      "end_ms": 193599,
+      "start": "00:03:11.040",
+      "end": "00:03:13.599",
+      "text": "periods of time, right? Players like"
+    },
+    {
+      "start_ms": 192239,
+      "end_ms": 195120,
+      "start": "00:03:12.239",
+      "end": "00:03:15.120",
+      "text": "hard metas where you can just learn one"
+    },
+    {
+      "start_ms": 193599,
+      "end_ms": 196720,
+      "start": "00:03:13.599",
+      "end": "00:03:16.720",
+      "text": "character, do your job. It can't go on"
+    },
+    {
+      "start_ms": 195120,
+      "end_ms": 198879,
+      "start": "00:03:15.120",
+      "end": "00:03:18.879",
+      "text": "for too long or it gets boring. There"
+    },
+    {
+      "start_ms": 196720,
+      "end_ms": 200159,
+      "start": "00:03:16.720",
+      "end": "00:03:20.159",
+      "text": "should at least be two or three good"
+    },
+    {
+      "start_ms": 198879,
+      "end_ms": 202319,
+      "start": "00:03:18.879",
+      "end": "00:03:22.319",
+      "text": "characters in every role, right?"
+    },
+    {
+      "start_ms": 200159,
+      "end_ms": 205120,
+      "start": "00:03:20.159",
+      "end": "00:03:25.120",
+      "text": "Ideally. And then we have a nice diverse"
+    },
+    {
+      "start_ms": 202319,
+      "end_ms": 207280,
+      "start": "00:03:22.319",
+      "end": "00:03:27.280",
+      "text": "fun meta where players get to [ __ ]"
+    },
+    {
+      "start_ms": 205120,
+      "end_ms": 209440,
+      "start": "00:03:25.120",
+      "end": "00:03:29.440",
+      "text": "play the characters that they're good at"
+    },
+    {
+      "start_ms": 207280,
+      "end_ms": 210640,
+      "start": "00:03:27.280",
+      "end": "00:03:30.640",
+      "text": "or characters very adjacent to the"
+    },
+    {
+      "start_ms": 209440,
+      "end_ms": 212560,
+      "start": "00:03:29.440",
+      "end": "00:03:32.560",
+      "text": "characters they're good at, right? And"
+    },
+    {
+      "start_ms": 210640,
+      "end_ms": 214239,
+      "start": "00:03:30.640",
+      "end": "00:03:34.239",
+      "text": "this is important not just for pro play,"
+    },
+    {
+      "start_ms": 212560,
+      "end_ms": 215760,
+      "start": "00:03:32.560",
+      "end": "00:03:35.760",
+      "text": "but for normal people that play the"
+    },
+    {
+      "start_ms": 214239,
+      "end_ms": 217599,
+      "start": "00:03:34.239",
+      "end": "00:03:37.599",
+      "text": "game. You know, if you're a Sojurnn"
+    },
+    {
+      "start_ms": 215760,
+      "end_ms": 218959,
+      "start": "00:03:35.760",
+      "end": "00:03:38.959",
+      "text": "player and Sojurnn gets nerfed into the"
+    },
+    {
+      "start_ms": 217599,
+      "end_ms": 220640,
+      "start": "00:03:37.599",
+      "end": "00:03:40.640",
+      "text": "ground, you don't want to switch to"
+    },
+    {
+      "start_ms": 218959,
+      "end_ms": 222879,
+      "start": "00:03:38.959",
+      "end": "00:03:42.879",
+      "text": "Genji, right? No matter whether you're a"
+    },
+    {
+      "start_ms": 220640,
+      "end_ms": 224239,
+      "start": "00:03:40.640",
+      "end": "00:03:44.239",
+      "text": "pro player or a diamond player, right?"
+    },
+    {
+      "start_ms": 222879,
+      "end_ms": 226879,
+      "start": "00:03:42.879",
+      "end": "00:03:46.879",
+      "text": "you want to switch to a character that's"
+    },
+    {
+      "start_ms": 224239,
+      "end_ms": 228959,
+      "start": "00:03:44.239",
+      "end": "00:03:48.959",
+      "text": "adjacent that is very close, it's easy"
+    },
+    {
+      "start_ms": 226879,
+      "end_ms": 230400,
+      "start": "00:03:46.879",
+      "end": "00:03:50.400",
+      "text": "for you to kind of pick up and still get"
+    },
+    {
+      "start_ms": 228959,
+      "end_ms": 232080,
+      "start": "00:03:48.959",
+      "end": "00:03:52.080",
+      "text": "some of the enjoyment out of. Right."
+    },
+    {
+      "start_ms": 230400,
+      "end_ms": 233760,
+      "start": "00:03:50.400",
+      "end": "00:03:53.760",
+      "text": "This is is the big failure of modern"
+    },
+    {
+      "start_ms": 232080,
+      "end_ms": 235760,
+      "start": "00:03:52.080",
+      "end": "00:03:55.760",
+      "text": "Overwatch balance in my opinion. When"
+    },
+    {
+      "start_ms": 233760,
+      "end_ms": 237599,
+      "start": "00:03:53.760",
+      "end": "00:03:57.599",
+      "text": "you look at this patch right now and"
+    },
+    {
+      "start_ms": 235760,
+      "end_ms": 240159,
+      "start": "00:03:55.760",
+      "end": "00:04:00.159",
+      "text": "look at which of these roles are"
+    },
+    {
+      "start_ms": 237599,
+      "end_ms": 241920,
+      "start": "00:03:57.599",
+      "end": "00:04:01.920",
+      "text": "actually good, it keys you in to what's"
+    },
+    {
+      "start_ms": 240159,
+      "end_ms": 244959,
+      "start": "00:04:00.159",
+      "end": "00:04:04.959",
+      "text": "going on with the game right now, right?"
+    },
+    {
+      "start_ms": 241920,
+      "end_ms": 247920,
+      "start": "00:04:01.920",
+      "end": "00:04:07.920",
+      "text": "Why are the situational DPS, this tier"
+    },
+    {
+      "start_ms": 244959,
+      "end_ms": 250000,
+      "start": "00:04:04.959",
+      "end": "00:04:10.000",
+      "text": "of DPS that should be situational, why"
+    },
+    {
+      "start_ms": 247920,
+      "end_ms": 251599,
+      "start": "00:04:07.920",
+      "end": "00:04:11.599",
+      "text": "are they so good everywhere all the time"
+    },
+    {
+      "start_ms": 250000,
+      "end_ms": 253599,
+      "start": "00:04:10.000",
+      "end": "00:04:13.599",
+      "text": "right now? Right? If you go look at pro"
+    },
+    {
+      "start_ms": 251599,
+      "end_ms": 255519,
+      "start": "00:04:11.599",
+      "end": "00:04:15.519",
+      "text": "play, one of these characters is in"
+    },
+    {
+      "start_ms": 253599,
+      "end_ms": 257040,
+      "start": "00:04:13.599",
+      "end": "00:04:17.040",
+      "text": "every game on every map. That means"
+    },
+    {
+      "start_ms": 255519,
+      "end_ms": 257919,
+      "start": "00:04:15.519",
+      "end": "00:04:17.919",
+      "text": "something is wrong because these"
+    },
+    {
+      "start_ms": 257040,
+      "end_ms": 259440,
+      "start": "00:04:17.040",
+      "end": "00:04:19.440",
+      "text": "characters are supposed to be"
+    },
+    {
+      "start_ms": 257919,
+      "end_ms": 262160,
+      "start": "00:04:17.919",
+      "end": "00:04:22.160",
+      "text": "situational, right? Same thing with"
+    },
+    {
+      "start_ms": 259440,
+      "end_ms": 264400,
+      "start": "00:04:19.440",
+      "end": "00:04:24.400",
+      "text": "these Wu Yang Xanari, right? Wuang is"
+    },
+    {
+      "start_ms": 262160,
+      "end_ms": 266160,
+      "start": "00:04:22.160",
+      "end": "00:04:26.160",
+      "text": "turbo overtuned. He should be"
+    },
+    {
+      "start_ms": 264400,
+      "end_ms": 267919,
+      "start": "00:04:24.400",
+      "end": "00:04:27.919",
+      "text": "situational, right? And this is maybe"
+    },
+    {
+      "start_ms": 266160,
+      "end_ms": 269600,
+      "start": "00:04:26.160",
+      "end": "00:04:29.600",
+      "text": "something that's like arguable. This is"
+    },
+    {
+      "start_ms": 267919,
+      "end_ms": 270800,
+      "start": "00:04:27.919",
+      "end": "00:04:30.800",
+      "text": "a new character. This is is strongly my"
+    },
+    {
+      "start_ms": 269600,
+      "end_ms": 272160,
+      "start": "00:04:29.600",
+      "end": "00:04:32.160",
+      "text": "opinion, right? But there are some"
+    },
+    {
+      "start_ms": 270800,
+      "end_ms": 273600,
+      "start": "00:04:30.800",
+      "end": "00:04:33.600",
+      "text": "characters that should be situational."
+    },
+    {
+      "start_ms": 272160,
+      "end_ms": 275919,
+      "start": "00:04:32.160",
+      "end": "00:04:35.919",
+      "text": "And if your situational characters are"
+    },
+    {
+      "start_ms": 273600,
+      "end_ms": 277280,
+      "start": "00:04:33.600",
+      "end": "00:04:37.280",
+      "text": "every broken in every instance across"
+    },
+    {
+      "start_ms": 275919,
+      "end_ms": 280720,
+      "start": "00:04:35.919",
+      "end": "00:04:40.720",
+      "text": "every map, that means something is"
+    },
+    {
+      "start_ms": 277280,
+      "end_ms": 283199,
+      "start": "00:04:37.280",
+      "end": "00:04:43.199",
+      "text": "wrong. If one of your main roles, hit"
+    },
+    {
+      "start_ms": 280720,
+      "end_ms": 286240,
+      "start": "00:04:40.720",
+      "end": "00:04:46.240",
+      "text": "scan, flex DPS, ground tanks, dive tanks"
+    },
+    {
+      "start_ms": 283199,
+      "end_ms": 287600,
+      "start": "00:04:43.199",
+      "end": "00:04:47.600",
+      "text": "are ever entirely wiped off the grid,"
+    },
+    {
+      "start_ms": 286240,
+      "end_ms": 289440,
+      "start": "00:04:46.240",
+      "end": "00:04:49.440",
+      "text": "that also means something is wrong and"
+    },
+    {
+      "start_ms": 287600,
+      "end_ms": 291120,
+      "start": "00:04:47.600",
+      "end": "00:04:51.120",
+      "text": "that needs to be addressed before you"
+    },
+    {
+      "start_ms": 289440,
+      "end_ms": 293040,
+      "start": "00:04:49.440",
+      "end": "00:04:53.040",
+      "text": "try fixing everything else, right? So,"
+    },
+    {
+      "start_ms": 291120,
+      "end_ms": 294639,
+      "start": "00:04:51.120",
+      "end": "00:04:54.639",
+      "text": "this patch, they saw ball was good, they"
+    },
+    {
+      "start_ms": 293040,
+      "end_ms": 296080,
+      "start": "00:04:53.040",
+      "end": "00:04:56.080",
+      "text": "nerfed ball, they saw Genji was good,"
+    },
+    {
+      "start_ms": 294639,
+      "end_ms": 298000,
+      "start": "00:04:54.639",
+      "end": "00:04:58.000",
+      "text": "they nerfed Genji, right? But you're"
+    },
+    {
+      "start_ms": 296080,
+      "end_ms": 299919,
+      "start": "00:04:56.080",
+      "end": "00:04:59.919",
+      "text": "ignoring that almost all of the ground"
+    },
+    {
+      "start_ms": 298000,
+      "end_ms": 301440,
+      "start": "00:04:58.000",
+      "end": "00:05:01.440",
+      "text": "tanks besides Zarya, which should"
+    },
+    {
+      "start_ms": 299919,
+      "end_ms": 303440,
+      "start": "00:04:59.919",
+      "end": "00:05:03.440",
+      "text": "objectively be the worst ground tank in"
+    },
+    {
+      "start_ms": 301440,
+      "end_ms": 305199,
+      "start": "00:05:01.440",
+      "end": "00:05:05.199",
+      "text": "the game, are just all dog [ __ ] right?"
+    },
+    {
+      "start_ms": 303440,
+      "end_ms": 307759,
+      "start": "00:05:03.440",
+      "end": "00:05:07.759",
+      "text": "Why are all of these ground tanks dog"
+    },
+    {
+      "start_ms": 305199,
+      "end_ms": 310960,
+      "start": "00:05:05.199",
+      "end": "00:05:10.960",
+      "text": "[ __ ] Why are all of these hits scans"
+    },
+    {
+      "start_ms": 307759,
+      "end_ms": 313120,
+      "start": "00:05:07.759",
+      "end": "00:05:13.120",
+      "text": "dog [ __ ] This is bounce philosophy take"
+    },
+    {
+      "start_ms": 310960,
+      "end_ms": 314560,
+      "start": "00:05:10.960",
+      "end": "00:05:14.560",
+      "text": "number one. Every role with the"
+    },
+    {
+      "start_ms": 313120,
+      "end_ms": 316560,
+      "start": "00:05:13.120",
+      "end": "00:05:16.560",
+      "text": "exception of I haven't mentioned these"
+    },
+    {
+      "start_ms": 314560,
+      "end_ms": 317680,
+      "start": "00:05:14.560",
+      "end": "00:05:17.680",
+      "text": "tiers, right? Situational supports. I"
+    },
+    {
+      "start_ms": 316560,
+      "end_ms": 319600,
+      "start": "00:05:16.560",
+      "end": "00:05:19.600",
+      "text": "don't think these have to be good all"
+    },
+    {
+      "start_ms": 317680,
+      "end_ms": 321440,
+      "start": "00:05:17.680",
+      "end": "00:05:21.440",
+      "text": "the time, right? This tier of characters"
+    },
+    {
+      "start_ms": 319600,
+      "end_ms": 323039,
+      "start": "00:05:19.600",
+      "end": "00:05:23.039",
+      "text": "should always be kept intentionally bad"
+    },
+    {
+      "start_ms": 321440,
+      "end_ms": 325199,
+      "start": "00:05:21.440",
+      "end": "00:05:25.199",
+      "text": "for the health of the game, right? These"
+    },
+    {
+      "start_ms": 323039,
+      "end_ms": 326960,
+      "start": "00:05:23.039",
+      "end": "00:05:26.960",
+      "text": "characters are designed failures that"
+    },
+    {
+      "start_ms": 325199,
+      "end_ms": 328560,
+      "start": "00:05:25.199",
+      "end": "00:05:28.560",
+      "text": "should never be good in a serious game"
+    },
+    {
+      "start_ms": 326960,
+      "end_ms": 331199,
+      "start": "00:05:26.960",
+      "end": "00:05:31.199",
+      "text": "environment, right? Uh these are"
+    },
+    {
+      "start_ms": 328560,
+      "end_ms": 334080,
+      "start": "00:05:28.560",
+      "end": "00:05:34.080",
+      "text": "characters that were put in the game for"
+    },
+    {
+      "start_ms": 331199,
+      "end_ms": 335360,
+      "start": "00:05:31.199",
+      "end": "00:05:35.360",
+      "text": "new people to pick up kind of easily."
+    },
+    {
+      "start_ms": 334080,
+      "end_ms": 336720,
+      "start": "00:05:34.080",
+      "end": "00:05:36.720",
+      "text": "There's room for that. I think that"
+    },
+    {
+      "start_ms": 335360,
+      "end_ms": 338240,
+      "start": "00:05:35.360",
+      "end": "00:05:38.240",
+      "text": "makes sense. You need to get new players"
+    },
+    {
+      "start_ms": 336720,
+      "end_ms": 340000,
+      "start": "00:05:36.720",
+      "end": "00:05:40.000",
+      "text": "into the game, right? There should be"
+    },
+    {
+      "start_ms": 338240,
+      "end_ms": 341360,
+      "start": "00:05:38.240",
+      "end": "00:05:41.360",
+      "text": "easy characters that they can learn."
+    },
+    {
+      "start_ms": 340000,
+      "end_ms": 342880,
+      "start": "00:05:40.000",
+      "end": "00:05:42.880",
+      "text": "These characters should always be kept"
+    },
+    {
+      "start_ms": 341360,
+      "end_ms": 344560,
+      "start": "00:05:41.360",
+      "end": "00:05:44.560",
+      "text": "intentionally bad for fail the game. If"
+    },
+    {
+      "start_ms": 342880,
+      "end_ms": 348960,
+      "start": "00:05:42.880",
+      "end": "00:05:48.960",
+      "text": "any of these characters is ever actually"
+    },
+    {
+      "start_ms": 344560,
+      "end_ms": 350960,
+      "start": "00:05:44.560",
+      "end": "00:05:50.960",
+      "text": "good, you have failed so badly that you"
+    },
+    {
+      "start_ms": 348960,
+      "end_ms": 352560,
+      "start": "00:05:48.960",
+      "end": "00:05:52.560",
+      "text": "need to drop everything and and patch"
+    },
+    {
+      "start_ms": 350960,
+      "end_ms": 355280,
+      "start": "00:05:50.960",
+      "end": "00:05:55.280",
+      "text": "the game tomorrow. The way that you"
+    },
+    {
+      "start_ms": 352560,
+      "end_ms": 358080,
+      "start": "00:05:52.560",
+      "end": "00:05:58.080",
+      "text": "specifically go about it, how do you"
+    },
+    {
+      "start_ms": 355280,
+      "end_ms": 360080,
+      "start": "00:05:55.280",
+      "end": "00:06:00.080",
+      "text": "target things? Power creep versus"
+    },
+    {
+      "start_ms": 358080,
+      "end_ms": 362720,
+      "start": "00:05:58.080",
+      "end": "00:06:02.720",
+      "text": "nerfing philosophy. When you're"
+    },
+    {
+      "start_ms": 360080,
+      "end_ms": 365440,
+      "start": "00:06:00.080",
+      "end": "00:06:05.440",
+      "text": "balancing roles, you should take a power"
+    },
+    {
+      "start_ms": 362720,
+      "end_ms": 367759,
+      "start": "00:06:02.720",
+      "end": "00:06:07.759",
+      "text": "creep approach first and then you can"
+    },
+    {
+      "start_ms": 365440,
+      "end_ms": 369199,
+      "start": "00:06:05.440",
+      "end": "00:06:09.199",
+      "text": "take an nerfing approach to individual"
+    },
+    {
+      "start_ms": 367759,
+      "end_ms": 370880,
+      "start": "00:06:07.759",
+      "end": "00:06:10.880",
+      "text": "heroes within the roles is the way that"
+    },
+    {
+      "start_ms": 369199,
+      "end_ms": 372800,
+      "start": "00:06:09.199",
+      "end": "00:06:12.800",
+      "text": "I would do it. Hit scan is dog [ __ ]"
+    },
+    {
+      "start_ms": 370880,
+      "end_ms": 374960,
+      "start": "00:06:10.880",
+      "end": "00:06:14.960",
+      "text": "Ground tanks are dog [ __ ] Power creep"
+    },
+    {
+      "start_ms": 372800,
+      "end_ms": 377919,
+      "start": "00:06:12.800",
+      "end": "00:06:17.919",
+      "text": "the role first, right? Make the role"
+    },
+    {
+      "start_ms": 374960,
+      "end_ms": 379759,
+      "start": "00:06:14.960",
+      "end": "00:06:19.759",
+      "text": "good and usable and then individual"
+    },
+    {
+      "start_ms": 377919,
+      "end_ms": 381440,
+      "start": "00:06:17.919",
+      "end": "00:06:21.440",
+      "text": "characters within the role can be taken"
+    },
+    {
+      "start_ms": 379759,
+      "end_ms": 383520,
+      "start": "00:06:19.759",
+      "end": "00:06:23.520",
+      "text": "down the power level. As you as you"
+    },
+    {
+      "start_ms": 381440,
+      "end_ms": 385280,
+      "start": "00:06:21.440",
+      "end": "00:06:25.280",
+      "text": "power creep a role, you'll realize which"
+    },
+    {
+      "start_ms": 383520,
+      "end_ms": 386160,
+      "start": "00:06:23.520",
+      "end": "00:06:26.160",
+      "text": "people are the turbo thread and those"
+    },
+    {
+      "start_ms": 385280,
+      "end_ms": 388400,
+      "start": "00:06:25.280",
+      "end": "00:06:28.400",
+      "text": "are the things that should be done"
+    },
+    {
+      "start_ms": 386160,
+      "end_ms": 390880,
+      "start": "00:06:26.160",
+      "end": "00:06:30.880",
+      "text": "quickly as well, right? I think Cesary,"
+    },
+    {
+      "start_ms": 388400,
+      "end_ms": 393039,
+      "start": "00:06:28.400",
+      "end": "00:06:33.039",
+      "text": "Ryan, Sig have kind of really really"
+    },
+    {
+      "start_ms": 390880,
+      "end_ms": 394800,
+      "start": "00:06:30.880",
+      "end": "00:06:34.800",
+      "text": "suffered from 5v5 and I think these"
+    },
+    {
+      "start_ms": 393039,
+      "end_ms": 396720,
+      "start": "00:06:33.039",
+      "end": "00:06:36.720",
+      "text": "characters need slight reworks. That's"
+    },
+    {
+      "start_ms": 394800,
+      "end_ms": 398800,
+      "start": "00:06:34.800",
+      "end": "00:06:38.800",
+      "text": "maybe would be the third step is like if"
+    },
+    {
+      "start_ms": 396720,
+      "end_ms": 400479,
+      "start": "00:06:36.720",
+      "end": "00:06:40.479",
+      "text": "you buff a role and then we nerf"
+    },
+    {
+      "start_ms": 398800,
+      "end_ms": 403039,
+      "start": "00:06:38.800",
+      "end": "00:06:43.039",
+      "text": "individual characters. Say we buff"
+    },
+    {
+      "start_ms": 400479,
+      "end_ms": 404800,
+      "start": "00:06:40.479",
+      "end": "00:06:44.800",
+      "text": "ground tanks, we nerf Ram, but Zarya,"
+    },
+    {
+      "start_ms": 403039,
+      "end_ms": 406319,
+      "start": "00:06:43.039",
+      "end": "00:06:46.319",
+      "text": "Ryan, Sig are still just not really"
+    },
+    {
+      "start_ms": 404800,
+      "end_ms": 408000,
+      "start": "00:06:44.800",
+      "end": "00:06:48.000",
+      "text": "getting played at all everywhere, right?"
+    },
+    {
+      "start_ms": 406319,
+      "end_ms": 409600,
+      "start": "00:06:46.319",
+      "end": "00:06:49.600",
+      "text": "These characters need slight reworks to"
+    },
+    {
+      "start_ms": 408000,
+      "end_ms": 411680,
+      "start": "00:06:48.000",
+      "end": "00:06:51.680",
+      "text": "keep them up with 5v5. They were"
+    },
+    {
+      "start_ms": 409600,
+      "end_ms": 413199,
+      "start": "00:06:49.600",
+      "end": "00:06:53.199",
+      "text": "designed for 6v6. They've been failed by"
+    },
+    {
+      "start_ms": 411680,
+      "end_ms": 414479,
+      "start": "00:06:51.680",
+      "end": "00:06:54.479",
+      "text": "5v5. All the dive tanks have been able"
+    },
+    {
+      "start_ms": 413199,
+      "end_ms": 416560,
+      "start": "00:06:53.199",
+      "end": "00:06:56.560",
+      "text": "to keep up. They have their niches."
+    },
+    {
+      "start_ms": 414479,
+      "end_ms": 418080,
+      "start": "00:06:54.479",
+      "end": "00:06:58.080",
+      "text": "These characters need slight reworks."
+    },
+    {
+      "start_ms": 416560,
+      "end_ms": 420080,
+      "start": "00:06:56.560",
+      "end": "00:07:00.080",
+      "text": "There anyone else that needs a rework?"
+    },
+    {
+      "start_ms": 418080,
+      "end_ms": 421759,
+      "start": "00:06:58.080",
+      "end": "00:07:01.759",
+      "text": "Sombra. Maybe Zen needs a tiny rework."
+    },
+    {
+      "start_ms": 420080,
+      "end_ms": 423599,
+      "start": "00:07:00.080",
+      "end": "00:07:03.599",
+      "text": "This is good. Hog. Hog does not need a"
+    },
+    {
+      "start_ms": 421759,
+      "end_ms": 425440,
+      "start": "00:07:01.759",
+      "end": "00:07:05.440",
+      "text": "rework. Hog needs to just be dog [ __ ]"
+    },
+    {
+      "start_ms": 423599,
+      "end_ms": 427280,
+      "start": "00:07:03.599",
+      "end": "00:07:07.280",
+      "text": "forever. That's his curse. The tanks"
+    },
+    {
+      "start_ms": 425440,
+      "end_ms": 428720,
+      "start": "00:07:05.440",
+      "end": "00:07:08.720",
+      "text": "specifically, they need ways to keep up"
+    },
+    {
+      "start_ms": 427280,
+      "end_ms": 430240,
+      "start": "00:07:07.280",
+      "end": "00:07:10.240",
+      "text": "with these tanks, right? They need to be"
+    },
+    {
+      "start_ms": 428720,
+      "end_ms": 431599,
+      "start": "00:07:08.720",
+      "end": "00:07:11.599",
+      "text": "able to positively fight with other"
+    },
+    {
+      "start_ms": 430240,
+      "end_ms": 433440,
+      "start": "00:07:10.240",
+      "end": "00:07:13.440",
+      "text": "tanks in a way that makes any sense."
+    },
+    {
+      "start_ms": 431599,
+      "end_ms": 436639,
+      "start": "00:07:11.599",
+      "end": "00:07:16.639",
+      "text": "These tanks cannot fight other tanks,"
+    },
+    {
+      "start_ms": 433440,
+      "end_ms": 438479,
+      "start": "00:07:13.440",
+      "end": "00:07:18.479",
+      "text": "right? Ryan gets [ __ ] on by half of his"
+    },
+    {
+      "start_ms": 436639,
+      "end_ms": 440400,
+      "start": "00:07:16.639",
+      "end": "00:07:20.400",
+      "text": "own category if he tries to fight them."
+    },
+    {
+      "start_ms": 438479,
+      "end_ms": 441520,
+      "start": "00:07:18.479",
+      "end": "00:07:21.520",
+      "text": "Zarya gets [ __ ] on by more than by"
+    },
+    {
+      "start_ms": 440400,
+      "end_ms": 443440,
+      "start": "00:07:20.400",
+      "end": "00:07:23.440",
+      "text": "everyone in her own category if she"
+    },
+    {
+      "start_ms": 441520,
+      "end_ms": 444639,
+      "start": "00:07:21.520",
+      "end": "00:07:24.639",
+      "text": "tries to fight them. Sig gets [ __ ] on by"
+    },
+    {
+      "start_ms": 443440,
+      "end_ms": 447039,
+      "start": "00:07:23.440",
+      "end": "00:07:27.039",
+      "text": "everyone in this category, right? So"
+    },
+    {
+      "start_ms": 444639,
+      "end_ms": 448800,
+      "start": "00:07:24.639",
+      "end": "00:07:28.800",
+      "text": "these tanks need reworks. They need the"
+    },
+    {
+      "start_ms": 447039,
+      "end_ms": 450720,
+      "start": "00:07:27.039",
+      "end": "00:07:30.720",
+      "text": "ability to fight other tanks, right?"
+    },
+    {
+      "start_ms": 448800,
+      "end_ms": 452960,
+      "start": "00:07:28.800",
+      "end": "00:07:32.960",
+      "text": "That's all they need to do. CD trade in"
+    },
+    {
+      "start_ms": 450720,
+      "end_ms": 455039,
+      "start": "00:07:30.720",
+      "end": "00:07:35.039",
+      "text": "a way that's hopefully skillful, right?"
+    },
+    {
+      "start_ms": 452960,
+      "end_ms": 457360,
+      "start": "00:07:32.960",
+      "end": "00:07:37.360",
+      "text": "Zarya is good in this one meta where"
+    },
+    {
+      "start_ms": 455039,
+      "end_ms": 459360,
+      "start": "00:07:35.039",
+      "end": "00:07:39.360",
+      "text": "everything else is so broken that Zarya"
+    },
+    {
+      "start_ms": 457360,
+      "end_ms": 461199,
+      "start": "00:07:37.360",
+      "end": "00:07:41.199",
+      "text": "is by default the only thing that works"
+    },
+    {
+      "start_ms": 459360,
+      "end_ms": 463520,
+      "start": "00:07:39.360",
+      "end": "00:07:43.520",
+      "text": "that's left. This is the only time Zarya"
+    },
+    {
+      "start_ms": 461199,
+      "end_ms": 465919,
+      "start": "00:07:41.199",
+      "end": "00:07:45.919",
+      "text": "has been playable in over two years."
+    },
+    {
+      "start_ms": 463520,
+      "end_ms": 468479,
+      "start": "00:07:43.520",
+      "end": "00:07:48.479",
+      "text": "Sombra was not failed by 5v5"
+    },
+    {
+      "start_ms": 465919,
+      "end_ms": 470319,
+      "start": "00:07:45.919",
+      "end": "00:07:50.319",
+      "text": "necessarily, but she kind of suffers"
+    },
+    {
+      "start_ms": 468479,
+      "end_ms": 472880,
+      "start": "00:07:48.479",
+      "end": "00:07:52.880",
+      "text": "from being unfun to play against. The"
+    },
+    {
+      "start_ms": 470319,
+      "end_ms": 474720,
+      "start": "00:07:50.319",
+      "end": "00:07:54.720",
+      "text": "unfun part to play against is that"
+    },
+    {
+      "start_ms": 472880,
+      "end_ms": 476639,
+      "start": "00:07:52.880",
+      "end": "00:07:56.639",
+      "text": "Sumber can hack while invisible, right?"
+    },
+    {
+      "start_ms": 474720,
+      "end_ms": 480080,
+      "start": "00:07:54.720",
+      "end": "00:08:00.080",
+      "text": "That's insanely unfun. I think she needs"
+    },
+    {
+      "start_ms": 476639,
+      "end_ms": 481120,
+      "start": "00:07:56.639",
+      "end": "00:08:01.120",
+      "text": "old transllicator back 100%. But I think"
+    },
+    {
+      "start_ms": 480080,
+      "end_ms": 483360,
+      "start": "00:08:00.080",
+      "end": "00:08:03.360",
+      "text": "something needs to be done to"
+    },
+    {
+      "start_ms": 481120,
+      "end_ms": 485039,
+      "start": "00:08:01.120",
+      "end": "00:08:05.039",
+      "text": "invisibility. Either it needs to be a"
+    },
+    {
+      "start_ms": 483360,
+      "end_ms": 487120,
+      "start": "00:08:03.360",
+      "end": "00:08:07.120",
+      "text": "resource meter again, right? Like you"
+    },
+    {
+      "start_ms": 485039,
+      "end_ms": 488400,
+      "start": "00:08:05.039",
+      "end": "00:08:08.400",
+      "text": "turn it on and off. Maybe maybe she can"
+    },
+    {
+      "start_ms": 487120,
+      "end_ms": 489840,
+      "start": "00:08:07.120",
+      "end": "00:08:09.840",
+      "text": "just turn it on and off whenever she"
+    },
+    {
+      "start_ms": 488400,
+      "end_ms": 490800,
+      "start": "00:08:08.400",
+      "end": "00:08:10.800",
+      "text": "wants, but it has a resource meter or"
+    },
+    {
+      "start_ms": 489840,
+      "end_ms": 493280,
+      "start": "00:08:09.840",
+      "end": "00:08:13.280",
+      "text": "something like that. That's what I would"
+    },
+    {
+      "start_ms": 490800,
+      "end_ms": 495520,
+      "start": "00:08:10.800",
+      "end": "00:08:15.520",
+      "text": "do, right? Like like DM, you can DM and"
+    },
+    {
+      "start_ms": 493280,
+      "end_ms": 496560,
+      "start": "00:08:13.280",
+      "end": "00:08:16.560",
+      "text": "und whenever you want, but there's a"
+    },
+    {
+      "start_ms": 495520,
+      "end_ms": 498639,
+      "start": "00:08:15.520",
+      "end": "00:08:18.639",
+      "text": "resource meter on it, right? And then"
+    },
+    {
+      "start_ms": 496560,
+      "end_ms": 500560,
+      "start": "00:08:16.560",
+      "end": "00:08:20.560",
+      "text": "all of a sudden it takes some skill. If"
+    },
+    {
+      "start_ms": 498639,
+      "end_ms": 501919,
+      "start": "00:08:18.639",
+      "end": "00:08:21.919",
+      "text": "you start to hack, you become visible"
+    },
+    {
+      "start_ms": 500560,
+      "end_ms": 503199,
+      "start": "00:08:20.560",
+      "end": "00:08:23.199",
+      "text": "instantly, right? That's it. She gets"
+    },
+    {
+      "start_ms": 501919,
+      "end_ms": 505120,
+      "start": "00:08:21.919",
+      "end": "00:08:25.120",
+      "text": "old translocator back so she doesn't"
+    },
+    {
+      "start_ms": 503199,
+      "end_ms": 506639,
+      "start": "00:08:23.199",
+      "end": "00:08:26.639",
+      "text": "[ __ ] die instantly. EMP should be a"
+    },
+    {
+      "start_ms": 505120,
+      "end_ms": 508000,
+      "start": "00:08:25.120",
+      "end": "00:08:28.000",
+      "text": "really good ultimate. That's it. Quick"
+    },
+    {
+      "start_ms": 506639,
+      "end_ms": 509360,
+      "start": "00:08:26.639",
+      "end": "00:08:29.360",
+      "text": "recap. What the [ __ ] was tenant number"
+    },
+    {
+      "start_ms": 508000,
+      "end_ms": 511120,
+      "start": "00:08:28.000",
+      "end": "00:08:31.120",
+      "text": "three? Does anybody remember? Tenant"
+    },
+    {
+      "start_ms": 509360,
+      "end_ms": 512560,
+      "start": "00:08:29.360",
+      "end": "00:08:32.560",
+      "text": "number one, balance the rolls before you"
+    },
+    {
+      "start_ms": 511120,
+      "end_ms": 514800,
+      "start": "00:08:31.120",
+      "end": "00:08:34.800",
+      "text": "balance the heroes. They should be done"
+    },
+    {
+      "start_ms": 512560,
+      "end_ms": 516159,
+      "start": "00:08:32.560",
+      "end": "00:08:36.159",
+      "text": "by power creeping them up, right? Buff"
+    },
+    {
+      "start_ms": 514800,
+      "end_ms": 518320,
+      "start": "00:08:34.800",
+      "end": "00:08:38.320",
+      "text": "two or three things in the role at a"
+    },
+    {
+      "start_ms": 516159,
+      "end_ms": 520399,
+      "start": "00:08:36.159",
+      "end": "00:08:40.399",
+      "text": "time. Make sure the roll is good. When a"
+    },
+    {
+      "start_ms": 518320,
+      "end_ms": 521839,
+      "start": "00:08:38.320",
+      "end": "00:08:41.839",
+      "text": "roll is good, then we can move on to"
+    },
+    {
+      "start_ms": 520399,
+      "end_ms": 523440,
+      "start": "00:08:40.399",
+      "end": "00:08:43.440",
+      "text": "tenant number two. Balance the"
+    },
+    {
+      "start_ms": 521839,
+      "end_ms": 525120,
+      "start": "00:08:41.839",
+      "end": "00:08:45.120",
+      "text": "characters. They should be done mostly"
+    },
+    {
+      "start_ms": 523440,
+      "end_ms": 528160,
+      "start": "00:08:43.440",
+      "end": "00:08:48.160",
+      "text": "with nerfs, right? You can tune"
+    },
+    {
+      "start_ms": 525120,
+      "end_ms": 530720,
+      "start": "00:08:45.120",
+      "end": "00:08:50.720",
+      "text": "individual CDs down, health down,"
+    },
+    {
+      "start_ms": 528160,
+      "end_ms": 532160,
+      "start": "00:08:48.160",
+      "end": "00:08:52.160",
+      "text": "whatever. Right. T number three, I"
+    },
+    {
+      "start_ms": 530720,
+      "end_ms": 534080,
+      "start": "00:08:50.720",
+      "end": "00:08:54.080",
+      "text": "think, was me talking about specifically"
+    },
+    {
+      "start_ms": 532160,
+      "end_ms": 535839,
+      "start": "00:08:52.160",
+      "end": "00:08:55.839",
+      "text": "how I would do it. Right? Right now, as"
+    },
+    {
+      "start_ms": 534080,
+      "end_ms": 537360,
+      "start": "00:08:54.080",
+      "end": "00:08:57.360",
+      "text": "an example, the hit scans need power"
+    },
+    {
+      "start_ms": 535839,
+      "end_ms": 540240,
+      "start": "00:08:55.839",
+      "end": "00:09:00.240",
+      "text": "crept. The ground tanks need power"
+    },
+    {
+      "start_ms": 537360,
+      "end_ms": 541440,
+      "start": "00:08:57.360",
+      "end": "00:09:01.440",
+      "text": "crept. Right? Number four, there are"
+    },
+    {
+      "start_ms": 540240,
+      "end_ms": 543760,
+      "start": "00:09:00.240",
+      "end": "00:09:03.760",
+      "text": "certain characters that have been failed"
+    },
+    {
+      "start_ms": 541440,
+      "end_ms": 545200,
+      "start": "00:09:01.440",
+      "end": "00:09:05.200",
+      "text": "by 5v5 that need reworked. Right? Tanks"
+    },
+    {
+      "start_ms": 543760,
+      "end_ms": 546720,
+      "start": "00:09:03.760",
+      "end": "00:09:06.720",
+      "text": "don't need gigantic reworks. They need"
+    },
+    {
+      "start_ms": 545200,
+      "end_ms": 548000,
+      "start": "00:09:05.200",
+      "end": "00:09:08.000",
+      "text": "to be able to fight other tanks. These"
+    },
+    {
+      "start_ms": 546720,
+      "end_ms": 550160,
+      "start": "00:09:06.720",
+      "end": "00:09:10.160",
+      "text": "tanks can't fight other tanks, so"
+    },
+    {
+      "start_ms": 548000,
+      "end_ms": 552480,
+      "start": "00:09:08.000",
+      "end": "00:09:12.480",
+      "text": "they're [ __ ] useless, right? This Zen"
+    },
+    {
+      "start_ms": 550160,
+      "end_ms": 554000,
+      "start": "00:09:10.160",
+      "end": "00:09:14.000",
+      "text": "needs a rework. Som needs a rework."
+    },
+    {
+      "start_ms": 552480,
+      "end_ms": 555200,
+      "start": "00:09:12.480",
+      "end": "00:09:15.200",
+      "text": "Right? At number five, there are"
+    },
+    {
+      "start_ms": 554000,
+      "end_ms": 559040,
+      "start": "00:09:14.000",
+      "end": "00:09:19.040",
+      "text": "characters that should just always be"
+    },
+    {
+      "start_ms": 555200,
+      "end_ms": 560640,
+      "start": "00:09:15.200",
+      "end": "00:09:20.640",
+      "text": "bad. Hog, Mercy, Junk, Bastion, Mora."
+    },
+    {
+      "start_ms": 559040,
+      "end_ms": 562399,
+      "start": "00:09:19.040",
+      "end": "00:09:22.399",
+      "text": "These characters should never ever be"
+    },
+    {
+      "start_ms": 560640,
+      "end_ms": 565120,
+      "start": "00:09:20.640",
+      "end": "00:09:25.120",
+      "text": "actually good in a serious environment."
+    },
+    {
+      "start_ms": 562399,
+      "end_ms": 566720,
+      "start": "00:09:22.399",
+      "end": "00:09:26.720",
+      "text": "In GM Plus, Enchamp, in Proplay, these"
+    },
+    {
+      "start_ms": 565120,
+      "end_ms": 567839,
+      "start": "00:09:25.120",
+      "end": "00:09:27.839",
+      "text": "characters, if this character is good,"
+    },
+    {
+      "start_ms": 566720,
+      "end_ms": 569600,
+      "start": "00:09:26.720",
+      "end": "00:09:29.600",
+      "text": "it's a sign that you've [ __ ]"
+    },
+    {
+      "start_ms": 567839,
+      "end_ms": 571279,
+      "start": "00:09:27.839",
+      "end": "00:09:31.279",
+      "text": "everything up so badly that we need to"
+    },
+    {
+      "start_ms": 569600,
+      "end_ms": 573519,
+      "start": "00:09:29.600",
+      "end": "00:09:33.519",
+      "text": "just nuke the entire field and go back"
+    },
+    {
+      "start_ms": 571279,
+      "end_ms": 575440,
+      "start": "00:09:31.279",
+      "end": "00:09:35.440",
+      "text": "to square one, right? If we did this, I"
+    },
+    {
+      "start_ms": 573519,
+      "end_ms": 577440,
+      "start": "00:09:33.519",
+      "end": "00:09:37.440",
+      "text": "promise it would be so easy. Like I know"
+    },
+    {
+      "start_ms": 575440,
+      "end_ms": 579519,
+      "start": "00:09:35.440",
+      "end": "00:09:39.519",
+      "text": "there's there's lots of people that have"
+    },
+    {
+      "start_ms": 577440,
+      "end_ms": 582480,
+      "start": "00:09:37.440",
+      "end": "00:09:42.480",
+      "text": "lots of opinions on on game balance and"
+    },
+    {
+      "start_ms": 579519,
+      "end_ms": 584560,
+      "start": "00:09:39.519",
+      "end": "00:09:44.560",
+      "text": "game design. And I do want to be fair to"
+    },
+    {
+      "start_ms": 582480,
+      "end_ms": 586480,
+      "start": "00:09:42.480",
+      "end": "00:09:46.480",
+      "text": "the devs. Like it's really easy for me"
+    },
+    {
+      "start_ms": 584560,
+      "end_ms": 588880,
+      "start": "00:09:44.560",
+      "end": "00:09:48.880",
+      "text": "to sit in my [ __ ] chair when I don't"
+    },
+    {
+      "start_ms": 586480,
+      "end_ms": 590720,
+      "start": "00:09:46.480",
+      "end": "00:09:50.720",
+      "text": "have to do anything and nobody's flaming"
+    },
+    {
+      "start_ms": 588880,
+      "end_ms": 592320,
+      "start": "00:09:48.880",
+      "end": "00:09:52.320",
+      "text": "me and and slinging hate. Like the"
+    },
+    {
+      "start_ms": 590720,
+      "end_ms": 593760,
+      "start": "00:09:50.720",
+      "end": "00:09:53.760",
+      "text": "Overwatch community slings an insane"
+    },
+    {
+      "start_ms": 592320,
+      "end_ms": 595200,
+      "start": "00:09:52.320",
+      "end": "00:09:55.200",
+      "text": "amount of hate at these devs. The"
+    },
+    {
+      "start_ms": 593760,
+      "end_ms": 596959,
+      "start": "00:09:53.760",
+      "end": "00:09:56.959",
+      "text": "casuals, the pros, you're just getting"
+    },
+    {
+      "start_ms": 595200,
+      "end_ms": 599120,
+      "start": "00:09:55.200",
+      "end": "00:09:59.120",
+      "text": "bombarded constantly. To be fair, most"
+    },
+    {
+      "start_ms": 596959,
+      "end_ms": 600480,
+      "start": "00:09:56.959",
+      "end": "00:10:00.480",
+      "text": "of it's deserved, but it can't be good"
+    },
+    {
+      "start_ms": 599120,
+      "end_ms": 602800,
+      "start": "00:09:59.120",
+      "end": "00:10:02.800",
+      "text": "for your mental health and and for"
+    },
+    {
+      "start_ms": 600480,
+      "end_ms": 604720,
+      "start": "00:10:00.480",
+      "end": "00:10:04.720",
+      "text": "trying to do your job, right? So it's"
+    },
+    {
+      "start_ms": 602800,
+      "end_ms": 608560,
+      "start": "00:10:02.800",
+      "end": "00:10:08.560",
+      "text": "easy to just say, \"Oh, you should do"
+    },
+    {
+      "start_ms": 604720,
+      "end_ms": 610320,
+      "start": "00:10:04.720",
+      "end": "00:10:10.320",
+      "text": "this.\" Right? But me specifically, I"
+    },
+    {
+      "start_ms": 608560,
+      "end_ms": 612320,
+      "start": "00:10:08.560",
+      "end": "00:10:12.320",
+      "text": "happen to be right about everything. So"
+    },
+    {
+      "start_ms": 610320,
+      "end_ms": 614480,
+      "start": "00:10:10.320",
+      "end": "00:10:14.480",
+      "text": "it's a different situation, right? Where"
+    },
+    {
+      "start_ms": 612320,
+      "end_ms": 616240,
+      "start": "00:10:12.320",
+      "end": "00:10:16.240",
+      "text": "I am actually right about all this. Most"
+    },
+    {
+      "start_ms": 614480,
+      "end_ms": 618880,
+      "start": "00:10:14.480",
+      "end": "00:10:18.880",
+      "text": "of the people that say this [ __ ] have no"
+    },
+    {
+      "start_ms": 616240,
+      "end_ms": 618880,
+      "start": "00:10:16.240",
+      "end": "00:10:18.880",
+      "text": "idea what they're talking"
+    }
+  ]
+}
