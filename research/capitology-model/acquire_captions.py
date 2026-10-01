@@ -59,7 +59,7 @@ def acquire(video):
                        '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2',
                        '--paths', str(RAW), '--output', '%(id)s.%(ext)s', video['url']]
             if Path('youtube_cookies.txt').exists():
-                command[3:3] = ['--cookies-file', 'youtube_cookies.txt']
+                command[3:3] = ['--cookies', 'youtube_cookies.txt']
             started = time.time()
             result = subprocess.run(command, text=True, stdout=subprocess.PIPE,
                                     stderr=subprocess.STDOUT, timeout=150)
