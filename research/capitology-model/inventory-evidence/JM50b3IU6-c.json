@@ -1,0 +1,40 @@
+{
+  "video_id": "JM50b3IU6-c",
+  "checked_at": "2026-10-01T21:53:27.987427+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "JM50b3IU6-c",
+    "title": "How to Play Split Comps in Overwatch (Toronto vs Washington)",
+    "lengthSeconds": "1566",
+    "shortDescription": "This video covers How to play with and against split comps and shows some fights from a Toronto vod as examples. \n\nTwitter: @cap1tology \nDiscord: capitology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2023-10-27T09:03:42-07:00",
+    "publishDate": "2023-10-27T09:03:42-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=JM50b3IU6-c"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "9e712435d69bb254b6f8e83df9620f5456302c6f8c02ef6b7d82d3479274f21f"
+}

@@ -1,0 +1,40 @@
+{
+  "video_id": "KlcWDgdXrZk",
+  "checked_at": "2026-10-01T21:52:39.471924+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "KlcWDgdXrZk",
+    "title": "Playing Second: The Mind Control Warfare of Team Falcons",
+    "lengthSeconds": "844",
+    "shortDescription": "https://www.patreon.com/cw/Capitology\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\nTeam Falcons is making some playstyle adjustments with Checkmate and Junkbuck added to the team. Will they be able to perfect their playstyle and bring Korea back to the top?",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2026-03-08T10:00:24-07:00",
+    "publishDate": "2026-03-08T10:00:24-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=KlcWDgdXrZk"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "51bed74b5b2838a640b665765f3f258f41213e26501758492ac36a4397e2a8af"
+}

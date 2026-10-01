@@ -1,46 +1,2685 @@
 {
+  "schema_version": 1,
   "pass": 1,
-  "status": "preliminary_incomplete",
-  "captured_on": "2026-10-01",
+  "status": "public_inventory_complete",
+  "captured_at": "2026-10-01T21:55:14.212748+00:00",
   "channel": {
     "name": "Capitology",
-    "public_identity": "Ethan \"Cap\" Walker",
-    "observed_subscriber_count": 6560,
-    "subscriber_count_source_date": "2026-02-08 result snapshot",
-    "note": "Count is from indexed YouTube result and may be stale."
+    "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "url": "https://www.youtube.com/channel/UCk7BWWbiI8yNdLWt9BdAM9g",
+    "handle": "@capitology"
   },
-  "verified_uploads": [
+  "scope": "All publicly enumerated Videos + Shorts + uploads playlist + public playlists; prior known IDs retained. Hidden private/deleted/unlisted uploads cannot be exhaustively enumerated without owner access.",
+  "caption_semantics": "Tracks advertised by the watch-page player. not_advertised means no caption track in this successful public response, not proof captions never existed. Caption text and media were not downloaded.",
+  "summary": {
+    "unique_videos": 54,
+    "videos_tab_count": 48,
+    "shorts_tab_count": 5,
+    "uploads_playlist_count": 53,
+    "public": 53,
+    "unlisted": 1,
+    "confirmed_private": 0,
+    "confirmed_deleted": 0,
+    "unavailable": 0,
+    "records_with_metadata_gaps": 0,
+    "captions_available": 54
+  },
+  "videos": [
+    {
+      "video_id": "_pv_dhja-4w",
+      "title": "You're Never Going to Learn",
+      "duration_seconds": 709,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=_pv_dhja-4w",
+      "upload_date": "2026-09-29",
+      "upload_datetime": "2026-09-29T15:44:43-07:00",
+      "publish_datetime": "2026-09-29T15:44:43-07:00",
+      "description": "check out my other videos im not linking them though",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "ar",
+            "name": "Arabic (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "bn",
+            "name": "Bangla (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "nl",
+            "name": "Dutch (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "fr",
+            "name": "French (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "de",
+            "name": "German (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "iw",
+            "name": "Hebrew (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "hi",
+            "name": "Hindi (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "id",
+            "name": "Indonesian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "it",
+            "name": "Italian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ja",
+            "name": "Japanese (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ko",
+            "name": "Korean (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ml",
+            "name": "Malayalam (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "pl",
+            "name": "Polish (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "pt",
+            "name": "Portuguese (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "pa",
+            "name": "Punjabi (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ru",
+            "name": "Russian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "es",
+            "name": "Spanish (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ta",
+            "name": "Tamil (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "te",
+            "name": "Telugu (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "uk",
+            "name": "Ukrainian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:34.469187+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=_pv_dhja-4w",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "35d3e07f7b1869e383b2231ff26eb432eb60f69aff960126c8477e04a6d90c0e"
+      },
+      "duration": "00:11:49"
+    },
+    {
+      "video_id": "N5fHwbNE-SQ",
+      "title": "Dallas Fuel is Bringing NA Back (Ft. Cjay)",
+      "duration_seconds": 1133,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=N5fHwbNE-SQ",
+      "upload_date": "2026-09-05",
+      "upload_datetime": "2026-09-05T09:00:04-07:00",
+      "publish_datetime": "2026-09-05T09:00:04-07:00",
+      "description": "Cjay and I review his win over Virtus Pro",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "bn",
+            "name": "Bangla (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "nl-NL",
+            "name": "Dutch (Netherlands) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "fr-FR",
+            "name": "French (France) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "de-DE",
+            "name": "German (Germany) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "iw",
+            "name": "Hebrew (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "hi",
+            "name": "Hindi (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "id",
+            "name": "Indonesian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "it",
+            "name": "Italian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ja",
+            "name": "Japanese (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ko",
+            "name": "Korean (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ml",
+            "name": "Malayalam (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "pl",
+            "name": "Polish (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "pt-BR",
+            "name": "Portuguese (Brazil) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "pa",
+            "name": "Punjabi (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ru",
+            "name": "Russian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "es-US",
+            "name": "Spanish (United States) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ta",
+            "name": "Tamil (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "te",
+            "name": "Telugu (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "uk",
+            "name": "Ukrainian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:34.088842+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=N5fHwbNE-SQ",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "b58259b711cf0c343ff1da03cc8a3bdeb566d9e0ad26e052d1598231f3ac837e"
+      },
+      "duration": "00:18:53"
+    },
+    {
+      "video_id": "KLwLiiYYewQ",
+      "title": "DON'T hold the choke?",
+      "duration_seconds": 53,
+      "upload_type": "short",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/shorts",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=KLwLiiYYewQ",
+      "upload_date": "2026-07-08",
+      "upload_datetime": "2026-07-08T11:00:15-07:00",
+      "publish_datetime": "2026-07-08T11:00:15-07:00",
+      "description": "",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:54:36.589156+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=KLwLiiYYewQ",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "7d7e33d2e15afd705dfd4fc033549701f1e03f760027b34ff9d53437bc81e4f6"
+      },
+      "duration": "00:00:53"
+    },
+    {
+      "video_id": "prUv2eNrGD0",
+      "title": "The 5 Levels of Sojourn: Diamond to Pro (Ft. PGE)",
+      "duration_seconds": 1889,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=prUv2eNrGD0",
+      "upload_date": "2026-06-08",
+      "upload_datetime": "2026-06-08T10:00:29-07:00",
+      "publish_datetime": "2026-06-08T10:00:29-07:00",
+      "description": "patreon.com/cw/Capitology\ntwitter.com/Cap1tology\ntwitch.tv/capitology\n\nI brought together 5 different levels of Sojourn player to test what the differences between each rank really are. Can you tell the differences between each level?\n\n0:00 - Intro\n0:46 - Diamond\n6:19 - Master\n11:24 - Grandmaster\n17:24 - Champion\n22:39 - Pro\n30:40 - Conclusion",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:34.129973+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=prUv2eNrGD0",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "70e4ff37acf44ace71ee5f407e5a5509bd32dd4f99a8c3e4a2430f0e6d001255"
+      },
+      "duration": "00:31:29"
+    },
+    {
+      "video_id": "pQcjwEjo6us",
+      "title": "Can SSG Stay Alive for More Than 5 Seconds?",
+      "duration_seconds": 29,
+      "upload_type": "short",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/shorts",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=pQcjwEjo6us",
+      "upload_date": "2026-05-22",
+      "upload_datetime": "2026-05-22T12:31:36-07:00",
+      "publish_datetime": "2026-05-22T12:31:36-07:00",
+      "description": "Hawk tries his best to live for more than 5 seconds against an international team",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:32.597487+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=pQcjwEjo6us",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "0b5726d771770256fe6add889b44b4d38558a526ae897d75e930a46477b669ee"
+      },
+      "duration": "00:00:29"
+    },
+    {
+      "video_id": "GjlM3r948EI",
+      "title": "Nico Reads Junbin Like a Book",
+      "duration_seconds": 22,
+      "upload_type": "short",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/shorts",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=GjlM3r948EI",
+      "upload_date": "2026-05-06",
+      "upload_datetime": "2026-05-06T12:34:20-07:00",
+      "publish_datetime": "2026-05-06T12:34:20-07:00",
+      "description": "Nico from VARREL hits a nasty read on Junbin to beat CR and make playoffs",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:32.431140+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=GjlM3r948EI",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "25d27f2400f5e1d30d4edad1355085e0fef679fefb72df01e04a37353bc41283"
+      },
+      "duration": "00:00:22"
+    },
+    {
+      "video_id": "ijlmDdVIdtk",
+      "title": "The New Dallas Fuel Can't Stop Winning",
+      "duration_seconds": 924,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=ijlmDdVIdtk",
+      "upload_date": "2026-04-27",
+      "upload_datetime": "2026-04-27T11:00:44-07:00",
+      "publish_datetime": "2026-04-27T11:00:44-07:00",
+      "description": "https://www.patreon.com/cw/Capitology\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\nThis video is cut from my Patreon, where there's a full hour long breakdown of the match from Lukemino's POV.\n\nDallas Fuel simply can't stop winning...",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:34.359892+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=ijlmDdVIdtk",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "299d7c0539c8bd5a331eea73a59b90ce920b5eb420c1a777bedb834e7dcb1515"
+      },
+      "duration": "00:15:24"
+    },
+    {
+      "video_id": "AtmKIdmLLQ8",
+      "title": "At Least We Won ONE Match",
+      "duration_seconds": 935,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=AtmKIdmLLQ8",
+      "upload_date": "2026-04-17",
+      "upload_datetime": "2026-04-17T11:00:09-07:00",
+      "publish_datetime": "2026-04-17T11:00:09-07:00",
+      "description": "https://www.patreon.com/cw/Capitology\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\nYou can always rely on me to beat liquid",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:39.170593+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=AtmKIdmLLQ8",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "35987926071ee1bb545d4ff6a52f856d7010d95ef99b422144eb165ab579d11a"
+      },
+      "duration": "00:15:35"
+    },
+    {
+      "video_id": "mXrTyliwJTI",
+      "title": "HE HID FOR 14 SECONDS??",
+      "duration_seconds": 60,
+      "upload_type": "short",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/shorts",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=mXrTyliwJTI",
+      "upload_date": "2026-04-16",
+      "upload_datetime": "2026-04-16T11:00:51-07:00",
+      "publish_datetime": "2026-04-16T11:00:51-07:00",
+      "description": "Proud actually plays the game like a real sniper",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:32.668210+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=mXrTyliwJTI",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "2c9c880091c6e04923643c1907964bb61111cf226a05deb4d0da4d53a49b3b1a"
+      },
+      "duration": "00:01:00"
+    },
+    {
+      "video_id": "GKkzCd9cvUg",
+      "title": "Ult Economy Might Be Real",
+      "duration_seconds": 872,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=GKkzCd9cvUg",
+      "upload_date": "2026-04-09",
+      "upload_datetime": "2026-04-09T11:00:14-07:00",
+      "publish_datetime": "2026-04-09T11:00:14-07:00",
+      "description": "https://www.patreon.com/cw/Capitology\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\nYou win some you lose some (and then you lose some more)",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:38.982629+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=GKkzCd9cvUg",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "09b8e0cb93d3c549dcdd9d33a5f5a29e050a38baf59617797048005995fd20cd"
+      },
+      "duration": "00:14:32"
+    },
+    {
+      "video_id": "KlcWDgdXrZk",
+      "title": "Playing Second: The Mind Control Warfare of Team Falcons",
+      "duration_seconds": 844,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=KlcWDgdXrZk",
+      "upload_date": "2026-03-08",
+      "upload_datetime": "2026-03-08T10:00:24-07:00",
+      "publish_datetime": "2026-03-08T10:00:24-07:00",
+      "description": "https://www.patreon.com/cw/Capitology\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\nTeam Falcons is making some playstyle adjustments with Checkmate and Junkbuck added to the team. Will they be able to perfect their playstyle and bring Korea back to the top?",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:39.471924+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=KlcWDgdXrZk",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "51bed74b5b2838a640b665765f3f258f41213e26501758492ac36a4397e2a8af"
+      },
+      "duration": "00:14:04"
+    },
     {
       "video_id": "x2jNJeKiMUU",
       "title": "The Biggest Season In Overwatch History",
-      "published": "2026-02-08",
-      "views": 2032,
-      "likes": 155,
-      "source": "YouTube indexed result",
-      "url": "https://www.youtube.com/watch?v=x2jNJeKiMUU"
+      "duration_seconds": 1245,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g",
+        "preliminary Pass 1"
+      ],
+      "url": "https://www.youtube.com/watch?v=x2jNJeKiMUU",
+      "upload_date": "2026-02-08",
+      "upload_datetime": "2026-02-08T11:01:00-08:00",
+      "publish_datetime": "2026-02-08T11:01:00-08:00",
+      "description": "https://www.patreon.com/cw/Capitology\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\nOverwatch just announced their biggest patch in history, adding 5 new characters at once. How well designed and how strong are each of them?",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:39.500100+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=x2jNJeKiMUU",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "91dba4f9a6f8a37d717708a82edf20a60fda2710077a1e16135e99f3ac7a88a3"
+      },
+      "duration": "00:20:45"
+    },
+    {
+      "video_id": "UC8D2vBDf_0",
+      "title": "2026 Announcement",
+      "duration_seconds": 311,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=UC8D2vBDf_0",
+      "upload_date": "2026-02-02",
+      "upload_datetime": "2026-02-02T12:45:14-08:00",
+      "publish_datetime": "2026-02-02T12:45:14-08:00",
+      "description": "https://www.patreon.com/cw/Capitology\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\nANNOUNCEMENT",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:44.035882+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=UC8D2vBDf_0",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "ae89daeed6accc8c8bc38c1e7c8ef8ef40e2fd00442826311572431c4aa29695"
+      },
+      "duration": "00:05:11"
+    },
+    {
+      "video_id": "Hl-nV1aF1yE",
+      "title": "Back Up to Go Forward",
+      "duration_seconds": 728,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=Hl-nV1aF1yE",
+      "upload_date": "2026-01-26",
+      "upload_datetime": "2026-01-26T11:00:19-08:00",
+      "publish_datetime": "2026-01-26T11:00:19-08:00",
+      "description": "https://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\nHave you ever thought to yourself, \"How are we supposed to make this push work?\"\n\nIt might be a trick question.",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:44.011359+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=Hl-nV1aF1yE",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "9493088b7ceb1d5d82b032b8d5122e1daf2f2e6450054931d1d558f1b0765f00"
+      },
+      "duration": "00:12:08"
+    },
+    {
+      "video_id": "FjoWkH6Sl1k",
+      "title": "How Good is the New Tier 2?",
+      "duration_seconds": 1088,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=FjoWkH6Sl1k",
+      "upload_date": "2026-01-21",
+      "upload_datetime": "2026-01-21T13:02:57-08:00",
+      "publish_datetime": "2026-01-21T13:02:57-08:00",
+      "description": "https://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\ncba to do description just watch the video",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:44.367056+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=FjoWkH6Sl1k",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "8aa5fc8958d978490fc05726fbfcd9c70b470de56c770649a95d03119a068f6f"
+      },
+      "duration": "00:18:08"
+    },
+    {
+      "video_id": "aHwWbiUE4KQ",
+      "title": "Ultimate Economy Does Not Matter",
+      "duration_seconds": 584,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=aHwWbiUE4KQ",
+      "upload_date": "2026-01-08",
+      "upload_datetime": "2026-01-08T11:01:42-08:00",
+      "publish_datetime": "2026-01-08T11:01:42-08:00",
+      "description": "https://x.com/Cap1tology\nhttps://www.twitch.tv/capitology\n\nUltimate Economy is often the most focused on aspect of the game from coaches and analysts who consider themselves to be \"macro specialists\" or whatever other nonsense people say about themselves these days. Here is why they're all wasting their time",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:44.134621+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=aHwWbiUE4KQ",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "25551f8e377b5e3a07ce764768afc0dc3f4fb013c4d9c0f5cfcf4ebba4caea91"
+      },
+      "duration": "00:09:44"
+    },
+    {
+      "video_id": "iLX7uqsC1jE",
+      "title": "The Best Questions of 2025",
+      "duration_seconds": 1268,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=iLX7uqsC1jE",
+      "upload_date": "2026-01-02",
+      "upload_datetime": "2026-01-02T11:57:53-08:00",
+      "publish_datetime": "2026-01-02T11:57:53-08:00",
+      "description": "Original post: https://www.reddit.com/r/Competitiveoverwatch/comments/1px5kkx/capitology_ama_video/\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology\n\nPro Coach answers the best and brightest questions of 2025. Happy new year.",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:53.237804+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=iLX7uqsC1jE",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "7262c6ce861f093a1f07282def036d859bc47f885dfe13c6e78401ff6e19c694"
+      },
+      "duration": "00:21:08"
+    },
+    {
+      "video_id": "jSCHyAWoUjc",
+      "title": "Rokit Makes Vendetta Look Broken",
+      "duration_seconds": 977,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=jSCHyAWoUjc",
+      "upload_date": "2025-12-21",
+      "upload_datetime": "2025-12-21T11:00:44-08:00",
+      "publish_datetime": "2025-12-21T11:00:44-08:00",
+      "description": "https://x.com/Cap1tology\nhttps://www.twitch.tv/capitology\n\nIt's been enough time... the new character is pretty broken. But not all players are created equal, and Rokit is here to show us how to do it",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:53.791531+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=jSCHyAWoUjc",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "c3057641e055862823b0ebaf758666b9004817329fa75c8f8e37d7b9b0562afe"
+      },
+      "duration": "00:16:17"
+    },
+    {
+      "video_id": "M8393UkZxjY",
+      "title": "Why Does Team Liquid Evaporate on Stage",
+      "duration_seconds": 1529,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=M8393UkZxjY",
+      "upload_date": "2025-12-19",
+      "upload_datetime": "2025-12-19T10:00:24-08:00",
+      "publish_datetime": "2025-12-19T10:00:24-08:00",
+      "description": "https://x.com/Cap1tology\nhttps://www.twitch.tv/capitology\n\nCan't be bothered to do description for this one to be honest just watch it yourself and find out",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "ar",
+            "name": "Arabic (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "bn",
+            "name": "Bangla (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "nl-NL",
+            "name": "Dutch (Netherlands) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "fr-FR",
+            "name": "French (France) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "de-DE",
+            "name": "German (Germany) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "iw",
+            "name": "Hebrew (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "hi",
+            "name": "Hindi (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "id",
+            "name": "Indonesian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "it",
+            "name": "Italian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ja",
+            "name": "Japanese (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ko",
+            "name": "Korean (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ml",
+            "name": "Malayalam (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "pl",
+            "name": "Polish (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "pt-BR",
+            "name": "Portuguese (Brazil) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "pa",
+            "name": "Punjabi (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ru",
+            "name": "Russian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "es-US",
+            "name": "Spanish (United States) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ta",
+            "name": "Tamil (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "te",
+            "name": "Telugu (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "uk",
+            "name": "Ukrainian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:53.337508+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=M8393UkZxjY",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "c5d6605635e4de65aec758e72b3bb9234f65ec59dc86bdff81bb053b25a7f256"
+      },
+      "duration": "00:25:29"
+    },
+    {
+      "video_id": "t1dnez3yuZ4",
+      "title": "Dva is Broken, so Why Aren't We Winning?",
+      "duration_seconds": 1004,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=t1dnez3yuZ4",
+      "upload_date": "2025-12-14",
+      "upload_datetime": "2025-12-14T12:00:45-08:00",
+      "publish_datetime": "2025-12-14T12:00:45-08:00",
+      "description": "https://x.com/Cap1tology\nhttps://www.twitch.tv/capitology\n\nBoth of the top teams from last tournament play almost exclusively Dva comps, but it doesn't look very strong in the hands of NA's Dva team. What are we doing differently? (Besides not playing symm)",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:53.197349+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=t1dnez3yuZ4",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "880b73c5bbf55a87153739d1c9f63513af242476deedc381b0883a61f77ae138"
+      },
+      "duration": "00:16:44"
+    },
+    {
+      "video_id": "Y4ORvoqZ1P0",
+      "title": "How Far Has NA Fallen",
+      "duration_seconds": 1051,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=Y4ORvoqZ1P0",
+      "upload_date": "2025-12-11",
+      "upload_datetime": "2025-12-11T12:00:29-08:00",
+      "publish_datetime": "2025-12-11T12:00:29-08:00",
+      "description": "https://x.com/Cap1tology\nhttps://www.twitch.tv/Capitology\n\nNA went from upsetting Crazy Raccoon at the beginning of the year to a triple last-place finish at the last tournament (among relevant teams). How is this possible? And how close was it to doing differently?",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:58.376374+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=Y4ORvoqZ1P0",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "9e3796995e1b3adf3132daffeda8ba8a894a1102bd1d864afc8bb053e3bbdd18"
+      },
+      "duration": "00:17:31"
+    },
+    {
+      "video_id": "sqtmsbHxrLE",
+      "title": "Symm is NOT Meta... Twisted Minds are Just Better",
+      "duration_seconds": 1025,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=sqtmsbHxrLE",
+      "upload_date": "2025-12-08",
+      "upload_datetime": "2025-12-08T11:00:56-08:00",
+      "publish_datetime": "2025-12-08T11:00:56-08:00",
+      "description": "https://x.com/Cap1tology\nhttps://www.twitch.tv/capitology\n\nThe day has come... EU has finally won a major tournament. Except, they won multiple skill matchups vs every korean team on their path through the bracket. How is that possible?",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:58.450072+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=sqtmsbHxrLE",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "418874bd5a578565fcd85861e1446f88b11ffe527077024ce198e84de2533a0e"
+      },
+      "duration": "00:17:05"
+    },
+    {
+      "video_id": "LSrm0ocaS1Q",
+      "title": "The Secret Rules to Pro Aim",
+      "duration_seconds": 1027,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=LSrm0ocaS1Q",
+      "upload_date": "2025-11-15",
+      "upload_datetime": "2025-11-15T11:00:18-08:00",
+      "publish_datetime": "2025-11-15T11:00:18-08:00",
+      "description": "https://x.com/Cap1tology\nhttps://www.twitch.tv/capitology\n\nHow do Lip and Prophet have such \"smooth\" aim and make hitting shots look so easy? Let's take a look at what it takes to hit shots so consistently at the pro level.",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:00.445493+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=LSrm0ocaS1Q",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "de53f872181c4c9627664ca9d22c302666c5c7ead73d4d0ef3b12790ee5ef775"
+      },
+      "duration": "00:17:07"
+    },
+    {
+      "video_id": "AcAxvnAEYpg",
+      "title": "How Are Old OWL Players Still So Good?",
+      "duration_seconds": 879,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=AcAxvnAEYpg",
+      "upload_date": "2025-11-06",
+      "upload_datetime": "2025-11-06T12:00:07-08:00",
+      "publish_datetime": "2025-11-06T12:00:07-08:00",
+      "description": "https://x.com/Cap1tology\nhttps://www.twitch.tv/Capitology\n\nHawk just took a year off to throw ranked games and came back to immediately get second place in the region. How is this possible? Let's find out...",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:52:58.408197+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=AcAxvnAEYpg",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "29694bd7d0277419d53a9eee75bcfcc3ec4e2f18b48fedf0ed90301029f65394"
+      },
+      "duration": "00:14:39"
+    },
+    {
+      "video_id": "1OvQ5PAK0w0",
+      "title": "Why Good Players Make Stupid Mistakes",
+      "duration_seconds": 1168,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=1OvQ5PAK0w0",
+      "upload_date": "2025-11-03",
+      "upload_datetime": "2025-11-03T12:00:03-08:00",
+      "publish_datetime": "2025-11-03T12:00:03-08:00",
+      "description": "https://x.com/Cap1tology\nhttps://www.twitch.tv/Capitology\n\nIntro Music: Roar of the Jungle Dragon - DM DOKURO\n\nWhy do so many good players make seemingly stupid and obvious mistakes? Why can an infinite number of couch analysts point out what the top pros are doing wrong? Let's take a look.",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:02.764686+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=1OvQ5PAK0w0",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "aa22a20a81a7a297f72c82bba143a6637c7688dd76f7202a7da8d0272979f082"
+      },
+      "duration": "00:19:28"
+    },
+    {
+      "video_id": "2X_yEWyNms0",
+      "title": "How I Would Fix Overwatch (As A Former Pro)",
+      "duration_seconds": 617,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=2X_yEWyNms0",
+      "upload_date": "2025-09-23",
+      "upload_datetime": "2025-09-23T11:38:22-07:00",
+      "publish_datetime": "2025-09-23T11:38:22-07:00",
+      "description": "I am Cap, and I've coached professional overwatch for many years. I'm frequently asked on stream how I would balance the game, and this is my answer. \n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:04.362255+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=2X_yEWyNms0",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "6db970908254d97bd2fe7019b51f5fe87d4b52fedae73a8d877f16e116f42121"
+      },
+      "duration": "00:10:17"
+    },
+    {
+      "video_id": "TOaKp3Z44ho",
+      "title": "THEY COULDN'T SURVIVE IN THE WEST... SO THEY RAN TO KOREA.",
+      "duration_seconds": 944,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=TOaKp3Z44ho",
+      "upload_date": "2025-09-15",
+      "upload_datetime": "2025-09-15T12:00:33-07:00",
+      "publish_datetime": "2025-09-15T12:00:33-07:00",
+      "description": "The Koreans that couldn't handle it in the west have gone back to korea to duke it out in the thunderdome... Two enter, hopefully neither of them leaves.\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:02.821709+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=TOaKp3Z44ho",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "61d5cb088b9c7d61c1a5502bc70e5229c15e7d64a3b044fb22be29d4b778c75e"
+      },
+      "duration": "00:15:44"
+    },
+    {
+      "video_id": "ln2t2rl1KYw",
+      "title": "How to Enter the Pocket",
+      "duration_seconds": 1366,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=ln2t2rl1KYw",
+      "upload_date": "2025-09-10",
+      "upload_datetime": "2025-09-10T12:00:51-07:00",
+      "publish_datetime": "2025-09-10T12:00:51-07:00",
+      "description": "How do you punch your opponent without getting punched? How do you engage the enemy team without being engaged on? Learn how to STEP IN THE POCKET and how to stop losing every dive mirror.\n\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:03.037578+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=ln2t2rl1KYw",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "55deea1e6d8d9b5296941ec13aad25efe692631e58baae2c43cc515fc1a0e259"
+      },
+      "duration": "00:22:46"
+    },
+    {
+      "video_id": "aNBstKtsPms",
+      "title": "Australians CAN Coach? (Joybait)",
+      "duration_seconds": 946,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=aNBstKtsPms",
+      "upload_date": "2025-09-04",
+      "upload_datetime": "2025-09-04T11:00:03-07:00",
+      "publish_datetime": "2025-09-04T11:00:03-07:00",
+      "description": "I'm well known as a joyful man who loves spreading positivity, today let's journey through some Overwatch content together and point out all the good parts. #kindness \n\nFeatured Videos: (Check them both out)\nhttps://youtu.be/QayyVxSMtfk?si=00x11aDO1_S9zuWn (Unter's Coaching Channel)\nhttps://youtu.be/SPVPsuK-rUk?si=Ja80hQ4B4paaxii5 (Kajor's Main Channel)\n\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\n#overwatch2 #coaching",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:06.737693+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=aNBstKtsPms",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "97037d4579a79c34f9994e0eafe1c3247ce150f03592c14c5340486dcd3235b4"
+      },
+      "duration": "00:15:46"
+    },
+    {
+      "video_id": "1UNctVbRS3M",
+      "title": "How To Win Without Doing Damage",
+      "duration_seconds": 1493,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=1UNctVbRS3M",
+      "upload_date": "2025-08-31",
+      "upload_datetime": "2025-08-31T12:03:49-07:00",
+      "publish_datetime": "2025-08-31T12:03:49-07:00",
+      "description": "I thought every comp needs a hitscan? Why is Crazy Raccoon winning (3-0) against the reigning champs without using a hitscan? Just how good is Spint exactly?\n\nhttps://twitter.com/Cap1tology\nhttps://www.twitch.tv/Capitology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:07.585642+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=1UNctVbRS3M",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "a02e1d6bc50373ff9df62c0ef9a7e52baad615408a974fcb1a4d6fb5cd76b538"
+      },
+      "duration": "00:24:53"
+    },
+    {
+      "video_id": "vu4KmVKp2f0",
+      "title": "How Do You Beat Symmetra Cheese Comps?",
+      "duration_seconds": 721,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=vu4KmVKp2f0",
+      "upload_date": "2025-08-10",
+      "upload_datetime": "2025-08-10T11:00:59-07:00",
+      "publish_datetime": "2025-08-10T11:00:59-07:00",
+      "description": "How do you beat this EU symmetra cheese comp? Well a lot of you don't. World cup 2023 we failed, OWCS 2025 every NA team is getting 8th. Lets fix it up please guys. \n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:07.343565+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=vu4KmVKp2f0",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "35944c9f65c77b183392949c4d5d80144680ac845bbb1a1788d387d85fdf2170"
+      },
+      "duration": "00:12:01"
+    },
+    {
+      "video_id": "x5ej22cA7G0",
+      "title": "I HATE Coaching.",
+      "duration_seconds": 828,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=x5ej22cA7G0",
+      "upload_date": "2025-07-14",
+      "upload_datetime": "2025-07-14T16:49:54-07:00",
+      "publish_datetime": "2025-07-14T16:49:54-07:00",
+      "description": "I hate coaching so much I'd genuinely rather work a McDonald's 9-5 every day for the rest of my life if it meant I would never have to see a stupid question again\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:06.837645+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=x5ej22cA7G0",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "c5e98e17a0470acfd90d4545eb44d86e3799da54bd654e783cc3fd5d69d465e1"
+      },
+      "duration": "00:13:48"
+    },
+    {
+      "video_id": "xabIcyolpJA",
+      "title": "How to Make Plays Like the Best Freja (Kronik)",
+      "duration_seconds": 576,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=xabIcyolpJA",
+      "upload_date": "2025-07-11",
+      "upload_datetime": "2025-07-11T11:01:02-07:00",
+      "publish_datetime": "2025-07-11T11:01:02-07:00",
+      "description": "Kronik is one of the best dps in the world at simply finding kills when he wants to. How does he make that happen? Do you also need to play 10,000 hours on widow to do this? Who knows\n\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:11.650248+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=xabIcyolpJA",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "89ddb7ef122763ac8a6ad2351db9f00b8cfe8ea099f72d3a34a0563f98a0dff0"
+      },
+      "duration": "00:09:36"
+    },
+    {
+      "video_id": "E1bYy6OE_OQ",
+      "title": "How to SEE Overwatch Like GEEKAY Esports",
+      "duration_seconds": 506,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=E1bYy6OE_OQ",
+      "upload_date": "2025-07-02",
+      "upload_datetime": "2025-07-02T13:56:40-07:00",
+      "publish_datetime": "2025-07-02T13:56:40-07:00",
+      "description": "Everyone wants to go fast and fight early but only one team is able to do it on command... it's time to walk up and overclock in spawn instead of sitting around and looking at walls\n\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:10.957991+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=E1bYy6OE_OQ",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "e7a134d5bc854f0dc5940d37261178357ab992b92037148b7a3dddc369a8f062"
+      },
+      "duration": "00:08:26"
     },
     {
       "video_id": "SJdCkYn6Is0",
-      "title": null,
-      "published": null,
-      "topic_note": "Dive tanks / Donghak Winston; prediction and staying one step ahead",
-      "source": "Reddit post directly linking Capitology video",
-      "url": "https://www.youtube.com/watch?v=SJdCkYn6Is0"
-    }
-  ],
-  "additional_indexed_evidence": [
-    {
-      "date": "2025-08-10",
-      "note": "Reddit discussion references a Capitology video about beating Symmetra 'cheese' comps / EWC meta; direct video URL not exposed by current index."
+      "title": "Donghak Theory: How to Carry With no Help",
+      "duration_seconds": 603,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g",
+        "preliminary Pass 1"
+      ],
+      "url": "https://www.youtube.com/watch?v=SJdCkYn6Is0",
+      "upload_date": "2025-06-20",
+      "upload_datetime": "2025-06-20T12:06:36-07:00",
+      "publish_datetime": "2025-06-20T12:06:36-07:00",
+      "description": "Do you ever feel like you don't get enough help? That you'd start getting kills if you got more healing or more follow up from your dps? Donghak says you're a liar and it's time to learn why\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:11.295618+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=SJdCkYn6Is0",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "feb9de4d8f4dcf1983b8a7a8376cddf65143a6f41e1dd6c0981279b6d681a305"
+      },
+      "duration": "00:10:03"
     },
     {
-      "date": "2025-09-24",
-      "note": "Reddit discussion references a Capitology video discussing design/balance of Roadhog, Mercy, Junkrat, Bastion, and Moira; direct video URL not exposed by current index."
+      "video_id": "LpxT2dykNK0",
+      "title": "Lock Eyes and Fight",
+      "duration_seconds": 524,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=LpxT2dykNK0",
+      "upload_date": "2025-06-12",
+      "upload_datetime": "2025-06-12T13:37:03-07:00",
+      "publish_datetime": "2025-06-12T13:37:03-07:00",
+      "description": "Stop being a b*tch when you play overwatch I'm actually so tired of watching every team kite all the time and just let the enemy team run them over\n\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:11.264856+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=LpxT2dykNK0",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "0c5e4511a89f3a52160335b1bb1f67016aff352a80082364455e94be7d66d3d2"
+      },
+      "duration": "00:08:44"
     },
     {
-      "date": "2026-09",
-      "note": "Capitology public social feed states a new collaborative video was released; current index does not expose its direct URL/title."
+      "video_id": "GIY_4hD9_M8",
+      "title": "How T1 Beat the Best Overwatch Team in the World",
+      "duration_seconds": 3218,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=GIY_4hD9_M8",
+      "upload_date": "2025-06-04",
+      "upload_datetime": "2025-06-04T06:00:27-07:00",
+      "publish_datetime": "2025-06-04T06:00:27-07:00",
+      "description": "T1 managed to take down the defending world champions in a regular season game. Every time Crazy Raccoon loses, it's worth seeing whether the game is just a fluke, or if someone managed to figure something out that gave them the edge. \n\nMy Links:\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\nEdited by:\nhttps://www.youtube.com/@coachwhistle264\nhttps://x.com/Coach_Whistle",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:15.227013+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=GIY_4hD9_M8",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "2c486ae6425aae5fa0cf8fbea334f675b1f3b316841e4358c08eef616ddebd47"
+      },
+      "duration": "00:53:38"
+    },
+    {
+      "video_id": "n-t2m7R_Gho",
+      "title": "The Gang Watches Geekay vs Liquid (NA OWCS)",
+      "duration_seconds": 1288,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=n-t2m7R_Gho",
+      "upload_date": "2025-06-02",
+      "upload_datetime": "2025-06-02T18:31:03-07:00",
+      "publish_datetime": "2025-06-02T18:31:03-07:00",
+      "description": "Cap Raikker Aniyun and MagicM8Ball watch Geekay vs Liquid go to map 5 in Overwatch OWCS. The flame is heavy but deserved",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:15.173582+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=n-t2m7R_Gho",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "80e5ff1da239aa43aacfe1f1dc47ba8d666e6ad52b16da4af2cbab22e06e7a84"
+      },
+      "duration": "00:21:28"
+    },
+    {
+      "video_id": "MYW1ztAeDQc",
+      "title": "Why do Dives Always Kill You",
+      "duration_seconds": 929,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=MYW1ztAeDQc",
+      "upload_date": "2025-04-30",
+      "upload_datetime": "2025-04-30T12:00:09-07:00",
+      "publish_datetime": "2025-04-30T12:00:09-07:00",
+      "description": "Do you ever think \"Why am I always dying to dives?\" It might just be because you miss all your shots and CDs but it could also be because of something else so watch the video and find out \n\nhttps://x.com/Cap1tology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:15.362384+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=MYW1ztAeDQc",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "85d77e92d422196c13593387686a00b8ffbd5bc591973d30a15370c084f00954"
+      },
+      "duration": "00:15:29"
+    },
+    {
+      "video_id": "vNp9kRvOjKA",
+      "title": "You're Not Trying That Hard",
+      "duration_seconds": 656,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=vNp9kRvOjKA",
+      "upload_date": "2025-04-23",
+      "upload_datetime": "2025-04-23T11:25:39-07:00",
+      "publish_datetime": "2025-04-23T11:25:39-07:00",
+      "description": "I'm a former professional Overwatch coach and before I fade away and die I might as well give one last yell into the void for all the competitors out there",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:15.109474+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=vNp9kRvOjKA",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "016146c39f96d0820f9b33c3482d779997b2915294260553063fdc00005d887b"
+      },
+      "duration": "00:10:56"
+    },
+    {
+      "video_id": "cXnFhS2l47g",
+      "title": "How the Best NA OWCS Team Got Their Revenge",
+      "duration_seconds": 1557,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=cXnFhS2l47g",
+      "upload_date": "2025-03-28",
+      "upload_datetime": "2025-03-28T11:06:52-07:00",
+      "publish_datetime": "2025-03-28T11:06:52-07:00",
+      "description": "NTMR are the NA OWCS Champions for the first stage of 2025. They lost three matches through the season and won all three rematches against those opponents. How did they adapt and what can you learn?",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:19.127475+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=cXnFhS2l47g",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "7299f746d244870c77ff1d1ae94a5f626aced33f6cfc53a6a13f966901ab43b0"
+      },
+      "duration": "00:25:57"
+    },
+    {
+      "video_id": "GYBpp0KM5-Q",
+      "title": "Why Hero Bans Don't Work Against Crazy Raccoon (Overwatch SOOP Cup)",
+      "duration_seconds": 1017,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=GYBpp0KM5-Q",
+      "upload_date": "2025-01-06",
+      "upload_datetime": "2025-01-06T09:27:30-08:00",
+      "publish_datetime": "2025-01-06T09:27:30-08:00",
+      "description": "Hero bans are being implemented into Overwatch Esports but they won't be effective against every team\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:18.988550+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=GYBpp0KM5-Q",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "e725fffeadd649c0b8aa662e8483be2120c266d284ce508bd77be885cc87e8e4"
+      },
+      "duration": "00:16:57"
+    },
+    {
+      "video_id": "p609brPyPzg",
+      "title": "How to Play Overwatch's Wolverine Copy (Hazard)",
+      "duration_seconds": 1041,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=p609brPyPzg",
+      "upload_date": "2024-12-16",
+      "upload_datetime": "2024-12-16T15:53:19-08:00",
+      "publish_datetime": "2024-12-16T15:53:19-08:00",
+      "description": "Hazard is Overwatch's blatant attempt to copy Marvel Rival's success... what do you need to know to carry on this character? Does it come free with chinese spyware?\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:19.105153+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=p609brPyPzg",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "f971237d4ed6365fb82e3963dd17fa0ff249b701675c8b5af0b178f8c2da2ba7"
+      },
+      "duration": "00:17:21"
+    },
+    {
+      "video_id": "QvMsOy1wFr4",
+      "title": "How NRG Won (And Lost) Overwatch Rock Paper Scissors",
+      "duration_seconds": 1934,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=QvMsOy1wFr4",
+      "upload_date": "2024-12-08",
+      "upload_datetime": "2024-12-08T21:05:39-08:00",
+      "publish_datetime": "2024-12-08T21:05:39-08:00",
+      "description": "NRG's Overwatch team got 5th in NA and 4th globally... I guess this just proves that every NA team is better than every EU team right?\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:19.011545+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=QvMsOy1wFr4",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "b48abdabab92ecff7679a428ea267c6666e4b63e1c9db80f688f599a6fc5619e"
+      },
+      "duration": "00:32:14"
+    },
+    {
+      "video_id": "STbH6hH8emk",
+      "title": "Are you Smart Enough to Play Echo?",
+      "duration_seconds": 1064,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=STbH6hH8emk",
+      "upload_date": "2024-12-04",
+      "upload_datetime": "2024-12-04T16:27:54-08:00",
+      "publish_datetime": "2024-12-04T16:27:54-08:00",
+      "description": "Copy usually doesn't also copy the skill of the enemy players but hopefully this video covers that up for you a little bit\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:23.203736+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=STbH6hH8emk",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "62880dd044a631f67fde034a50c728fcac57f906ec4b3b7e629665809f450f4a"
+      },
+      "duration": "00:17:44"
+    },
+    {
+      "video_id": "XhcF5IzJDq4",
+      "title": "Why are you Such an Unlucky Brig Player?",
+      "duration_seconds": 1182,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=XhcF5IzJDq4",
+      "upload_date": "2024-12-02",
+      "upload_datetime": "2024-12-02T11:59:56-08:00",
+      "publish_datetime": "2024-12-02T11:59:56-08:00",
+      "description": "Every time you play brig you get slammed and die... \"unlucky\" you say, as your team types about you in their groupchat (they have one without you).\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:23.944146+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=XhcF5IzJDq4",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "4bb687a94f2f76c453ef1667451a1064a9ba58d67e1d42a77f8a4f35a1536384"
+      },
+      "duration": "00:19:42"
+    },
+    {
+      "video_id": "K6Ayz-NHVe4",
+      "title": "How Korea Solved Overwatch",
+      "duration_seconds": 1182,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=K6Ayz-NHVe4",
+      "upload_date": "2024-11-23",
+      "upload_datetime": "2024-11-23T15:51:40-08:00",
+      "publish_datetime": "2024-11-23T15:51:40-08:00",
+      "description": "Why does Korea beat us at the comp we're supposed to be good at? Why is proper getting 4k's on reaper and how does that even happen like actually\n\nhttps://x.com/Cap1tology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:23.387704+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=K6Ayz-NHVe4",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "25be89725ec602fab76f088b87a4f9165036c60e75b75ed6643c967d76b4f729"
+      },
+      "duration": "00:19:42"
+    },
+    {
+      "video_id": "V-Y0hBOI1yY",
+      "title": "Why You Suck at the Easiest Tank",
+      "duration_seconds": 952,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=V-Y0hBOI1yY",
+      "upload_date": "2024-11-20",
+      "upload_datetime": "2024-11-20T14:34:27-08:00",
+      "publish_datetime": "2024-11-20T14:34:27-08:00",
+      "description": "The competitive meta is about to get boring as hell but lets at least make an effort to understand whats going on\n\nhttps://x.com/Cap1tology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:23.073138+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=V-Y0hBOI1yY",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "4b54191b2b755cf2ed2432ae1ff00d5241e265b2518d88a0531a1b4e58e36d16"
+      },
+      "duration": "00:15:52"
+    },
+    {
+      "video_id": "nddeTxFzT6Q",
+      "title": "How to Play the Easiest Role in Overwatch (Hitscan)",
+      "duration_seconds": 1152,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=nddeTxFzT6Q",
+      "upload_date": "2024-11-19",
+      "upload_datetime": "2024-11-19T15:53:28-08:00",
+      "publish_datetime": "2024-11-19T15:53:28-08:00",
+      "description": "There's really only two things you need to know to play Hitscan but you're gonna do them wrong anyways\n\nhttps://x.com/Cap1tology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "fr-FR",
+            "name": "French (France) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "de-DE",
+            "name": "German (Germany) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "hi",
+            "name": "Hindi (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "id",
+            "name": "Indonesian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "it",
+            "name": "Italian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "pt-BR",
+            "name": "Portuguese (Brazil) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "es-US",
+            "name": "Spanish (United States) (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "ta",
+            "name": "Tamil (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          },
+          {
+            "language_code": "uk",
+            "name": "Ukrainian (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:27.658355+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=nddeTxFzT6Q",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "dc36815cbb96f98960160a0ef22e97c82ff63464894507d416f217c894b3513a"
+      },
+      "duration": "00:19:12"
+    },
+    {
+      "video_id": "pMPwEwNEiQA",
+      "title": "What You're Missing on Genji",
+      "duration_seconds": 1208,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=pMPwEwNEiQA",
+      "upload_date": "2024-11-14",
+      "upload_datetime": "2024-11-14T19:39:34-08:00",
+      "publish_datetime": "2024-11-14T19:39:34-08:00",
+      "description": "I'm really tired of hearing \"How did I die there\" and I'm sure your teammates are tired of hearing it too so please watch this\n\nhttps://x.com/Cap1tology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:28.102041+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=pMPwEwNEiQA",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "bd9e600abb7208cb962e1e0e3fa94ca6af4c2b7fec58b239ab9b8052e47151b5"
+      },
+      "duration": "00:20:08"
+    },
+    {
+      "video_id": "XXrcVGWBmo4",
+      "title": "Do This to be a Top 5 Brig in NA #overwatch2 #gaming #overwatchclips #ow2",
+      "duration_seconds": 58,
+      "upload_type": "short",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/shorts",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=XXrcVGWBmo4",
+      "upload_date": "2024-11-13",
+      "upload_datetime": "2024-11-13T07:32:30-08:00",
+      "publish_datetime": "2024-11-13T07:32:30-08:00",
+      "description": "Please stop letting your Cass players get stunned out of Noon or they will all quit and we will have nobody left",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:36.721883+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=XXrcVGWBmo4",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "66406298ed0df081a7d78e66c1ee8d79651dd1fdf851b1f1ff5b64dec9556dcb"
+      },
+      "duration": "00:00:58"
+    },
+    {
+      "video_id": "z9n-JNB52rk",
+      "title": "Get off the Corner",
+      "duration_seconds": 933,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=z9n-JNB52rk",
+      "upload_date": "2024-11-11",
+      "upload_datetime": "2024-11-11T07:48:41-08:00",
+      "publish_datetime": "2024-11-11T07:48:41-08:00",
+      "description": "Stop doing this unless you like dying all the time and losing matches\n\nhttps://x.com/Cap1tology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:28.139201+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=z9n-JNB52rk",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "f4be50d03f06958555128547f346dde1f302e6d3f29691fe2c5dc40db2c403fc"
+      },
+      "duration": "00:15:33"
+    },
+    {
+      "video_id": "c92ESPjlveI",
+      "title": "What are turns?",
+      "duration_seconds": 998,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/playlist?list=PLxP1_pmCHjexukvwiRi8pdPS7q8JWOtEB"
+      ],
+      "url": "https://www.youtube.com/watch?v=c92ESPjlveI",
+      "upload_date": "2023-11-28",
+      "upload_datetime": "2023-11-28T10:31:53-08:00",
+      "publish_datetime": "2023-11-28T10:31:53-08:00",
+      "description": "What does it mean to take a \"Turn\" in overwatch?\n\nHere I will explain the three ways turns can play out and show two examples, one from Dive and one from Rush. \n\nTwitter: @cap1tology\nDiscord: Capitology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "unlisted",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:45.555353+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=c92ESPjlveI",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "bd41a3c43537c1fe7178aaac490a1b6749bb4231e4fcc499ed9ff9a998cb6e6e"
+      },
+      "duration": "00:16:38"
+    },
+    {
+      "video_id": "JM50b3IU6-c",
+      "title": "How to Play Split Comps in Overwatch (Toronto vs Washington)",
+      "duration_seconds": 1566,
+      "upload_type": "video",
+      "discovery_sources": [
+        "https://www.youtube.com/@Capitology/videos",
+        "https://www.youtube.com/playlist?list=UUk7BWWbiI8yNdLWt9BdAM9g"
+      ],
+      "url": "https://www.youtube.com/watch?v=JM50b3IU6-c",
+      "upload_date": "2023-10-27",
+      "upload_datetime": "2023-10-27T09:03:42-07:00",
+      "publish_datetime": "2023-10-27T09:03:42-07:00",
+      "description": "This video covers How to play with and against split comps and shows some fights from a Toronto vod as examples. \n\nTwitter: @cap1tology \nDiscord: capitology",
+      "captions": {
+        "availability": "available",
+        "manual_available": false,
+        "automatic_available": true,
+        "tracks": [
+          {
+            "language_code": "en",
+            "name": "English (auto-generated)",
+            "kind": "automatic",
+            "is_translatable": true
+          }
+        ]
+      },
+      "availability": "public",
+      "metadata_gaps": [],
+      "checked_at": "2026-10-01T21:53:27.987427+00:00",
+      "playability_status": "OK",
+      "availability_reason": null,
+      "channel_id": "UCk7BWWbiI8yNdLWt9BdAM9g",
+      "is_live_content": false,
+      "source": {
+        "url": "https://www.youtube.com/watch?v=JM50b3IU6-c",
+        "method": "YouTube watch HTML: ytInitialPlayerResponse",
+        "response_sha256": "9e712435d69bb254b6f8e83df9620f5456302c6f8c02ef6b7d82d3479274f21f"
+      },
+      "duration": "00:26:06"
     }
   ],
-  "blocker": "Current web index cannot enumerate the complete YouTube channel playlist. Local yt-dlp flat-playlist pass is required for authoritative inventory."
+  "coverage": {
+    "videos_and_shorts_match_uploads_playlist": true,
+    "streams_tab": "absent (yt-dlp reports channel has no streams tab)",
+    "public_playlists_checked": 1,
+    "playlist_only_ids": [
+      "c92ESPjlveI"
+    ],
+    "prior_known_ids_retained": [
+      "x2jNJeKiMUU",
+      "SJdCkYn6Is0"
+    ],
+    "hidden_uploads": "Unknown: public interfaces do not enumerate all private, deleted, or unlisted videos. Zero confirmed private/deleted entries is not a claim none exist.",
+    "public_playlist_placeholder_entries": 0,
+    "unresolved_preliminary_references": [
+      {
+        "date": "2025-08-10",
+        "note": "Reddit discussion references a Capitology video about beating Symmetra 'cheese' comps / EWC meta; direct video URL not exposed by current index."
+      },
+      {
+        "date": "2025-09-24",
+        "note": "Reddit discussion references a Capitology video discussing design/balance of Roadhog, Mercy, Junkrat, Bastion, and Moira; direct video URL not exposed by current index."
+      },
+      {
+        "date": "2026-09",
+        "note": "Capitology public social feed states a new collaborative video was released; current index does not expose its direct URL/title."
+      }
+    ]
+  },
+  "retrieval_notes": [
+    "KLwLiiYYewQ initially returned LOGIN_REQUIRED / bot check; repeat watch request and Shorts route succeeded. Final record uses successful watch response. This was not evidence of a private/deleted upload.",
+    "Empty descriptions are retained as empty strings; null indicates unavailable metadata.",
+    "upload_date uses the calendar date in the YouTube uploadDate timestamp; upload_datetime preserves its original offset."
+  ]
 }

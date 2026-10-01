@@ -1,0 +1,40 @@
+{
+  "video_id": "cXnFhS2l47g",
+  "checked_at": "2026-10-01T21:53:19.127475+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "cXnFhS2l47g",
+    "title": "How the Best NA OWCS Team Got Their Revenge",
+    "lengthSeconds": "1557",
+    "shortDescription": "NTMR are the NA OWCS Champions for the first stage of 2025. They lost three matches through the season and won all three rematches against those opponents. How did they adapt and what can you learn?",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-03-28T11:06:52-07:00",
+    "publishDate": "2025-03-28T11:06:52-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=cXnFhS2l47g"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "7299f746d244870c77ff1d1ae94a5f626aced33f6cfc53a6a13f966901ab43b0"
+}

@@ -1,0 +1,51 @@
+{
+  "video_id": "sqtmsbHxrLE",
+  "checked_at": "2026-10-01T21:52:58.450072+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M=",
+    "paygatedQualitiesMetadata": {
+      "qualityDetails": [
+        {
+          "key": "1080p60",
+          "value": {
+            "paygatedIndicatorText": "Super resolution",
+            "trackingParams": "CBAQs8cJIhMIqPXFgueZlwMVj4GuBR3SQB2M"
+          }
+        }
+      ]
+    }
+  },
+  "video_details": {
+    "videoId": "sqtmsbHxrLE",
+    "title": "Symm is NOT Meta... Twisted Minds are Just Better",
+    "lengthSeconds": "1025",
+    "shortDescription": "https://x.com/Cap1tology\nhttps://www.twitch.tv/capitology\n\nThe day has come... EU has finally won a major tournament. Except, they won multiple skill matchups vs every korean team on their path through the bracket. How is that possible?",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-12-08T11:00:56-08:00",
+    "publishDate": "2025-12-08T11:00:56-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=sqtmsbHxrLE"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "418874bd5a578565fcd85861e1446f88b11ffe527077024ce198e84de2533a0e"
+}

@@ -1,0 +1,40 @@
+{
+  "video_id": "z9n-JNB52rk",
+  "checked_at": "2026-10-01T21:53:28.139201+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "z9n-JNB52rk",
+    "title": "Get off the Corner",
+    "lengthSeconds": "933",
+    "shortDescription": "Stop doing this unless you like dying all the time and losing matches\n\nhttps://x.com/Cap1tology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2024-11-11T07:48:41-08:00",
+    "publishDate": "2024-11-11T07:48:41-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=z9n-JNB52rk"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "f4be50d03f06958555128547f346dde1f302e6d3f29691fe2c5dc40db2c403fc"
+}

@@ -1,0 +1,40 @@
+{
+  "video_id": "vu4KmVKp2f0",
+  "checked_at": "2026-10-01T21:53:07.343565+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "vu4KmVKp2f0",
+    "title": "How Do You Beat Symmetra Cheese Comps?",
+    "lengthSeconds": "721",
+    "shortDescription": "How do you beat this EU symmetra cheese comp? Well a lot of you don't. World cup 2023 we failed, OWCS 2025 every NA team is getting 8th. Lets fix it up please guys. \n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-08-10T11:00:59-07:00",
+    "publishDate": "2025-08-10T11:00:59-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=vu4KmVKp2f0"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "35944c9f65c77b183392949c4d5d80144680ac845bbb1a1788d387d85fdf2170"
+}

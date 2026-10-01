@@ -1,0 +1,40 @@
+{
+  "video_id": "x5ej22cA7G0",
+  "checked_at": "2026-10-01T21:53:06.837645+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "x5ej22cA7G0",
+    "title": "I HATE Coaching.",
+    "lengthSeconds": "828",
+    "shortDescription": "I hate coaching so much I'd genuinely rather work a McDonald's 9-5 every day for the rest of my life if it meant I would never have to see a stupid question again\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-07-14T16:49:54-07:00",
+    "publishDate": "2025-07-14T16:49:54-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=x5ej22cA7G0"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "c5e98e17a0470acfd90d4545eb44d86e3799da54bd654e783cc3fd5d69d465e1"
+}

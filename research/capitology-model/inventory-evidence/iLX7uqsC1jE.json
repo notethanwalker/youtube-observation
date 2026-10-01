@@ -1,0 +1,40 @@
+{
+  "video_id": "iLX7uqsC1jE",
+  "checked_at": "2026-10-01T21:52:53.237804+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "iLX7uqsC1jE",
+    "title": "The Best Questions of 2025",
+    "lengthSeconds": "1268",
+    "shortDescription": "Original post: https://www.reddit.com/r/Competitiveoverwatch/comments/1px5kkx/capitology_ama_video/\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology\n\nPro Coach answers the best and brightest questions of 2025. Happy new year.",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2026-01-02T11:57:53-08:00",
+    "publishDate": "2026-01-02T11:57:53-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=iLX7uqsC1jE"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "7262c6ce861f093a1f07282def036d859bc47f885dfe13c6e78401ff6e19c694"
+}

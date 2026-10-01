@@ -1,0 +1,160 @@
+{
+  "video_id": "M8393UkZxjY",
+  "checked_at": "2026-10-01T21:52:53.337508+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "M8393UkZxjY",
+    "title": "Why Does Team Liquid Evaporate on Stage",
+    "lengthSeconds": "1529",
+    "shortDescription": "https://x.com/Cap1tology\nhttps://www.twitch.tv/capitology\n\nCan't be bothered to do description for this one to be honest just watch it yourself and find out",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-12-19T10:00:24-08:00",
+    "publishDate": "2025-12-19T10:00:24-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=M8393UkZxjY"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "ar",
+      "name": "Arabic (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "bn",
+      "name": "Bangla (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "nl-NL",
+      "name": "Dutch (Netherlands) (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "fr-FR",
+      "name": "French (France) (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "de-DE",
+      "name": "German (Germany) (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "iw",
+      "name": "Hebrew (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "hi",
+      "name": "Hindi (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "id",
+      "name": "Indonesian (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "it",
+      "name": "Italian (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "ja",
+      "name": "Japanese (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "ko",
+      "name": "Korean (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "ml",
+      "name": "Malayalam (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "pl",
+      "name": "Polish (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "pt-BR",
+      "name": "Portuguese (Brazil) (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "pa",
+      "name": "Punjabi (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "ru",
+      "name": "Russian (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "es-US",
+      "name": "Spanish (United States) (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "ta",
+      "name": "Tamil (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "te",
+      "name": "Telugu (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "uk",
+      "name": "Ukrainian (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "c5d6605635e4de65aec758e72b3bb9234f65ec59dc86bdff81bb053b25a7f256"
+}

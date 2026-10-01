@@ -1,0 +1,40 @@
+{
+  "video_id": "ln2t2rl1KYw",
+  "checked_at": "2026-10-01T21:53:03.037578+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "ln2t2rl1KYw",
+    "title": "How to Enter the Pocket",
+    "lengthSeconds": "1366",
+    "shortDescription": "How do you punch your opponent without getting punched? How do you engage the enemy team without being engaged on? Learn how to STEP IN THE POCKET and how to stop losing every dive mirror.\n\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-09-10T12:00:51-07:00",
+    "publishDate": "2025-09-10T12:00:51-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=ln2t2rl1KYw"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "55deea1e6d8d9b5296941ec13aad25efe692631e58baae2c43cc515fc1a0e259"
+}

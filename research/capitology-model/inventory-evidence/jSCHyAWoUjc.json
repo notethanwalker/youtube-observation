@@ -1,0 +1,40 @@
+{
+  "video_id": "jSCHyAWoUjc",
+  "checked_at": "2026-10-01T21:52:53.791531+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "jSCHyAWoUjc",
+    "title": "Rokit Makes Vendetta Look Broken",
+    "lengthSeconds": "977",
+    "shortDescription": "https://x.com/Cap1tology\nhttps://www.twitch.tv/capitology\n\nIt's been enough time... the new character is pretty broken. But not all players are created equal, and Rokit is here to show us how to do it",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-12-21T11:00:44-08:00",
+    "publishDate": "2025-12-21T11:00:44-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=jSCHyAWoUjc"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "c3057641e055862823b0ebaf758666b9004817329fa75c8f8e37d7b9b0562afe"
+}

@@ -1,0 +1,40 @@
+{
+  "video_id": "QvMsOy1wFr4",
+  "checked_at": "2026-10-01T21:53:19.011545+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "QvMsOy1wFr4",
+    "title": "How NRG Won (And Lost) Overwatch Rock Paper Scissors",
+    "lengthSeconds": "1934",
+    "shortDescription": "NRG's Overwatch team got 5th in NA and 4th globally... I guess this just proves that every NA team is better than every EU team right?\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2024-12-08T21:05:39-08:00",
+    "publishDate": "2024-12-08T21:05:39-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=QvMsOy1wFr4"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "b48abdabab92ecff7679a428ea267c6666e4b63e1c9db80f688f599a6fc5619e"
+}

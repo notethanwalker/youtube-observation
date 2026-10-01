@@ -1,0 +1,40 @@
+{
+  "video_id": "STbH6hH8emk",
+  "checked_at": "2026-10-01T21:53:23.203736+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "STbH6hH8emk",
+    "title": "Are you Smart Enough to Play Echo?",
+    "lengthSeconds": "1064",
+    "shortDescription": "Copy usually doesn't also copy the skill of the enemy players but hopefully this video covers that up for you a little bit\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2024-12-04T16:27:54-08:00",
+    "publishDate": "2024-12-04T16:27:54-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=STbH6hH8emk"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "62880dd044a631f67fde034a50c728fcac57f906ec4b3b7e629665809f450f4a"
+}

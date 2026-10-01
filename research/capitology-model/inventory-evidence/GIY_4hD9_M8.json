@@ -1,0 +1,40 @@
+{
+  "video_id": "GIY_4hD9_M8",
+  "checked_at": "2026-10-01T21:53:15.227013+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "GIY_4hD9_M8",
+    "title": "How T1 Beat the Best Overwatch Team in the World",
+    "lengthSeconds": "3218",
+    "shortDescription": "T1 managed to take down the defending world champions in a regular season game. Every time Crazy Raccoon loses, it's worth seeing whether the game is just a fluke, or if someone managed to figure something out that gave them the edge. \n\nMy Links:\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\nEdited by:\nhttps://www.youtube.com/@coachwhistle264\nhttps://x.com/Coach_Whistle",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-06-04T06:00:27-07:00",
+    "publishDate": "2025-06-04T06:00:27-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=GIY_4hD9_M8"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "2c486ae6425aae5fa0cf8fbea334f675b1f3b316841e4358c08eef616ddebd47"
+}

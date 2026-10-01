@@ -1,0 +1,40 @@
+{
+  "video_id": "aNBstKtsPms",
+  "checked_at": "2026-10-01T21:53:06.737693+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "aNBstKtsPms",
+    "title": "Australians CAN Coach? (Joybait)",
+    "lengthSeconds": "946",
+    "shortDescription": "I'm well known as a joyful man who loves spreading positivity, today let's journey through some Overwatch content together and point out all the good parts. #kindness \n\nFeatured Videos: (Check them both out)\nhttps://youtu.be/QayyVxSMtfk?si=00x11aDO1_S9zuWn (Unter's Coaching Channel)\nhttps://youtu.be/SPVPsuK-rUk?si=Ja80hQ4B4paaxii5 (Kajor's Main Channel)\n\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\n#overwatch2 #coaching",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-09-04T11:00:03-07:00",
+    "publishDate": "2025-09-04T11:00:03-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=aNBstKtsPms"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "97037d4579a79c34f9994e0eafe1c3247ce150f03592c14c5340486dcd3235b4"
+}

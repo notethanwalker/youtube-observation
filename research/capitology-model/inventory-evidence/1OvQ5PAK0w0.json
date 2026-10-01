@@ -1,0 +1,40 @@
+{
+  "video_id": "1OvQ5PAK0w0",
+  "checked_at": "2026-10-01T21:53:02.764686+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "1OvQ5PAK0w0",
+    "title": "Why Good Players Make Stupid Mistakes",
+    "lengthSeconds": "1168",
+    "shortDescription": "https://x.com/Cap1tology\nhttps://www.twitch.tv/Capitology\n\nIntro Music: Roar of the Jungle Dragon - DM DOKURO\n\nWhy do so many good players make seemingly stupid and obvious mistakes? Why can an infinite number of couch analysts point out what the top pros are doing wrong? Let's take a look.",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-11-03T12:00:03-08:00",
+    "publishDate": "2025-11-03T12:00:03-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=1OvQ5PAK0w0"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "aa22a20a81a7a297f72c82bba143a6637c7688dd76f7202a7da8d0272979f082"
+}

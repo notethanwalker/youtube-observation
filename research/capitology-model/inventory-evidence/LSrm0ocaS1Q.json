@@ -1,0 +1,40 @@
+{
+  "video_id": "LSrm0ocaS1Q",
+  "checked_at": "2026-10-01T21:53:00.445493+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "LSrm0ocaS1Q",
+    "title": "The Secret Rules to Pro Aim",
+    "lengthSeconds": "1027",
+    "shortDescription": "https://x.com/Cap1tology\nhttps://www.twitch.tv/capitology\n\nHow do Lip and Prophet have such \"smooth\" aim and make hitting shots look so easy? Let's take a look at what it takes to hit shots so consistently at the pro level.",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-11-15T11:00:18-08:00",
+    "publishDate": "2025-11-15T11:00:18-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=LSrm0ocaS1Q"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "de53f872181c4c9627664ca9d22c302666c5c7ead73d4d0ef3b12790ee5ef775"
+}

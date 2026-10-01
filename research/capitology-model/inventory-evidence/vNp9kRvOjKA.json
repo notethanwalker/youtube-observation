@@ -1,0 +1,40 @@
+{
+  "video_id": "vNp9kRvOjKA",
+  "checked_at": "2026-10-01T21:53:15.109474+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "vNp9kRvOjKA",
+    "title": "You're Not Trying That Hard",
+    "lengthSeconds": "656",
+    "shortDescription": "I'm a former professional Overwatch coach and before I fade away and die I might as well give one last yell into the void for all the competitors out there",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-04-23T11:25:39-07:00",
+    "publishDate": "2025-04-23T11:25:39-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=vNp9kRvOjKA"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "016146c39f96d0820f9b33c3482d779997b2915294260553063fdc00005d887b"
+}

@@ -1,0 +1,40 @@
+{
+  "video_id": "xabIcyolpJA",
+  "checked_at": "2026-10-01T21:53:11.650248+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "xabIcyolpJA",
+    "title": "How to Make Plays Like the Best Freja (Kronik)",
+    "lengthSeconds": "576",
+    "shortDescription": "Kronik is one of the best dps in the world at simply finding kills when he wants to. How does he make that happen? Do you also need to play 10,000 hours on widow to do this? Who knows\n\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-07-11T11:01:02-07:00",
+    "publishDate": "2025-07-11T11:01:02-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=xabIcyolpJA"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "89ddb7ef122763ac8a6ad2351db9f00b8cfe8ea099f72d3a34a0563f98a0dff0"
+}

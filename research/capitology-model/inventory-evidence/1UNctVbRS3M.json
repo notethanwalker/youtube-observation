@@ -1,0 +1,40 @@
+{
+  "video_id": "1UNctVbRS3M",
+  "checked_at": "2026-10-01T21:53:07.585642+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "1UNctVbRS3M",
+    "title": "How To Win Without Doing Damage",
+    "lengthSeconds": "1493",
+    "shortDescription": "I thought every comp needs a hitscan? Why is Crazy Raccoon winning (3-0) against the reigning champs without using a hitscan? Just how good is Spint exactly?\n\nhttps://twitter.com/Cap1tology\nhttps://www.twitch.tv/Capitology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-08-31T12:03:49-07:00",
+    "publishDate": "2025-08-31T12:03:49-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=1UNctVbRS3M"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "a02e1d6bc50373ff9df62c0ef9a7e52baad615408a974fcb1a4d6fb5cd76b538"
+}

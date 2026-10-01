@@ -1,0 +1,40 @@
+{
+  "video_id": "aHwWbiUE4KQ",
+  "checked_at": "2026-10-01T21:52:44.134621+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "aHwWbiUE4KQ",
+    "title": "Ultimate Economy Does Not Matter",
+    "lengthSeconds": "584",
+    "shortDescription": "https://x.com/Cap1tology\nhttps://www.twitch.tv/capitology\n\nUltimate Economy is often the most focused on aspect of the game from coaches and analysts who consider themselves to be \"macro specialists\" or whatever other nonsense people say about themselves these days. Here is why they're all wasting their time",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2026-01-08T11:01:42-08:00",
+    "publishDate": "2026-01-08T11:01:42-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=aHwWbiUE4KQ"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "25551f8e377b5e3a07ce764768afc0dc3f4fb013c4d9c0f5cfcf4ebba4caea91"
+}

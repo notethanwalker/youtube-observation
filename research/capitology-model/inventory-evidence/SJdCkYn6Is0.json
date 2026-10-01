@@ -1,0 +1,40 @@
+{
+  "video_id": "SJdCkYn6Is0",
+  "checked_at": "2026-10-01T21:53:11.295618+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "SJdCkYn6Is0",
+    "title": "Donghak Theory: How to Carry With no Help",
+    "lengthSeconds": "603",
+    "shortDescription": "Do you ever feel like you don't get enough help? That you'd start getting kills if you got more healing or more follow up from your dps? Donghak says you're a liar and it's time to learn why\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-06-20T12:06:36-07:00",
+    "publishDate": "2025-06-20T12:06:36-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=SJdCkYn6Is0"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "feb9de4d8f4dcf1983b8a7a8376cddf65143a6f41e1dd6c0981279b6d681a305"
+}

@@ -1,0 +1,40 @@
+{
+  "video_id": "prUv2eNrGD0",
+  "checked_at": "2026-10-01T21:52:34.129973+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "prUv2eNrGD0",
+    "title": "The 5 Levels of Sojourn: Diamond to Pro (Ft. PGE)",
+    "lengthSeconds": "1889",
+    "shortDescription": "patreon.com/cw/Capitology\ntwitter.com/Cap1tology\ntwitch.tv/capitology\n\nI brought together 5 different levels of Sojourn player to test what the differences between each rank really are. Can you tell the differences between each level?\n\n0:00 - Intro\n0:46 - Diamond\n6:19 - Master\n11:24 - Grandmaster\n17:24 - Champion\n22:39 - Pro\n30:40 - Conclusion",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2026-06-08T10:00:29-07:00",
+    "publishDate": "2026-06-08T10:00:29-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=prUv2eNrGD0"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "70e4ff37acf44ace71ee5f407e5a5509bd32dd4f99a8c3e4a2430f0e6d001255"
+}

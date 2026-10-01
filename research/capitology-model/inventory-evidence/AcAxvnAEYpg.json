@@ -1,0 +1,40 @@
+{
+  "video_id": "AcAxvnAEYpg",
+  "checked_at": "2026-10-01T21:52:58.408197+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "AcAxvnAEYpg",
+    "title": "How Are Old OWL Players Still So Good?",
+    "lengthSeconds": "879",
+    "shortDescription": "https://x.com/Cap1tology\nhttps://www.twitch.tv/Capitology\n\nHawk just took a year off to throw ranked games and came back to immediately get second place in the region. How is this possible? Let's find out...",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-11-06T12:00:07-08:00",
+    "publishDate": "2025-11-06T12:00:07-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=AcAxvnAEYpg"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "29694bd7d0277419d53a9eee75bcfcc3ec4e2f18b48fedf0ed90301029f65394"
+}

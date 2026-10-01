@@ -1,0 +1,40 @@
+{
+  "video_id": "TOaKp3Z44ho",
+  "checked_at": "2026-10-01T21:53:02.821709+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "TOaKp3Z44ho",
+    "title": "THEY COULDN'T SURVIVE IN THE WEST... SO THEY RAN TO KOREA.",
+    "lengthSeconds": "944",
+    "shortDescription": "The Koreans that couldn't handle it in the west have gone back to korea to duke it out in the thunderdome... Two enter, hopefully neither of them leaves.\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-09-15T12:00:33-07:00",
+    "publishDate": "2025-09-15T12:00:33-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=TOaKp3Z44ho"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "61d5cb088b9c7d61c1a5502bc70e5229c15e7d64a3b044fb22be29d4b778c75e"
+}

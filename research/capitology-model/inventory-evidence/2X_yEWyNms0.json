@@ -1,0 +1,40 @@
+{
+  "video_id": "2X_yEWyNms0",
+  "checked_at": "2026-10-01T21:53:04.362255+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "2X_yEWyNms0",
+    "title": "How I Would Fix Overwatch (As A Former Pro)",
+    "lengthSeconds": "617",
+    "shortDescription": "I am Cap, and I've coached professional overwatch for many years. I'm frequently asked on stream how I would balance the game, and this is my answer. \n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-09-23T11:38:22-07:00",
+    "publishDate": "2025-09-23T11:38:22-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=2X_yEWyNms0"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "6db970908254d97bd2fe7019b51f5fe87d4b52fedae73a8d877f16e116f42121"
+}

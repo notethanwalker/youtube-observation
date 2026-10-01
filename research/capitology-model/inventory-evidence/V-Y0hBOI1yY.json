@@ -1,0 +1,40 @@
+{
+  "video_id": "V-Y0hBOI1yY",
+  "checked_at": "2026-10-01T21:53:23.073138+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "V-Y0hBOI1yY",
+    "title": "Why You Suck at the Easiest Tank",
+    "lengthSeconds": "952",
+    "shortDescription": "The competitive meta is about to get boring as hell but lets at least make an effort to understand whats going on\n\nhttps://x.com/Cap1tology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2024-11-20T14:34:27-08:00",
+    "publishDate": "2024-11-20T14:34:27-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=V-Y0hBOI1yY"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "4b54191b2b755cf2ed2432ae1ff00d5241e265b2518d88a0531a1b4e58e36d16"
+}

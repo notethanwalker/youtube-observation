@@ -1,0 +1,46 @@
+{
+  "pass": 1,
+  "status": "preliminary_incomplete",
+  "captured_on": "2026-10-01",
+  "channel": {
+    "name": "Capitology",
+    "public_identity": "Ethan \"Cap\" Walker",
+    "observed_subscriber_count": 6560,
+    "subscriber_count_source_date": "2026-02-08 result snapshot",
+    "note": "Count is from indexed YouTube result and may be stale."
+  },
+  "verified_uploads": [
+    {
+      "video_id": "x2jNJeKiMUU",
+      "title": "The Biggest Season In Overwatch History",
+      "published": "2026-02-08",
+      "views": 2032,
+      "likes": 155,
+      "source": "YouTube indexed result",
+      "url": "https://www.youtube.com/watch?v=x2jNJeKiMUU"
+    },
+    {
+      "video_id": "SJdCkYn6Is0",
+      "title": null,
+      "published": null,
+      "topic_note": "Dive tanks / Donghak Winston; prediction and staying one step ahead",
+      "source": "Reddit post directly linking Capitology video",
+      "url": "https://www.youtube.com/watch?v=SJdCkYn6Is0"
+    }
+  ],
+  "additional_indexed_evidence": [
+    {
+      "date": "2025-08-10",
+      "note": "Reddit discussion references a Capitology video about beating Symmetra 'cheese' comps / EWC meta; direct video URL not exposed by current index."
+    },
+    {
+      "date": "2025-09-24",
+      "note": "Reddit discussion references a Capitology video discussing design/balance of Roadhog, Mercy, Junkrat, Bastion, and Moira; direct video URL not exposed by current index."
+    },
+    {
+      "date": "2026-09",
+      "note": "Capitology public social feed states a new collaborative video was released; current index does not expose its direct URL/title."
+    }
+  ],
+  "blocker": "Current web index cannot enumerate the complete YouTube channel playlist. Local yt-dlp flat-playlist pass is required for authoritative inventory."
+}

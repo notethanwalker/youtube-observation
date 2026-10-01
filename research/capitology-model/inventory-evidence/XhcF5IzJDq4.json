@@ -1,0 +1,40 @@
+{
+  "video_id": "XhcF5IzJDq4",
+  "checked_at": "2026-10-01T21:53:23.944146+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "XhcF5IzJDq4",
+    "title": "Why are you Such an Unlucky Brig Player?",
+    "lengthSeconds": "1182",
+    "shortDescription": "Every time you play brig you get slammed and die... \"unlucky\" you say, as your team types about you in their groupchat (they have one without you).\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2024-12-02T11:59:56-08:00",
+    "publishDate": "2024-12-02T11:59:56-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=XhcF5IzJDq4"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "4bb687a94f2f76c453ef1667451a1064a9ba58d67e1d42a77f8a4f35a1536384"
+}

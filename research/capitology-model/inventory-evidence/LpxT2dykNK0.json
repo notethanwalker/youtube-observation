@@ -1,0 +1,40 @@
+{
+  "video_id": "LpxT2dykNK0",
+  "checked_at": "2026-10-01T21:53:11.264856+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "LpxT2dykNK0",
+    "title": "Lock Eyes and Fight",
+    "lengthSeconds": "524",
+    "shortDescription": "Stop being a b*tch when you play overwatch I'm actually so tired of watching every team kite all the time and just let the enemy team run them over\n\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-06-12T13:37:03-07:00",
+    "publishDate": "2025-06-12T13:37:03-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=LpxT2dykNK0"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "0c5e4511a89f3a52160335b1bb1f67016aff352a80082364455e94be7d66d3d2"
+}

@@ -1,0 +1,40 @@
+{
+  "video_id": "n-t2m7R_Gho",
+  "checked_at": "2026-10-01T21:53:15.173582+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "n-t2m7R_Gho",
+    "title": "The Gang Watches Geekay vs Liquid (NA OWCS)",
+    "lengthSeconds": "1288",
+    "shortDescription": "Cap Raikker Aniyun and MagicM8Ball watch Geekay vs Liquid go to map 5 in Overwatch OWCS. The flame is heavy but deserved",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-06-02T18:31:03-07:00",
+    "publishDate": "2025-06-02T18:31:03-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=n-t2m7R_Gho"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "80e5ff1da239aa43aacfe1f1dc47ba8d666e6ad52b16da4af2cbab22e06e7a84"
+}

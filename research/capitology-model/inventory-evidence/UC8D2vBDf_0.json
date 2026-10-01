@@ -1,0 +1,40 @@
+{
+  "video_id": "UC8D2vBDf_0",
+  "checked_at": "2026-10-01T21:52:44.035882+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "UC8D2vBDf_0",
+    "title": "2026 Announcement",
+    "lengthSeconds": "311",
+    "shortDescription": "https://www.patreon.com/cw/Capitology\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology\n\nANNOUNCEMENT",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2026-02-02T12:45:14-08:00",
+    "publishDate": "2026-02-02T12:45:14-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=UC8D2vBDf_0"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "ae89daeed6accc8c8bc38c1e7c8ef8ef40e2fd00442826311572431c4aa29695"
+}

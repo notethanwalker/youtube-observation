@@ -1,0 +1,51 @@
+{
+  "video_id": "Y4ORvoqZ1P0",
+  "checked_at": "2026-10-01T21:52:58.376374+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M=",
+    "paygatedQualitiesMetadata": {
+      "qualityDetails": [
+        {
+          "key": "1080p60",
+          "value": {
+            "paygatedIndicatorText": "Super resolution",
+            "trackingParams": "CBAQs8cJIhMIkJrLgueZlwMVcGJMCB200hEn"
+          }
+        }
+      ]
+    }
+  },
+  "video_details": {
+    "videoId": "Y4ORvoqZ1P0",
+    "title": "How Far Has NA Fallen",
+    "lengthSeconds": "1051",
+    "shortDescription": "https://x.com/Cap1tology\nhttps://www.twitch.tv/Capitology\n\nNA went from upsetting Crazy Raccoon at the beginning of the year to a triple last-place finish at the last tournament (among relevant teams). How is this possible? And how close was it to doing differently?",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-12-11T12:00:29-08:00",
+    "publishDate": "2025-12-11T12:00:29-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=Y4ORvoqZ1P0"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "9e3796995e1b3adf3132daffeda8ba8a894a1102bd1d864afc8bb053e3bbdd18"
+}

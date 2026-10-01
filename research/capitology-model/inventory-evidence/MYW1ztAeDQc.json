@@ -1,0 +1,40 @@
+{
+  "video_id": "MYW1ztAeDQc",
+  "checked_at": "2026-10-01T21:53:15.362384+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "MYW1ztAeDQc",
+    "title": "Why do Dives Always Kill You",
+    "lengthSeconds": "929",
+    "shortDescription": "Do you ever think \"Why am I always dying to dives?\" It might just be because you miss all your shots and CDs but it could also be because of something else so watch the video and find out \n\nhttps://x.com/Cap1tology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-04-30T12:00:09-07:00",
+    "publishDate": "2025-04-30T12:00:09-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=MYW1ztAeDQc"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "85d77e92d422196c13593387686a00b8ffbd5bc591973d30a15370c084f00954"
+}

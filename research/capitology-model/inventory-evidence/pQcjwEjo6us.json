@@ -1,0 +1,40 @@
+{
+  "video_id": "pQcjwEjo6us",
+  "checked_at": "2026-10-01T21:53:32.597487+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "pQcjwEjo6us",
+    "title": "Can SSG Stay Alive for More Than 5 Seconds?",
+    "lengthSeconds": "29",
+    "shortDescription": "Hawk tries his best to live for more than 5 seconds against an international team",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2026-05-22T12:31:36-07:00",
+    "publishDate": "2026-05-22T12:31:36-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/shorts/pQcjwEjo6us"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "0b5726d771770256fe6add889b44b4d38558a526ae897d75e930a46477b669ee"
+}

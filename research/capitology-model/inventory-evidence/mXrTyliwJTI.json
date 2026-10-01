@@ -1,0 +1,40 @@
+{
+  "video_id": "mXrTyliwJTI",
+  "checked_at": "2026-10-01T21:53:32.668210+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "mXrTyliwJTI",
+    "title": "HE HID FOR 14 SECONDS??",
+    "lengthSeconds": "60",
+    "shortDescription": "Proud actually plays the game like a real sniper",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2026-04-16T11:00:51-07:00",
+    "publishDate": "2026-04-16T11:00:51-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/shorts/mXrTyliwJTI"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "2c9c880091c6e04923643c1907964bb61111cf226a05deb4d0da4d53a49b3b1a"
+}

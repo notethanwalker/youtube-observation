@@ -1,0 +1,40 @@
+{
+  "video_id": "c92ESPjlveI",
+  "checked_at": "2026-10-01T21:53:45.555353+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "c92ESPjlveI",
+    "title": "What are turns?",
+    "lengthSeconds": "998",
+    "shortDescription": "What does it mean to take a \"Turn\" in overwatch?\n\nHere I will explain the three ways turns can play out and show two examples, one from Dive and one from Rush. \n\nTwitter: @cap1tology\nDiscord: Capitology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2023-11-28T10:31:53-08:00",
+    "publishDate": "2023-11-28T10:31:53-08:00",
+    "isUnlisted": true,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=c92ESPjlveI"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "bd41a3c43537c1fe7178aaac490a1b6749bb4231e4fcc499ed9ff9a998cb6e6e"
+}

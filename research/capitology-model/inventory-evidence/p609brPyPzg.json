@@ -1,0 +1,40 @@
+{
+  "video_id": "p609brPyPzg",
+  "checked_at": "2026-10-01T21:53:19.105153+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "p609brPyPzg",
+    "title": "How to Play Overwatch's Wolverine Copy (Hazard)",
+    "lengthSeconds": "1041",
+    "shortDescription": "Hazard is Overwatch's blatant attempt to copy Marvel Rival's success... what do you need to know to carry on this character? Does it come free with chinese spyware?\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2024-12-16T15:53:19-08:00",
+    "publishDate": "2024-12-16T15:53:19-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=p609brPyPzg"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "f971237d4ed6365fb82e3963dd17fa0ff249b701675c8b5af0b178f8c2da2ba7"
+}

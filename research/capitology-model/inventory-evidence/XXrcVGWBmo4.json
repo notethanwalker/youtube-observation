@@ -1,0 +1,40 @@
+{
+  "video_id": "XXrcVGWBmo4",
+  "checked_at": "2026-10-01T21:53:36.721883+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "XXrcVGWBmo4",
+    "title": "Do This to be a Top 5 Brig in NA #overwatch2 #gaming #overwatchclips #ow2",
+    "lengthSeconds": "58",
+    "shortDescription": "Please stop letting your Cass players get stunned out of Noon or they will all quit and we will have nobody left",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2024-11-13T07:32:30-08:00",
+    "publishDate": "2024-11-13T07:32:30-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/shorts/XXrcVGWBmo4"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "66406298ed0df081a7d78e66c1ee8d79651dd1fdf851b1f1ff5b64dec9556dcb"
+}

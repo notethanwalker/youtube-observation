@@ -1,0 +1,154 @@
+{
+  "video_id": "N5fHwbNE-SQ",
+  "checked_at": "2026-10-01T21:52:34.088842+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "N5fHwbNE-SQ",
+    "title": "Dallas Fuel is Bringing NA Back (Ft. Cjay)",
+    "lengthSeconds": "1133",
+    "shortDescription": "Cjay and I review his win over Virtus Pro",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2026-09-05T09:00:04-07:00",
+    "publishDate": "2026-09-05T09:00:04-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=N5fHwbNE-SQ"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "bn",
+      "name": "Bangla (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "nl-NL",
+      "name": "Dutch (Netherlands) (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "fr-FR",
+      "name": "French (France) (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "de-DE",
+      "name": "German (Germany) (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "iw",
+      "name": "Hebrew (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "hi",
+      "name": "Hindi (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "id",
+      "name": "Indonesian (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "it",
+      "name": "Italian (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "ja",
+      "name": "Japanese (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "ko",
+      "name": "Korean (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "ml",
+      "name": "Malayalam (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "pl",
+      "name": "Polish (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "pt-BR",
+      "name": "Portuguese (Brazil) (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "pa",
+      "name": "Punjabi (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "ru",
+      "name": "Russian (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "es-US",
+      "name": "Spanish (United States) (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "ta",
+      "name": "Tamil (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "te",
+      "name": "Telugu (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    },
+    {
+      "language_code": "uk",
+      "name": "Ukrainian (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "b58259b711cf0c343ff1da03cc8a3bdeb566d9e0ad26e052d1598231f3ac837e"
+}

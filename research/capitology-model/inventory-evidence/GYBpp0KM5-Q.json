@@ -1,0 +1,40 @@
+{
+  "video_id": "GYBpp0KM5-Q",
+  "checked_at": "2026-10-01T21:53:18.988550+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "GYBpp0KM5-Q",
+    "title": "Why Hero Bans Don't Work Against Crazy Raccoon (Overwatch SOOP Cup)",
+    "lengthSeconds": "1017",
+    "shortDescription": "Hero bans are being implemented into Overwatch Esports but they won't be effective against every team\n\nhttps://x.com/Cap1tology\nhttps://www.twitch.tv/capitology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-01-06T09:27:30-08:00",
+    "publishDate": "2025-01-06T09:27:30-08:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=GYBpp0KM5-Q"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "e725fffeadd649c0b8aa662e8483be2120c266d284ce508bd77be885cc87e8e4"
+}

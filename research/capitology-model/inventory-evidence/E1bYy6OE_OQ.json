@@ -1,0 +1,40 @@
+{
+  "video_id": "E1bYy6OE_OQ",
+  "checked_at": "2026-10-01T21:53:10.957991+00:00",
+  "playability_status": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0M="
+  },
+  "video_details": {
+    "videoId": "E1bYy6OE_OQ",
+    "title": "How to SEE Overwatch Like GEEKAY Esports",
+    "lengthSeconds": "506",
+    "shortDescription": "Everyone wants to go fast and fight early but only one team is able to do it on command... it's time to walk up and overclock in spawn instead of sitting around and looking at walls\n\nhttps://www.twitch.tv/capitology\nhttps://x.com/Cap1tology",
+    "channelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "author": "Capitology",
+    "isPrivate": false,
+    "isLiveContent": false
+  },
+  "microformat": {
+    "uploadDate": "2025-07-02T13:56:40-07:00",
+    "publishDate": "2025-07-02T13:56:40-07:00",
+    "isUnlisted": false,
+    "externalChannelId": "UCk7BWWbiI8yNdLWt9BdAM9g",
+    "canonicalUrl": "https://www.youtube.com/watch?v=E1bYy6OE_OQ"
+  },
+  "caption_tracks": [
+    {
+      "language_code": "en",
+      "name": "English (auto-generated)",
+      "kind": "automatic",
+      "is_translatable": true
+    }
+  ],
+  "html_sha256": "e7a134d5bc854f0dc5940d37261178357ab992b92037148b7a3dddc369a8f062"
+}
