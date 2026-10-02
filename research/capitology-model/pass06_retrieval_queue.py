@@ -11,6 +11,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 CLAIMS = {c["claim_id"]: c for c in map(json.loads, (ROOT / "pass04_claims.jsonl").open())}
+VIDEO_DURATIONS = {v["video_id"]: v["duration_seconds"] for v in json.loads((ROOT / "pass01_public_index.json").read_text())["videos"]}
+registry_path = ROOT / "pass06_retrieval_registry.json"
+REGISTRY = json.loads(registry_path.read_text())["windows"] if registry_path.exists() else {}
 
 # Each question has an older or framing example and a later, limiting, or
 # counterexample. A/B priority controls retrieval order, not evidential weight.
@@ -26,10 +29,10 @@ WINDOWS = [
     ("ultimate_economy", "A", "qualified economy thesis", "P4-027", "01:30", "04:20", "Record ultimate counts, fight winner, and the actual playmaking route; distinguish illustration from measured frequency."),
     ("ultimate_economy", "B", "kite example", "P4-028", "04:15", "06:50", "Locate front and backline spacing, the ultimate trigger, escape path, and next engagement."),
     ("ultimate_economy", "A", "spend to secure retake", "P4-053", "09:20", "10:20", "Check objective and charge state when multiple ultimates are committed; verify the fight outcome."),
-    ("ultimate_economy", "A", "failed triple-ultimate distinction", "P4-198", "11:52", "14:43", "Compare the two discussed failures: spent ultimates, point flip, following setup, and losing cause."),
+    ("ultimate_economy", "A", "failed triple-ultimate distinction", "P4-198", "11:52", "14:29", "Compare the two discussed failures: spent ultimates, point flip, following setup, and losing cause."),
     ("dive_survival", "A", "prevent strong setup", "P4-017", "03:55", "05:52", "Map Tracer angle and Winston staging before support cooldowns are tested; identify available clear."),
     ("dive_survival", "B", "wide clearing route", "P4-018", "09:50", "11:50", "Follow the retake route and check whether the enemy jump becomes long or poorly staged."),
-    ("dive_survival", "A", "defensive ultimate before setup", "P4-134", "12:31", "15:39", "Check attacker angles, Winston distance, ultimate timing, objective, and defender alternatives."),
+    ("dive_survival", "A", "defensive ultimate before setup", "P4-134", "12:31", "15:27", "Check attacker angles, Winston distance, ultimate timing, objective, and defender alternatives."),
     ("dive_survival", "B", "scouting support exception", "P4-175", "20:10", "24:50", "Verify what the offset support can see and whether Rush or Beat occurs before the dive is complete."),
     ("bait", "A", "failed passive kite", "P4-015", "06:30", "07:50", "Check whether the baiting team has counterpressure and enough cooldowns to stand and punish."),
     ("bait", "A", "first mover accepts bait", "P4-035", "10:25", "12:25", "Trace cooldown trade, immediate response, and whether the baiting side can still answer."),
@@ -52,6 +55,11 @@ for i, (question, priority, role, cid, start, end, check) in enumerate(WINDOWS, 
     c = CLAIMS[cid]
     a, b = seconds(start), seconds(end)
     assert a < b and a <= c["start_seconds"] <= b, (cid, start, end)
+    assert b <= VIDEO_DURATIONS[c["video_id"]], (cid, end, VIDEO_DURATIONS[c["video_id"]])
+    retrieved = REGISTRY.get(f"V6-{i:02d}")
+    if retrieved:
+        assert (retrieved["video_id"], retrieved["start_seconds"], retrieved["end_seconds"]) == (
+            c["video_id"], a, b), (cid, start, end)
     rows.append({
         "window_id": f"V6-{i:02d}", "question": question, "priority": priority,
         "evidence_role": role, "claim_ids": cid, "video_id": c["video_id"],
@@ -60,8 +68,8 @@ for i, (question, priority, role, cid, start, end, check) in enumerate(WINDOWS, 
         "duration_seconds": b-a,
         "url": f'https://www.youtube.com/watch?v={c["video_id"]}&t={a}s',
         "visual_check": check,
-        "retrieval_status": "queued_not_retrieved",
-        "visual_review_status": "not_reviewed",
+        "retrieval_status": retrieved["retrieval_status"] if retrieved else "queued_not_retrieved",
+        "visual_review_status": retrieved["visual_review_status"] if retrieved else "not_reviewed",
     })
 
 assert len(rows) == 23 and len({r["window_id"] for r in rows}) == len(rows)

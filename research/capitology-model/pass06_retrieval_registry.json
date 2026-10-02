@@ -1,0 +1,420 @@
+{
+  "windows": {
+    "V6-01": {
+      "video_id": "c92ESPjlveI",
+      "start_seconds": 380,
+      "end_seconds": 460,
+      "archive": "Capitology_Pass6_clips_part1.zip",
+      "clip": "clips/V6-01_c92ESPjlveI_380-460.mp4",
+      "clip_sha256": "adef86b159726f3e98a896b7c117ebc573b5d4611de7de3401293f771eb4ee14",
+      "check_frames": [
+        "frames/V6-01_c92ESPjlveI_380-460_start.jpg",
+        "frames/V6-01_c92ESPjlveI_380-460_middle.jpg",
+        "frames/V6-01_c92ESPjlveI_380-460_end.jpg"
+      ],
+      "source_runs": [
+        37003705370
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-02": {
+      "video_id": "c92ESPjlveI",
+      "start_seconds": 540,
+      "end_seconds": 635,
+      "archive": "Capitology_Pass6_clips_part1.zip",
+      "clip": "clips/V6-02_c92ESPjlveI_540-635.mp4",
+      "clip_sha256": "7a262e6f765cc6d6a90dbca3d6ce7a64e53f315b538d6da6ac43b6d1080de220",
+      "check_frames": [
+        "frames/V6-02_c92ESPjlveI_540-635_start.jpg",
+        "frames/V6-02_c92ESPjlveI_540-635_middle.jpg",
+        "frames/V6-02_c92ESPjlveI_540-635_end.jpg"
+      ],
+      "source_runs": [
+        37003705370
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-05": {
+      "video_id": "LpxT2dykNK0",
+      "start_seconds": 30,
+      "end_seconds": 110,
+      "archive": "Capitology_Pass6_clips_part1.zip",
+      "clip": "clips/V6-05_LpxT2dykNK0_30-110.mp4",
+      "clip_sha256": "1a059f5fd4a6153b5a070290970fcc4365913a83c4184b566c508aecde9d1110",
+      "check_frames": [
+        "frames/V6-05_LpxT2dykNK0_30-110_start.jpg",
+        "frames/V6-05_LpxT2dykNK0_30-110_middle.jpg",
+        "frames/V6-05_LpxT2dykNK0_30-110_end.jpg"
+      ],
+      "source_runs": [
+        37003705370
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-06": {
+      "video_id": "Hl-nV1aF1yE",
+      "start_seconds": 180,
+      "end_seconds": 320,
+      "archive": "Capitology_Pass6_clips_part1.zip",
+      "clip": "clips/V6-06_Hl-nV1aF1yE_180-320.mp4",
+      "clip_sha256": "c9e48f63e8354797703b771092d1cbb661fb7af3ba00fd05c328f217ee289d72",
+      "check_frames": [
+        "frames/V6-06_Hl-nV1aF1yE_180-320_start.jpg",
+        "frames/V6-06_Hl-nV1aF1yE_180-320_middle.jpg",
+        "frames/V6-06_Hl-nV1aF1yE_180-320_end.jpg"
+      ],
+      "source_runs": [
+        37003705370
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-07": {
+      "video_id": "Hl-nV1aF1yE",
+      "start_seconds": 335,
+      "end_seconds": 415,
+      "archive": "Capitology_Pass6_clips_part1.zip",
+      "clip": "clips/V6-07_Hl-nV1aF1yE_335-415.mp4",
+      "clip_sha256": "ff0bab740f854b1bcc7e2016e35ff01af5b2b74f5a5f19a9fd06e0db234030aa",
+      "check_frames": [
+        "frames/V6-07_Hl-nV1aF1yE_335-415_start.jpg",
+        "frames/V6-07_Hl-nV1aF1yE_335-415_middle.jpg",
+        "frames/V6-07_Hl-nV1aF1yE_335-415_end.jpg"
+      ],
+      "source_runs": [
+        37003705370
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-03": {
+      "video_id": "KlcWDgdXrZk",
+      "start_seconds": 125,
+      "end_seconds": 285,
+      "archive": "Capitology_Pass6_clips_part2.zip",
+      "clip": "clips/V6-03_KlcWDgdXrZk_125-285.mp4",
+      "clip_sha256": "5dc5a1418094c05a91b6d2717cf0e8856b7901df2834a4597f11ec40dc81d81d",
+      "check_frames": [
+        "frames/V6-03_KlcWDgdXrZk_125-285_start.jpg",
+        "frames/V6-03_KlcWDgdXrZk_125-285_middle.jpg",
+        "frames/V6-03_KlcWDgdXrZk_125-285_end.jpg"
+      ],
+      "source_runs": [
+        37004151152
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-04": {
+      "video_id": "KlcWDgdXrZk",
+      "start_seconds": 545,
+      "end_seconds": 675,
+      "archive": "Capitology_Pass6_clips_part2.zip",
+      "clip": "clips/V6-04_KlcWDgdXrZk_545-675.mp4",
+      "clip_sha256": "65dbba26c9568057e57fc476591c8c4b0aa731a0cb9ea4933f445b86c27a1351",
+      "check_frames": [
+        "frames/V6-04_KlcWDgdXrZk_545-675_start.jpg",
+        "frames/V6-04_KlcWDgdXrZk_545-675_middle.jpg",
+        "frames/V6-04_KlcWDgdXrZk_545-675_end.jpg"
+      ],
+      "source_runs": [
+        37004151152
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-17": {
+      "video_id": "KlcWDgdXrZk",
+      "start_seconds": 625,
+      "end_seconds": 745,
+      "archive": "Capitology_Pass6_clips_part2.zip",
+      "clip": "clips/V6-17_KlcWDgdXrZk_625-745.mp4",
+      "clip_sha256": "c2ca7f408a6d7b4ee3be7f106bc36e5b98ecfabd531a44a983e80e5c8ef39dff",
+      "check_frames": [
+        "frames/V6-17_KlcWDgdXrZk_625-745_start.jpg",
+        "frames/V6-17_KlcWDgdXrZk_625-745_middle.jpg",
+        "frames/V6-17_KlcWDgdXrZk_625-745_end.jpg"
+      ],
+      "source_runs": [
+        37004151152
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-18": {
+      "video_id": "KlcWDgdXrZk",
+      "start_seconds": 360,
+      "end_seconds": 569,
+      "archive": "Capitology_Pass6_clips_part2.zip",
+      "clip": "clips/V6-18_KlcWDgdXrZk_360-569.mp4",
+      "clip_sha256": "d2e67a6b1f6633f570a3976c55ea8fc43e4ba95be483521c7c7164160dc2d5bc",
+      "check_frames": [
+        "frames/V6-18_KlcWDgdXrZk_360-569_start.jpg",
+        "frames/V6-18_KlcWDgdXrZk_360-569_middle.jpg",
+        "frames/V6-18_KlcWDgdXrZk_360-569_end.jpg"
+      ],
+      "source_runs": [
+        37004151152
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-08": {
+      "video_id": "aHwWbiUE4KQ",
+      "start_seconds": 90,
+      "end_seconds": 260,
+      "archive": "Capitology_Pass6_clips_part2.zip",
+      "clip": "clips/V6-08_aHwWbiUE4KQ_90-260.mp4",
+      "clip_sha256": "abf99508738d733baf5fbe02bd9111c0d03f2143ceaa31280250c28e0aa2996e",
+      "check_frames": [
+        "frames/V6-08_aHwWbiUE4KQ_90-260_start.jpg",
+        "frames/V6-08_aHwWbiUE4KQ_90-260_middle.jpg",
+        "frames/V6-08_aHwWbiUE4KQ_90-260_end.jpg"
+      ],
+      "source_runs": [
+        37004151152
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-09": {
+      "video_id": "aHwWbiUE4KQ",
+      "start_seconds": 255,
+      "end_seconds": 410,
+      "archive": "Capitology_Pass6_clips_part2.zip",
+      "clip": "clips/V6-09_aHwWbiUE4KQ_255-410.mp4",
+      "clip_sha256": "e570c492ed4203f53f5d87f36fc1b6c77826c8f026369e8b8279ad525bb930f2",
+      "check_frames": [
+        "frames/V6-09_aHwWbiUE4KQ_255-410_start.jpg",
+        "frames/V6-09_aHwWbiUE4KQ_255-410_middle.jpg",
+        "frames/V6-09_aHwWbiUE4KQ_255-410_end.jpg"
+      ],
+      "source_runs": [
+        37004151152
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-10": {
+      "video_id": "QvMsOy1wFr4",
+      "start_seconds": 560,
+      "end_seconds": 620,
+      "archive": "Capitology_Pass6_clips_part2.zip",
+      "clip": "clips/V6-10_QvMsOy1wFr4_560-620.mp4",
+      "clip_sha256": "398a14e945ba042de8e1f8ffd55c3dba1432efe2f8a36c6555c40634535ea5fe",
+      "check_frames": [
+        "frames/V6-10_QvMsOy1wFr4_560-620_start.jpg",
+        "frames/V6-10_QvMsOy1wFr4_560-620_middle.jpg",
+        "frames/V6-10_QvMsOy1wFr4_560-620_end.jpg"
+      ],
+      "source_runs": [
+        37004151152
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-11": {
+      "video_id": "GKkzCd9cvUg",
+      "start_seconds": 712,
+      "end_seconds": 869,
+      "archive": "Capitology_Pass6_clips_part2.zip",
+      "clip": "clips/V6-11_GKkzCd9cvUg_712-869.mp4",
+      "clip_sha256": "96a73d84a6a0d39fda738d77093e9ac6dd964367c34b213a494178e3495ddcb2",
+      "check_frames": [
+        "frames/V6-11_GKkzCd9cvUg_712-869_start.jpg",
+        "frames/V6-11_GKkzCd9cvUg_712-869_middle.jpg",
+        "frames/V6-11_GKkzCd9cvUg_712-869_end.jpg"
+      ],
+      "source_runs": [
+        37004151152
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed",
+      "recovery_note": "Trimmed captured source-end clip to corrected queue boundary"
+    },
+    "V6-12": {
+      "video_id": "MYW1ztAeDQc",
+      "start_seconds": 235,
+      "end_seconds": 352,
+      "archive": "Capitology_Pass6_clips_part3.zip",
+      "clip": "clips/V6-12_MYW1ztAeDQc_235-352.mp4",
+      "clip_sha256": "6d9bcb648bb90ebe32060dc81e1aaf64ba5432fe3f4d0a74701bc111dcb083ce",
+      "check_frames": [
+        "frames/V6-12_MYW1ztAeDQc_235-352_start.jpg",
+        "frames/V6-12_MYW1ztAeDQc_235-352_middle.jpg",
+        "frames/V6-12_MYW1ztAeDQc_235-352_end.jpg"
+      ],
+      "source_runs": [
+        37004457970
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-13": {
+      "video_id": "MYW1ztAeDQc",
+      "start_seconds": 590,
+      "end_seconds": 710,
+      "archive": "Capitology_Pass6_clips_part3.zip",
+      "clip": "clips/V6-13_MYW1ztAeDQc_590-710.mp4",
+      "clip_sha256": "cf3d53c7f997fe693f91ca78120415b0a5a636b140f8e2e8bce90edd2d4d102d",
+      "check_frames": [
+        "frames/V6-13_MYW1ztAeDQc_590-710_start.jpg",
+        "frames/V6-13_MYW1ztAeDQc_590-710_middle.jpg",
+        "frames/V6-13_MYW1ztAeDQc_590-710_end.jpg"
+      ],
+      "source_runs": [
+        37004457970
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-15": {
+      "video_id": "GIY_4hD9_M8",
+      "start_seconds": 1210,
+      "end_seconds": 1490,
+      "archive": "Capitology_Pass6_clips_part3.zip",
+      "clip": "clips/V6-15_GIY_4hD9_M8_1210-1490.mp4",
+      "clip_sha256": "e35022cc73345e4fdf7cccd08ccdbab2223ed1822692e66323d7cb16eb092026",
+      "check_frames": [
+        "frames/V6-15_GIY_4hD9_M8_1210-1490_start.jpg",
+        "frames/V6-15_GIY_4hD9_M8_1210-1490_middle.jpg",
+        "frames/V6-15_GIY_4hD9_M8_1210-1490_end.jpg"
+      ],
+      "source_runs": [
+        37004457970
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-16": {
+      "video_id": "K6Ayz-NHVe4",
+      "start_seconds": 390,
+      "end_seconds": 470,
+      "archive": "Capitology_Pass6_clips_part3.zip",
+      "clip": "clips/V6-16_K6Ayz-NHVe4_390-470.mp4",
+      "clip_sha256": "bc564e7d2a24786e1f974149c28f4a1688e9f3e46aa45abd75097ac95acf1ffd",
+      "check_frames": [
+        "frames/V6-16_K6Ayz-NHVe4_390-470_start.jpg",
+        "frames/V6-16_K6Ayz-NHVe4_390-470_middle.jpg",
+        "frames/V6-16_K6Ayz-NHVe4_390-470_end.jpg"
+      ],
+      "source_runs": [
+        37004457970
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-19": {
+      "video_id": "K6Ayz-NHVe4",
+      "start_seconds": 763,
+      "end_seconds": 1016,
+      "archive": "Capitology_Pass6_clips_part3.zip",
+      "clip": "clips/V6-19_K6Ayz-NHVe4_763-1016.mp4",
+      "clip_sha256": "7dd9e434e3a200b17a9b0d55cca49e70d8bca60aa403f291f6a77050dcfcb3bd",
+      "check_frames": [
+        "frames/V6-19_K6Ayz-NHVe4_763-1016_start.jpg",
+        "frames/V6-19_K6Ayz-NHVe4_763-1016_middle.jpg",
+        "frames/V6-19_K6Ayz-NHVe4_763-1016_end.jpg"
+      ],
+      "source_runs": [
+        37004457970
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-20": {
+      "video_id": "JM50b3IU6-c",
+      "start_seconds": 530,
+      "end_seconds": 614,
+      "archive": "Capitology_Pass6_clips_part3.zip",
+      "clip": "clips/V6-20_JM50b3IU6-c_530-614.mp4",
+      "clip_sha256": "3a1bdd76e293fd9bf7054c13a7ea1093d39a8db4331bab45e5ac5b7c44a792e7",
+      "check_frames": [
+        "frames/V6-20_JM50b3IU6-c_530-614_start.jpg",
+        "frames/V6-20_JM50b3IU6-c_530-614_middle.jpg",
+        "frames/V6-20_JM50b3IU6-c_530-614_end.jpg"
+      ],
+      "source_runs": [
+        37004457970
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-21": {
+      "video_id": "JM50b3IU6-c",
+      "start_seconds": 1110,
+      "end_seconds": 1200,
+      "archive": "Capitology_Pass6_clips_part3.zip",
+      "clip": "clips/V6-21_JM50b3IU6-c_1110-1200.mp4",
+      "clip_sha256": "ccb193ce2e9998ef962f66d590ca02ce32671b13dc49690af6fded09137dc05a",
+      "check_frames": [
+        "frames/V6-21_JM50b3IU6-c_1110-1200_start.jpg",
+        "frames/V6-21_JM50b3IU6-c_1110-1200_middle.jpg",
+        "frames/V6-21_JM50b3IU6-c_1110-1200_end.jpg"
+      ],
+      "source_runs": [
+        37004457970
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-14": {
+      "video_id": "MYW1ztAeDQc",
+      "start_seconds": 751,
+      "end_seconds": 927,
+      "archive": "Capitology_Pass6_clips_part3.zip",
+      "clip": "clips/V6-14_MYW1ztAeDQc_751-927.mp4",
+      "clip_sha256": "1a72069278df1b12f5690c6912589878a793fd063cbf9f3dfb063db65aa6f911",
+      "check_frames": [
+        "frames/V6-14_MYW1ztAeDQc_751-927_start.jpg",
+        "frames/V6-14_MYW1ztAeDQc_751-927_middle.jpg",
+        "frames/V6-14_MYW1ztAeDQc_751-927_end.jpg"
+      ],
+      "source_runs": [
+        37004457970
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed",
+      "recovery_note": "Trimmed captured source-end clip to corrected queue boundary"
+    },
+    "V6-22": {
+      "video_id": "ijlmDdVIdtk",
+      "start_seconds": 60,
+      "end_seconds": 165,
+      "archive": "Capitology_Pass6_clips_part4.zip",
+      "clip": "clips/V6-22_ijlmDdVIdtk_60-165.mp4",
+      "clip_sha256": "9e29eb8c7064e0db1c5a8f91211401eb4d14b5166024b0759ee3ddc22d9fd543",
+      "check_frames": [
+        "frames/V6-22_ijlmDdVIdtk_60-165_start.jpg",
+        "frames/V6-22_ijlmDdVIdtk_60-165_middle.jpg",
+        "frames/V6-22_ijlmDdVIdtk_60-165_end.jpg"
+      ],
+      "source_runs": [
+        37004518270
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    },
+    "V6-23": {
+      "video_id": "ijlmDdVIdtk",
+      "start_seconds": 151,
+      "end_seconds": 356,
+      "archive": "Capitology_Pass6_clips_part4.zip",
+      "clip": "clips/V6-23_ijlmDdVIdtk_151-356.mp4",
+      "clip_sha256": "24a43485e1a55e94f2707b07b88c38a308917e5f895f777677fc6052f59f5b55",
+      "check_frames": [
+        "frames/V6-23_ijlmDdVIdtk_151-356_start.jpg",
+        "frames/V6-23_ijlmDdVIdtk_151-356_middle.jpg",
+        "frames/V6-23_ijlmDdVIdtk_151-356_end.jpg"
+      ],
+      "source_runs": [
+        37004518270
+      ],
+      "retrieval_status": "retrieved_video_only",
+      "visual_review_status": "not_reviewed"
+    }
+  }
+}
