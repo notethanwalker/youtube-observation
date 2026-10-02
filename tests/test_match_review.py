@@ -1,5 +1,6 @@
 """End-to-end transport test; fake model responses do not validate coaching quality."""
 import base64
+from io import BytesIO
 import json
 import os
 import re
@@ -11,6 +12,8 @@ import unittest
 from http.client import HTTPConnection
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
+from unittest.mock import patch
+from urllib.error import HTTPError
 
 from match_review import analysis, server
 
@@ -103,7 +106,7 @@ class FakeGemini(BaseHTTPRequestHandler):
 
     def do_POST(self):
         payload = json.loads(self.rfile.read(int(self.headers['Content-Length'])))
-        assert self.path == '/gemini-2.5-flash:generateContent'
+        assert self.path == '/gemini-3.8-flash:generateContent'
         assert self.headers['x-goog-api-key'] == 'test-gemini-key'
         assert payload['generationConfig']['responseMimeType'] == 'application/json'
         assert 'candidates' in payload['generationConfig']['responseJsonSchema']['properties']
@@ -129,6 +132,20 @@ class FakeGemini(BaseHTTPRequestHandler):
 
 
 class MatchReviewTest(unittest.TestCase):
+    def test_gemini_invalid_key_has_actionable_error(self):
+        previous = os.environ.get('GEMINI_API_KEY')
+        os.environ['GEMINI_API_KEY'] = 'invalid-test-key'
+        raw = json.dumps({'error': {'message': 'API key not valid.', 'details': [
+            {'reason': 'API_KEY_INVALID'}]}}).encode()
+        error = HTTPError('https://generativelanguage.googleapis.com', 400, 'Bad Request', {}, BytesIO(raw))
+        try:
+            with patch.object(analysis, 'urlopen', side_effect=error):
+                with self.assertRaisesRegex(RuntimeError, 'copy the full active key'):
+                    analysis.gemini_call('test', [], analysis.CANDIDATE_SCHEMA)
+        finally:
+            if previous is None: os.environ.pop('GEMINI_API_KEY', None)
+            else: os.environ['GEMINI_API_KEY'] = previous
+
     def test_free_gemini_upload_and_report(self):
         with tempfile.TemporaryDirectory() as temp:
             clip = Path(temp) / 'clip.mp4'

@@ -110,7 +110,11 @@ if ($env:MATCH_REVIEW_PROVIDER -eq 'ollama') {
 
 $secrets = @('MATCH_REVIEW_PASSWORD')
 if ($env:MATCH_REVIEW_PROVIDER -eq 'openai') { $secrets += 'OPENAI_API_KEY' }
-if ($env:MATCH_REVIEW_PROVIDER -eq 'gemini') { $secrets += 'GEMINI_API_KEY' }
+if ($env:MATCH_REVIEW_PROVIDER -eq 'gemini') {
+    $secrets += 'GEMINI_API_KEY'
+    # Ask each desktop session, even if Windows inherited an older key.
+    if ($env:MATCH_REVIEW_SKIP_KEY_PREFLIGHT -ne '1') { Remove-Item Env:GEMINI_API_KEY -ErrorAction SilentlyContinue }
+}
 foreach ($secret in $secrets) {
     if (-not [Environment]::GetEnvironmentVariable($secret, 'Process')) {
         $secure = Read-Host "Enter $secret (hidden; kept in this session only)" -AsSecureString
@@ -118,12 +122,29 @@ foreach ($secret in $secrets) {
         try {
             $plain = [Runtime.InteropServices.Marshal]::PtrToStringBSTR($pointer)
             if ([string]::IsNullOrWhiteSpace($plain)) { throw "$secret cannot be empty." }
-            Set-Item -Path ("Env:" + $secret) -Value $plain
+            Set-Item -Path ("Env:" + $secret) -Value $plain.Trim()
         } finally {
             [Runtime.InteropServices.Marshal]::ZeroFreeBSTR($pointer)
             Remove-Variable plain -ErrorAction SilentlyContinue
         }
     }
+}
+
+if ($env:MATCH_REVIEW_PROVIDER -eq 'gemini' -and $env:MATCH_REVIEW_SKIP_KEY_PREFLIGHT -ne '1') {
+    # A metadata request checks the key before the user uploads a recording.
+    $env:GEMINI_API_KEY = $env:GEMINI_API_KEY.Trim().Trim([char]34).Trim([char]39)
+    Write-Host 'Checking the Gemini key with Google...'
+    try {
+        $null = Invoke-RestMethod -Uri 'https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash' -Headers @{ 'x-goog-api-key' = $env:GEMINI_API_KEY } -TimeoutSec 20
+    } catch {
+        $status = 0
+        if ($_.Exception.Response) { $status = [int]$_.Exception.Response.StatusCode }
+        if ($status -eq 400 -or $status -eq 401) {
+            throw 'Google did not accept this Gemini key. Copy the full active API key in AI Studio (not the project ID or key name), close this window, and rerun the launcher. Do not share the key.'
+        }
+        throw "Could not verify Gemini access (HTTP $status). Check the AI Studio key/project and your connection, then rerun the launcher."
+    }
+    Write-Host 'Gemini key accepted.'
 }
 
 Write-Host 'Capitology review: http://127.0.0.1:8080'

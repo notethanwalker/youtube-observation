@@ -31,6 +31,7 @@ jobs:
         shell: pwsh
         env:
           GEMINI_API_KEY: test-only
+          MATCH_REVIEW_SKIP_KEY_PREFLIGHT: '1'
           MATCH_REVIEW_PASSWORD: test-only
           MATCH_REVIEW_DATA_DIR: ${{ runner.temp }}/capitology-review
         run: |

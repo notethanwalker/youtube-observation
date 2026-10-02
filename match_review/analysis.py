@@ -29,7 +29,7 @@ BROAD_MODEL = os.getenv("MATCH_REVIEW_BROAD_MODEL", "gpt-5-mini")
 DENSE_MODEL = os.getenv("MATCH_REVIEW_DENSE_MODEL", "gpt-5-mini")
 LOCAL_MODEL = os.getenv("MATCH_REVIEW_LOCAL_MODEL", "qwen3-vl:4b-instruct")
 OLLAMA_URL = os.getenv("MATCH_REVIEW_OLLAMA_URL", "http://127.0.0.1:11434").rstrip("/")
-GEMINI_MODEL = os.getenv("MATCH_REVIEW_GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = os.getenv("MATCH_REVIEW_GEMINI_MODEL", "gemini-3.8-flash")
 GEMINI_URL = os.getenv("MATCH_REVIEW_GEMINI_URL", "https://generativelanguage.googleapis.com/v1beta/models").rstrip("/")
 MAX_DURATION = int(os.getenv("MATCH_REVIEW_MAX_DURATION_SECONDS", "3600"))
 MAX_BROAD_CALLS = int(os.getenv("MATCH_REVIEW_MAX_BROAD_CALLS", "30"))
@@ -78,15 +78,14 @@ def provider_ready() -> bool:
 
 
 def gemini_call(prompt: str, images: list[Path], schema: dict) -> dict:
-    key = os.getenv("GEMINI_API_KEY", "")
+    key = os.getenv("GEMINI_API_KEY", "").strip().strip("\"'")
     if not key:
         raise RuntimeError("Enter your free Gemini API key in the launcher, then retry the saved recording.")
     parts = [{"text": prompt}] + [
         {"inline_data": {"mime_type": "image/jpeg", "data": base64.b64encode(path.read_bytes()).decode("ascii")}}
         for path in images]
     payload = {"contents": [{"role": "user", "parts": parts}],
-               "generationConfig": {"responseMimeType": "application/json", "responseJsonSchema": schema,
-                                    "temperature": 0}}
+               "generationConfig": {"responseMimeType": "application/json", "responseJsonSchema": schema}}
     request = Request(GEMINI_URL + "/" + quote(GEMINI_MODEL, safe="") + ":generateContent",
                       data=json.dumps(payload).encode("utf-8"),
                       headers={"x-goog-api-key": key, "Content-Type": "application/json"}, method="POST")
@@ -97,6 +96,10 @@ def gemini_call(prompt: str, images: list[Path], schema: dict) -> dict:
             break
         except HTTPError as exc:
             detail = exc.read(2048).decode("utf-8", errors="replace")
+            if exc.code in (400, 401, 403) and ("API_KEY_INVALID" in detail or "API key not valid" in detail):
+                raise RuntimeError("Google rejected the Gemini API key. In AI Studio, copy the full active key using its Copy button (not the project ID or key name), restart the launcher, and retry the saved recording. Keep the key private.") from exc
+            if exc.code == 404 and ("model" in detail.lower() or "not found" in detail.lower()):
+                raise RuntimeError(f"Gemini model {GEMINI_MODEL} is unavailable for this project. Download the latest Capitology ZIP, then retry the saved recording. Google details: {detail[:180]}") from exc
             if exc.code == 429:
                 if attempt < 2:
                     retry_after = exc.headers.get("Retry-After", "")
