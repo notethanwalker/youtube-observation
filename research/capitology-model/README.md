@@ -51,9 +51,9 @@ No known entry is confirmed private or deleted. This does not establish that the
 3. Transcript segmentation and seriousness/information-density scoring — complete
 4. Strategic claim extraction — transcript sweep complete; claims provisional
 5. Concept clustering — provisional transcript-based map complete
-6. Selective visual retrieval — complete; 23 of 23 windows retrieved, visual interpretation pending
+6. Selective visual retrieval — complete; 23 of 23 windows retrieved
 7. Selective visual analysis of high-information/ambiguous segments — 23 reviewed at sampled intervals, seven examined more closely; unresolved facts retained
 8. Contradiction and evolution pass
 9. Model synthesis
 
-Next step: Pass 8 contradiction and evolution adjudication using the visual ledger and dated claims. The 16 transcript clusters have selected visual examples and explicit limits, not comprehensive match validation. `model.md` remains an empty synthesis scaffold until visual checks and contradiction review.
+Next step: Pass 8 contradiction and evolution adjudication using the visual ledger and dated claims. The 16 transcript clusters have selected visual examples and explicit limits, not comprehensive match validation. `model.md` remains a synthesis scaffold until contradiction review. The retrieval registry records clip provenance; the Pass 7 ledger and generated queue record visual review status.

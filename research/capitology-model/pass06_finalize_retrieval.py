@@ -95,7 +95,7 @@ for part, sources in SOURCES.items():
             "end_seconds": row["end_seconds"], "archive": archive.name,
             "clip": row["clip"], "clip_sha256": row["clip_sha256"],
             "check_frames": row["check_frames"], "source_runs": RUNS[part],
-            "retrieval_status": "retrieved_video_only", "visual_review_status": "not_reviewed",
+            "retrieval_status": "retrieved_video_only",
             **({"recovery_note": row["recovery_note"]} if "recovery_note" in row else {}),
         }
     print(part, len(entries), archive.stat().st_size, sha(archive))

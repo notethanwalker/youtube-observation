@@ -15,8 +15,7 @@
       "source_runs": [
         37003705370
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-02": {
       "video_id": "c92ESPjlveI",
@@ -33,8 +32,7 @@
       "source_runs": [
         37003705370
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-05": {
       "video_id": "LpxT2dykNK0",
@@ -51,8 +49,7 @@
       "source_runs": [
         37003705370
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-06": {
       "video_id": "Hl-nV1aF1yE",
@@ -69,8 +66,7 @@
       "source_runs": [
         37003705370
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-07": {
       "video_id": "Hl-nV1aF1yE",
@@ -87,8 +83,7 @@
       "source_runs": [
         37003705370
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-03": {
       "video_id": "KlcWDgdXrZk",
@@ -105,8 +100,7 @@
       "source_runs": [
         37004151152
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-04": {
       "video_id": "KlcWDgdXrZk",
@@ -123,8 +117,7 @@
       "source_runs": [
         37004151152
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-17": {
       "video_id": "KlcWDgdXrZk",
@@ -141,8 +134,7 @@
       "source_runs": [
         37004151152
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-18": {
       "video_id": "KlcWDgdXrZk",
@@ -159,8 +151,7 @@
       "source_runs": [
         37004151152
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-08": {
       "video_id": "aHwWbiUE4KQ",
@@ -177,8 +168,7 @@
       "source_runs": [
         37004151152
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-09": {
       "video_id": "aHwWbiUE4KQ",
@@ -195,8 +185,7 @@
       "source_runs": [
         37004151152
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-10": {
       "video_id": "QvMsOy1wFr4",
@@ -213,8 +202,7 @@
       "source_runs": [
         37004151152
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-11": {
       "video_id": "GKkzCd9cvUg",
@@ -232,7 +220,6 @@
         37004151152
       ],
       "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed",
       "recovery_note": "Trimmed captured source-end clip to corrected queue boundary"
     },
     "V6-12": {
@@ -250,8 +237,7 @@
       "source_runs": [
         37004457970
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-13": {
       "video_id": "MYW1ztAeDQc",
@@ -268,8 +254,7 @@
       "source_runs": [
         37004457970
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-15": {
       "video_id": "GIY_4hD9_M8",
@@ -286,8 +271,7 @@
       "source_runs": [
         37004457970
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-16": {
       "video_id": "K6Ayz-NHVe4",
@@ -304,8 +288,7 @@
       "source_runs": [
         37004457970
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-19": {
       "video_id": "K6Ayz-NHVe4",
@@ -322,8 +305,7 @@
       "source_runs": [
         37004457970
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-20": {
       "video_id": "JM50b3IU6-c",
@@ -340,8 +322,7 @@
       "source_runs": [
         37004457970
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-21": {
       "video_id": "JM50b3IU6-c",
@@ -358,8 +339,7 @@
       "source_runs": [
         37004457970
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-14": {
       "video_id": "MYW1ztAeDQc",
@@ -377,7 +357,6 @@
         37004457970
       ],
       "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed",
       "recovery_note": "Trimmed captured source-end clip to corrected queue boundary"
     },
     "V6-22": {
@@ -395,8 +374,7 @@
       "source_runs": [
         37004518270
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     },
     "V6-23": {
       "video_id": "ijlmDdVIdtk",
@@ -413,8 +391,7 @@
       "source_runs": [
         37004518270
       ],
-      "retrieval_status": "retrieved_video_only",
-      "visual_review_status": "not_reviewed"
+      "retrieval_status": "retrieved_video_only"
     }
   }
 }

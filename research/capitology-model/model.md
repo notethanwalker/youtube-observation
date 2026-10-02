@@ -1,8 +1,8 @@
 # Capitology Model of Overwatch
 
-Status: EMPTY SCAFFOLD — no model claims extracted yet.
+Status: SYNTHESIS SCAFFOLD — 206 provisional claims have been extracted and clustered; none has been promoted into the final model.
 
-This file will only contain claims after evidence ingestion begins.
+This file will contain the qualified synthesis after the contradiction and evolution review. See the Pass 4–7 reports and ledgers for current evidence and limits.
 
 ## Planned structure
 - Core ontology / vocabulary
