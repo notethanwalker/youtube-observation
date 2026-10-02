@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/capitology-pass6-batch.yml'
-      - 'research/capitology-model/pass06_capture_batch.py'
+      - 'scripts/capitology_pass6_capture.ps1'
       - 'requests/capitology-pass6-batch.json'
 
 permissions:
@@ -17,17 +17,11 @@ jobs:
     timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - name: Install media tools
-        shell: powershell
-        run: python -m pip install --quiet --upgrade 'yt-dlp[default]' imageio-ffmpeg
       - name: Capture queued windows
         shell: powershell
         env:
           YOUTUBE_COOKIES_B64: ${{ secrets.YOUTUBE_COOKIES_B64 }}
-        run: python research/capitology-model/pass06_capture_batch.py --request requests/capitology-pass6-batch.json --output pass06_output
+        run: .\scripts\capitology_pass6_capture.ps1 -RequestPath requests/capitology-pass6-batch.json -OutputPath pass06_output
       - name: Upload clips and check frames
         if: always()
         uses: actions/upload-artifact@v4
