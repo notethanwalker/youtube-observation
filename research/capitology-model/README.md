@@ -41,6 +41,7 @@ Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTub
 - `pass07_contact_sheets.py`: repeatable timestamped visual triage from the retrieved clips.
 - `pass08_adjudications.jsonl` / `pass08_adjudications.py`: ten classified tensions, exact source links, visual references, and open tests; reproducible provenance checks.
 - `PASS08_CONTRADICTION_EVOLUTION_REPORT.md`: dated comparisons, qualifications, chronology, evidence limits, and synthesis handoff.
+- `MATCH_REVIEW_PROTOTYPE.md`: player upload → timecoded coaching report contract, pipeline, build order, and functional acceptance gate.
 
 54 unique uploads are known: 53 public (48 Videos + 5 Shorts) and one unlisted upload discovered through the public Overwatch Macro playlist. The date range is 2023-10-27 through 2026-09-29, with 14 hours 33 minutes 33 seconds of total runtime. All 54 have titles, upload dates, durations, URLs, descriptions, and advertised English automatic caption tracks. Empty descriptions are preserved as empty strings. No known record has an unresolved metadata gap.
 
@@ -58,4 +59,4 @@ No known entry is confirmed private or deleted. This does not establish that the
 8. Contradiction and evolution pass — ten priority cases adjudicated; unresolved empirical claims identified
 9. Model synthesis
 
-Next step: Pass 9 model synthesis from dated claims and Pass 8's conditional adjudications. The 16 transcript clusters have selected visual examples and explicit limits, not comprehensive match validation; the 12 Pass 5 relationships remain candidate mechanisms. `model.md` remains a synthesis scaffold. The retrieval registry records clip provenance; the Pass 7 ledger and generated queue record visual review status.
+Next step: Pass 9 model synthesis from dated claims and Pass 8's conditional adjudications, followed by an end-to-end review of a player's full match recording. The player-facing prototype is defined in `MATCH_REVIEW_PROTOTYPE.md`: upload a recording and receive replay-linked analysis. The 16 transcript clusters have selected visual examples and explicit limits, not comprehensive match validation; the 12 Pass 5 relationships remain candidate mechanisms. `model.md` remains a synthesis scaffold. The retrieval registry records clip provenance; the Pass 7 ledger and generated queue record visual review status.
