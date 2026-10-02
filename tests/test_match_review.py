@@ -102,7 +102,7 @@ class FakeOllama(BaseHTTPRequestHandler):
 
 class FakeGemini(BaseHTTPRequestHandler):
     calls = []
-    fail_on_second_once = False
+    busy_responses_remaining = 0
 
     def do_POST(self):
         payload = json.loads(self.rfile.read(int(self.headers['Content-Length'])))
@@ -113,11 +113,14 @@ class FakeGemini(BaseHTTPRequestHandler):
         parts = payload['contents'][0]['parts']
         assert base64.b64decode(parts[1]['inline_data']['data']).startswith(b'\xff\xd8')
         self.__class__.calls.append(payload)
-        if self.__class__.fail_on_second_once and len(self.__class__.calls) == 2:
-            self.__class__.fail_on_second_once = False
+        if len(self.__class__.calls) > 1 and self.__class__.busy_responses_remaining:
+            self.__class__.busy_responses_remaining -= 1
+            raw = json.dumps({'error': {'code': 503, 'status': 'UNAVAILABLE',
+                                        'message': 'This model is currently experiencing high demand.'}}).encode()
             self.send_response(503)
-            self.send_header('Content-Length', '0')
+            self.send_header('Content-Length', str(len(raw)))
             self.end_headers()
+            self.wfile.write(raw)
             return
         result = json.dumps({'overview': 'Sparse frames only', 'candidates': []})
         raw = json.dumps({'candidates': [{'content': {'parts': [{'text': result}]}}]}).encode()
@@ -132,6 +135,24 @@ class FakeGemini(BaseHTTPRequestHandler):
 
 
 class MatchReviewTest(unittest.TestCase):
+    def test_transient_gemini_overload_retries(self):
+        previous = os.environ.get('GEMINI_API_KEY')
+        os.environ['GEMINI_API_KEY'] = 'test-gemini-key'
+        error = HTTPError('https://generativelanguage.googleapis.com', 503, 'Unavailable', {},
+                          BytesIO(b'{"error":{"status":"UNAVAILABLE"}}'))
+        success = BytesIO(json.dumps({'candidates': [{'content': {'parts': [{
+            'text': json.dumps({'overview': 'Recovered', 'candidates': []})}]}}]}).encode())
+        try:
+            with patch.object(analysis, 'urlopen', side_effect=[error, success]) as calls, \
+                 patch.object(analysis, 'wait_for_gemini', return_value=None) as wait:
+                result = analysis.gemini_call('test', [], analysis.CANDIDATE_SCHEMA)
+            self.assertEqual(result['overview'], 'Recovered')
+            self.assertEqual(calls.call_count, 2)
+            wait.assert_called_once()
+        finally:
+            if previous is None: os.environ.pop('GEMINI_API_KEY', None)
+            else: os.environ['GEMINI_API_KEY'] = previous
+
     def test_gemini_invalid_key_has_actionable_error(self):
         previous = os.environ.get('GEMINI_API_KEY')
         os.environ['GEMINI_API_KEY'] = 'invalid-test-key'
@@ -162,9 +183,11 @@ class MatchReviewTest(unittest.TestCase):
             os.environ['MATCH_REVIEW_PROVIDER'] = 'gemini'
             os.environ['GEMINI_API_KEY'] = 'test-gemini-key'
             FakeGemini.calls = []
-            FakeGemini.fail_on_second_once = True
+            FakeGemini.busy_responses_remaining = 5
             for instance in (fake, local):
                 threading.Thread(target=instance.serve_forever, daemon=True).start()
+            retry_patch = patch.object(analysis, 'wait_for_gemini', return_value=None)
+            retry_patch.start()
             try:
                 conn = HTTPConnection('127.0.0.1', local.server_port, timeout=30)
                 auth = 'Basic ' + base64.b64encode(b'player:secret').decode()
@@ -196,9 +219,10 @@ class MatchReviewTest(unittest.TestCase):
                     time.sleep(.1)
                 self.assertEqual(job['status'], 'insufficient_evidence', job)
                 self.assertEqual(json.loads((server.DATA / job_id / 'report.json').read_text())['candidate_count'], 0)
-                self.assertEqual(len(FakeGemini.calls), 3)
+                self.assertEqual(len(FakeGemini.calls), 7)
                 self.assertFalse((server.DATA / job_id / 'analysis_checkpoint.json').exists())
             finally:
+                retry_patch.stop()
                 for instance in (local, fake):
                     instance.shutdown()
                     instance.server_close()

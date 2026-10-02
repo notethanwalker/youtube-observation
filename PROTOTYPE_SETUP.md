@@ -61,6 +61,8 @@ For an old ZIP, use the migration instructions above. The default Gemini path do
 
 If Google reports `API_KEY_INVALID`, close the launcher, check that AI Studio shows the key as active and allowed for Gemini, then use its **Copy** button and rerun the launcher. The revised launcher discards any older Gemini key inherited from Windows, trims stray spaces or quotes, and checks the new key before another upload. Keep the saved `match-review-data` folder and retry the recording after the key is accepted. If a freshly created key still fails the check, try a new key in the same project and inspect AI Studio's key status; Google may block non-working or exposed keys. Do not send your key to anyone.
 
+If Google reports HTTP 503 `UNAVAILABLE` or high demand, the Gemini model is temporarily overloaded. The updated app retries transient server errors with short backoff. If demand persists, use **Retry saved recording** later; completed analysis sections are checkpointed. Existing recordings do not need another upload.
+
 ## Optional Render preview
 
 `render.yaml` defines a free Docker web service, HTTPS URL, health check, 500 MiB upload cap, and two secrets supplied in the Render dashboard: `MATCH_REVIEW_PASSWORD` and `OPENAI_API_KEY`. Connect this GitHub repository to a Render Blueprint in the intended workspace. The service is reachable at its assigned `onrender.com` URL, with Basic Auth over HTTPS.

@@ -10,6 +10,7 @@ from __future__ import annotations
 import base64
 import json
 import os
+import random
 import re
 import subprocess
 import time
@@ -77,6 +78,12 @@ def provider_ready() -> bool:
     return provider == "openai" and bool(os.getenv("OPENAI_API_KEY"))
 
 
+def wait_for_gemini(exc: HTTPError, attempt: int) -> None:
+    retry_after = exc.headers.get("Retry-After", "")
+    delay = float(retry_after) if retry_after.isdigit() else 2 ** (attempt + 1) + random.uniform(0, 1)
+    time.sleep(min(30, max(1, delay)))
+
+
 def gemini_call(prompt: str, images: list[Path], schema: dict) -> dict:
     key = os.getenv("GEMINI_API_KEY", "").strip().strip("\"'")
     if not key:
@@ -89,7 +96,7 @@ def gemini_call(prompt: str, images: list[Path], schema: dict) -> dict:
     request = Request(GEMINI_URL + "/" + quote(GEMINI_MODEL, safe="") + ":generateContent",
                       data=json.dumps(payload).encode("utf-8"),
                       headers={"x-goog-api-key": key, "Content-Type": "application/json"}, method="POST")
-    for attempt in range(3):
+    for attempt in range(5):
         try:
             with urlopen(request, timeout=240) as response:
                 data = json.load(response)
@@ -102,11 +109,14 @@ def gemini_call(prompt: str, images: list[Path], schema: dict) -> dict:
                 raise RuntimeError(f"Gemini model {GEMINI_MODEL} is unavailable for this project. Download the latest Capitology ZIP, then retry the saved recording. Google details: {detail[:180]}") from exc
             if exc.code == 429:
                 if attempt < 2:
-                    retry_after = exc.headers.get("Retry-After", "")
-                    delay = float(retry_after) if retry_after.isdigit() else 5 * (attempt + 1)
-                    time.sleep(min(30, max(1, delay)))
+                    wait_for_gemini(exc, attempt)
                     continue
                 raise RuntimeError("Gemini free-tier limit reached. Check your AI Studio usage and retry this saved recording later.") from exc
+            if exc.code in (500, 502, 503, 504):
+                if attempt < 4:
+                    wait_for_gemini(exc, attempt)
+                    continue
+                raise RuntimeError("Gemini is temporarily overloaded and did not recover after several retries. Try Retry saved recording later; completed sections will be preserved.") from exc
             if exc.code in (401, 403):
                 raise RuntimeError("Gemini key was rejected or has no access. Check the AI Studio key, then restart the launcher.") from exc
             raise RuntimeError(f"Gemini analysis request failed (HTTP {exc.code}): {detail[:300]}") from exc
