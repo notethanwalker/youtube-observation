@@ -1,6 +1,6 @@
 # Capitology Overwatch Model Project
 
-Status: Pass 3 completed on 2026-10-01: all transcripts segmented, classified, scored, audited, and queued for later research.
+Status: Pass 3 completed on 2026-10-01. Pass 4 strategic claim extraction is in progress: a first manually reviewed, transcript-grounded tranche contains 42 provisional claims from sampled windows in 16 of 54 uploads. No gameplay footage has been validated.
 
 Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTube corpus, while preserving evidence, contradictions, evolution over time, and the distinction between serious analysis and entertainment.
 
@@ -24,6 +24,10 @@ Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTub
 - `pass03-outlines/`: readable section map for all 54 uploads.
 - `PASS03_SEGMENTATION_REPORT.md`: method, distributions, calibration, and limitations.
 - `segment_transcripts.py`: deterministic segmentation and scoring implementation.
+- `pass04_claims.jsonl` / `.csv`: provisional timestamped strategic claims, with scope, evidence type, and visual dependency.
+- `pass04_claims_seed.py`: manually curated claim export, reproducible as structured files.
+- `pass04_coverage_queue.csv`: complete 54-video Pass 4 coverage queue; sampled videos still need full review.
+- `PASS04_CLAIM_EXTRACTION_REPORT.md`: extraction rules, current coverage, candidate relationships, and remaining work.
 
 54 unique uploads are known: 53 public (48 Videos + 5 Shorts) and one unlisted upload discovered through the public Overwatch Macro playlist. The date range is 2023-10-27 through 2026-09-29, with 14 hours 33 minutes 33 seconds of total runtime. All 54 have titles, upload dates, durations, URLs, descriptions, and advertised English automatic caption tracks. Empty descriptions are preserved as empty strings. No known record has an unresolved metadata gap.
 
@@ -41,4 +45,4 @@ No known entry is confirmed private or deleted. This does not establish that the
 8. Contradiction and evolution pass
 9. Model synthesis
 
-Next pass: strategic claim extraction with timestamped evidence. No gameplay analysis or strategic claim extraction has begun.
+Current pass: continue strategic claim extraction across the full corpus. Initial claims are paraphrases of spoken analysis and have not been checked against gameplay video. `model.md` remains an empty synthesis scaffold until stronger coverage and visual checks.
