@@ -12,8 +12,10 @@ import json
 import os
 import re
 import subprocess
+import time
 from collections import Counter
 from pathlib import Path
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
 
@@ -71,8 +73,33 @@ def structured_call(model: str, prompt: str, images: list[Path], schema: dict, n
     request = Request(API_URL, data=json.dumps(payload).encode("utf-8"),
                       headers={"Authorization": f"Bearer {key}",
                                "Content-Type": "application/json"}, method="POST")
-    with urlopen(request, timeout=180) as response:
-        data = json.load(response)
+    for attempt in range(5):
+        try:
+            with urlopen(request, timeout=180) as response:
+                data = json.load(response)
+            break
+        except HTTPError as exc:
+            try:
+                detail = json.loads(exc.read(4096)).get("error", {})
+            except (ValueError, UnicodeDecodeError):
+                detail = {}
+            code = str(detail.get("code") or detail.get("type") or "")
+            message = str(detail.get("message") or "")
+            if exc.code == 429:
+                if code in {"insufficient_quota", "credit_balance_exhausted"} or "quota" in message.lower():
+                    raise RuntimeError("OpenAI API credits are unavailable. Check your Platform billing balance, then retry this saved recording.") from exc
+                if code in {"organization_spend_limit_exceeded", "project_spend_limit_exceeded",
+                            "organization_usage_limit_exceeded"}:
+                    raise RuntimeError(f"OpenAI API limit ({code}) reached. Check Platform limits, then retry this saved recording.") from exc
+                if attempt < 4:
+                    retry_after = exc.headers.get("Retry-After", "")
+                    delay = float(retry_after) if retry_after.isdigit() else 2 ** (attempt + 1)
+                    time.sleep(min(30, max(1, delay)))
+                    continue
+                raise RuntimeError("OpenAI API rate limit persisted after retries. Check your Platform limits and try this saved recording later.") from exc
+            if exc.code in {401, 403}:
+                raise RuntimeError("OpenAI API key was rejected or lacks access. Check the key and project permissions, then restart the launcher.") from exc
+            raise RuntimeError(f"OpenAI API rejected the analysis request (HTTP {exc.code}, {code or 'unknown code'}).") from exc
     chunks = [c.get("text", "") for item in data.get("output", [])
               for c in item.get("content", []) if c.get("type") == "output_text"]
     if not chunks:

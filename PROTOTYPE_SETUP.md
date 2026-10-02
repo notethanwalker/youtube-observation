@@ -50,6 +50,12 @@ python -m unittest discover -s tests -v
 
 This uses a generated 16-second video and a local fake Responses endpoint to verify authentication, upload, FFmpeg sampling, model request shape, job/report delivery, video range requests, corrections, and deletion. It does **not** prove the model's coaching judgments are accurate. The 80-second project clip was also probed and sampled with FFmpeg. A live API call and two full unedited match reviews with a knowledgeable player are still required to assess tactical quality and timestamp attribution. Player video testing begins after the desktop service and model credential are ready.
 
+## If a review stops with HTTP 429
+
+A 429 can mean temporary API request/token limits **or** a Platform credit or spend limit. The updated application reads the API error code: it retries temporary throttling with short backoff, but stops promptly for billing or quota errors. After fixing the reported limit, choose **Retry saved recording** on the error page; you do not need to upload it again. Check your [API billing](https://platform.openai.com/settings/organization/billing/overview) and [limits](https://platform.openai.com/settings/organization/limits) if the message mentions credits or a spend limit. ChatGPT subscription billing does not fund API requests.
+
+If upgrading from a ZIP downloaded before this fix, close the old launcher, extract the newest ZIP to a new folder, and copy the entire `match-review-data` folder from the old project folder into the new one. Run `START_CAPITOLOGY.cmd` from the new folder with the same API key and review password. Open the existing local page; its saved job should now show the more specific error and the retry button. Keep that data folder private; it contains your recording.
+
 ## Optional Render preview
 
 `render.yaml` defines a free Docker web service, HTTPS URL, health check, 500 MiB upload cap, and two secrets supplied in the Render dashboard: `MATCH_REVIEW_PASSWORD` and `OPENAI_API_KEY`. Connect this GitHub repository to a Render Blueprint in the intended workspace. The service is reachable at its assigned `onrender.com` URL, with Basic Auth over HTTPS.

@@ -17,11 +17,34 @@ from match_review import analysis, server
 
 class FakeResponses(BaseHTTPRequestHandler):
     calls = []
+    quota_once = False
+    rate_once = False
 
     def do_POST(self):
         payload = json.loads(self.rfile.read(int(self.headers['Content-Length'])))
         content = payload['input'][0]['content']
         self.__class__.calls.append(payload)
+        if self.__class__.quota_once:
+            self.__class__.quota_once = False
+            raw = json.dumps({'error': {'code': 'credit_balance_exhausted',
+                                        'type': 'insufficient_quota',
+                                        'message': 'No prepaid API credit'}}).encode()
+            self.send_response(429)
+            self.send_header('Content-Type', 'application/json')
+            self.send_header('Content-Length', str(len(raw)))
+            self.end_headers()
+            self.wfile.write(raw)
+            return
+        if self.__class__.rate_once:
+            self.__class__.rate_once = False
+            raw = json.dumps({'error': {'code': 'rate_limit_exceeded', 'message': 'Too many requests'}}).encode()
+            self.send_response(429)
+            self.send_header('Retry-After', '1')
+            self.send_header('Content-Type', 'application/json')
+            self.send_header('Content-Length', str(len(raw)))
+            self.end_headers()
+            self.wfile.write(raw)
+            return
         assert content[1]['image_url'].startswith('data:image/jpeg;base64,')
         assert base64.b64decode(content[1]['image_url'].split(',', 1)[1]).startswith(b'\xff\xd8')
         assert payload['text']['format']['strict'] is True
@@ -112,6 +135,37 @@ class MatchReviewTest(unittest.TestCase):
                 self.assertEqual(call('DELETE', f'/api/jobs/{job_id}', authorized=False)[0], 401)
                 self.assertEqual(call('DELETE', f'/api/jobs/{job_id}')[0], 200)
                 self.assertEqual(call('GET', f'/api/jobs/{job_id}')[0], 404)
+                FakeResponses.quota_once = True
+                status, raw = call('POST', '/api/jobs', clip.read_bytes(), {'X-Filename': 'match.mp4'})
+                self.assertEqual(status, 201, raw)
+                retry_id = json.loads(raw)['id']
+                for _ in range(100):
+                    failed = json.loads(call('GET', f'/api/jobs/{retry_id}')[1])
+                    if failed['status'] == 'failed':
+                        break
+                    time.sleep(.1)
+                self.assertEqual(failed['status'], 'failed', failed)
+                self.assertIn('billing balance', failed['message'])
+                self.assertEqual(call('POST', f'/api/jobs/{retry_id}/retry')[0], 202)
+                for _ in range(100):
+                    retried = json.loads(call('GET', f'/api/jobs/{retry_id}')[1])
+                    if retried['status'] in ('complete', 'insufficient_evidence', 'failed'):
+                        break
+                    time.sleep(.1)
+                self.assertEqual(retried['status'], 'complete', retried)
+                self.assertEqual(call('GET', f'/api/jobs/{retry_id}/report')[0], 200)
+                self.assertEqual(call('DELETE', f'/api/jobs/{retry_id}')[0], 200)
+                FakeResponses.rate_once = True
+                status, raw = call('POST', '/api/jobs', clip.read_bytes(), {'X-Filename': 'match.mp4'})
+                self.assertEqual(status, 201, raw)
+                rate_id = json.loads(raw)['id']
+                for _ in range(100):
+                    rate_job = json.loads(call('GET', f'/api/jobs/{rate_id}')[1])
+                    if rate_job['status'] in ('complete', 'insufficient_evidence', 'failed'):
+                        break
+                    time.sleep(.1)
+                self.assertEqual(rate_job['status'], 'complete', rate_job)
+                self.assertEqual(call('DELETE', f'/api/jobs/{rate_id}')[0], 200)
             finally:
                 for instance in (local, fake):
                     instance.shutdown()

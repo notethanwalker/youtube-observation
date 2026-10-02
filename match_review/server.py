@@ -207,6 +207,22 @@ class Handler(BaseHTTPRequestHandler):
         if not self.require_auth():
             return
         parts = urlsplit(self.path).path.strip("/").split("/")
+        if len(parts) == 4 and parts[:2] == ["api", "jobs"] and parts[3] == "retry":
+            try:
+                job = read_job(parts[2])
+            except (FileNotFoundError, ValueError):
+                self.send_error(404)
+                return
+            if job["status"] != "failed" or not (job_path(parts[2]) / job["source_file"]).is_file():
+                self.json_response(409, {"error": "This saved recording is not ready to retry"})
+                return
+            if not os.getenv("OPENAI_API_KEY"):
+                self.json_response(503, {"error": "Restart the launcher with an API key first"})
+                return
+            update_job(parts[2], status="queued", percentage=0, message="Queued for another analysis attempt")
+            POOL.submit(work, parts[2])
+            self.json_response(202, {"queued": True})
+            return
         if len(parts) == 4 and parts[:2] == ["api", "jobs"] and parts[3] == "feedback":
             try:
                 job = read_job(parts[2])
