@@ -34,6 +34,11 @@ jobs:
           New-Item -ItemType Directory -Path $output -Force | Out-Null
           $yt = Join-Path $env:RUNNER_TEMP 'capitology-pass6-yt-dlp.exe'
           Invoke-WebRequest -Uri 'https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe' -OutFile $yt
+          $runnerRoot = Split-Path (Split-Path $env:RUNNER_TEMP -Parent) -Parent
+          $node = Join-Path $runnerRoot 'externals\node24\bin\node.exe'
+          if (-not (Test-Path $node)) { $node = Join-Path $runnerRoot 'externals\node20\bin\node.exe' }
+          if (-not (Test-Path $node)) { throw 'No runner Node executable found for the YouTube player challenge' }
+          $jsArgs = @('--js-runtimes', ('node:' + $node), '--remote-components', 'ejs:github', '--no-cache-dir')
           $cookieArgs = @()
           if ($env:YOUTUBE_COOKIES_B64) {
             $cookiePath = Join-Path $env:RUNNER_TEMP 'capitology-pass6-cookies.txt'
@@ -42,12 +47,21 @@ jobs:
           }
           try {
             $storyboard = Join-Path $output 'storyboard.%(ext)s'
-            & $yt --no-playlist --no-progress @cookieArgs -f sb0 -o $storyboard $url
-            $storyboardOk = ($LASTEXITCODE -eq 0) -and ((Get-ChildItem $output -Filter '*.mhtml' | Measure-Object).Count -gt 0)
+            $storyboardOk = $false
+            $activeCookies = @()
+            foreach ($mode in @('anonymous', 'cookies')) {
+              if ($mode -eq 'cookies' -and $cookieArgs.Count -eq 0) { continue }
+              $activeCookies = @()
+              if ($mode -eq 'cookies') { $activeCookies = $cookieArgs }
+              Write-Host ('Storyboard attempt: ' + $mode)
+              & $yt @jsArgs --no-playlist --no-progress @activeCookies -f sb0 -o $storyboard $url
+              $storyboardOk = ($LASTEXITCODE -eq 0) -and ((Get-ChildItem $output -Filter '*.mhtml' | Measure-Object).Count -gt 0)
+              if ($storyboardOk) { break }
+            }
             $clipOk = $false
             if (Get-Command ffmpeg.exe -ErrorAction SilentlyContinue) {
               $clip = Join-Path $output 'section.mp4'
-              & $yt --no-playlist --no-progress @cookieArgs -f 'bv*[height<=480]/b[height<=480]/best[height<=480]' --download-sections "*$start-$end" --merge-output-format mp4 --force-overwrites -o $clip $url
+              & $yt @jsArgs --no-playlist --no-progress @activeCookies -f 'bv*[height<=480]/b[height<=480]/best[height<=480]' --download-sections "*$start-$end" --merge-output-format mp4 --force-overwrites -o $clip $url
               $clipOk = ($LASTEXITCODE -eq 0) -and (Test-Path $clip) -and ((Get-Item $clip).Length -gt 0)
             }
             $manifest = @{video_id=$videoId; start_seconds=$start; end_seconds=$end; storyboard=$storyboardOk; clip=$clipOk}
