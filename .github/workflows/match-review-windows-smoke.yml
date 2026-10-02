@@ -1,0 +1,51 @@
+name: Match review Windows smoke
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'match_review/**'
+      - 'tests/test_match_review.py'
+      - 'scripts/start_match_review_windows.ps1'
+      - '.github/workflows/match-review-windows-smoke.yml'
+jobs:
+  local-desktop:
+    runs-on: windows-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install FFmpeg
+        shell: pwsh
+        run: choco install ffmpeg -y --no-progress
+      - name: Run media and HTTP integration check
+        shell: pwsh
+        run: python -m unittest discover -s tests -v
+      - name: Start desktop launcher and check local page
+        shell: pwsh
+        env:
+          OPENAI_API_KEY: test-only
+          MATCH_REVIEW_PASSWORD: test-only
+          MATCH_REVIEW_DATA_DIR: ${{ runner.temp }}/capitology-review
+        run: |
+          $out = Join-Path $env:RUNNER_TEMP 'match-review-out.txt'
+          $err = Join-Path $env:RUNNER_TEMP 'match-review-err.txt'
+          $launcher = Join-Path $PWD 'scripts/start_match_review_windows.ps1'
+          $process = Start-Process powershell.exe -ArgumentList @('-NoProfile', '-ExecutionPolicy', 'Bypass', '-File', "`"$launcher`"") -PassThru -RedirectStandardOutput $out -RedirectStandardError $err
+          try {
+            $ready = $false
+            for ($i = 0; $i -lt 60; $i++) {
+              try {
+                $health = Invoke-WebRequest http://127.0.0.1:8080/healthz -UseBasicParsing -TimeoutSec 2
+                if ($health.StatusCode -eq 200) { $ready = $true; break }
+              } catch { Start-Sleep -Milliseconds 500 }
+            }
+            if (-not $ready) { throw "Local server did not start. $(Get-Content $err -Raw)" }
+            try { Invoke-WebRequest http://127.0.0.1:8080/ -UseBasicParsing -TimeoutSec 2 | Out-Null; throw 'Missing authentication challenge' }
+            catch { if ($_.Exception.Response.StatusCode.value__ -ne 401) { throw } }
+            Write-Host 'Desktop launcher health and password challenge passed.'
+          } finally {
+            Stop-Process -Id $process.Id -Force -ErrorAction SilentlyContinue
+          }

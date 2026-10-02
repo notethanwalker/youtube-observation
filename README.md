@@ -71,4 +71,4 @@ Artifacts are intentionally temporary and are retained for 7 days to avoid unnec
 
 ## Capitology player match review
 
-The [match review prototype](PROTOTYPE_SETUP.md) accepts an exported recording and returns a private, timecoded report with rule citations and video playback. The [research model](research/capitology-model/README.md) documents Passes 1–9. The review application is under internal validation; a model key, private local setup, and full-match player testing remain. Render is optional.
+The [match review prototype](PROTOTYPE_SETUP.md) accepts an exported recording and returns a private, timecoded report with rule citations and video playback. The [research model](research/capitology-model/README.md) documents Passes 1–9. The review application is under internal validation; a model key, desktop setup, and full-match player testing remain. Render is optional.

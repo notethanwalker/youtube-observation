@@ -2,19 +2,27 @@
 
 A single-owner, password-protected upload and report application. The user uploads an exported Overwatch screen recording (MP4/MOV/MKV/WebM), optionally names the player, and receives a timecoded report linked to the provisional Pass 9 Capitology rules. An in-client replay code is not a video upload and is not supported.
 
-## Recommended: run on your own PC and phone
+## Desktop-only setup (Windows)
 
-This avoids Render. The PC holds the recordings and runs FFmpeg and the analysis service; [Tailscale Serve](https://tailscale.com/docs/reference/tailscale-cli/serve) gives your phone a private HTTPS URL reachable only when both devices are signed in to the same tailnet. The PC must stay on with the application running for uploads and jobs to finish. No port forwarding, public site, or rented server is needed. Tailscale's Personal plan is currently free for personal use; model API usage remains separately billed. Avoid `tailscale funnel`, which opens a public URL.
+The first trial can run entirely on your PC. No Render, phone app, tunnel, public URL, or port forwarding is required. Recordings and reports stay on the PC; sampled still frames are sent to the model API. The PC must stay on and the launcher window must remain open during an upload and analysis. Model API usage is separately billed.
 
-On Windows, install [Python 3.12+](https://www.python.org/downloads/windows/), [FFmpeg](https://ffmpeg.org/download.html) so `ffmpeg` and `ffprobe` are on PATH, and [Tailscale](https://tailscale.com/download) on both the PC and phone. Sign in to the same tailnet. Download or clone this repository, open PowerShell in its root, and run:
+1. Install [Python 3.12+](https://www.python.org/downloads/windows/) and [FFmpeg](https://ffmpeg.org/download.html). Confirm `python`, `ffmpeg`, and `ffprobe` are on PATH by opening a new PowerShell window and running `python --version`, `ffmpeg -version`, and `ffprobe -version`.
+2. Download the repository using GitHub's **Code → Download ZIP** and extract it, or clone it. In the extracted `youtube-observation` folder, open PowerShell.
+3. Run:
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\scripts\start_match_review_windows.ps1
 ```
 
-The launcher prompts for the model API key and private review password without writing either to a file, configures private Tailscale Serve, displays the tailnet URL, and starts the server on loopback. Open the HTTPS URL shown by `tailscale serve status` on your phone with Tailscale connected. Sign in as `player` with the review password and upload a recording. Keep the PowerShell window open. The URL is available only inside the tailnet. If Tailscale is absent, the page works locally at `http://127.0.0.1:8080` until it is installed.
+The launcher prompts for your OpenAI API key and a private review password, keeping both in that PowerShell session rather than writing a config file. It checks dependencies and starts the service bound to `127.0.0.1`. Open [http://127.0.0.1:8080](http://127.0.0.1:8080) on the same PC. When the browser asks for credentials, use `player` as the username and the password you chose. Upload an exported MP4/MOV/MKV/WebM match recording. The browser remembers the last job on this PC while its data remains available. Closing the PowerShell window stops the service; running the script again resumes saved jobs and reports.
 
-Recordings and reports stay under `match-review-data/` on the PC (excluded from Git). The player can delete a finished job in the page. Sampled still frames are sent to the model API for analysis, so this avoids Render storage but does not avoid the external model provider. Back up or delete local recordings as desired. The service is single-user; the password guards all its jobs.
+A ChatGPT subscription does not itself configure this app's API access; the launcher needs a separate OpenAI API key. No credential is included in GitHub. The default upload limit is 2 GiB and the maximum video duration is one hour. Full-match tactical accuracy remains to be tested with your recordings.
+
+Local job files are in `match-review-data/`, excluded from Git. Delete a finished job from the report page when done. The same password grants access to all jobs in this single-owner prototype. Do not commit recordings, reports, or secrets to GitHub.
+
+### Phone access later
+
+When you want to use a phone, install [Tailscale](https://tailscale.com/docs/install) on the PC and phone and sign in to the same tailnet. With the local application running, `tailscale serve --bg http://127.0.0.1:8080` can create a private HTTPS URL for tailnet devices. [Tailscale Serve](https://tailscale.com/docs/reference/tailscale-cli/serve) stays within the tailnet; do not use Funnel for this private trial. The desktop launcher does not configure Tailscale automatically.
 
 ## Run locally
 
@@ -44,7 +52,7 @@ The two model names can be set with `MATCH_REVIEW_BROAD_MODEL` and `MATCH_REVIEW
 python -m unittest discover -s tests -v
 ```
 
-This uses a generated 16-second video and a local fake Responses endpoint to verify authentication, upload, FFmpeg sampling, model request shape, job/report delivery, video range requests, corrections, and deletion. It does **not** prove the model's coaching judgments are accurate. The 80-second project clip was also probed and sampled with FFmpeg. A live API call and two full unedited match reviews with a knowledgeable player are still required to assess tactical quality and timestamp attribution. User video testing begins after the local service and model credential are ready.
+This uses a generated 16-second video and a local fake Responses endpoint to verify authentication, upload, FFmpeg sampling, model request shape, job/report delivery, video range requests, corrections, and deletion. It does **not** prove the model's coaching judgments are accurate. The 80-second project clip was also probed and sampled with FFmpeg. A live API call and two full unedited match reviews with a knowledgeable player are still required to assess tactical quality and timestamp attribution. Player video testing begins after the desktop service and model credential are ready.
 
 ## Optional Render preview
 
@@ -55,5 +63,5 @@ Render's free web service has an **ephemeral filesystem**. A redeploy or restart
 ## Remaining acceptance work
 
 1. Configure the model API key, perform one live call, and confirm the schema and image request on the chosen account.
-2. Start the local PC service with Tailscale Serve; verify authentication, upload, completed report, playback, and correction on the private phone URL. Render is optional.
+2. Start the desktop service on `127.0.0.1`; verify authentication, upload, completed report, playback, and correction in the local browser. Phone access and Render are optional.
 3. Have the player upload two different full unedited matches, inspect the footage alongside every major finding, and correct false attribution or unsupported advice before calling the coaching quality validated.
