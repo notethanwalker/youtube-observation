@@ -1,6 +1,6 @@
 # Capitology Overwatch Model Project
 
-Status: Pass 4 completed a full caption read of 292 sections and recorded 206 provisional claims from 51 of 54 uploads; two Shorts and an announcement yielded no stable model claim. Pass 5 clusters all claims into 16 provisional primary concepts. Pass 6 retrieved and verified 23 selected visual windows from 12 videos. Pass 7 completed a bounded visual review of all 23 and closer sequence review of seven. Pass 8 adjudicated ten apparent tensions using 56 claim anchors and the selected footage; the empirical OW1/OW2 economy comparison remains open.
+Status: Passes 1–9 have produced a provisional Capitology model: 206 caption-grounded claims from 51 of 54 uploads, 16 concepts, 23 selected visual reviews, ten contradiction/evolution adjudications, and 24 conditional rules with source links. The OW1/OW2 economy comparison and broad gameplay effectiveness remain unverified. The player upload → match review prototype is under development.
 
 Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTube corpus, while preserving evidence, contradictions, evolution over time, and the distinction between serious analysis and entertainment.
 
@@ -42,6 +42,8 @@ Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTub
 - `pass08_adjudications.jsonl` / `pass08_adjudications.py`: ten classified tensions, exact source links, visual references, and open tests; reproducible provenance checks.
 - `PASS08_CONTRADICTION_EVOLUTION_REPORT.md`: dated comparisons, qualifications, chronology, evidence limits, and synthesis handoff.
 - `MATCH_REVIEW_PROTOTYPE.md`: player upload → timecoded coaching report contract, pipeline, build order, and functional acceptance gate.
+- `model.md` / `pass09_rules.json` / `pass09_rules.py`: readable model, machine-readable conditional rule index, and validated source/renderer.
+- `PASS09_MODEL_SYNTHESIS_REPORT.md`: coverage, synthesis choices, limitations, and product handoff.
 
 54 unique uploads are known: 53 public (48 Videos + 5 Shorts) and one unlisted upload discovered through the public Overwatch Macro playlist. The date range is 2023-10-27 through 2026-09-29, with 14 hours 33 minutes 33 seconds of total runtime. All 54 have titles, upload dates, durations, URLs, descriptions, and advertised English automatic caption tracks. Empty descriptions are preserved as empty strings. No known record has an unresolved metadata gap.
 
@@ -57,6 +59,6 @@ No known entry is confirmed private or deleted. This does not establish that the
 6. Selective visual retrieval — complete; 23 of 23 windows retrieved
 7. Selective visual analysis of high-information/ambiguous segments — 23 reviewed at sampled intervals, seven examined more closely; unresolved facts retained
 8. Contradiction and evolution pass — ten priority cases adjudicated; unresolved empirical claims identified
-9. Model synthesis
+9. Model synthesis — 24 provisional conditional rules across all 16 concepts
 
-Next step: Pass 9 model synthesis from dated claims and Pass 8's conditional adjudications, followed by an end-to-end review of a player's full match recording. The player-facing prototype is defined in `MATCH_REVIEW_PROTOTYPE.md`: upload a recording and receive replay-linked analysis. The 16 transcript clusters have selected visual examples and explicit limits, not comprehensive match validation; the 12 Pass 5 relationships remain candidate mechanisms. `model.md` remains a synthesis scaffold. The retrieval registry records clip provenance; the Pass 7 ledger and generated queue record visual review status.
+Next step: implement and internally validate the player-facing upload and analysis pipeline in `MATCH_REVIEW_PROTOTYPE.md`. The 24 rules are qualified interpretations, not comprehensive match validation; the 12 Pass 5 relationships remain candidate mechanisms. The retrieval registry records clip provenance; the Pass 7 ledger and generated queue record visual review status.
