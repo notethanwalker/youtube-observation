@@ -60,7 +60,7 @@ for i, (question, priority, role, cid, start, end, check) in enumerate(WINDOWS, 
         "duration_seconds": b-a,
         "url": f'https://www.youtube.com/watch?v={c["video_id"]}&t={a}s',
         "visual_check": check,
-        "retrieval_status": "queued_media_unavailable",
+        "retrieval_status": "queued_not_retrieved",
         "visual_review_status": "not_reviewed",
     })
 

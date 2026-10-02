@@ -21,7 +21,7 @@ The queue is intentionally narrower than the 164 high-visual Pass 4 claims. It s
 
 On 2026-10-02, the YouTube watch page and format metadata loaded for `Hl-nV1aF1yE` (“Back Up to Go Forward”). Seeking to 03:05 showed captions, but the player displayed a black loading screen; play did not produce a gameplay frame. A `yt-dlp` / `ffmpeg` section download of 03:05–05:10 failed with “Invalid data found when processing input.” Direct range requests for the available video format and storyboard formats returned `text/html`, not video or image bytes. A storyboard request for a second video, `c92ESPjlveI`, also returned `text/html`. These checks establish an access failure in this environment, not a claim that the source videos lack footage.
 
-All 23 CSV rows therefore remain `queued_media_unavailable` and `not_reviewed`. In particular, no sight line, cooldown, player position, map distance, outcome, or spoken player attribution has been confirmed from footage. The caption-based claims remain provisional. No frame sheets, clips, or visual annotations were produced.
+All 23 CSV rows therefore remain `queued_not_retrieved` and `not_reviewed`; only the two named source videos were directly tested. In particular, no sight line, cooldown, player position, map distance, outcome, or spoken player attribution has been confirmed from footage. The caption-based claims remain provisional. No frame sheets, clips, or visual annotations were produced.
 
 ## Resume procedure
 
