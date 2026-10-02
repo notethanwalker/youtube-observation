@@ -1,6 +1,6 @@
 # Capitology Overwatch Model Project
 
-Status: Pass 3 completed on 2026-10-01. Pass 4 strategic claim extraction is in progress: a first manually reviewed, transcript-grounded tranche contains 42 provisional claims from sampled windows in 16 of 54 uploads. No gameplay footage has been validated.
+Status: Pass 3 completed on 2026-10-01. Pass 4 strategic claim extraction is in progress: the initial manual sweep of all 54 uploads has 99 provisional claims from sampled windows in 51 uploads; two Shorts and an announcement yielded no stable model claim. No gameplay footage has been validated, and the 51 claim-bearing transcripts have not been reviewed exhaustively.
 
 Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTube corpus, while preserving evidence, contradictions, evolution over time, and the distinction between serious analysis and entertainment.
 
@@ -26,7 +26,7 @@ Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTub
 - `segment_transcripts.py`: deterministic segmentation and scoring implementation.
 - `pass04_claims.jsonl` / `.csv`: provisional timestamped strategic claims, with scope, evidence type, and visual dependency.
 - `pass04_claims_seed.py`: manually curated claim export, reproducible as structured files.
-- `pass04_coverage_queue.csv`: complete 54-video Pass 4 coverage queue; sampled videos still need full review.
+- `pass04_coverage_queue.csv`: complete 54-video Pass 4 coverage queue; claim-bearing videos still need full transcript review.
 - `PASS04_CLAIM_EXTRACTION_REPORT.md`: extraction rules, current coverage, candidate relationships, and remaining work.
 
 54 unique uploads are known: 53 public (48 Videos + 5 Shorts) and one unlisted upload discovered through the public Overwatch Macro playlist. The date range is 2023-10-27 through 2026-09-29, with 14 hours 33 minutes 33 seconds of total runtime. All 54 have titles, upload dates, durations, URLs, descriptions, and advertised English automatic caption tracks. Empty descriptions are preserved as empty strings. No known record has an unresolved metadata gap.
