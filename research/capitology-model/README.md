@@ -1,6 +1,6 @@
 # Capitology Overwatch Model Project
 
-Status: Pass 4 completed a full caption read of 292 sections and recorded 206 provisional claims from 51 of 54 uploads; two Shorts and an announcement yielded no stable model claim. Pass 5 clusters all claims into 16 provisional primary concepts. Pass 6 selected 23 visual windows from 12 videos; media retrieval is blocked in this environment. No gameplay footage has been validated.
+Status: Pass 4 completed a full caption read of 292 sections and recorded 206 provisional claims from 51 of 54 uploads; two Shorts and an announcement yielded no stable model claim. Pass 5 clusters all claims into 16 provisional primary concepts. Pass 6 selected 23 visual windows from 12 videos and verified a selective visual retrieval route on one video. The queued gameplay claims have not been validated.
 
 Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTube corpus, while preserving evidence, contradictions, evolution over time, and the distinction between serious analysis and entertainment.
 
@@ -48,9 +48,9 @@ No known entry is confirmed private or deleted. This does not establish that the
 3. Transcript segmentation and seriousness/information-density scoring — complete
 4. Strategic claim extraction — transcript sweep complete; claims provisional
 5. Concept clustering — provisional transcript-based map complete
-6. Selective visual retrieval — queue complete; media retrieval blocked
+6. Selective visual retrieval — queue complete; direct retrieval route verified on one source; windows pending
 7. Deep visual analysis of high-information/ambiguous segments
 8. Contradiction and evolution pass
 9. Model synthesis
 
-Next step: retrieve the queued windows from a playable media source, then inspect the footage in Pass 7. The 16 clusters organize paraphrases of spoken analysis; they have not been checked against gameplay video. `model.md` remains an empty synthesis scaffold until visual checks and contradiction review.
+Next step: retrieve the queued windows using the verified home-runner route, then inspect the footage in Pass 7. The 16 clusters organize paraphrases of spoken analysis; they have not been adjudicated against gameplay video. `model.md` remains an empty synthesis scaffold until visual checks and contradiction review.
