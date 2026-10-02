@@ -1,0 +1,293 @@
+segment_id,video_id,upload_date,start,end,review_status,overlapping_claim_ids,review_basis
+_pv_dhja-4w:001,_pv_dhja-4w,2026-09-29,00:00:01,00:02:59,sampled_claim_window_only,P4-040,automatic captions; gameplay not visually checked
+_pv_dhja-4w:002,_pv_dhja-4w,2026-09-29,00:02:58,00:05:37,sampled_claim_window_only,P4-040;P4-041,automatic captions; gameplay not visually checked
+_pv_dhja-4w:003,_pv_dhja-4w,2026-09-29,00:05:36,00:08:49,sampled_claim_window_only,P4-041,automatic captions; gameplay not visually checked
+_pv_dhja-4w:004,_pv_dhja-4w,2026-09-29,00:08:48,00:11:49,sampled_claim_window_only,P4-041;P4-042,automatic captions; gameplay not visually checked
+N5fHwbNE-SQ:001,N5fHwbNE-SQ,2026-09-05,00:00:00,00:03:09,not_yet_reviewed,,
+N5fHwbNE-SQ:002,N5fHwbNE-SQ,2026-09-05,00:03:08,00:07:11,sampled_claim_window_only,P4-095,automatic captions; gameplay not visually checked
+N5fHwbNE-SQ:003,N5fHwbNE-SQ,2026-09-05,00:07:10,00:11:19,not_yet_reviewed,,
+N5fHwbNE-SQ:004,N5fHwbNE-SQ,2026-09-05,00:11:18,00:15:09,not_yet_reviewed,,
+N5fHwbNE-SQ:005,N5fHwbNE-SQ,2026-09-05,00:15:08,00:18:54,not_yet_reviewed,,
+KLwLiiYYewQ:001,KLwLiiYYewQ,2026-07-08,00:00:00,00:00:54,sampled_claim_window_only,P4-039,automatic captions; gameplay not visually checked
+prUv2eNrGD0:001,prUv2eNrGD0,2026-06-08,00:00:00,00:02:59,not_yet_reviewed,,
+prUv2eNrGD0:002,prUv2eNrGD0,2026-06-08,00:03:13,00:06:29,not_yet_reviewed,,
+prUv2eNrGD0:003,prUv2eNrGD0,2026-06-08,00:06:32,00:10:02,not_yet_reviewed,,
+prUv2eNrGD0:004,prUv2eNrGD0,2026-06-08,00:09:59,00:13:56,not_yet_reviewed,,
+prUv2eNrGD0:005,prUv2eNrGD0,2026-06-08,00:13:54,00:17:15,sampled_claim_window_only,P4-093,automatic captions; gameplay not visually checked
+prUv2eNrGD0:006,prUv2eNrGD0,2026-06-08,00:17:14,00:20:17,sampled_claim_window_only,P4-093,automatic captions; gameplay not visually checked
+prUv2eNrGD0:007,prUv2eNrGD0,2026-06-08,00:20:18,00:23:25,not_yet_reviewed,,
+prUv2eNrGD0:008,prUv2eNrGD0,2026-06-08,00:23:32,00:26:02,sampled_claim_window_only,P4-094,automatic captions; gameplay not visually checked
+prUv2eNrGD0:009,prUv2eNrGD0,2026-06-08,00:26:06,00:29:26,not_yet_reviewed,,
+prUv2eNrGD0:010,prUv2eNrGD0,2026-06-08,00:29:36,00:31:30,not_yet_reviewed,,
+pQcjwEjo6us:001,pQcjwEjo6us,2026-05-22,00:00:00,00:00:31,full_transcript_section_read,,automatic captions; gameplay not visually checked
+GjlM3r948EI:001,GjlM3r948EI,2026-05-06,00:00:00,00:00:23,full_transcript_section_read,,automatic captions; gameplay not visually checked
+ijlmDdVIdtk:001,ijlmDdVIdtk,2026-04-27,00:00:00,00:02:43,sampled_claim_window_only,P4-091,automatic captions; gameplay not visually checked
+ijlmDdVIdtk:002,ijlmDdVIdtk,2026-04-27,00:02:41,00:05:48,not_yet_reviewed,,
+ijlmDdVIdtk:003,ijlmDdVIdtk,2026-04-27,00:05:46,00:09:36,not_yet_reviewed,,
+ijlmDdVIdtk:004,ijlmDdVIdtk,2026-04-27,00:09:38,00:12:49,not_yet_reviewed,,
+ijlmDdVIdtk:005,ijlmDdVIdtk,2026-04-27,00:12:51,00:15:24,sampled_claim_window_only,P4-092,automatic captions; gameplay not visually checked
+AtmKIdmLLQ8:001,AtmKIdmLLQ8,2026-04-17,00:00:00,00:02:39,not_yet_reviewed,,
+AtmKIdmLLQ8:002,AtmKIdmLLQ8,2026-04-17,00:02:40,00:05:10,not_yet_reviewed,,
+AtmKIdmLLQ8:003,AtmKIdmLLQ8,2026-04-17,00:05:09,00:07:35,not_yet_reviewed,,
+AtmKIdmLLQ8:004,AtmKIdmLLQ8,2026-04-17,00:07:32,00:10:25,sampled_claim_window_only,P4-090,automatic captions; gameplay not visually checked
+AtmKIdmLLQ8:005,AtmKIdmLLQ8,2026-04-17,00:10:22,00:12:34,not_yet_reviewed,,
+AtmKIdmLLQ8:006,AtmKIdmLLQ8,2026-04-17,00:12:31,00:15:36,not_yet_reviewed,,
+mXrTyliwJTI:001,mXrTyliwJTI,2026-04-16,00:00:01,00:01:02,sampled_claim_window_only,P4-089,automatic captions; gameplay not visually checked
+GKkzCd9cvUg:001,GKkzCd9cvUg,2026-04-09,00:00:00,00:03:02,sampled_claim_window_only,P4-036,automatic captions; gameplay not visually checked
+GKkzCd9cvUg:002,GKkzCd9cvUg,2026-04-09,00:03:00,00:05:24,sampled_claim_window_only,P4-037,automatic captions; gameplay not visually checked
+GKkzCd9cvUg:003,GKkzCd9cvUg,2026-04-09,00:05:23,00:08:59,sampled_claim_window_only,P4-037;P4-038,automatic captions; gameplay not visually checked
+GKkzCd9cvUg:004,GKkzCd9cvUg,2026-04-09,00:08:56,00:12:04,not_yet_reviewed,,
+GKkzCd9cvUg:005,GKkzCd9cvUg,2026-04-09,00:12:02,00:14:33,not_yet_reviewed,,
+KlcWDgdXrZk:001,KlcWDgdXrZk,2026-03-08,00:00:00,00:03:00,sampled_claim_window_only,P4-033;P4-034,automatic captions; gameplay not visually checked
+KlcWDgdXrZk:002,KlcWDgdXrZk,2026-03-08,00:02:57,00:06:13,sampled_claim_window_only,P4-034,automatic captions; gameplay not visually checked
+KlcWDgdXrZk:003,KlcWDgdXrZk,2026-03-08,00:06:10,00:09:19,not_yet_reviewed,,
+KlcWDgdXrZk:004,KlcWDgdXrZk,2026-03-08,00:09:17,00:12:46,sampled_claim_window_only,P4-035,automatic captions; gameplay not visually checked
+KlcWDgdXrZk:005,KlcWDgdXrZk,2026-03-08,00:12:44,00:14:05,not_yet_reviewed,,
+x2jNJeKiMUU:001,x2jNJeKiMUU,2026-02-08,00:00:00,00:03:00,not_yet_reviewed,,
+x2jNJeKiMUU:002,x2jNJeKiMUU,2026-02-08,00:02:58,00:05:54,not_yet_reviewed,,
+x2jNJeKiMUU:003,x2jNJeKiMUU,2026-02-08,00:05:52,00:09:42,not_yet_reviewed,,
+x2jNJeKiMUU:004,x2jNJeKiMUU,2026-02-08,00:09:40,00:13:20,not_yet_reviewed,,
+x2jNJeKiMUU:005,x2jNJeKiMUU,2026-02-08,00:13:19,00:16:40,sampled_claim_window_only,P4-099,automatic captions; gameplay not visually checked
+x2jNJeKiMUU:006,x2jNJeKiMUU,2026-02-08,00:16:38,00:20:45,sampled_claim_window_only,P4-099,automatic captions; gameplay not visually checked
+UC8D2vBDf_0:001,UC8D2vBDf_0,2026-02-02,00:00:04,00:02:21,full_transcript_section_read,,automatic captions; gameplay not visually checked
+UC8D2vBDf_0:002,UC8D2vBDf_0,2026-02-02,00:02:18,00:05:12,full_transcript_section_read,,automatic captions; gameplay not visually checked
+Hl-nV1aF1yE:001,Hl-nV1aF1yE,2026-01-26,00:00:00,00:02:19,sampled_claim_window_only,P4-030,automatic captions; gameplay not visually checked
+Hl-nV1aF1yE:002,Hl-nV1aF1yE,2026-01-26,00:02:17,00:04:49,sampled_claim_window_only,P4-030;P4-031,automatic captions; gameplay not visually checked
+Hl-nV1aF1yE:003,Hl-nV1aF1yE,2026-01-26,00:04:47,00:07:05,sampled_claim_window_only,P4-031;P4-032,automatic captions; gameplay not visually checked
+Hl-nV1aF1yE:004,Hl-nV1aF1yE,2026-01-26,00:07:04,00:09:41,not_yet_reviewed,,
+Hl-nV1aF1yE:005,Hl-nV1aF1yE,2026-01-26,00:09:40,00:12:09,not_yet_reviewed,,
+FjoWkH6Sl1k:001,FjoWkH6Sl1k,2026-01-21,00:00:00,00:03:45,not_yet_reviewed,,
+FjoWkH6Sl1k:002,FjoWkH6Sl1k,2026-01-21,00:03:42,00:06:39,not_yet_reviewed,,
+FjoWkH6Sl1k:003,FjoWkH6Sl1k,2026-01-21,00:06:38,00:10:43,not_yet_reviewed,,
+FjoWkH6Sl1k:004,FjoWkH6Sl1k,2026-01-21,00:10:45,00:12:52,sampled_claim_window_only,P4-088,automatic captions; gameplay not visually checked
+FjoWkH6Sl1k:005,FjoWkH6Sl1k,2026-01-21,00:12:50,00:15:54,sampled_claim_window_only,P4-088,automatic captions; gameplay not visually checked
+FjoWkH6Sl1k:006,FjoWkH6Sl1k,2026-01-21,00:15:51,00:18:09,not_yet_reviewed,,
+aHwWbiUE4KQ:001,aHwWbiUE4KQ,2026-01-08,00:00:00,00:03:02,sampled_claim_window_only,P4-026;P4-027,automatic captions; gameplay not visually checked
+aHwWbiUE4KQ:002,aHwWbiUE4KQ,2026-01-08,00:03:00,00:05:40,sampled_claim_window_only,P4-027;P4-028,automatic captions; gameplay not visually checked
+aHwWbiUE4KQ:003,aHwWbiUE4KQ,2026-01-08,00:05:37,00:09:45,sampled_claim_window_only,P4-028;P4-029,automatic captions; gameplay not visually checked
+iLX7uqsC1jE:001,iLX7uqsC1jE,2026-01-02,00:00:00,00:02:58,not_yet_reviewed,,
+iLX7uqsC1jE:002,iLX7uqsC1jE,2026-01-02,00:02:53,00:05:44,not_yet_reviewed,,
+iLX7uqsC1jE:003,iLX7uqsC1jE,2026-01-02,00:05:40,00:08:46,not_yet_reviewed,,
+iLX7uqsC1jE:004,iLX7uqsC1jE,2026-01-02,00:08:45,00:12:23,not_yet_reviewed,,
+iLX7uqsC1jE:005,iLX7uqsC1jE,2026-01-02,00:12:20,00:15:01,sampled_claim_window_only,P4-096,automatic captions; gameplay not visually checked
+iLX7uqsC1jE:006,iLX7uqsC1jE,2026-01-02,00:14:58,00:18:24,not_yet_reviewed,,
+iLX7uqsC1jE:007,iLX7uqsC1jE,2026-01-02,00:18:22,00:21:10,sampled_claim_window_only,P4-097;P4-098,automatic captions; gameplay not visually checked
+jSCHyAWoUjc:001,jSCHyAWoUjc,2025-12-21,00:00:00,00:03:00,not_yet_reviewed,,
+jSCHyAWoUjc:002,jSCHyAWoUjc,2025-12-21,00:02:59,00:06:32,sampled_claim_window_only,P4-084;P4-085,automatic captions; gameplay not visually checked
+jSCHyAWoUjc:003,jSCHyAWoUjc,2025-12-21,00:06:34,00:10:06,not_yet_reviewed,,
+jSCHyAWoUjc:004,jSCHyAWoUjc,2025-12-21,00:10:04,00:12:38,not_yet_reviewed,,
+jSCHyAWoUjc:005,jSCHyAWoUjc,2025-12-21,00:12:38,00:16:13,not_yet_reviewed,,
+M8393UkZxjY:001,M8393UkZxjY,2025-12-19,00:00:00,00:02:19,not_yet_reviewed,,
+M8393UkZxjY:002,M8393UkZxjY,2025-12-19,00:02:18,00:05:58,not_yet_reviewed,,
+M8393UkZxjY:003,M8393UkZxjY,2025-12-19,00:05:57,00:09:58,not_yet_reviewed,,
+M8393UkZxjY:004,M8393UkZxjY,2025-12-19,00:09:57,00:13:10,not_yet_reviewed,,
+M8393UkZxjY:005,M8393UkZxjY,2025-12-19,00:13:09,00:16:07,sampled_claim_window_only,P4-083,automatic captions; gameplay not visually checked
+M8393UkZxjY:006,M8393UkZxjY,2025-12-19,00:16:06,00:19:00,sampled_claim_window_only,P4-083,automatic captions; gameplay not visually checked
+M8393UkZxjY:007,M8393UkZxjY,2025-12-19,00:18:59,00:22:40,not_yet_reviewed,,
+M8393UkZxjY:008,M8393UkZxjY,2025-12-19,00:22:39,00:25:29,not_yet_reviewed,,
+t1dnez3yuZ4:001,t1dnez3yuZ4,2025-12-14,00:00:00,00:02:11,not_yet_reviewed,,
+t1dnez3yuZ4:002,t1dnez3yuZ4,2025-12-14,00:02:10,00:05:57,not_yet_reviewed,,
+t1dnez3yuZ4:003,t1dnez3yuZ4,2025-12-14,00:05:55,00:08:49,sampled_claim_window_only,P4-086,automatic captions; gameplay not visually checked
+t1dnez3yuZ4:004,t1dnez3yuZ4,2025-12-14,00:08:46,00:12:36,sampled_claim_window_only,P4-086,automatic captions; gameplay not visually checked
+t1dnez3yuZ4:005,t1dnez3yuZ4,2025-12-14,00:12:37,00:16:46,not_yet_reviewed,,
+Y4ORvoqZ1P0:001,Y4ORvoqZ1P0,2025-12-11,00:00:00,00:04:05,sampled_claim_window_only,P4-082,automatic captions; gameplay not visually checked
+Y4ORvoqZ1P0:002,Y4ORvoqZ1P0,2025-12-11,00:04:02,00:07:01,sampled_claim_window_only,P4-082,automatic captions; gameplay not visually checked
+Y4ORvoqZ1P0:003,Y4ORvoqZ1P0,2025-12-11,00:07:02,00:10:06,not_yet_reviewed,,
+Y4ORvoqZ1P0:004,Y4ORvoqZ1P0,2025-12-11,00:10:04,00:13:38,not_yet_reviewed,,
+Y4ORvoqZ1P0:005,Y4ORvoqZ1P0,2025-12-11,00:13:37,00:17:32,not_yet_reviewed,,
+sqtmsbHxrLE:001,sqtmsbHxrLE,2025-12-08,00:00:00,00:03:17,not_yet_reviewed,,
+sqtmsbHxrLE:002,sqtmsbHxrLE,2025-12-08,00:03:16,00:05:25,sampled_claim_window_only,P4-080,automatic captions; gameplay not visually checked
+sqtmsbHxrLE:003,sqtmsbHxrLE,2025-12-08,00:05:27,00:08:12,not_yet_reviewed,,
+sqtmsbHxrLE:004,sqtmsbHxrLE,2025-12-08,00:08:11,00:11:16,not_yet_reviewed,,
+sqtmsbHxrLE:005,sqtmsbHxrLE,2025-12-08,00:11:15,00:13:22,not_yet_reviewed,,
+sqtmsbHxrLE:006,sqtmsbHxrLE,2025-12-08,00:13:28,00:17:06,not_yet_reviewed,,
+LSrm0ocaS1Q:001,LSrm0ocaS1Q,2025-11-15,00:00:00,00:03:04,sampled_claim_window_only,P4-078,automatic captions; gameplay not visually checked
+LSrm0ocaS1Q:002,LSrm0ocaS1Q,2025-11-15,00:03:02,00:05:38,not_yet_reviewed,,
+LSrm0ocaS1Q:003,LSrm0ocaS1Q,2025-11-15,00:05:37,00:08:07,sampled_claim_window_only,P4-079,automatic captions; gameplay not visually checked
+LSrm0ocaS1Q:004,LSrm0ocaS1Q,2025-11-15,00:08:05,00:10:48,sampled_claim_window_only,P4-079,automatic captions; gameplay not visually checked
+LSrm0ocaS1Q:005,LSrm0ocaS1Q,2025-11-15,00:10:47,00:13:47,not_yet_reviewed,,
+LSrm0ocaS1Q:006,LSrm0ocaS1Q,2025-11-15,00:13:46,00:17:09,not_yet_reviewed,,
+AcAxvnAEYpg:001,AcAxvnAEYpg,2025-11-06,00:00:00,00:03:06,not_yet_reviewed,,
+AcAxvnAEYpg:002,AcAxvnAEYpg,2025-11-06,00:03:04,00:06:04,not_yet_reviewed,,
+AcAxvnAEYpg:003,AcAxvnAEYpg,2025-11-06,00:06:02,00:08:19,not_yet_reviewed,,
+AcAxvnAEYpg:004,AcAxvnAEYpg,2025-11-06,00:08:21,00:11:52,not_yet_reviewed,,
+AcAxvnAEYpg:005,AcAxvnAEYpg,2025-11-06,00:11:59,00:14:40,sampled_claim_window_only,P4-081,automatic captions; gameplay not visually checked
+1OvQ5PAK0w0:001,1OvQ5PAK0w0,2025-11-03,00:00:00,00:02:41,sampled_claim_window_only,P4-022;P4-023,automatic captions; gameplay not visually checked
+1OvQ5PAK0w0:002,1OvQ5PAK0w0,2025-11-03,00:02:39,00:05:29,sampled_claim_window_only,P4-023,automatic captions; gameplay not visually checked
+1OvQ5PAK0w0:003,1OvQ5PAK0w0,2025-11-03,00:05:26,00:08:31,not_yet_reviewed,,
+1OvQ5PAK0w0:004,1OvQ5PAK0w0,2025-11-03,00:08:29,00:11:34,not_yet_reviewed,,
+1OvQ5PAK0w0:005,1OvQ5PAK0w0,2025-11-03,00:11:32,00:14:34,not_yet_reviewed,,
+1OvQ5PAK0w0:006,1OvQ5PAK0w0,2025-11-03,00:14:34,00:17:36,not_yet_reviewed,,
+1OvQ5PAK0w0:007,1OvQ5PAK0w0,2025-11-03,00:17:32,00:19:24,not_yet_reviewed,,
+2X_yEWyNms0:001,2X_yEWyNms0,2025-09-23,00:00:00,00:03:34,sampled_claim_window_only,P4-077,automatic captions; gameplay not visually checked
+2X_yEWyNms0:002,2X_yEWyNms0,2025-09-23,00:03:32,00:06:30,not_yet_reviewed,,
+2X_yEWyNms0:003,2X_yEWyNms0,2025-09-23,00:06:28,00:10:18,not_yet_reviewed,,
+TOaKp3Z44ho:001,TOaKp3Z44ho,2025-09-15,00:00:00,00:03:19,sampled_claim_window_only,P4-087,automatic captions; gameplay not visually checked
+TOaKp3Z44ho:002,TOaKp3Z44ho,2025-09-15,00:03:22,00:07:05,not_yet_reviewed,,
+TOaKp3Z44ho:003,TOaKp3Z44ho,2025-09-15,00:07:03,00:09:26,not_yet_reviewed,,
+TOaKp3Z44ho:004,TOaKp3Z44ho,2025-09-15,00:09:24,00:12:28,not_yet_reviewed,,
+TOaKp3Z44ho:005,TOaKp3Z44ho,2025-09-15,00:12:26,00:15:45,not_yet_reviewed,,
+ln2t2rl1KYw:001,ln2t2rl1KYw,2025-09-10,00:00:00,00:03:55,sampled_claim_window_only,P4-075,automatic captions; gameplay not visually checked
+ln2t2rl1KYw:002,ln2t2rl1KYw,2025-09-10,00:03:56,00:07:02,not_yet_reviewed,,
+ln2t2rl1KYw:003,ln2t2rl1KYw,2025-09-10,00:07:00,00:09:58,not_yet_reviewed,,
+ln2t2rl1KYw:004,ln2t2rl1KYw,2025-09-10,00:09:56,00:13:38,sampled_claim_window_only,P4-076,automatic captions; gameplay not visually checked
+ln2t2rl1KYw:005,ln2t2rl1KYw,2025-09-10,00:13:37,00:17:43,not_yet_reviewed,,
+ln2t2rl1KYw:006,ln2t2rl1KYw,2025-09-10,00:17:41,00:20:20,not_yet_reviewed,,
+ln2t2rl1KYw:007,ln2t2rl1KYw,2025-09-10,00:20:18,00:22:47,not_yet_reviewed,,
+aNBstKtsPms:001,aNBstKtsPms,2025-09-04,00:00:00,00:03:02,sampled_claim_window_only,P4-073,automatic captions; gameplay not visually checked
+aNBstKtsPms:002,aNBstKtsPms,2025-09-04,00:03:01,00:06:59,sampled_claim_window_only,P4-073;P4-074,automatic captions; gameplay not visually checked
+aNBstKtsPms:003,aNBstKtsPms,2025-09-04,00:06:58,00:10:50,not_yet_reviewed,,
+aNBstKtsPms:004,aNBstKtsPms,2025-09-04,00:10:48,00:13:51,not_yet_reviewed,,
+aNBstKtsPms:005,aNBstKtsPms,2025-09-04,00:13:48,00:15:48,not_yet_reviewed,,
+1UNctVbRS3M:001,1UNctVbRS3M,2025-08-31,00:00:00,00:02:40,sampled_claim_window_only,P4-024;P4-025,automatic captions; gameplay not visually checked
+1UNctVbRS3M:002,1UNctVbRS3M,2025-08-31,00:02:38,00:05:42,sampled_claim_window_only,P4-025,automatic captions; gameplay not visually checked
+1UNctVbRS3M:003,1UNctVbRS3M,2025-08-31,00:05:40,00:08:44,full_transcript_section_read,P4-135,automatic captions; gameplay not visually checked
+1UNctVbRS3M:004,1UNctVbRS3M,2025-08-31,00:08:41,00:11:55,full_transcript_section_read,P4-135;P4-136,automatic captions; gameplay not visually checked
+1UNctVbRS3M:005,1UNctVbRS3M,2025-08-31,00:11:54,00:15:03,full_transcript_section_read,P4-136;P4-137,automatic captions; gameplay not visually checked
+1UNctVbRS3M:006,1UNctVbRS3M,2025-08-31,00:15:01,00:17:52,full_transcript_section_read,P4-137;P4-138,automatic captions; gameplay not visually checked
+1UNctVbRS3M:007,1UNctVbRS3M,2025-08-31,00:17:50,00:20:55,full_transcript_section_read,P4-138;P4-139,automatic captions; gameplay not visually checked
+1UNctVbRS3M:008,1UNctVbRS3M,2025-08-31,00:20:53,00:24:54,full_transcript_section_read,P4-138;P4-139,automatic captions; gameplay not visually checked
+vu4KmVKp2f0:001,vu4KmVKp2f0,2025-08-10,00:00:02,00:03:15,sampled_claim_window_only,P4-070;P4-071,automatic captions; gameplay not visually checked
+vu4KmVKp2f0:002,vu4KmVKp2f0,2025-08-10,00:03:24,00:05:54,not_yet_reviewed,,
+vu4KmVKp2f0:003,vu4KmVKp2f0,2025-08-10,00:06:02,00:09:02,sampled_claim_window_only,P4-072,automatic captions; gameplay not visually checked
+vu4KmVKp2f0:004,vu4KmVKp2f0,2025-08-10,00:08:59,00:12:01,sampled_claim_window_only,P4-072,automatic captions; gameplay not visually checked
+x5ej22cA7G0:001,x5ej22cA7G0,2025-07-14,00:00:03,00:03:21,not_yet_reviewed,,
+x5ej22cA7G0:002,x5ej22cA7G0,2025-07-14,00:03:18,00:06:29,sampled_claim_window_only,P4-069,automatic captions; gameplay not visually checked
+x5ej22cA7G0:003,x5ej22cA7G0,2025-07-14,00:06:27,00:08:29,sampled_claim_window_only,P4-069,automatic captions; gameplay not visually checked
+x5ej22cA7G0:004,x5ej22cA7G0,2025-07-14,00:08:28,00:11:35,not_yet_reviewed,,
+x5ej22cA7G0:005,x5ej22cA7G0,2025-07-14,00:11:33,00:13:49,not_yet_reviewed,,
+xabIcyolpJA:001,xabIcyolpJA,2025-07-11,00:00:00,00:02:19,sampled_claim_window_only,P4-067,automatic captions; gameplay not visually checked
+xabIcyolpJA:002,xabIcyolpJA,2025-07-11,00:02:17,00:05:48,sampled_claim_window_only,P4-067;P4-068,automatic captions; gameplay not visually checked
+xabIcyolpJA:003,xabIcyolpJA,2025-07-11,00:05:56,00:09:37,not_yet_reviewed,,
+E1bYy6OE_OQ:001,E1bYy6OE_OQ,2025-07-02,00:00:00,00:02:33,sampled_claim_window_only,P4-019;P4-020,automatic captions; gameplay not visually checked
+E1bYy6OE_OQ:002,E1bYy6OE_OQ,2025-07-02,00:02:31,00:05:14,sampled_claim_window_only,P4-020,automatic captions; gameplay not visually checked
+E1bYy6OE_OQ:003,E1bYy6OE_OQ,2025-07-02,00:05:21,00:08:25,full_transcript_section_read,P4-132,automatic captions; gameplay not visually checked
+SJdCkYn6Is0:001,SJdCkYn6Is0,2025-06-20,00:00:00,00:02:35,sampled_claim_window_only,P4-065,automatic captions; gameplay not visually checked
+SJdCkYn6Is0:002,SJdCkYn6Is0,2025-06-20,00:02:36,00:05:32,sampled_claim_window_only,P4-065,automatic captions; gameplay not visually checked
+SJdCkYn6Is0:003,SJdCkYn6Is0,2025-06-20,00:05:39,00:10:04,sampled_claim_window_only,P4-066,automatic captions; gameplay not visually checked
+LpxT2dykNK0:001,LpxT2dykNK0,2025-06-12,00:00:01,00:03:40,sampled_claim_window_only,P4-021;P4-133,automatic captions; gameplay not visually checked
+LpxT2dykNK0:002,LpxT2dykNK0,2025-06-12,00:03:39,00:07:11,full_transcript_section_read,P4-133,automatic captions; gameplay not visually checked
+LpxT2dykNK0:003,LpxT2dykNK0,2025-06-12,00:07:23,00:08:45,full_transcript_section_read,,automatic captions; gameplay not visually checked
+GIY_4hD9_M8:001,GIY_4hD9_M8,2025-06-04,00:00:00,00:03:04,not_yet_reviewed,,
+GIY_4hD9_M8:002,GIY_4hD9_M8,2025-06-04,00:03:01,00:06:07,not_yet_reviewed,,
+GIY_4hD9_M8:003,GIY_4hD9_M8,2025-06-04,00:06:05,00:09:09,not_yet_reviewed,,
+GIY_4hD9_M8:004,GIY_4hD9_M8,2025-06-04,00:09:08,00:12:23,not_yet_reviewed,,
+GIY_4hD9_M8:005,GIY_4hD9_M8,2025-06-04,00:12:21,00:14:36,not_yet_reviewed,,
+GIY_4hD9_M8:006,GIY_4hD9_M8,2025-06-04,00:14:34,00:16:40,not_yet_reviewed,,
+GIY_4hD9_M8:007,GIY_4hD9_M8,2025-06-04,00:16:38,00:18:52,not_yet_reviewed,,
+GIY_4hD9_M8:008,GIY_4hD9_M8,2025-06-04,00:18:50,00:21:48,not_yet_reviewed,,
+GIY_4hD9_M8:009,GIY_4hD9_M8,2025-06-04,00:21:46,00:24:24,not_yet_reviewed,,
+GIY_4hD9_M8:010,GIY_4hD9_M8,2025-06-04,00:24:23,00:28:23,not_yet_reviewed,,
+GIY_4hD9_M8:011,GIY_4hD9_M8,2025-06-04,00:28:21,00:31:32,not_yet_reviewed,,
+GIY_4hD9_M8:012,GIY_4hD9_M8,2025-06-04,00:31:30,00:35:03,not_yet_reviewed,,
+GIY_4hD9_M8:013,GIY_4hD9_M8,2025-06-04,00:35:01,00:38:06,not_yet_reviewed,,
+GIY_4hD9_M8:014,GIY_4hD9_M8,2025-06-04,00:38:04,00:41:09,sampled_claim_window_only,P4-064,automatic captions; gameplay not visually checked
+GIY_4hD9_M8:015,GIY_4hD9_M8,2025-06-04,00:41:07,00:44:29,not_yet_reviewed,,
+GIY_4hD9_M8:016,GIY_4hD9_M8,2025-06-04,00:44:26,00:48:05,not_yet_reviewed,,
+GIY_4hD9_M8:017,GIY_4hD9_M8,2025-06-04,00:48:03,00:51:07,not_yet_reviewed,,
+GIY_4hD9_M8:018,GIY_4hD9_M8,2025-06-04,00:51:05,00:53:39,not_yet_reviewed,,
+n-t2m7R_Gho:001,n-t2m7R_Gho,2025-06-02,00:00:04,00:03:05,not_yet_reviewed,,
+n-t2m7R_Gho:002,n-t2m7R_Gho,2025-06-02,00:03:04,00:06:07,not_yet_reviewed,,
+n-t2m7R_Gho:003,n-t2m7R_Gho,2025-06-02,00:06:05,00:09:37,not_yet_reviewed,,
+n-t2m7R_Gho:004,n-t2m7R_Gho,2025-06-02,00:09:41,00:12:58,sampled_claim_window_only,P4-063,automatic captions; gameplay not visually checked
+n-t2m7R_Gho:005,n-t2m7R_Gho,2025-06-02,00:12:57,00:15:15,sampled_claim_window_only,P4-063,automatic captions; gameplay not visually checked
+n-t2m7R_Gho:006,n-t2m7R_Gho,2025-06-02,00:15:12,00:17:51,not_yet_reviewed,,
+n-t2m7R_Gho:007,n-t2m7R_Gho,2025-06-02,00:17:48,00:21:29,not_yet_reviewed,,
+MYW1ztAeDQc:001,MYW1ztAeDQc,2025-04-30,00:00:01,00:03:21,sampled_claim_window_only,P4-016,automatic captions; gameplay not visually checked
+MYW1ztAeDQc:002,MYW1ztAeDQc,2025-04-30,00:03:18,00:07:23,sampled_claim_window_only,P4-017,automatic captions; gameplay not visually checked
+MYW1ztAeDQc:003,MYW1ztAeDQc,2025-04-30,00:07:27,00:09:35,full_transcript_section_read,,automatic captions; gameplay not visually checked
+MYW1ztAeDQc:004,MYW1ztAeDQc,2025-04-30,00:09:39,00:12:43,sampled_claim_window_only,P4-018;P4-134,automatic captions; gameplay not visually checked
+MYW1ztAeDQc:005,MYW1ztAeDQc,2025-04-30,00:12:41,00:15:29,full_transcript_section_read,P4-134,automatic captions; gameplay not visually checked
+vNp9kRvOjKA:001,vNp9kRvOjKA,2025-04-23,00:00:02,00:03:11,sampled_claim_window_only,P4-062,automatic captions; gameplay not visually checked
+vNp9kRvOjKA:002,vNp9kRvOjKA,2025-04-23,00:03:07,00:06:38,sampled_claim_window_only,P4-062,automatic captions; gameplay not visually checked
+vNp9kRvOjKA:003,vNp9kRvOjKA,2025-04-23,00:06:36,00:10:57,sampled_claim_window_only,P4-062,automatic captions; gameplay not visually checked
+cXnFhS2l47g:001,cXnFhS2l47g,2025-03-28,00:00:02,00:03:22,sampled_claim_window_only,P4-060,automatic captions; gameplay not visually checked
+cXnFhS2l47g:002,cXnFhS2l47g,2025-03-28,00:03:20,00:05:57,not_yet_reviewed,,
+cXnFhS2l47g:003,cXnFhS2l47g,2025-03-28,00:05:55,00:08:17,not_yet_reviewed,,
+cXnFhS2l47g:004,cXnFhS2l47g,2025-03-28,00:08:15,00:10:44,not_yet_reviewed,,
+cXnFhS2l47g:005,cXnFhS2l47g,2025-03-28,00:10:39,00:13:35,not_yet_reviewed,,
+cXnFhS2l47g:006,cXnFhS2l47g,2025-03-28,00:13:35,00:17:21,sampled_claim_window_only,P4-061,automatic captions; gameplay not visually checked
+cXnFhS2l47g:007,cXnFhS2l47g,2025-03-28,00:17:19,00:20:25,not_yet_reviewed,,
+cXnFhS2l47g:008,cXnFhS2l47g,2025-03-28,00:20:23,00:22:41,not_yet_reviewed,,
+cXnFhS2l47g:009,cXnFhS2l47g,2025-03-28,00:22:39,00:25:58,not_yet_reviewed,,
+GYBpp0KM5-Q:001,GYBpp0KM5-Q,2025-01-06,00:00:03,00:02:53,sampled_claim_window_only,P4-058,automatic captions; gameplay not visually checked
+GYBpp0KM5-Q:002,GYBpp0KM5-Q,2025-01-06,00:02:51,00:06:11,sampled_claim_window_only,P4-058,automatic captions; gameplay not visually checked
+GYBpp0KM5-Q:003,GYBpp0KM5-Q,2025-01-06,00:06:09,00:09:31,not_yet_reviewed,,
+GYBpp0KM5-Q:004,GYBpp0KM5-Q,2025-01-06,00:09:30,00:11:57,not_yet_reviewed,,
+GYBpp0KM5-Q:005,GYBpp0KM5-Q,2025-01-06,00:11:54,00:14:58,sampled_claim_window_only,P4-059,automatic captions; gameplay not visually checked
+GYBpp0KM5-Q:006,GYBpp0KM5-Q,2025-01-06,00:14:56,00:16:54,not_yet_reviewed,,
+p609brPyPzg:001,p609brPyPzg,2024-12-16,00:00:01,00:02:21,sampled_claim_window_only,P4-056,automatic captions; gameplay not visually checked
+p609brPyPzg:002,p609brPyPzg,2024-12-16,00:02:19,00:05:05,sampled_claim_window_only,P4-056;P4-114,automatic captions; gameplay not visually checked
+p609brPyPzg:003,p609brPyPzg,2024-12-16,00:05:03,00:07:37,full_transcript_section_read,P4-114;P4-115,automatic captions; gameplay not visually checked
+p609brPyPzg:004,p609brPyPzg,2024-12-16,00:07:35,00:10:47,full_transcript_section_read,P4-114;P4-115,automatic captions; gameplay not visually checked
+p609brPyPzg:005,p609brPyPzg,2024-12-16,00:10:45,00:13:42,sampled_claim_window_only,P4-057;P4-115;P4-116,automatic captions; gameplay not visually checked
+p609brPyPzg:006,p609brPyPzg,2024-12-16,00:13:41,00:17:21,full_transcript_section_read,P4-116,automatic captions; gameplay not visually checked
+QvMsOy1wFr4:001,QvMsOy1wFr4,2024-12-08,00:00:01,00:03:34,full_transcript_section_read,P4-117;P4-118,automatic captions; gameplay not visually checked
+QvMsOy1wFr4:002,QvMsOy1wFr4,2024-12-08,00:03:32,00:06:31,full_transcript_section_read,P4-118,automatic captions; gameplay not visually checked
+QvMsOy1wFr4:003,QvMsOy1wFr4,2024-12-08,00:06:29,00:09:48,sampled_claim_window_only,P4-053;P4-118,automatic captions; gameplay not visually checked
+QvMsOy1wFr4:004,QvMsOy1wFr4,2024-12-08,00:09:46,00:13:25,sampled_claim_window_only,P4-053;P4-054;P4-119,automatic captions; gameplay not visually checked
+QvMsOy1wFr4:005,QvMsOy1wFr4,2024-12-08,00:13:22,00:16:45,full_transcript_section_read,P4-119;P4-120,automatic captions; gameplay not visually checked
+QvMsOy1wFr4:006,QvMsOy1wFr4,2024-12-08,00:16:43,00:19:56,full_transcript_section_read,P4-120,automatic captions; gameplay not visually checked
+QvMsOy1wFr4:007,QvMsOy1wFr4,2024-12-08,00:19:54,00:23:17,sampled_claim_window_only,P4-055;P4-120;P4-121,automatic captions; gameplay not visually checked
+QvMsOy1wFr4:008,QvMsOy1wFr4,2024-12-08,00:23:15,00:25:22,full_transcript_section_read,P4-121,automatic captions; gameplay not visually checked
+QvMsOy1wFr4:009,QvMsOy1wFr4,2024-12-08,00:25:21,00:28:24,full_transcript_section_read,P4-121,automatic captions; gameplay not visually checked
+QvMsOy1wFr4:010,QvMsOy1wFr4,2024-12-08,00:28:22,00:32:16,full_transcript_section_read,P4-121,automatic captions; gameplay not visually checked
+STbH6hH8emk:001,STbH6hH8emk,2024-12-04,00:00:01,00:02:31,sampled_claim_window_only,P4-050,automatic captions; gameplay not visually checked
+STbH6hH8emk:002,STbH6hH8emk,2024-12-04,00:02:28,00:05:32,sampled_claim_window_only,P4-050;P4-051,automatic captions; gameplay not visually checked
+STbH6hH8emk:003,STbH6hH8emk,2024-12-04,00:05:30,00:08:35,sampled_claim_window_only,P4-052,automatic captions; gameplay not visually checked
+STbH6hH8emk:004,STbH6hH8emk,2024-12-04,00:08:32,00:11:27,sampled_claim_window_only,P4-052;P4-122,automatic captions; gameplay not visually checked
+STbH6hH8emk:005,STbH6hH8emk,2024-12-04,00:11:23,00:14:49,full_transcript_section_read,P4-122,automatic captions; gameplay not visually checked
+STbH6hH8emk:006,STbH6hH8emk,2024-12-04,00:14:47,00:17:45,full_transcript_section_read,P4-122,automatic captions; gameplay not visually checked
+XhcF5IzJDq4:001,XhcF5IzJDq4,2024-12-02,00:00:02,00:03:31,sampled_claim_window_only,P4-049,automatic captions; gameplay not visually checked
+XhcF5IzJDq4:002,XhcF5IzJDq4,2024-12-02,00:03:30,00:06:14,sampled_claim_window_only,P4-049,automatic captions; gameplay not visually checked
+XhcF5IzJDq4:003,XhcF5IzJDq4,2024-12-02,00:06:12,00:08:56,full_transcript_section_read,P4-123,automatic captions; gameplay not visually checked
+XhcF5IzJDq4:004,XhcF5IzJDq4,2024-12-02,00:08:54,00:12:21,full_transcript_section_read,P4-123,automatic captions; gameplay not visually checked
+XhcF5IzJDq4:005,XhcF5IzJDq4,2024-12-02,00:12:20,00:15:16,full_transcript_section_read,P4-123;P4-124,automatic captions; gameplay not visually checked
+XhcF5IzJDq4:006,XhcF5IzJDq4,2024-12-02,00:15:14,00:17:45,full_transcript_section_read,P4-123;P4-124,automatic captions; gameplay not visually checked
+XhcF5IzJDq4:007,XhcF5IzJDq4,2024-12-02,00:17:42,00:19:44,full_transcript_section_read,P4-124,automatic captions; gameplay not visually checked
+K6Ayz-NHVe4:001,K6Ayz-NHVe4,2024-11-23,00:00:01,00:03:47,sampled_claim_window_only,P4-014,automatic captions; gameplay not visually checked
+K6Ayz-NHVe4:002,K6Ayz-NHVe4,2024-11-23,00:04:04,00:07:09,sampled_claim_window_only,P4-015,automatic captions; gameplay not visually checked
+K6Ayz-NHVe4:003,K6Ayz-NHVe4,2024-11-23,00:07:07,00:10:18,sampled_claim_window_only,P4-015,automatic captions; gameplay not visually checked
+K6Ayz-NHVe4:004,K6Ayz-NHVe4,2024-11-23,00:10:17,00:12:56,full_transcript_section_read,P4-125,automatic captions; gameplay not visually checked
+K6Ayz-NHVe4:005,K6Ayz-NHVe4,2024-11-23,00:12:53,00:16:48,full_transcript_section_read,P4-125;P4-126,automatic captions; gameplay not visually checked
+K6Ayz-NHVe4:006,K6Ayz-NHVe4,2024-11-23,00:16:46,00:19:43,full_transcript_section_read,P4-126,automatic captions; gameplay not visually checked
+V-Y0hBOI1yY:001,V-Y0hBOI1yY,2024-11-20,00:00:01,00:03:39,sampled_claim_window_only,P4-046,automatic captions; gameplay not visually checked
+V-Y0hBOI1yY:002,V-Y0hBOI1yY,2024-11-20,00:03:38,00:06:16,full_transcript_section_read,P4-127,automatic captions; gameplay not visually checked
+V-Y0hBOI1yY:003,V-Y0hBOI1yY,2024-11-20,00:06:14,00:08:45,full_transcript_section_read,P4-127,automatic captions; gameplay not visually checked
+V-Y0hBOI1yY:004,V-Y0hBOI1yY,2024-11-20,00:08:43,00:12:25,sampled_claim_window_only,P4-047;P4-048;P4-127;P4-128,automatic captions; gameplay not visually checked
+V-Y0hBOI1yY:005,V-Y0hBOI1yY,2024-11-20,00:12:23,00:15:53,full_transcript_section_read,P4-128,automatic captions; gameplay not visually checked
+nddeTxFzT6Q:001,nddeTxFzT6Q,2024-11-19,00:00:01,00:02:49,sampled_claim_window_only,P4-044;P4-129,automatic captions; gameplay not visually checked
+nddeTxFzT6Q:002,nddeTxFzT6Q,2024-11-19,00:02:48,00:05:45,full_transcript_section_read,P4-129;P4-130,automatic captions; gameplay not visually checked
+nddeTxFzT6Q:003,nddeTxFzT6Q,2024-11-19,00:05:44,00:08:40,full_transcript_section_read,P4-130,automatic captions; gameplay not visually checked
+nddeTxFzT6Q:004,nddeTxFzT6Q,2024-11-19,00:08:52,00:12:09,sampled_claim_window_only,P4-045;P4-131,automatic captions; gameplay not visually checked
+nddeTxFzT6Q:005,nddeTxFzT6Q,2024-11-19,00:12:08,00:16:01,full_transcript_section_read,P4-131,automatic captions; gameplay not visually checked
+nddeTxFzT6Q:006,nddeTxFzT6Q,2024-11-19,00:16:01,00:19:12,full_transcript_section_read,,automatic captions; gameplay not visually checked
+pMPwEwNEiQA:001,pMPwEwNEiQA,2024-11-14,00:00:01,00:03:04,sampled_claim_window_only,P4-012;P4-111,automatic captions; gameplay not visually checked
+pMPwEwNEiQA:002,pMPwEwNEiQA,2024-11-14,00:03:02,00:05:37,full_transcript_section_read,P4-111,automatic captions; gameplay not visually checked
+pMPwEwNEiQA:003,pMPwEwNEiQA,2024-11-14,00:05:33,00:08:46,sampled_claim_window_only,P4-013;P4-111,automatic captions; gameplay not visually checked
+pMPwEwNEiQA:004,pMPwEwNEiQA,2024-11-14,00:08:44,00:11:39,sampled_claim_window_only,P4-013;P4-112,automatic captions; gameplay not visually checked
+pMPwEwNEiQA:005,pMPwEwNEiQA,2024-11-14,00:11:36,00:13:46,full_transcript_section_read,P4-112;P4-113,automatic captions; gameplay not visually checked
+pMPwEwNEiQA:006,pMPwEwNEiQA,2024-11-14,00:13:43,00:15:56,full_transcript_section_read,P4-112;P4-113,automatic captions; gameplay not visually checked
+pMPwEwNEiQA:007,pMPwEwNEiQA,2024-11-14,00:15:54,00:20:09,full_transcript_section_read,,automatic captions; gameplay not visually checked
+XXrcVGWBmo4:001,XXrcVGWBmo4,2024-11-13,00:00:01,00:00:58,sampled_claim_window_only,P4-043,automatic captions; gameplay not visually checked
+z9n-JNB52rk:001,z9n-JNB52rk,2024-11-11,00:00:01,00:03:26,sampled_claim_window_only,P4-009;P4-010;P4-108,automatic captions; gameplay not visually checked
+z9n-JNB52rk:002,z9n-JNB52rk,2024-11-11,00:03:24,00:05:32,full_transcript_section_read,P4-108,automatic captions; gameplay not visually checked
+z9n-JNB52rk:003,z9n-JNB52rk,2024-11-11,00:05:31,00:07:36,full_transcript_section_read,,automatic captions; gameplay not visually checked
+z9n-JNB52rk:004,z9n-JNB52rk,2024-11-11,00:07:34,00:10:09,sampled_claim_window_only,P4-011;P4-109,automatic captions; gameplay not visually checked
+z9n-JNB52rk:005,z9n-JNB52rk,2024-11-11,00:10:06,00:14:01,full_transcript_section_read,P4-109;P4-110,automatic captions; gameplay not visually checked
+z9n-JNB52rk:006,z9n-JNB52rk,2024-11-11,00:13:59,00:15:33,full_transcript_section_read,P4-110,automatic captions; gameplay not visually checked
+c92ESPjlveI:001,c92ESPjlveI,2023-11-28,00:00:01,00:03:00,sampled_claim_window_only,P4-005;P4-006,automatic captions; gameplay not visually checked
+c92ESPjlveI:002,c92ESPjlveI,2023-11-28,00:02:58,00:06:42,sampled_claim_window_only,P4-006;P4-007,automatic captions; gameplay not visually checked
+c92ESPjlveI:003,c92ESPjlveI,2023-11-28,00:06:40,00:09:18,sampled_claim_window_only,P4-007;P4-008,automatic captions; gameplay not visually checked
+c92ESPjlveI:004,c92ESPjlveI,2023-11-28,00:09:19,00:13:19,sampled_claim_window_only,P4-008,automatic captions; gameplay not visually checked
+c92ESPjlveI:005,c92ESPjlveI,2023-11-28,00:13:20,00:16:39,full_transcript_section_read,P4-100,automatic captions; gameplay not visually checked
+JM50b3IU6-c:001,JM50b3IU6-c,2023-10-27,00:00:00,00:03:09,sampled_claim_window_only,P4-001;P4-002,automatic captions; gameplay not visually checked
+JM50b3IU6-c:002,JM50b3IU6-c,2023-10-27,00:03:07,00:05:40,full_transcript_section_read,P4-101;P4-102,automatic captions; gameplay not visually checked
+JM50b3IU6-c:003,JM50b3IU6-c,2023-10-27,00:05:39,00:08:04,full_transcript_section_read,P4-102;P4-103,automatic captions; gameplay not visually checked
+JM50b3IU6-c:004,JM50b3IU6-c,2023-10-27,00:08:02,00:10:09,sampled_claim_window_only,P4-003,automatic captions; gameplay not visually checked
+JM50b3IU6-c:005,JM50b3IU6-c,2023-10-27,00:10:08,00:13:08,full_transcript_section_read,P4-104,automatic captions; gameplay not visually checked
+JM50b3IU6-c:006,JM50b3IU6-c,2023-10-27,00:13:06,00:15:17,full_transcript_section_read,P4-104;P4-105,automatic captions; gameplay not visually checked
+JM50b3IU6-c:007,JM50b3IU6-c,2023-10-27,00:15:15,00:17:44,full_transcript_section_read,P4-106,automatic captions; gameplay not visually checked
+JM50b3IU6-c:008,JM50b3IU6-c,2023-10-27,00:17:43,00:20:48,sampled_claim_window_only,P4-004;P4-106,automatic captions; gameplay not visually checked
+JM50b3IU6-c:009,JM50b3IU6-c,2023-10-27,00:20:47,00:23:22,full_transcript_section_read,P4-107,automatic captions; gameplay not visually checked
+JM50b3IU6-c:010,JM50b3IU6-c,2023-10-27,00:23:20,00:26:07,full_transcript_section_read,P4-107,automatic captions; gameplay not visually checked

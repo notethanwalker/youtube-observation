@@ -1,6 +1,6 @@
 # Pass 4 — strategic claim extraction (in progress)
 
-Started 2026-10-02 UTC. This is a manually reviewed, transcript-grounded **initial sweep of all known uploads**. It does **not** finish Pass 4 or establish that the gameplay examples are correct.
+Started 2026-10-02 UTC. This is a manually reviewed, transcript-grounded **initial sweep of all known uploads, followed by a section-by-section second read in progress**. It does **not** finish Pass 4 or establish that the gameplay examples are correct.
 
 ## Progress
 
@@ -9,13 +9,16 @@ Started 2026-10-02 UTC. This is a manually reviewed, transcript-grounded **initi
 | Known uploads | 54 |
 | Uploads sampled for claims | 51 |
 | Uploads reviewed without a stable model claim | 3 |
-| Provisional atomic claims | 99 |
-| Years represented | 2023: 8 claims; 2024: 22; 2025: 40; 2026: 29 |
+| Provisional atomic claims | 139 |
+| Years represented | 2023: 16 claims; 2024: 46; 2025: 48; 2026: 29 |
+| Pass 3 sections with a full Pass 4 caption read | 58 of 292 |
+| Additional sections with sampled claim windows only | 112 of 292 |
+| Sections without a Pass 4 read yet | 122 of 292 |
 | Video frames reviewed | 0 |
-| Claims requiring high visual review | 69 |
+| Claims requiring high visual review | 107 |
 | Claims with low transcript confidence | 3 |
 
-The 51 claim-bearing uploads were **not** reviewed exhaustively. Their remaining transcript windows are still in the queue. The two short reaction clips have too little caption context for a stable tactical claim; the announcement concerns the channel's content plans. This is a broad sample across early definitions, role examples, composition and draft discussion, pro reviews, later clarifications, and learning advice. It is not a frequency estimate of the whole corpus. The speaker announced a 2026 shift toward more general public videos and a separate venue for some team-specific analysis; public channel coverage therefore cannot be treated as a uniform sample of his thinking over time (`UC8D2vBDf_0`, 00:00:04–00:02:21).
+The 51 claim-bearing uploads were **not** reviewed exhaustively. A section marked `sampled_claim_window_only` has a timestamped claim but has not had a full section read; it must not count as complete. The two short reaction clips have too little caption context for a stable tactical claim; the announcement concerns the channel's content plans. This is a broad sample across early definitions, role examples, composition and draft discussion, pro reviews, later clarifications, and learning advice. It is not a frequency estimate of the whole corpus. The speaker announced a 2026 shift toward more general public videos and a separate venue for some team-specific analysis; public channel coverage therefore cannot be treated as a uniform sample of his thinking over time (`UC8D2vBDf_0`, 00:00:04–00:05:12).
 
 ## Files
 
@@ -23,6 +26,7 @@ The 51 claim-bearing uploads were **not** reviewed exhaustively. Their remaining
 - `pass04_claims.csv`: same data for filtering.
 - `pass04_claims_seed.py`: transparent manually curated source and export script. This script does not invent claims from a keyword classifier.
 - `pass04_coverage_queue.csv`: all 54 uploads and their current Pass 4 coverage. A claim-bearing video remains marked `sampled_not_exhaustive`; the three other rows explain why no model claim was extracted.
+- `pass04_section_audit.csv`: all 292 Pass 3 sections, separating complete caption reads, sampled claim windows, and sections not yet reviewed. `pass04_section_audit.py` rebuilds this queue from the manual full-read list and claim ledger.
 
 ## Extraction rules
 
@@ -38,10 +42,10 @@ Every ledger row is `provisional`, has `gameplay_verified: false`, and states th
 
 | Relationship | Evidence | Current reading | Later check |
 |---|---|---|---|
-| First/second/neutral turns | P4-005–008; P4-014; P4-033–035 | The early definitions are compatible with the later warning that these timing labels alone do not tell a team how to play. The 2026 example adds deliberate bait and its counterplay. | Read remaining uses across the corpus; inspect both match POVs. |
+| First/second/neutral turns | P4-005–008; P4-014; P4-033–035; P4-100; P4-109; P4-118 | The early definitions are compatible with the later warning that these timing labels alone do not tell a team how to play. Later examples include cooldown-first moves and repeated turns. | Read remaining uses across the corpus; inspect both match POVs. |
 | Corner discipline and voluntary retreat | P4-009–011; P4-021; P4-030–032; P4-039 | The speaker explicitly distinguishes giving space early, with resources and future options, from being forced off after the opponent reaches the corner. He raises the apparent conflict with “Lock Eyes and Fight” himself. | Visually check distances, timing, and when fighting the setup is preferable. |
-| Ultimate economy | P4-026–029; P4-036–038 | “Does Not Matter” is a provocative title. The spoken thesis says it still matters, especially for named composition families; a later match review maintains this qualification and faults lost fights and poor setup. | Inspect the cited fights, ult charge, and 2026 patch context. Search other videos for genuine counterexamples. |
-| Dive survivability | P4-016–018 | “Cannot live a good dive” is conditional on the dive already being well staged; the actionable claim is to disrupt staging first. | Test the boundary with counterexamples and replay POV. |
+| Ultimate economy | P4-026–029; P4-036–038; P4-117–121; P4-128; P4-134 | “Does Not Matter” is a provocative title. The spoken thesis says it still matters, especially for named composition families; 2024 matchups and proactive defensive ult use show specific situations where ultimate timing is central. This is a scoped relationship, not a settled contradiction. | Inspect the cited fights, ult charge, and patch contexts. Search other videos for genuine counterexamples. |
+| Dive survivability | P4-016–018; P4-134–139 | “Cannot live a good dive” is conditional on the dive already being well staged; the actionable claim is to disrupt staging first, sometimes with a proactive ultimate. The low-damage dive review distinguishes soft probes from hard commitment. | Test the boundary with counterexamples and replay POV. |
 | Learning method | P4-022–023; P4-040–042 | The advice emphasizes causal reconstruction of what players saw and did, with written observation and matched comparisons. | Sample the coaching archive for earlier or competing advice. |
 | Split cores and later aggro balance | P4-001–004; P4-091 | The 2026 discussion resembles the 2023 split-core push/pull account, but it uses a different composition and repeated attention shifts. | Determine which parts generalize and which are hero- or patch-specific. |
 | Mechanics, attention, and planning | P4-012–013; P4-022–023; P4-078–079; P4-096–098 | His explanations include aim, mechanical execution, attention allocation, and deliberate practice alongside strategic setup. | Avoid a model that explains every failed fight through positioning alone. |
@@ -50,7 +54,7 @@ These relationships are navigation notes, not the final `model.md` synthesis. No
 
 ## Next Pass 4 work
 
-1. Finish the unsampled transcript windows in the 51 claim-bearing videos, prioritizing long videos such as `GIY_4hD9_M8` and mixed watch-party material. Use `pass04_coverage_queue.csv` to keep the denominator visible. The initial sweep covered every upload, not every section.
+1. Continue the 122 sections marked `not_yet_reviewed`, prioritizing long videos such as `GIY_4hD9_M8` and mixed watch-party material. Then give the 112 sampled-only sections a full read. Use `pass04_section_audit.csv` to keep the denominator visible. The initial sweep covered every upload, not every section.
 2. Expand underrepresented exceptions, failed examples, role and composition matchups, and deliberate counterexamples. Revisit the 2024–2025 intervening uploads before making temporal evolution claims.
 3. For every new claim, include a timestamp interval and condition; separate guest speech and quoted material from Capitology's own endorsement.
 4. Audit the ledger against the caption events and make a second read of ambiguous ASR. Only after transcript coverage is complete should Pass 4 be called complete.
