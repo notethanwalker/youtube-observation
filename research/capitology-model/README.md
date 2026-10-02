@@ -1,6 +1,6 @@
 # Capitology Overwatch Model Project
 
-Status: Pass 4 completed a full caption read of 292 sections and recorded 206 provisional claims from 51 of 54 uploads; two Shorts and an announcement yielded no stable model claim. Pass 5 clusters all claims into 16 provisional primary concepts. Pass 6 retrieved and verified 23 selected visual windows from 12 videos. Tactical gameplay claims remain unvalidated until Pass 7 footage review.
+Status: Pass 4 completed a full caption read of 292 sections and recorded 206 provisional claims from 51 of 54 uploads; two Shorts and an announcement yielded no stable model claim. Pass 5 clusters all claims into 16 provisional primary concepts. Pass 6 retrieved and verified 23 selected visual windows from 12 videos. Pass 7 completed a bounded visual review of all 23 and closer sequence review of seven; the edited footage supports selected mechanisms while leaving exact and corpus-wide claims open.
 
 Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTube corpus, while preserving evidence, contradictions, evolution over time, and the distinction between serious analysis and entertainment.
 
@@ -36,7 +36,9 @@ Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTub
 - `PASS05_CONCEPT_CLUSTERING_REPORT.md`: concept map, qualifications, candidate tensions, and visual-review handoff.
 - `pass06_retrieval_queue.csv` / `pass06_retrieval_queue.py`: 23 bounded video windows, paired across six open questions, with time links and checks.
 - `pass06_retrieval_registry.json` / `pass06_finalize_retrieval.py`: verified clip hashes, source runs, archive mapping, and repeatable package validation.
-- `PASS06_VISUAL_RETRIEVAL_REPORT.md`: selection, capture route, archive checksums, evidence boundary, and Pass 7 handoff.
+- `PASS06_VISUAL_RETRIEVAL_REPORT.md`: selection, capture route, archive checksums, and retrieval boundary.
+- `pass07_visual_ledger.jsonl` / `PASS07_VISUAL_ANALYSIS_REPORT.md`: window-level visible evidence, caption interpretations, six paired findings, and limits.
+- `pass07_contact_sheets.py`: repeatable timestamped visual triage from the retrieved clips.
 
 54 unique uploads are known: 53 public (48 Videos + 5 Shorts) and one unlisted upload discovered through the public Overwatch Macro playlist. The date range is 2023-10-27 through 2026-09-29, with 14 hours 33 minutes 33 seconds of total runtime. All 54 have titles, upload dates, durations, URLs, descriptions, and advertised English automatic caption tracks. Empty descriptions are preserved as empty strings. No known record has an unresolved metadata gap.
 
@@ -50,8 +52,8 @@ No known entry is confirmed private or deleted. This does not establish that the
 4. Strategic claim extraction — transcript sweep complete; claims provisional
 5. Concept clustering — provisional transcript-based map complete
 6. Selective visual retrieval — complete; 23 of 23 windows retrieved, visual interpretation pending
-7. Deep visual analysis of high-information/ambiguous segments
+7. Selective visual analysis of high-information/ambiguous segments — 23 reviewed at sampled intervals, seven examined more closely; unresolved facts retained
 8. Contradiction and evolution pass
 9. Model synthesis
 
-Next step: inspect the archived footage with caption context in Pass 7. The 16 clusters organize paraphrases of spoken analysis; they have not been adjudicated against gameplay video. `model.md` remains an empty synthesis scaffold until visual checks and contradiction review.
+Next step: Pass 8 contradiction and evolution adjudication using the visual ledger and dated claims. The 16 transcript clusters have selected visual examples and explicit limits, not comprehensive match validation. `model.md` remains an empty synthesis scaffold until visual checks and contradiction review.

@@ -14,6 +14,8 @@ CLAIMS = {c["claim_id"]: c for c in map(json.loads, (ROOT / "pass04_claims.jsonl
 VIDEO_DURATIONS = {v["video_id"]: v["duration_seconds"] for v in json.loads((ROOT / "pass01_public_index.json").read_text())["videos"]}
 registry_path = ROOT / "pass06_retrieval_registry.json"
 REGISTRY = json.loads(registry_path.read_text())["windows"] if registry_path.exists() else {}
+review_path = ROOT / "pass07_visual_ledger.jsonl"
+REVIEWS = {r["window_id"]: r for r in map(json.loads, review_path.open())} if review_path.exists() else {}
 
 # Each question has an older or framing example and a later, limiting, or
 # counterexample. A/B priority controls retrieval order, not evidential weight.
@@ -69,12 +71,13 @@ for i, (question, priority, role, cid, start, end, check) in enumerate(WINDOWS, 
         "url": f'https://www.youtube.com/watch?v={c["video_id"]}&t={a}s',
         "visual_check": check,
         "retrieval_status": retrieved["retrieval_status"] if retrieved else "queued_not_retrieved",
-        "visual_review_status": retrieved["visual_review_status"] if retrieved else "not_reviewed",
+        "visual_review_status": REVIEWS[f"V6-{i:02d}"]["review_status"] if f"V6-{i:02d}" in REVIEWS else "not_reviewed",
     })
 
 assert len(rows) == 23 and len({r["window_id"] for r in rows}) == len(rows)
 assert len({r["video_id"] for r in rows}) == 12
 assert {r["question"] for r in rows} == {"turns", "retreat", "ultimate_economy", "dive_survival", "bait", "splits"}
+assert not (set(REVIEWS) - {r["window_id"] for r in rows})
 
 with (ROOT / "pass06_retrieval_queue.csv").open("w", newline="") as f:
     w = csv.DictWriter(f, fieldnames=list(rows[0]), lineterminator="\n")

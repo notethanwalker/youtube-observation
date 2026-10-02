@@ -1,6 +1,6 @@
 # Pass 6 — selective visual retrieval
 
-**Status: selective retrieval complete; 23 of 23 windows have playable, verified clips. Tactical visual review remains open for Pass 7.** This is a retrieval record, not an adjudication of the Pass 5 relationships.
+**Status: selective retrieval complete; 23 of 23 windows have playable, verified clips.** This is the Pass 6 retrieval record. The subsequent bounded visual review and remaining uncertainties are in `PASS07_VISUAL_ANALYSIS_REPORT.md`.
 
 ## Selection
 
@@ -25,7 +25,7 @@ The small GitHub-hosted runner probe also failed to obtain video formats. The ex
 
 The storyboard samples this video about once every five seconds at roughly 320×180 per tile, useful for navigation but insufficient for detailed HUD/cooldown checks. The full source supports exact local cuts and frame stepping.
 
-The subsequent `.github/workflows/capitology-pass6-batch.yml` retrieved the selected footage in four bounded batches on the existing Windows runner. It downloaded each source once per batch, cut the queued windows into silent H.264 clips at no more than 480p, extracted start/middle/end check frames, and removed full source files from the runner. The local proof and four batches yielded all 23 clips across 12 videos. The consolidated `pass06_retrieval_registry.json` records archive, original time range, clip SHA-256, frames, and source run for each window. `pass06_finalize_retrieval.py` verified source-manifest hashes, nonempty frames, clip durations, and exact corrected queue boundaries before packaging. All CSV rows now say `retrieved_video_only` and `not_reviewed`.
+The subsequent `.github/workflows/capitology-pass6-batch.yml` retrieved the selected footage in four bounded batches on the existing Windows runner. It downloaded each source once per batch, cut the queued windows into silent H.264 clips at no more than 480p, extracted start/middle/end check frames, and removed full source files from the runner. The local proof and four batches yielded all 23 clips across 12 videos. The consolidated `pass06_retrieval_registry.json` records archive, original time range, clip SHA-256, frames, and source run for each window. `pass06_finalize_retrieval.py` verified source-manifest hashes, nonempty frames, clip durations, and exact corrected queue boundaries before packaging. At Pass 6 closure, all rows said `retrieved_video_only` and `not_reviewed`; the current queue incorporates Pass 7's separate sampled review statuses.
 
 | Archive | Windows | Source | Archive SHA-256 |
 |---|---:|---|---|
