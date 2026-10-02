@@ -6,19 +6,15 @@ A single-owner, password-protected upload and report application. The user uploa
 
 The first trial can run entirely on your PC. No Render, phone app, tunnel, public URL, or port forwarding is required. Recordings and reports stay on the PC; sampled still frames are sent to the model API. The PC must stay on and the launcher window must remain open during an upload and analysis. Model API usage is separately billed.
 
-1. Install [Python 3.12+](https://www.python.org/downloads/windows/) and [FFmpeg](https://ffmpeg.org/download.html). Confirm `python`, `ffmpeg`, and `ffprobe` are on PATH by opening a new PowerShell window and running `python --version`, `ffmpeg -version`, and `ffprobe -version`.
-2. Download the repository using GitHub's **Code → Download ZIP** and extract it, or clone it. In the extracted `youtube-observation` folder, open PowerShell.
-3. Run:
+1. [Download the project ZIP](https://github.com/notethanwalker/youtube-observation/archive/refs/heads/main.zip), extract it, and double-click **`START_CAPITOLOGY.cmd`** inside the extracted `youtube-observation` folder.
+2. The launcher checks for Python 3.12+ and FFmpeg. If either is absent, it asks Windows Package Manager (`winget`) to install the official Python package and the Gyan FFmpeg package. Windows may show an installer or permission prompt. If `winget` is unavailable, install [Python](https://www.python.org/downloads/windows/) and [FFmpeg](https://ffmpeg.org/download.html) manually, then run the launcher again.
+3. Enter an OpenAI API key and a private review password when prompted. The launcher keeps these in that process rather than writing a config file. Open [http://127.0.0.1:8080](http://127.0.0.1:8080) on the same PC. When the browser asks for credentials, use `player` as the username and the password you chose.
 
-```powershell
-powershell -ExecutionPolicy Bypass -File .\scripts\start_match_review_windows.ps1
-```
-
-The launcher prompts for your OpenAI API key and a private review password, keeping both in that PowerShell session rather than writing a config file. It checks dependencies and starts the service bound to `127.0.0.1`. Open [http://127.0.0.1:8080](http://127.0.0.1:8080) on the same PC. When the browser asks for credentials, use `player` as the username and the password you chose. Upload an exported MP4/MOV/MKV/WebM match recording. The browser remembers the last job on this PC while its data remains available. Closing the PowerShell window stops the service; running the script again resumes saved jobs and reports.
-
-A ChatGPT subscription does not itself configure this app's API access; the launcher needs a separate OpenAI API key. No credential is included in GitHub. The default upload limit is 2 GiB and the maximum video duration is one hour. Full-match tactical accuracy remains to be tested with your recordings.
+Keep the launcher window open during an upload and analysis. A ChatGPT subscription does not itself configure this app's API access; this version needs a separate OpenAI API key. The default upload limit is 2 GiB and the maximum video duration is one hour. The browser remembers the last job on this PC while its data remains available. Running the launcher again resumes saved jobs and reports. Full-match tactical accuracy remains to be tested with your recordings.
 
 Local job files are in `match-review-data/`, excluded from Git. Delete a finished job from the report page when done. The same password grants access to all jobs in this single-owner prototype. Do not commit recordings, reports, or secrets to GitHub.
+
+For a manual launch, open PowerShell in the extracted project folder and run `powershell -ExecutionPolicy Bypass -File .\scripts\start_match_review_windows.ps1`.
 
 ### Phone access later
 

@@ -1,14 +1,18 @@
 name: Match review Windows smoke
 on:
   workflow_dispatch:
+  issues:
+    types: [opened]
   push:
     paths:
       - 'match_review/**'
       - 'tests/test_match_review.py'
       - 'scripts/start_match_review_windows.ps1'
+      - 'START_CAPITOLOGY.cmd'
       - '.github/workflows/match-review-windows-smoke.yml'
 jobs:
   local-desktop:
+    if: github.event_name != 'issues' || (github.event.issue.user.login == github.repository_owner && startsWith(github.event.issue.title, 'CAPITOLOGY WINDOWS SMOKE'))
     runs-on: windows-latest
     permissions:
       contents: read
