@@ -74,7 +74,172 @@ class FakeResponses(BaseHTTPRequestHandler):
         pass
 
 
+class FakeOllama(BaseHTTPRequestHandler):
+    calls = []
+
+    def do_POST(self):
+        payload = json.loads(self.rfile.read(int(self.headers['Content-Length'])))
+        assert self.path == '/api/chat'
+        assert payload['model'] == 'qwen3-vl:4b-instruct'
+        assert payload['stream'] is False
+        assert 'candidates' in payload['format']['properties']
+        assert base64.b64decode(payload['messages'][0]['images'][0]).startswith(b'\xff\xd8')
+        self.__class__.calls.append(payload)
+        raw = json.dumps({'message': {'content': json.dumps({'overview': 'Sparse frames only',
+                                                              'candidates': []})}}).encode()
+        self.send_response(200)
+        self.send_header('Content-Type', 'application/json')
+        self.send_header('Content-Length', str(len(raw)))
+        self.end_headers()
+        self.wfile.write(raw)
+
+    def log_message(self, *args):
+        pass
+
+
+class FakeGemini(BaseHTTPRequestHandler):
+    calls = []
+    fail_on_second_once = False
+
+    def do_POST(self):
+        payload = json.loads(self.rfile.read(int(self.headers['Content-Length'])))
+        assert self.path == '/gemini-2.5-flash:generateContent'
+        assert self.headers['x-goog-api-key'] == 'test-gemini-key'
+        assert payload['generationConfig']['responseMimeType'] == 'application/json'
+        assert 'candidates' in payload['generationConfig']['responseJsonSchema']['properties']
+        parts = payload['contents'][0]['parts']
+        assert base64.b64decode(parts[1]['inline_data']['data']).startswith(b'\xff\xd8')
+        self.__class__.calls.append(payload)
+        if self.__class__.fail_on_second_once and len(self.__class__.calls) == 2:
+            self.__class__.fail_on_second_once = False
+            self.send_response(503)
+            self.send_header('Content-Length', '0')
+            self.end_headers()
+            return
+        result = json.dumps({'overview': 'Sparse frames only', 'candidates': []})
+        raw = json.dumps({'candidates': [{'content': {'parts': [{'text': result}]}}]}).encode()
+        self.send_response(200)
+        self.send_header('Content-Type', 'application/json')
+        self.send_header('Content-Length', str(len(raw)))
+        self.end_headers()
+        self.wfile.write(raw)
+
+    def log_message(self, *args):
+        pass
+
+
 class MatchReviewTest(unittest.TestCase):
+    def test_free_gemini_upload_and_report(self):
+        with tempfile.TemporaryDirectory() as temp:
+            clip = Path(temp) / 'clip.mp4'
+            subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-f', 'lavfi',
+                            '-i', 'testsrc2=size=320x180:rate=1', '-t', '125', '-c:v', 'mpeg4',
+                            str(clip)], check=True)
+            fake = ThreadingHTTPServer(('127.0.0.1', 0), FakeGemini)
+            local = ThreadingHTTPServer(('127.0.0.1', 0), server.Handler)
+            old = (server.DATA, server.PASSWORD, analysis.GEMINI_URL,
+                   os.getenv('MATCH_REVIEW_PROVIDER'), os.getenv('GEMINI_API_KEY'))
+            server.DATA = Path(temp) / 'jobs'
+            server.PASSWORD = 'secret'
+            analysis.GEMINI_URL = f'http://127.0.0.1:{fake.server_port}'
+            os.environ['MATCH_REVIEW_PROVIDER'] = 'gemini'
+            os.environ['GEMINI_API_KEY'] = 'test-gemini-key'
+            FakeGemini.calls = []
+            FakeGemini.fail_on_second_once = True
+            for instance in (fake, local):
+                threading.Thread(target=instance.serve_forever, daemon=True).start()
+            try:
+                conn = HTTPConnection('127.0.0.1', local.server_port, timeout=30)
+                auth = 'Basic ' + base64.b64encode(b'player:secret').decode()
+                conn.request('POST', '/api/jobs', body=clip.read_bytes(),
+                             headers={'Authorization': auth, 'X-Filename': 'test.mp4'})
+                response = conn.getresponse()
+                status, raw = response.status, response.read()
+                conn.close()
+                self.assertEqual(status, 201, raw)
+                job_id = json.loads(raw)['id']
+                for _ in range(100):
+                    job = server.read_job(job_id)
+                    if job['status'] in ('complete', 'insufficient_evidence', 'failed'):
+                        break
+                    time.sleep(.1)
+                self.assertEqual(job['status'], 'failed', job)
+                checkpoint = json.loads((server.DATA / job_id / 'analysis_checkpoint.json').read_text())
+                self.assertEqual(len(checkpoint['overviews']), 1)
+                conn = HTTPConnection('127.0.0.1', local.server_port, timeout=30)
+                conn.request('POST', f'/api/jobs/{job_id}/retry', headers={'Authorization': auth})
+                response = conn.getresponse()
+                self.assertEqual(response.status, 202, response.read())
+                response.read()
+                conn.close()
+                for _ in range(100):
+                    job = server.read_job(job_id)
+                    if job['status'] in ('complete', 'insufficient_evidence', 'failed'):
+                        break
+                    time.sleep(.1)
+                self.assertEqual(job['status'], 'insufficient_evidence', job)
+                self.assertEqual(json.loads((server.DATA / job_id / 'report.json').read_text())['candidate_count'], 0)
+                self.assertEqual(len(FakeGemini.calls), 3)
+                self.assertFalse((server.DATA / job_id / 'analysis_checkpoint.json').exists())
+            finally:
+                for instance in (local, fake):
+                    instance.shutdown()
+                    instance.server_close()
+                server.DATA, server.PASSWORD, analysis.GEMINI_URL, provider, key = old
+                if provider is None: os.environ.pop('MATCH_REVIEW_PROVIDER', None)
+                else: os.environ['MATCH_REVIEW_PROVIDER'] = provider
+                if key is None: os.environ.pop('GEMINI_API_KEY', None)
+                else: os.environ['GEMINI_API_KEY'] = key
+
+    def test_local_ollama_upload_and_report_without_api_key(self):
+        with tempfile.TemporaryDirectory() as temp:
+            clip = Path(temp) / 'clip.mp4'
+            subprocess.run(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-f', 'lavfi',
+                            '-i', 'testsrc2=size=320x180:rate=1', '-t', '16', '-c:v', 'mpeg4',
+                            str(clip)], check=True)
+            fake = ThreadingHTTPServer(('127.0.0.1', 0), FakeOllama)
+            local = ThreadingHTTPServer(('127.0.0.1', 0), server.Handler)
+            old = (server.DATA, server.PASSWORD, analysis.OLLAMA_URL,
+                   os.getenv('MATCH_REVIEW_PROVIDER'), os.getenv('OPENAI_API_KEY'))
+            server.DATA = Path(temp) / 'jobs'
+            server.PASSWORD = 'secret'
+            analysis.OLLAMA_URL = f'http://127.0.0.1:{fake.server_port}'
+            os.environ['MATCH_REVIEW_PROVIDER'] = 'ollama'
+            os.environ.pop('OPENAI_API_KEY', None)
+            FakeOllama.calls = []
+            for instance in (fake, local):
+                threading.Thread(target=instance.serve_forever, daemon=True).start()
+            try:
+                def call(method, path, body=None, headers=None):
+                    conn = HTTPConnection('127.0.0.1', local.server_port, timeout=30)
+                    auth = 'Basic ' + base64.b64encode(b'player:secret').decode()
+                    conn.request(method, path, body=body, headers={'Authorization': auth, **(headers or {})})
+                    response = conn.getresponse()
+                    status, raw = response.status, response.read()
+                    conn.close()
+                    return status, raw
+                status, raw = call('POST', '/api/jobs', clip.read_bytes(), {'X-Filename': 'test.mp4'})
+                self.assertEqual(status, 201, raw)
+                job_id = json.loads(raw)['id']
+                for _ in range(100):
+                    job = json.loads(call('GET', f'/api/jobs/{job_id}')[1])
+                    if job['status'] in ('complete', 'insufficient_evidence', 'failed'):
+                        break
+                    time.sleep(.1)
+                self.assertEqual(job['status'], 'insufficient_evidence', job)
+                self.assertEqual(json.loads(call('GET', f'/api/jobs/{job_id}/report')[1])['candidate_count'], 0)
+                self.assertEqual(len(FakeOllama.calls), 1)
+                self.assertFalse((server.DATA / job_id / 'frames').exists())
+            finally:
+                for instance in (local, fake):
+                    instance.shutdown()
+                    instance.server_close()
+                server.DATA, server.PASSWORD, analysis.OLLAMA_URL, provider, key = old
+                if provider is None: os.environ.pop('MATCH_REVIEW_PROVIDER', None)
+                else: os.environ['MATCH_REVIEW_PROVIDER'] = provider
+                if key is None: os.environ.pop('OPENAI_API_KEY', None)
+                else: os.environ['OPENAI_API_KEY'] = key
+
     def test_upload_analysis_report_and_feedback(self):
         with tempfile.TemporaryDirectory() as temp:
             folder = Path(temp)

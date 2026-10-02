@@ -1,8 +1,8 @@
 """Broad-to-dense video review grounded in the Pass 9 Capitology rules.
 
 Uses sampled stills for navigation and closer windows for findings. It never
-claims to inspect unsampled motion or audio. An API key is required; no mock
-review is exposed in the player-facing service.
+claims to inspect unsampled motion or audio. Supports local Ollama vision models
+or the OpenAI API; no mock review is exposed in the player-facing service.
 """
 
 from __future__ import annotations
@@ -16,6 +16,9 @@ import time
 from collections import Counter
 from pathlib import Path
 from urllib.error import HTTPError
+from urllib.error import URLError
+from urllib.parse import urlsplit
+from urllib.parse import quote
 from urllib.request import Request, urlopen
 
 
@@ -24,6 +27,10 @@ RULES_PATH = ROOT / "research/capitology-model/pass09_rules.json"
 API_URL = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1").rstrip("/") + "/responses"
 BROAD_MODEL = os.getenv("MATCH_REVIEW_BROAD_MODEL", "gpt-5-mini")
 DENSE_MODEL = os.getenv("MATCH_REVIEW_DENSE_MODEL", "gpt-5-mini")
+LOCAL_MODEL = os.getenv("MATCH_REVIEW_LOCAL_MODEL", "qwen3-vl:4b-instruct")
+OLLAMA_URL = os.getenv("MATCH_REVIEW_OLLAMA_URL", "http://127.0.0.1:11434").rstrip("/")
+GEMINI_MODEL = os.getenv("MATCH_REVIEW_GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_URL = os.getenv("MATCH_REVIEW_GEMINI_URL", "https://generativelanguage.googleapis.com/v1beta/models").rstrip("/")
 MAX_DURATION = int(os.getenv("MATCH_REVIEW_MAX_DURATION_SECONDS", "3600"))
 MAX_BROAD_CALLS = int(os.getenv("MATCH_REVIEW_MAX_BROAD_CALLS", "30"))
 MAX_DENSE_CALLS = int(os.getenv("MATCH_REVIEW_MAX_DENSE_CALLS", "8"))
@@ -61,7 +68,90 @@ def image_content(path: Path) -> dict:
             base64.b64encode(path.read_bytes()).decode("ascii"), "detail": "high"}
 
 
+def provider_ready() -> bool:
+    provider = os.getenv("MATCH_REVIEW_PROVIDER", "openai").lower()
+    if provider == "ollama":
+        return True  # The local server/model are checked when analysis starts.
+    if provider == "gemini":
+        return bool(os.getenv("GEMINI_API_KEY"))
+    return provider == "openai" and bool(os.getenv("OPENAI_API_KEY"))
+
+
+def gemini_call(prompt: str, images: list[Path], schema: dict) -> dict:
+    key = os.getenv("GEMINI_API_KEY", "")
+    if not key:
+        raise RuntimeError("Enter your free Gemini API key in the launcher, then retry the saved recording.")
+    parts = [{"text": prompt}] + [
+        {"inline_data": {"mime_type": "image/jpeg", "data": base64.b64encode(path.read_bytes()).decode("ascii")}}
+        for path in images]
+    payload = {"contents": [{"role": "user", "parts": parts}],
+               "generationConfig": {"responseMimeType": "application/json", "responseJsonSchema": schema,
+                                    "temperature": 0}}
+    request = Request(GEMINI_URL + "/" + quote(GEMINI_MODEL, safe="") + ":generateContent",
+                      data=json.dumps(payload).encode("utf-8"),
+                      headers={"x-goog-api-key": key, "Content-Type": "application/json"}, method="POST")
+    for attempt in range(3):
+        try:
+            with urlopen(request, timeout=240) as response:
+                data = json.load(response)
+            break
+        except HTTPError as exc:
+            detail = exc.read(2048).decode("utf-8", errors="replace")
+            if exc.code == 429:
+                if attempt < 2:
+                    retry_after = exc.headers.get("Retry-After", "")
+                    delay = float(retry_after) if retry_after.isdigit() else 5 * (attempt + 1)
+                    time.sleep(min(30, max(1, delay)))
+                    continue
+                raise RuntimeError("Gemini free-tier limit reached. Check your AI Studio usage and retry this saved recording later.") from exc
+            if exc.code in (401, 403):
+                raise RuntimeError("Gemini key was rejected or has no access. Check the AI Studio key, then restart the launcher.") from exc
+            raise RuntimeError(f"Gemini analysis request failed (HTTP {exc.code}): {detail[:300]}") from exc
+        except (URLError, TimeoutError) as exc:
+            raise RuntimeError("Gemini could not be reached. Check your internet connection, then retry the saved recording.") from exc
+    try:
+        return json.loads("".join(p["text"] for p in data["candidates"][0]["content"]["parts"] if "text" in p))
+    except (KeyError, IndexError, TypeError, ValueError) as exc:
+        raise RuntimeError("Gemini returned no valid structured review. Try the saved recording again.") from exc
+
+
+def local_call(prompt: str, images: list[Path], schema: dict) -> dict:
+    # Do not permit a mistaken URL override to send private recording frames away.
+    url = urlsplit(OLLAMA_URL)
+    if url.scheme != "http" or url.hostname not in {"127.0.0.1", "localhost", "::1"} or url.username or url.password or url.path not in {"", "/"}:
+        raise RuntimeError("The local Ollama URL must point to loopback HTTP on this PC.")
+    payload = {
+        "model": LOCAL_MODEL, "stream": False, "format": schema,
+        "options": {"temperature": 0, "num_ctx": 16384},
+        "messages": [{"role": "user", "content": prompt + "\nReturn only JSON matching the requested schema.",
+                      "images": [base64.b64encode(path.read_bytes()).decode("ascii") for path in images]}],
+    }
+    request = Request(OLLAMA_URL + "/api/chat", data=json.dumps(payload).encode("utf-8"),
+                      headers={"Content-Type": "application/json"}, method="POST")
+    try:
+        with urlopen(request, timeout=1200) as response:
+            data = json.load(response)
+    except HTTPError as exc:
+        detail = exc.read(512).decode("utf-8", errors="replace")
+        if exc.code == 404:
+            raise RuntimeError(f"Local model {LOCAL_MODEL} is missing. Run 'ollama pull {LOCAL_MODEL}', then retry the saved recording.") from exc
+        raise RuntimeError(f"Local Ollama analysis failed (HTTP {exc.code}): {detail}") from exc
+    except (URLError, TimeoutError) as exc:
+        raise RuntimeError("Cannot reach local Ollama. Start Ollama on this PC, then retry the saved recording.") from exc
+    try:
+        return json.loads(data["message"]["content"])
+    except (KeyError, TypeError, ValueError) as exc:
+        raise RuntimeError("Local vision model did not return a valid structured review. Retry or try a larger local model.") from exc
+
+
 def structured_call(model: str, prompt: str, images: list[Path], schema: dict, name: str) -> dict:
+    provider = os.getenv("MATCH_REVIEW_PROVIDER", "openai").lower()
+    if provider == "ollama":
+        return local_call(prompt, images, schema)
+    if provider == "gemini":
+        return gemini_call(prompt, images, schema)
+    if provider != "openai":
+        raise RuntimeError(f"Unknown analysis provider: {provider}")
     key = os.getenv("OPENAI_API_KEY", "")
     if not key:
         raise RuntimeError("OPENAI_API_KEY is required for match analysis.")
@@ -132,15 +222,21 @@ FINDING_SCHEMA = {**OBJECT, "properties": {
                 "alternative", "when_alternative_fails", "confidence", "uncertainty", "rule_ids", "impact", "positive"]}
 
 
-def candidate_windows(video: Path, duration: float, frame_dir: Path, player: dict, progress) -> tuple[list[dict], list[str]]:
+def candidate_windows(video: Path, duration: float, frame_dir: Path, player: dict, progress,
+                      checkpoint: dict | None = None, save=None) -> tuple[list[dict], list[str]]:
     # Twelve frames per two-minute chunk cover the full recording at 10s steps.
-    windows, overviews = [], []
+    windows = list(checkpoint.get("candidates", [])) if checkpoint else []
+    overviews = list(checkpoint.get("overviews", [])) if checkpoint else []
     chunks = min(MAX_BROAD_CALLS, int((duration + 119) // 120))
     if chunks * 120 < duration:
         raise ValueError("Recording exceeds the configured broad-pass capacity.")
     for i in range(chunks):
+        if i < len(overviews):
+            continue
         start, end = i * 120.0, min(duration, (i + 1) * 120.0)
         times = [start + 5 + 10 * j for j in range(12) if start + 5 + 10 * j < end]
+        if not times:
+            times = [(start + end) / 2]
         images = [frame(video, t, frame_dir / f"broad_{i:03d}_{j:02d}.jpg") for j, t in enumerate(times)]
         prompt = (
             "You are navigating an Overwatch recording using sparse still frames, not continuous video. "
@@ -158,6 +254,9 @@ def candidate_windows(video: Path, duration: float, frame_dir: Path, player: dic
             a, b = float(item["start_seconds"]), float(item["end_seconds"])
             if start <= a < b <= end and 1 <= int(item["score"]) <= 5:
                 windows.append(item)
+        if checkpoint is not None:
+            checkpoint.update(candidates=windows, overviews=overviews)
+            save(checkpoint)
         progress("scanning", round(10 + 45 * (i + 1) / chunks), f"Scanned {i + 1} of {chunks} sections")
     return windows, overviews
 
@@ -227,21 +326,42 @@ def analyze(video: Path, job_dir: Path, player: dict, progress) -> dict:
     rules = json.loads(RULES_PATH.read_text())["rules"]
     duration = meta["duration_seconds"]
     frame_dir = job_dir / "frames"
+    checkpoint_path = job_dir / "analysis_checkpoint.json"
+    model_identity = {"provider": os.getenv("MATCH_REVIEW_PROVIDER", "openai").lower(),
+                      "broad": BROAD_MODEL, "dense": DENSE_MODEL,
+                      "local": LOCAL_MODEL, "gemini": GEMINI_MODEL}
+    try:
+        checkpoint = json.loads(checkpoint_path.read_text(encoding="utf-8"))
+    except (FileNotFoundError, ValueError):
+        checkpoint = {}
+    if checkpoint.get("model_identity") != model_identity:
+        checkpoint = {"model_identity": model_identity}
+
+    def save_checkpoint(state: dict) -> None:
+        temporary = checkpoint_path.with_suffix(".tmp")
+        temporary.write_text(json.dumps(state), encoding="utf-8")
+        temporary.replace(checkpoint_path)
+
     progress("scanning", 8, "Scanning the full recording")
     try:
-        candidates, overviews = candidate_windows(video, duration, frame_dir, player, progress)
+        candidates, overviews = candidate_windows(video, duration, frame_dir, player, progress,
+                                                  checkpoint, save_checkpoint)
         selected = select_windows(candidates, MAX_DENSE_CALLS)
-        findings = []
+        results = list(checkpoint.get("dense_results", []))
         for i, candidate in enumerate(selected):
+            if i < len(results):
+                continue
             finding = review_window(video, duration, frame_dir, candidate, player, rules, i)
-            if finding:
-                findings.append(finding)
+            results.append(finding)
+            checkpoint["dense_results"] = results
+            save_checkpoint(checkpoint)
             progress("reviewing", round(56 + 38 * (i + 1) / max(1, len(selected))),
                      f"Reviewed {i + 1} of {len(selected)} candidate moments")
     finally:
         # Derived frames are transient; retain only the upload and report.
         import shutil
         shutil.rmtree(frame_dir, ignore_errors=True)
+    findings = [finding for finding in results if finding]
     # Keep the most useful moments, then display in match order.
     findings = sorted(sorted(findings, key=lambda f: (-f["impact"], f["start_seconds"]))[:6],
                       key=lambda f: f["start_seconds"])
@@ -253,7 +373,7 @@ def analyze(video: Path, job_dir: Path, player: dict, progress) -> dict:
     counts = Counter(rid for f in findings for rid in f["rule_ids"])
     recurring = [{"rule_id": rid, "title": rule_map[rid]["title"], "moments": count}
                  for rid, count in counts.most_common() if count >= 2]
-    return {"status": "complete" if findings else "insufficient_evidence",
+    report = {"status": "complete" if findings else "insufficient_evidence",
             "review_type": "clip" if duration < 300 else "match",
             "duration_seconds": duration, "player": player,
             "method": "Full recording sampled every 10 seconds; selected moments sampled every 2.5 seconds. Audio and intervening motion were not analyzed.",
@@ -264,3 +384,5 @@ def analyze(video: Path, job_dir: Path, player: dict, progress) -> dict:
             "next_match_cues": [f["alternative"] for f in sorted(findings, key=lambda x: -x["impact"])[:2]],
             "limits": ["Single-POV information and hidden cooldowns cannot be established from sampled frames.",
                        "A fight result alone does not prove the decision was correct or incorrect."]}
+    checkpoint_path.unlink(missing_ok=True)
+    return report

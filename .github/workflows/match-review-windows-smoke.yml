@@ -30,7 +30,7 @@ jobs:
       - name: Start desktop launcher and check local page
         shell: pwsh
         env:
-          OPENAI_API_KEY: test-only
+          GEMINI_API_KEY: test-only
           MATCH_REVIEW_PASSWORD: test-only
           MATCH_REVIEW_DATA_DIR: ${{ runner.temp }}/capitology-review
         run: |

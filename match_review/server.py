@@ -18,7 +18,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import urlsplit
 
-from .analysis import analyze, probe
+from .analysis import analyze, probe, provider_ready
 
 
 HERE = Path(__file__).resolve().parent
@@ -216,8 +216,8 @@ class Handler(BaseHTTPRequestHandler):
             if job["status"] != "failed" or not (job_path(parts[2]) / job["source_file"]).is_file():
                 self.json_response(409, {"error": "This saved recording is not ready to retry"})
                 return
-            if not os.getenv("OPENAI_API_KEY"):
-                self.json_response(503, {"error": "Restart the launcher with an API key first"})
+            if not provider_ready():
+                self.json_response(503, {"error": "Configure the analysis provider before retrying"})
                 return
             update_job(parts[2], status="queued", percentage=0, message="Queued for another analysis attempt")
             POOL.submit(work, parts[2])
@@ -254,7 +254,7 @@ class Handler(BaseHTTPRequestHandler):
         if urlsplit(self.path).path != "/api/jobs":
             self.send_error(404)
             return
-        if not os.getenv("OPENAI_API_KEY"):
+        if not provider_ready():
             self.json_response(503, {"error": "Analysis service is not configured yet"})
             return
         try:

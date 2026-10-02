@@ -1,6 +1,8 @@
 # Desktop-only setup and launch. No tunnel or public network binding is configured.
 $ErrorActionPreference = 'Stop'
 Set-Location (Resolve-Path (Join-Path $PSScriptRoot '..'))
+if (-not $env:MATCH_REVIEW_PROVIDER) { $env:MATCH_REVIEW_PROVIDER = 'gemini' }
+if (-not $env:MATCH_REVIEW_LOCAL_MODEL) { $env:MATCH_REVIEW_LOCAL_MODEL = 'qwen3-vl:4b-instruct' }
 
 function Refresh-CommandPath {
     $env:Path = [Environment]::GetEnvironmentVariable('Path', 'Machine') + ';' +
@@ -67,7 +69,49 @@ if (-not $python -or -not $hasMediaTools) {
     }
 }
 
-foreach ($secret in @('OPENAI_API_KEY', 'MATCH_REVIEW_PASSWORD')) {
+if ($env:MATCH_REVIEW_PROVIDER -eq 'ollama') {
+    $ollama = Get-Command ollama -ErrorAction SilentlyContinue
+    $ollamaPath = Join-Path $env:LOCALAPPDATA 'Programs\Ollama\ollama.exe'
+    if (-not $ollama -and -not (Test-Path $ollamaPath)) {
+        if (-not (Get-Command winget -ErrorAction SilentlyContinue)) {
+            throw 'Ollama is missing. Install it from https://ollama.com/download/windows, then rerun the launcher.'
+        }
+        Write-Host 'Installing Ollama for free local vision analysis...'
+        winget install --id Ollama.Ollama --exact --accept-package-agreements --accept-source-agreements
+        if ($LASTEXITCODE -ne 0) { throw 'Ollama installation did not finish. See the winget output above.' }
+        Refresh-CommandPath
+        $ollama = Get-Command ollama -ErrorAction SilentlyContinue
+    }
+    if ($ollama) { $ollamaExe = $ollama.Source }
+    elseif (Test-Path $ollamaPath) { $ollamaExe = $ollamaPath }
+    else { throw 'Ollama was installed but not found. Reopen the launcher and retry.' }
+
+    $ready = $false
+    try { $null = Invoke-RestMethod -Uri 'http://127.0.0.1:11434/api/tags' -TimeoutSec 2; $ready = $true } catch {}
+    if (-not $ready) {
+        Write-Host 'Starting the local Ollama service...'
+        Start-Process -FilePath $ollamaExe -ArgumentList 'serve' -WindowStyle Hidden
+        for ($i = 0; $i -lt 30; $i++) {
+            Start-Sleep -Seconds 1
+            try { $null = Invoke-RestMethod -Uri 'http://127.0.0.1:11434/api/tags' -TimeoutSec 2; $ready = $true; break } catch {}
+        }
+    }
+    if (-not $ready) { throw 'Ollama did not start on localhost:11434. Start the Ollama app and rerun the launcher.' }
+    $models = Invoke-RestMethod -Uri 'http://127.0.0.1:11434/api/tags' -TimeoutSec 10
+    if (-not @($models.models | Where-Object { $_.name -eq $env:MATCH_REVIEW_LOCAL_MODEL }).Count) {
+        Write-Host "Downloading local vision model $env:MATCH_REVIEW_LOCAL_MODEL (about 3.3 GB for the default; once only)..."
+        & $ollamaExe pull $env:MATCH_REVIEW_LOCAL_MODEL
+        if ($LASTEXITCODE -ne 0) { throw 'Vision model download did not finish. Rerun the launcher to resume.' }
+    }
+    Write-Host "Free local analysis ready: $env:MATCH_REVIEW_LOCAL_MODEL"
+} elseif ($env:MATCH_REVIEW_PROVIDER -ne 'openai' -and $env:MATCH_REVIEW_PROVIDER -ne 'gemini') {
+    throw 'MATCH_REVIEW_PROVIDER must be gemini, ollama, or openai.'
+}
+
+$secrets = @('MATCH_REVIEW_PASSWORD')
+if ($env:MATCH_REVIEW_PROVIDER -eq 'openai') { $secrets += 'OPENAI_API_KEY' }
+if ($env:MATCH_REVIEW_PROVIDER -eq 'gemini') { $secrets += 'GEMINI_API_KEY' }
+foreach ($secret in $secrets) {
     if (-not [Environment]::GetEnvironmentVariable($secret, 'Process')) {
         $secure = Read-Host "Enter $secret (hidden; kept in this session only)" -AsSecureString
         $pointer = [Runtime.InteropServices.Marshal]::SecureStringToBSTR($secure)
