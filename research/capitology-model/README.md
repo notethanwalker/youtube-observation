@@ -1,6 +1,6 @@
 # Capitology Overwatch Model Project
 
-Status: Pass 3 completed on 2026-10-01. The Pass 4 transcript sweep is complete: 206 provisional claims from 51 of 54 uploads; two Shorts and an announcement yielded no stable model claim. All 292 transcript sections have a full Pass 4 caption read. No gameplay footage has been validated.
+Status: Pass 3 completed on 2026-10-01. The Pass 4 transcript sweep is complete: 206 provisional claims from 51 of 54 uploads; two Shorts and an announcement yielded no stable model claim. All 292 transcript sections have a full Pass 4 caption read. Pass 5 clusters all 206 claims into 16 provisional primary concepts. No gameplay footage has been validated.
 
 Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTube corpus, while preserving evidence, contradictions, evolution over time, and the distinction between serious analysis and entertainment.
 
@@ -29,6 +29,11 @@ Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTub
 - `pass04_coverage_queue.csv`: complete 54-video transcript coverage queue; claim-bearing videos need footage review.
 - `pass04_section_audit.csv` / `pass04_section_audit.py`: section-level review queue and its reproducible status export.
 - `PASS04_CLAIM_EXTRACTION_REPORT.md`: extraction rules, current coverage, candidate relationships, and remaining work.
+- `pass05_concept_index.csv`: claim-by-claim primary and secondary concepts, retaining source date, link, scope, and visual dependency.
+- `pass05_cluster_registry.json`: 16 cluster definitions with primary claim IDs, year and video coverage, and visual-review counts.
+- `pass05_relationships.csv`: 12 provisional relationships between concepts and their claim-level evidence.
+- `pass05_clusters_seed.py`: manual, validated cluster assignments and reproducible exports.
+- `PASS05_CONCEPT_CLUSTERING_REPORT.md`: concept map, qualifications, candidate tensions, and visual-review handoff.
 
 54 unique uploads are known: 53 public (48 Videos + 5 Shorts) and one unlisted upload discovered through the public Overwatch Macro playlist. The date range is 2023-10-27 through 2026-09-29, with 14 hours 33 minutes 33 seconds of total runtime. All 54 have titles, upload dates, durations, URLs, descriptions, and advertised English automatic caption tracks. Empty descriptions are preserved as empty strings. No known record has an unresolved metadata gap.
 
@@ -40,10 +45,10 @@ No known entry is confirmed private or deleted. This does not establish that the
 2. Caption acquisition and normalization — complete (audio acquisition was unnecessary for this pass)
 3. Transcript segmentation and seriousness/information-density scoring — complete
 4. Strategic claim extraction — transcript sweep complete; claims provisional
-5. Concept clustering
+5. Concept clustering — provisional transcript-based map complete
 6. Selective visual retrieval
 7. Deep visual analysis of high-information/ambiguous segments
 8. Contradiction and evolution pass
 9. Model synthesis
 
-Next pass: cluster the transcript-grounded claims by concept, retaining counterexamples, time, and scope. Claims are paraphrases of spoken analysis and have not been checked against gameplay video. `model.md` remains an empty synthesis scaffold until visual checks and contradiction review.
+Next pass: select visual evidence across representative claims and counterexamples. The 16 clusters organize paraphrases of spoken analysis; they have not been checked against gameplay video. `model.md` remains an empty synthesis scaffold until visual checks and contradiction review.

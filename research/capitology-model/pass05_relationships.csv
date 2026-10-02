@@ -1,0 +1,13 @@
+source_cluster,relationship,target_cluster,evidence_claim_ids,working_interpretation,status
+C02_information,enables,C05_setup,P4-019;P4-020;P4-132;P4-183,Information gained before the fight helps determine and conceal the final setup.,open_visual_and_contradiction_review
+C03_geometry,constrains,C01_turns,P4-011;P4-031;P4-032;P4-075;P4-076;P4-109,A first move can spend resources without entering effective reach; voluntary retreat preserves a later move.,open_visual_and_contradiction_review
+C04_splits,implements,C06_bait,P4-003;P4-004;P4-091;P4-143;P4-144;P4-193,Pressure on one group can invite pursuit while a second group gains a different option.,open_visual_and_contradiction_review
+C05_setup,qualifies,C13_support,P4-016;P4-017;P4-018;P4-134;P4-175,Whether a backline lives a dive depends on whether the attack was allowed to stage well.,open_visual_and_contradiction_review
+C06_bait,has_counterplay,C01_turns,P4-034;P4-035;P4-199;P4-206,The first-moving side can decline the obvious chase or stack another advantage; bait may fail.,open_visual_and_contradiction_review
+C07_windows,qualifies,C01_turns,P4-081;P4-082;P4-155;P4-164;P4-187,An opening for the frontline need not be an all-team turn.,open_visual_and_contradiction_review
+C08_ultimates,depends_on,C10_objective,P4-026;P4-029;P4-036;P4-038;P4-053;P4-158;P4-198,"Ult counts alone omit the fight result, point position, subsequent setup, and charge gained.",open_visual_and_contradiction_review
+C09_compositions,qualifies,C08_ultimates,P4-026;P4-058;P4-072;P4-080;P4-086;P4-117;P4-147,Economy and cooldown-cycle importance vary with composition and matchup.,open_visual_and_contradiction_review
+C11_tank,creates_window_for,C12_dps,P4-047;P4-051;P4-057;P4-064;P4-139;P4-145;P4-170;P4-180,A tank's entry matters partly through what damage players can do during its brief window.,open_visual_and_contradiction_review
+C12_dps,trades_off,C03_geometry,P4-044;P4-045;P4-073;P4-074;P4-108;P4-130;P4-131,Excessive safety removes pressure; excessive reach makes the damage dealer an easy trade.,open_visual_and_contradiction_review
+C14_execution,limits,C15_learning,P4-022;P4-023;P4-096;P4-097;P4-098;P4-150;P4-156,Knowing the right explanation after a fight differs from seeing and executing it during play.,open_visual_and_contradiction_review
+C16_design,separate_scope,C09_compositions,P4-077;P4-080;P4-099;P4-159;P4-160;P4-201,Hero-balance opinions and pre-release predictions are not evidence that a matchup actually works.,open_visual_and_contradiction_review
