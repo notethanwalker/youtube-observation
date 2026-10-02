@@ -36,8 +36,8 @@ function Find-UsablePython {
         try {
             $exe = $candidate.Command
             $prefix = $candidate.Prefix
-            $result = & $exe @prefix -c 'import sys; print("OK" if sys.version_info >= (3, 12) else "OLD")' 2>$null
-            if ($LASTEXITCODE -eq 0 -and $result -eq 'OK') { return $candidate }
+            & $exe @prefix -c 'import sys; sys.exit(0 if sys.version_info >= (3, 12) else 1)' 2>$null
+            if ($LASTEXITCODE -eq 0) { return $candidate }
         } catch { continue }
     }
     return $null
