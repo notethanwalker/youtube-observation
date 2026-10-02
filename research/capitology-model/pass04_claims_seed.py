@@ -216,6 +216,9 @@ CLAIMS = [
  ("P4-201","x2jNJeKiMUU",60,260,"game_design/counterplay","In a pre-release hero reaction, he values abilities with visible counterplay and skill expression and worries when a poke tank's strength may depend mainly on raw damage tuning.","design_opinion","Speculation before testing announced hero kits","high","medium","Not a verified balance prediction; later numbers, mechanics, and patch may differ."),
  ("P4-202","FjoWkH6Sl1k",390,645,"information/ultimate","Before using a major ultimate that opponents can kite, the initiator should scout where all opponents are and whether they are already spaced to evade it.","conditional_rule","Kiriko Rush example in tier-two live review","high","high","The source's absolute 'see everyone' is a practical heuristic; exact visibility needs POV."),
  ("P4-203","iLX7uqsC1jE",895,1104,"coaching/method","He cautions coaches against using players as a test bed for unproven theories that disrupt the team's existing play; a coach's impact can be negative as well as positive.","method","Q&A opinion on coaching impact","high","low","Not evidence that a specific coach or experiment caused a result."),
+ ("P4-204","t1dnez3yuZ4",398,510,"composition/resource_budget","A composition should allocate its limited healing and attention among players whose styles require resources; pairing multiple high-resource players with a tank that must be sustained can leave one damage dealer unable to take an angle.","conditional_rule","His SSG Zarya–Echo analysis, comparing an earlier team built around a different allocation","medium","high","Player-specific judgments and actual healing allocation require replay; not a measured resource budget."),
+ ("P4-205","1UNctVbRS3M",118,302,"dive/staging","In a low-damage dive, yielding to an opponent's clear can preserve the attackers' resources and let them use the clearer’s withdrawal to slip into unscouted positions; the final engage can still be fast after a patient setup.","mechanism","Ball/Genji double-flex discussion against D.Va","high","high","Distinct from P4-025's single-player cooldown exchange; the team-wide hidden setup requires POV review."),
+ ("P4-206","KlcWDgdXrZk",555,665,"turns/advantage_stack","Against a team offering a tempting cooldown bait, the first-moving team can clear that player, then delay its next rotation long enough to pressure another angle and accumulate advantages rather than commit on the first opening.","conditional_rule","Crazy Raccoon response to Falcons bait","high","high","Specific options and timing are narrator's match interpretation; compare P4-034–035 and P4-199."),
 ]
 
 # Source was checked but a stable strategic proposition was not recoverable.
@@ -244,12 +247,14 @@ def main():
     video_index=json.load((ROOT / "pass03_video_index.json").open())["videos"]
     counts={v:sum(r["video_id"]==v for r in rows) for v in VIDEO}
     assert {v["video_id"] for v in video_index}=={v for v,n in counts.items() if n} | set(NO_MODEL_CLAIM)
+    from pass04_section_audit import FULL_READ
+    assert all(len(FULL_READ.get(v["video_id"], set())) == v["segment_count"] for v in video_index)
     with (ROOT / "pass04_coverage_queue.csv").open("w",newline="") as f:
         w=csv.writer(f);w.writerow(["video_id","title","upload_date","duration_seconds","pass03_segments","pass04_status","provisional_claims","topic_tags","pass03_relevance","pass03_visual_priority","note"])
         for v in sorted(video_index,key=lambda x:x["upload_date"]):
             vid=v["video_id"];n=counts[vid]
-            status="sampled_not_exhaustive" if n else "reviewed_no_model_claim"
-            note="Transcript windows sampled; remaining windows and video footage pending" if n else NO_MODEL_CLAIM[vid]
+            status="full_transcript_reviewed_footage_pending" if n else "reviewed_no_model_claim"
+            note="All Pass 3 caption sections read; gameplay footage pending" if n else NO_MODEL_CLAIM[vid]
             w.writerow([vid,v["title"],v["upload_date"],v["duration_seconds"],v["segment_count"],status,n,";".join(x[0] for x in v["primary_topics"]),v["average_strategic_relevance"],v["average_visual_review_priority"],note])
     print(f"Wrote {len(rows)} claims from {len({r['video_id'] for r in rows})} videos; {len(NO_MODEL_CLAIM)} reviewed without model claims")
 

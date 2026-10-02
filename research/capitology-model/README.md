@@ -1,6 +1,6 @@
 # Capitology Overwatch Model Project
 
-Status: Pass 3 completed on 2026-10-01. Pass 4 strategic claim extraction is in progress: the initial sweep and further section review have 203 provisional claims from 51 of 54 uploads; two Shorts and an announcement yielded no stable model claim. Of 292 transcript sections, 180 have a full Pass 4 caption read and 112 have sampled claim windows only. No gameplay footage has been validated.
+Status: Pass 3 completed on 2026-10-01. The Pass 4 transcript sweep is complete: 206 provisional claims from 51 of 54 uploads; two Shorts and an announcement yielded no stable model claim. All 292 transcript sections have a full Pass 4 caption read. No gameplay footage has been validated.
 
 Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTube corpus, while preserving evidence, contradictions, evolution over time, and the distinction between serious analysis and entertainment.
 
@@ -26,7 +26,7 @@ Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTub
 - `segment_transcripts.py`: deterministic segmentation and scoring implementation.
 - `pass04_claims.jsonl` / `.csv`: provisional timestamped strategic claims, with scope, evidence type, and visual dependency.
 - `pass04_claims_seed.py`: manually curated claim export, reproducible as structured files.
-- `pass04_coverage_queue.csv`: complete 54-video Pass 4 coverage queue; claim-bearing videos still need full transcript review.
+- `pass04_coverage_queue.csv`: complete 54-video transcript coverage queue; claim-bearing videos need footage review.
 - `pass04_section_audit.csv` / `pass04_section_audit.py`: section-level review queue and its reproducible status export.
 - `PASS04_CLAIM_EXTRACTION_REPORT.md`: extraction rules, current coverage, candidate relationships, and remaining work.
 
@@ -39,11 +39,11 @@ No known entry is confirmed private or deleted. This does not establish that the
 1. Channel inventory and metadata — complete within the stated public-discovery scope
 2. Caption acquisition and normalization — complete (audio acquisition was unnecessary for this pass)
 3. Transcript segmentation and seriousness/information-density scoring — complete
-4. Strategic claim extraction
+4. Strategic claim extraction — transcript sweep complete; claims provisional
 5. Concept clustering
 6. Selective visual retrieval
 7. Deep visual analysis of high-information/ambiguous segments
 8. Contradiction and evolution pass
 9. Model synthesis
 
-Current pass: continue strategic claim extraction across the full corpus. Initial claims are paraphrases of spoken analysis and have not been checked against gameplay video. `model.md` remains an empty synthesis scaffold until stronger coverage and visual checks.
+Next pass: cluster the transcript-grounded claims by concept, retaining counterexamples, time, and scope. Claims are paraphrases of spoken analysis and have not been checked against gameplay video. `model.md` remains an empty synthesis scaffold until visual checks and contradiction review.

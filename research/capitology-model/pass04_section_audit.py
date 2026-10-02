@@ -11,17 +11,18 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 
 FULL_READ = {
-    "c92ESPjlveI": {5},
-    "JM50b3IU6-c": {2, 3, 5, 6, 7, 9, 10},
-    "z9n-JNB52rk": {2, 3, 5, 6},
-    "pMPwEwNEiQA": {2, 5, 6, 7},
-    "p609brPyPzg": {3, 4, 6},
-    "QvMsOy1wFr4": {1, 2, 5, 6, 8, 9, 10},
-    "STbH6hH8emk": {5, 6},
-    "XhcF5IzJDq4": {3, 4, 5, 6, 7},
-    "K6Ayz-NHVe4": {4, 5, 6},
-    "V-Y0hBOI1yY": {2, 3, 5},
-    "nddeTxFzT6Q": {2, 3, 5, 6},
+    "c92ESPjlveI": {1, 2, 3, 4, 5},
+    "JM50b3IU6-c": {1, 2, 3, 4, 5, 6, 7, 8, 9, 10},
+    "z9n-JNB52rk": {1, 2, 3, 4, 5, 6},
+    "pMPwEwNEiQA": {1, 2, 3, 4, 5, 6, 7},
+    "p609brPyPzg": {1, 2, 3, 4, 5, 6},
+    "QvMsOy1wFr4": {1, 2, 3, 4, 5, 6, 7, 8, 9, 10},
+    "STbH6hH8emk": {1, 2, 3, 4, 5, 6},
+    "XhcF5IzJDq4": {1, 2, 3, 4, 5, 6, 7},
+    "K6Ayz-NHVe4": {1, 2, 3, 4, 5, 6},
+    "V-Y0hBOI1yY": {1, 2, 3, 4, 5},
+    "nddeTxFzT6Q": {1, 2, 3, 4, 5, 6},
+    "XXrcVGWBmo4": {1},
     "GjlM3r948EI": {1},
     "pQcjwEjo6us": {1},
     "UC8D2vBDf_0": {1, 2},
@@ -60,11 +61,39 @@ FULL_READ = {
     "iLX7uqsC1jE": {1, 2, 3, 4, 6},
 }
 
+# The remaining sampled claim windows were read in full during the final
+# transcript sweep. Keep this list explicit so the audit can be reproduced.
+FINAL_SWEEP = {
+    "jSCHyAWoUjc": {2}, "M8393UkZxjY": {5, 6},
+    "t1dnez3yuZ4": {3, 4}, "Y4ORvoqZ1P0": {1, 2},
+    "sqtmsbHxrLE": {2}, "LSrm0ocaS1Q": {1, 3, 4},
+    "AcAxvnAEYpg": {5}, "1OvQ5PAK0w0": {1, 2},
+    "2X_yEWyNms0": {1}, "TOaKp3Z44ho": {1},
+    "ln2t2rl1KYw": {1, 4}, "aNBstKtsPms": {1, 2},
+    "1UNctVbRS3M": {1, 2}, "vu4KmVKp2f0": {1, 3, 4},
+    "x5ej22cA7G0": {2, 3}, "xabIcyolpJA": {1, 2},
+    "E1bYy6OE_OQ": {1, 2}, "SJdCkYn6Is0": {1, 2, 3},
+    "LpxT2dykNK0": {1}, "GIY_4hD9_M8": {14},
+    "n-t2m7R_Gho": {4, 5}, "MYW1ztAeDQc": {1, 2, 4},
+    "vNp9kRvOjKA": {1, 2, 3}, "cXnFhS2l47g": {1, 6},
+    "GYBpp0KM5-Q": {1, 2, 5},
+    "_pv_dhja-4w": {1, 2, 3, 4}, "N5fHwbNE-SQ": {2},
+    "KLwLiiYYewQ": {1}, "prUv2eNrGD0": {5, 6, 8},
+    "ijlmDdVIdtk": {1, 5}, "AtmKIdmLLQ8": {4},
+    "mXrTyliwJTI": {1}, "GKkzCd9cvUg": {1, 2, 3},
+    "KlcWDgdXrZk": {1, 2, 4}, "x2jNJeKiMUU": {5, 6},
+    "Hl-nV1aF1yE": {1, 2, 3}, "FjoWkH6Sl1k": {4, 5},
+    "aHwWbiUE4KQ": {1, 2, 3}, "iLX7uqsC1jE": {5, 7},
+}
+for video_id, numbers in FINAL_SWEEP.items():
+    assert not (FULL_READ.get(video_id, set()) & numbers)
+    FULL_READ.setdefault(video_id, set()).update(numbers)
+
 
 def main():
     claims = [json.loads(line) for line in (ROOT / "pass04_claims.jsonl").open()]
     sections = [json.loads(line) for line in (ROOT / "pass03_segments.jsonl").open()]
-    assert sum(map(len, FULL_READ.values())) == 180
+    assert sum(map(len, FULL_READ.values())) == 292
     section_keys = {(s["video_id"], s["segment_number"]) for s in sections}
     assert all((v, n) in section_keys for v, nums in FULL_READ.items() for n in nums)
     rows = []

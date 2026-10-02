@@ -1,32 +1,32 @@
-# Pass 4 — strategic claim extraction (in progress)
+# Pass 4 — transcript-grounded strategic claim extraction
 
-Started 2026-10-02 UTC. This is a manually reviewed, transcript-grounded **initial sweep of all known uploads, followed by a section-by-section second read in progress**. It does **not** finish Pass 4 or establish that the gameplay examples are correct.
+Started 2026-10-02 UTC. The manually reviewed transcript sweep now includes a complete caption read of every Pass 3 section in all 54 known uploads. This closes the transcript coverage portion of Pass 4. All claims remain provisional until the gameplay and ambiguous audio are checked in later passes.
 
 ## Progress
 
 | Measure | Current state |
 |---|---:|
 | Known uploads | 54 |
-| Uploads sampled for claims | 51 |
+| Uploads with transcript-grounded claims | 51 |
 | Uploads reviewed without a stable model claim | 3 |
-| Provisional atomic claims | 203 |
-| Years represented | 2023: 16 claims; 2024: 46; 2025: 97; 2026: 44 |
-| Pass 3 sections with a full Pass 4 caption read | 180 of 292 |
-| Additional sections with sampled claim windows only | 112 of 292 |
+| Provisional atomic claims | 206 |
+| Years represented | 2023: 16 claims; 2024: 46; 2025: 99; 2026: 45 |
+| Pass 3 sections with a full Pass 4 caption read | 292 of 292 |
+| Additional sections with sampled claim windows only | 0 of 292 |
 | Sections without a Pass 4 read yet | 0 of 292 |
 | Video frames reviewed | 0 |
-| Claims requiring high visual review | 161 |
+| Claims requiring high visual review | 164 |
 | Claims with low transcript confidence | 4 |
 
-The 51 claim-bearing uploads were **not** reviewed exhaustively. Every section has at least a sampled claim window or a full caption read; a section marked `sampled_claim_window_only` still needs a full read and must not count as complete. The two short reaction clips have too little caption context for a stable tactical claim; the announcement concerns the channel's content plans. This is a broad sample across early definitions, role examples, composition and draft discussion, pro reviews, later clarifications, and learning advice. It is not a frequency estimate of the whole corpus. The speaker announced a 2026 shift toward more general public videos and a separate venue for some team-specific analysis; public channel coverage therefore cannot be treated as a uniform sample of his thinking over time (`UC8D2vBDf_0`, 00:00:04–00:05:12).
+All 54 known uploads were read section by section. The two short reaction clips have too little caption context for a stable tactical claim; the announcement concerns the channel's content plans. The 206 claims select distinct propositions rather than count every repetition, so topic counts are not frequency estimates of the whole corpus. The speaker announced a 2026 shift toward more general public videos and a separate venue for some team-specific analysis; public channel coverage therefore cannot be treated as a uniform sample of his thinking over time (`UC8D2vBDf_0`, 00:00:04–00:05:12).
 
 ## Files
 
 - `pass04_claims.jsonl`: one paraphrased claim per row, with video, upload date, timestamp range, time-link, topic, claim class, scope, transcript confidence, visual dependency, and review note.
 - `pass04_claims.csv`: same data for filtering.
 - `pass04_claims_seed.py`: transparent manually curated source and export script. This script does not invent claims from a keyword classifier.
-- `pass04_coverage_queue.csv`: all 54 uploads and their current Pass 4 coverage. A claim-bearing video remains marked `sampled_not_exhaustive`; the three other rows explain why no model claim was extracted.
-- `pass04_section_audit.csv`: all 292 Pass 3 sections, separating complete caption reads, sampled claim windows, and sections not yet reviewed. `pass04_section_audit.py` rebuilds this queue from the manual full-read list and claim ledger.
+- `pass04_coverage_queue.csv`: all 54 uploads and their transcript coverage. The 51 claim-bearing videos are marked `full_transcript_reviewed_footage_pending`; the three other rows explain why no model claim was extracted.
+- `pass04_section_audit.csv`: all 292 Pass 3 sections marked as complete caption reads. `pass04_section_audit.py` rebuilds this queue from the manual full-read list and claim ledger.
 
 ## Extraction rules
 
@@ -42,7 +42,7 @@ Every ledger row is `provisional`, has `gameplay_verified: false`, and states th
 
 | Relationship | Evidence | Current reading | Later check |
 |---|---|---|---|
-| First/second/neutral turns | P4-005–008; P4-014; P4-033–035; P4-100; P4-109; P4-118 | The early definitions are compatible with the later warning that these timing labels alone do not tell a team how to play. Later examples include cooldown-first moves and repeated turns. | Read remaining uses across the corpus; inspect both match POVs. |
+| First/second/neutral turns | P4-005–008; P4-014; P4-033–035; P4-100; P4-109; P4-118; P4-206 | The early definitions are compatible with the later warning that these timing labels alone do not tell a team how to play. Later examples include cooldown-first moves, repeated turns, and stacking advantages before committing. | Inspect both match POVs. |
 | Corner discipline and voluntary retreat | P4-009–011; P4-021; P4-030–032; P4-039 | The speaker explicitly distinguishes giving space early, with resources and future options, from being forced off after the opponent reaches the corner. He raises the apparent conflict with “Lock Eyes and Fight” himself. | Visually check distances, timing, and when fighting the setup is preferable. |
 | Ultimate economy | P4-026–029; P4-036–038; P4-117–121; P4-128; P4-134 | “Does Not Matter” is a provocative title. The spoken thesis says it still matters, especially for named composition families; 2024 matchups and proactive defensive ult use show specific situations where ultimate timing is central. This is a scoped relationship, not a settled contradiction. | Inspect the cited fights, ult charge, and patch contexts. Search other videos for genuine counterexamples. |
 | Dive survivability | P4-016–018; P4-134–139 | “Cannot live a good dive” is conditional on the dive already being well staged; the actionable claim is to disrupt staging first, sometimes with a proactive ultimate. The low-damage dive review distinguishes soft probes from hard commitment. | Test the boundary with counterexamples and replay POV. |
@@ -52,10 +52,8 @@ Every ledger row is `provisional`, has `gameplay_verified: false`, and states th
 
 These relationships are navigation notes, not the final `model.md` synthesis. No claim has been promoted into that scaffold.
 
-## Next Pass 4 work
+## Handoff to later passes
 
-1. Give the 112 sections marked `sampled_claim_window_only` a full read. Use `pass04_section_audit.csv` to keep the denominator visible. The full-read sweep of the formerly unreviewed sections included the long mixed watch-party `GIY_4hD9_M8`.
-2. Expand underrepresented exceptions, failed examples, role and composition matchups, and deliberate counterexamples. Revisit the 2024–2025 intervening uploads before making temporal evolution claims.
-3. For every new claim, include a timestamp interval and condition; separate guest speech and quoted material from Capitology's own endorsement.
-4. Audit the ledger against the caption events and make a second read of ambiguous ASR. Only after transcript coverage is complete should Pass 4 be called complete.
-5. Passes 6–7 should resolve high visual dependency. Pass 8 should decide which alleged tensions actually contradict one another.
+1. The transcript audit confirms 292 unique sections have a full-read status; all 206 IDs are unique and all claim intervals contain timed caption events. This verifies indexing, not the meaning or correctness of a gameplay example.
+2. Pass 5 can cluster these provisional claims while preserving their conditions, source dates, counterexamples, and speaker attribution. Do not promote them into `model.md` yet.
+3. Passes 6–7 should check the 164 high-visual-dependency claims against footage and revisit ambiguous ASR, especially `nddeTxFzT6Q` and `N5fHwbNE-SQ`. Pass 8 should decide which alleged tensions actually contradict one another.
