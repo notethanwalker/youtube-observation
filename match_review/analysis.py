@@ -30,7 +30,7 @@ BROAD_MODEL = os.getenv("MATCH_REVIEW_BROAD_MODEL", "gpt-5-mini")
 DENSE_MODEL = os.getenv("MATCH_REVIEW_DENSE_MODEL", "gpt-5-mini")
 LOCAL_MODEL = os.getenv("MATCH_REVIEW_LOCAL_MODEL", "qwen3-vl:4b-instruct")
 OLLAMA_URL = os.getenv("MATCH_REVIEW_OLLAMA_URL", "http://127.0.0.1:11434").rstrip("/")
-GEMINI_MODEL = os.getenv("MATCH_REVIEW_GEMINI_MODEL", "gemini-3.8-flash")
+GEMINI_MODEL = os.getenv("MATCH_REVIEW_GEMINI_MODEL", "gemini-3.5-flash-lite")
 GEMINI_URL = os.getenv("MATCH_REVIEW_GEMINI_URL", "https://generativelanguage.googleapis.com/v1beta/models").rstrip("/")
 MAX_DURATION = int(os.getenv("MATCH_REVIEW_MAX_DURATION_SECONDS", "3600"))
 MAX_BROAD_CALLS = int(os.getenv("MATCH_REVIEW_MAX_BROAD_CALLS", "30"))
@@ -78,10 +78,11 @@ def provider_ready() -> bool:
     return provider == "openai" and bool(os.getenv("OPENAI_API_KEY"))
 
 
-def wait_for_gemini(exc: HTTPError, attempt: int) -> None:
+def wait_for_gemini(exc: HTTPError, attempt: int, suggested_delay: float | None = None) -> None:
     retry_after = exc.headers.get("Retry-After", "")
-    delay = float(retry_after) if retry_after.isdigit() else 2 ** (attempt + 1) + random.uniform(0, 1)
-    time.sleep(min(30, max(1, delay)))
+    delay = (suggested_delay if suggested_delay is not None else
+             float(retry_after) if retry_after.isdigit() else 2 ** (attempt + 1) + random.uniform(0, 1))
+    time.sleep(min(65, max(1, delay)))
 
 
 def gemini_call(prompt: str, images: list[Path], schema: dict) -> dict:
@@ -102,16 +103,30 @@ def gemini_call(prompt: str, images: list[Path], schema: dict) -> dict:
                 data = json.load(response)
             break
         except HTTPError as exc:
-            detail = exc.read(2048).decode("utf-8", errors="replace")
+            detail = exc.read(8192).decode("utf-8", errors="replace")
             if exc.code in (400, 401, 403) and ("API_KEY_INVALID" in detail or "API key not valid" in detail):
                 raise RuntimeError("Google rejected the Gemini API key. In AI Studio, copy the full active key using its Copy button (not the project ID or key name), restart the launcher, and retry the saved recording. Keep the key private.") from exc
             if exc.code == 404 and ("model" in detail.lower() or "not found" in detail.lower()):
                 raise RuntimeError(f"Gemini model {GEMINI_MODEL} is unavailable for this project. Download the latest Capitology ZIP, then retry the saved recording. Google details: {detail[:180]}") from exc
             if exc.code == 429:
+                try:
+                    error = json.loads(detail).get("error", {})
+                except ValueError:
+                    error = {}
+                details = error.get("details", [])
+                violations = [v for d in details for v in d.get("violations", [])]
+                quota_ids = " ".join(str(v.get("quotaId", "")) for v in violations)
+                if any(v.get("quotaValue") in ("0", 0) for v in violations):
+                    raise RuntimeError(f"This project has no free quota for {GEMINI_MODEL}. Check its AI Studio rate limits before retrying the saved recording.") from exc
+                if "PerDay" in quota_ids or "per_day" in quota_ids.lower():
+                    raise RuntimeError(f"Gemini daily quota for {GEMINI_MODEL} is exhausted. It resets at midnight Pacific time; retry the saved recording after reset.") from exc
                 if attempt < 2:
-                    wait_for_gemini(exc, attempt)
+                    retry_info = next((d.get("retryDelay", "") for d in details
+                                       if d.get("@type", "").endswith("RetryInfo")), "")
+                    match = re.fullmatch(r"(\d+(?:\.\d+)?)s", str(retry_info))
+                    wait_for_gemini(exc, attempt, float(match.group(1)) if match else None)
                     continue
-                raise RuntimeError("Gemini free-tier limit reached. Check your AI Studio usage and retry this saved recording later.") from exc
+                raise RuntimeError(f"Gemini rate or quota limit for {GEMINI_MODEL} persists. Check this project's AI Studio rate limits and retry the saved recording later.") from exc
             if exc.code in (500, 502, 503, 504):
                 if attempt < 4:
                     wait_for_gemini(exc, attempt)
@@ -348,7 +363,14 @@ def analyze(video: Path, job_dir: Path, player: dict, progress) -> dict:
     except (FileNotFoundError, ValueError):
         checkpoint = {}
     if checkpoint.get("model_identity") != model_identity:
-        checkpoint = {"model_identity": model_identity}
+        prior = checkpoint.get("model_identity", {})
+        if prior.get("provider") == model_identity["provider"] == "gemini":
+            # Model changes must not discard sections already accepted on the free tier.
+            history = checkpoint.get("model_history", [prior.get("gemini")])
+            checkpoint["model_history"] = list(dict.fromkeys(m for m in history + [GEMINI_MODEL] if m))
+            checkpoint["model_identity"] = model_identity
+        else:
+            checkpoint = {"model_identity": model_identity, "model_history": [GEMINI_MODEL] if model_identity["provider"] == "gemini" else []}
 
     def save_checkpoint(state: dict) -> None:
         temporary = checkpoint_path.with_suffix(".tmp")
@@ -389,6 +411,7 @@ def analyze(video: Path, job_dir: Path, player: dict, progress) -> dict:
     report = {"status": "complete" if findings else "insufficient_evidence",
             "review_type": "clip" if duration < 300 else "match",
             "duration_seconds": duration, "player": player,
+            "analysis_models": checkpoint.get("model_history", []),
             "method": "Full recording sampled every 10 seconds; selected moments sampled every 2.5 seconds. Audio and intervening motion were not analyzed.",
             "scope": "Provisional Capitology coaching model; findings are hypotheses grounded in visible frames and source-linked rules. " +
                      ("This short recording cannot establish earlier resource cycles or decisions." if duration < 300 else ""),

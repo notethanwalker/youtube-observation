@@ -2,6 +2,7 @@
 $ErrorActionPreference = 'Stop'
 Set-Location (Resolve-Path (Join-Path $PSScriptRoot '..'))
 if (-not $env:MATCH_REVIEW_PROVIDER) { $env:MATCH_REVIEW_PROVIDER = 'gemini' }
+if (-not $env:MATCH_REVIEW_GEMINI_MODEL) { $env:MATCH_REVIEW_GEMINI_MODEL = 'gemini-3.5-flash-lite' }
 if (-not $env:MATCH_REVIEW_LOCAL_MODEL) { $env:MATCH_REVIEW_LOCAL_MODEL = 'qwen3-vl:4b-instruct' }
 
 function Refresh-CommandPath {
@@ -135,7 +136,8 @@ if ($env:MATCH_REVIEW_PROVIDER -eq 'gemini' -and $env:MATCH_REVIEW_SKIP_KEY_PREF
     $env:GEMINI_API_KEY = $env:GEMINI_API_KEY.Trim().Trim([char]34).Trim([char]39)
     Write-Host 'Checking the Gemini key with Google...'
     try {
-        $null = Invoke-RestMethod -Uri 'https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash' -Headers @{ 'x-goog-api-key' = $env:GEMINI_API_KEY } -TimeoutSec 20
+        $modelUri = 'https://generativelanguage.googleapis.com/v1beta/models/' + $env:MATCH_REVIEW_GEMINI_MODEL
+        $null = Invoke-RestMethod -Uri $modelUri -Headers @{ 'x-goog-api-key' = $env:GEMINI_API_KEY } -TimeoutSec 20
     } catch {
         $status = 0
         if ($_.Exception.Response) { $status = [int]$_.Exception.Response.StatusCode }

@@ -106,7 +106,8 @@ class FakeGemini(BaseHTTPRequestHandler):
 
     def do_POST(self):
         payload = json.loads(self.rfile.read(int(self.headers['Content-Length'])))
-        assert self.path == '/gemini-3.8-flash:generateContent'
+        assert self.path in ('/gemini-3.8-flash:generateContent',
+                             '/gemini-3.5-flash-lite:generateContent')
         assert self.headers['x-goog-api-key'] == 'test-gemini-key'
         assert payload['generationConfig']['responseMimeType'] == 'application/json'
         assert 'candidates' in payload['generationConfig']['responseJsonSchema']['properties']
@@ -167,6 +168,22 @@ class MatchReviewTest(unittest.TestCase):
             if previous is None: os.environ.pop('GEMINI_API_KEY', None)
             else: os.environ['GEMINI_API_KEY'] = previous
 
+    def test_gemini_daily_quota_stops_without_retries(self):
+        previous = os.environ.get('GEMINI_API_KEY')
+        os.environ['GEMINI_API_KEY'] = 'test-gemini-key'
+        raw = json.dumps({'error': {'details': [{
+            '@type': 'type.googleapis.com/google.rpc.QuotaFailure',
+            'violations': [{'quotaId': 'GenerateRequestsPerDayPerProjectPerModel'}]}]}}).encode()
+        error = HTTPError('https://generativelanguage.googleapis.com', 429, 'Limit', {}, BytesIO(raw))
+        try:
+            with patch.object(analysis, 'urlopen', side_effect=error) as calls:
+                with self.assertRaisesRegex(RuntimeError, 'daily quota'):
+                    analysis.gemini_call('test', [], analysis.CANDIDATE_SCHEMA)
+            self.assertEqual(calls.call_count, 1)
+        finally:
+            if previous is None: os.environ.pop('GEMINI_API_KEY', None)
+            else: os.environ['GEMINI_API_KEY'] = previous
+
     def test_free_gemini_upload_and_report(self):
         with tempfile.TemporaryDirectory() as temp:
             clip = Path(temp) / 'clip.mp4'
@@ -175,11 +192,12 @@ class MatchReviewTest(unittest.TestCase):
                             str(clip)], check=True)
             fake = ThreadingHTTPServer(('127.0.0.1', 0), FakeGemini)
             local = ThreadingHTTPServer(('127.0.0.1', 0), server.Handler)
-            old = (server.DATA, server.PASSWORD, analysis.GEMINI_URL,
+            old = (server.DATA, server.PASSWORD, analysis.GEMINI_URL, analysis.GEMINI_MODEL,
                    os.getenv('MATCH_REVIEW_PROVIDER'), os.getenv('GEMINI_API_KEY'))
             server.DATA = Path(temp) / 'jobs'
             server.PASSWORD = 'secret'
             analysis.GEMINI_URL = f'http://127.0.0.1:{fake.server_port}'
+            analysis.GEMINI_MODEL = 'gemini-3.8-flash'
             os.environ['MATCH_REVIEW_PROVIDER'] = 'gemini'
             os.environ['GEMINI_API_KEY'] = 'test-gemini-key'
             FakeGemini.calls = []
@@ -206,6 +224,7 @@ class MatchReviewTest(unittest.TestCase):
                 self.assertEqual(job['status'], 'failed', job)
                 checkpoint = json.loads((server.DATA / job_id / 'analysis_checkpoint.json').read_text())
                 self.assertEqual(len(checkpoint['overviews']), 1)
+                analysis.GEMINI_MODEL = 'gemini-3.5-flash-lite'
                 conn = HTTPConnection('127.0.0.1', local.server_port, timeout=30)
                 conn.request('POST', f'/api/jobs/{job_id}/retry', headers={'Authorization': auth})
                 response = conn.getresponse()
@@ -218,7 +237,9 @@ class MatchReviewTest(unittest.TestCase):
                         break
                     time.sleep(.1)
                 self.assertEqual(job['status'], 'insufficient_evidence', job)
-                self.assertEqual(json.loads((server.DATA / job_id / 'report.json').read_text())['candidate_count'], 0)
+                report = json.loads((server.DATA / job_id / 'report.json').read_text())
+                self.assertEqual(report['candidate_count'], 0)
+                self.assertEqual(report['analysis_models'], ['gemini-3.8-flash', 'gemini-3.5-flash-lite'])
                 self.assertEqual(len(FakeGemini.calls), 7)
                 self.assertFalse((server.DATA / job_id / 'analysis_checkpoint.json').exists())
             finally:
@@ -226,7 +247,7 @@ class MatchReviewTest(unittest.TestCase):
                 for instance in (local, fake):
                     instance.shutdown()
                     instance.server_close()
-                server.DATA, server.PASSWORD, analysis.GEMINI_URL, provider, key = old
+                server.DATA, server.PASSWORD, analysis.GEMINI_URL, analysis.GEMINI_MODEL, provider, key = old
                 if provider is None: os.environ.pop('MATCH_REVIEW_PROVIDER', None)
                 else: os.environ['MATCH_REVIEW_PROVIDER'] = provider
                 if key is None: os.environ.pop('GEMINI_API_KEY', None)
