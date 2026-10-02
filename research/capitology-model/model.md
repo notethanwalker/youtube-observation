@@ -1,8 +1,8 @@
 # Capitology Model of Overwatch
 
-Status: SYNTHESIS SCAFFOLD — 206 provisional claims have been extracted and clustered; none has been promoted into the final model.
+Status: SYNTHESIS SCAFFOLD — 206 provisional claims have been extracted and clustered; ten apparent tensions have been adjudicated in Pass 8. No claim has been promoted into the final model.
 
-This file will contain the qualified synthesis after the contradiction and evolution review. See the Pass 4–7 reports and ledgers for current evidence and limits.
+This file will contain the qualified Pass 9 synthesis. See the Pass 4–8 reports and ledgers for current evidence and limits.
 
 ## Planned structure
 - Core ontology / vocabulary
