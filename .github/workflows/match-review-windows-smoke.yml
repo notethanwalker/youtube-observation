@@ -46,7 +46,7 @@ jobs:
                 if ($health.StatusCode -eq 200) { $ready = $true; break }
               } catch { Start-Sleep -Milliseconds 500 }
             }
-            if (-not $ready) { throw "Local server did not start. $(Get-Content $err -Raw)" }
+            if (-not $ready) { throw "Local server did not start. STDOUT: $(Get-Content $out -Raw) STDERR: $(Get-Content $err -Raw)" }
             try { Invoke-WebRequest http://127.0.0.1:8080/ -UseBasicParsing -TimeoutSec 2 | Out-Null; throw 'Missing authentication challenge' }
             catch { if ($_.Exception.Response.StatusCode.value__ -ne 401) { throw } }
             Write-Host 'Desktop launcher health and password challenge passed.'

@@ -7,6 +7,24 @@ function Refresh-CommandPath {
                 [Environment]::GetEnvironmentVariable('Path', 'User') + ';' + $env:Path
 }
 
+function Find-MediaTools {
+    if ((Get-Command ffmpeg -ErrorAction SilentlyContinue) -and
+        (Get-Command ffprobe -ErrorAction SilentlyContinue)) { return $true }
+    $locations = @(
+        (Join-Path $env:LOCALAPPDATA 'Microsoft\WinGet\Packages'),
+        (Join-Path $env:ProgramData 'chocolatey\lib\ffmpeg\tools')
+    )
+    foreach ($location in $locations) {
+        if (-not (Test-Path $location)) { continue }
+        $ffmpegExe = Get-ChildItem -Path $location -Filter ffmpeg.exe -File -Recurse -ErrorAction SilentlyContinue | Select-Object -First 1
+        if ($ffmpegExe -and (Test-Path (Join-Path $ffmpegExe.DirectoryName 'ffprobe.exe'))) {
+            $env:Path = $ffmpegExe.DirectoryName + ';' + $env:Path
+            return $true
+        }
+    }
+    return $false
+}
+
 function Find-UsablePython {
     $candidates = @(
         @{ Command = 'py'; Prefix = @('-3.12') },
@@ -26,8 +44,7 @@ function Find-UsablePython {
 }
 
 $python = Find-UsablePython
-$hasMediaTools = (Get-Command ffmpeg -ErrorAction SilentlyContinue) -and
-                 (Get-Command ffprobe -ErrorAction SilentlyContinue)
+$hasMediaTools = Find-MediaTools
 if (-not $python -or -not $hasMediaTools) {
     if (-not (Get-Command winget -ErrorAction SilentlyContinue)) {
         throw 'Python 3.12+ or FFmpeg is missing, and winget is unavailable. Install Python and FFmpeg using the links in PROTOTYPE_SETUP.md, then rerun.'
@@ -44,10 +61,9 @@ if (-not $python -or -not $hasMediaTools) {
     }
     Refresh-CommandPath
     $python = Find-UsablePython
-    $hasMediaTools = (Get-Command ffmpeg -ErrorAction SilentlyContinue) -and
-                     (Get-Command ffprobe -ErrorAction SilentlyContinue)
+    $hasMediaTools = Find-MediaTools
     if (-not $python -or -not $hasMediaTools) {
-        throw 'Installation completed but the commands are not on PATH yet. Close this window, open the launcher again, and retry.'
+        throw "Installation finished, but tool lookup still failed (Python: $([bool]$python), FFmpeg/FFprobe: $hasMediaTools). Reopen the launcher and retry."
     }
 }
 
