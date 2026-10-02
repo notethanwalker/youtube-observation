@@ -37,7 +37,7 @@ The first automation should favor a small number of defensible decisions over a 
 
 ## Current components and gaps
 
-The repository has `scripts/process_file.py` for FFmpeg-based extraction from a local file, YouTube/Drive ingestion workflows, 206 timestamped provisional channel claims, 16 concept clusters, 23 selectively reviewed examples, and Pass 8 contradiction notes. These are research and media-preparation components; **they do not yet analyze a newly uploaded player's match or deliver a player report.** `model.md` is still a synthesis scaffold.
+The repository has `scripts/process_file.py` for FFmpeg-based extraction from a local file, YouTube/Drive ingestion workflows, 206 timestamped provisional channel claims, 16 concept clusters, 23 selectively reviewed examples, and Pass 8 contradiction notes. These are research and media-preparation components; **Pass 9 now has a provisional rule index and the upload application can return a sampled-frame report.** The automated coaching quality is unvalidated until live API and full match review.
 
 The build order is:
 
@@ -51,3 +51,7 @@ The build order is:
 ## Definition of functional
 
 The player supplies a real recording and receives a completed, replay-linked analysis without having to ask strategic questions or manually assemble frames. A model document alone, an extracted contact sheet alone, and a generic ungrounded recap do not meet this definition.
+
+## Build status (2026-10-02)
+
+The first upload-to-report implementation is in `match_review/`; setup, security scope, and validation limits are in `PROTOTYPE_SETUP.md`. It uses sampled stills at 10 and 2.5 second intervals. The initial product contract above calls for contiguous motion and audio; those richer inputs remain a follow-on capability. The UI reports this limitation, and the app must not claim to have examined unsampled motion or audio. Internal transport tests use a fake model and are not player-match acceptance evidence.

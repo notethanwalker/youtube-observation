@@ -68,3 +68,7 @@ Artifacts are intentionally temporary and are retained for 7 days to avoid unnec
 - Some private, DRM-protected, members-only, deleted, age/account-restricted, or bot-protected videos may not be retrievable from a GitHub-hosted runner.
 - YouTube changes its delivery behavior periodically, so `yt-dlp` is installed fresh on every run.
 - GitHub-hosted runners have finite disk space. Very long/high-resolution videos may require a lower height or a more selective extraction mode in a future version.
+
+## Capitology player match review
+
+The [match review prototype](PROTOTYPE_SETUP.md) accepts an exported recording and returns a private, timecoded report with rule citations and video playback. The [research model](research/capitology-model/README.md) documents Passes 1–9. The review application is under internal validation; a model key, private deployment, and full-match player testing remain.

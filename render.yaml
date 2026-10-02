@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: capitology-match-review
+    runtime: docker
+    plan: free
+    healthCheckPath: /healthz
+    envVars:
+      - key: MATCH_REVIEW_PASSWORD
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: MATCH_REVIEW_MAX_UPLOAD_BYTES
+        value: 524288000
+      - key: MATCH_REVIEW_DATA_DIR
+        value: /app/match-review-data

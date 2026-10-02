@@ -1,0 +1,6 @@
+.git
+.github
+match-review-data
+**/__pycache__
+**/*.pyc
+pass06-media

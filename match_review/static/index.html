@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0d111a">
+  <meta name="description" content="Upload an Overwatch match recording and receive a timecoded Capitology review.">
+  <title>Capitology Match Review</title>
+  <link rel="stylesheet" href="/app.css">
+  <script defer src="/app.js"></script>
+</head>
+<body>
+  <header class="topbar"><div class="brand"><span class="mark" aria-hidden="true">C</span><span>CAPITOLOGY <small>REVIEW LAB</small></span></div><span class="version">PRIVATE PROTOTYPE</span></header>
+  <main>
+    <section id="upload-view" class="workspace" aria-labelledby="upload-title">
+      <div class="heading"><div><p class="eyebrow">MATCH REVIEW</p><h1 id="upload-title">Upload a match recording</h1><p>We’ll scan the whole recording, inspect selected moments, and return a review you can play back by timestamp.</p></div></div>
+      <form id="upload-form" class="upload-grid">
+        <label class="dropzone" id="dropzone"><input id="video-file" type="file" accept="video/mp4,video/quicktime,video/webm,video/x-matroska,.mp4,.mov,.mkv,.webm" required><span class="drop-icon" aria-hidden="true">▣</span><strong id="file-name">Choose an MP4, MOV, MKV, or WebM</strong><span id="file-detail">Full match recording · up to the configured upload limit</span><span class="choose">Select video</span></label>
+        <div class="details">
+          <h2>Player context</h2><p class="helper">These details help us follow the right player. Leave anything uncertain blank.</p>
+          <div class="field-row"><label>Hero <input id="hero" name="hero" placeholder="e.g. Winston"></label><label>Role <select id="role" name="role"><option value="">Unknown</option><option>Tank</option><option>Damage</option><option>Support</option></select></label></div>
+          <div class="field-row"><label>Team / player label <input id="team" name="team" placeholder="e.g. blue team, player name"></label><label>View <select id="perspective" name="perspective"><option value="player POV">Player POV</option><option value="spectator">Spectator</option><option value="unknown">Unsure</option></select></label></div>
+          <label>Anything to focus on? <input id="concern" name="concern" placeholder="Optional · e.g. retakes or dive defense"></label>
+          <button id="submit" type="submit">Analyze recording</button>
+          <p class="fineprint">Only people with this prototype’s access password can open a review. Sampled frames are sent to the analysis provider; the recording is stored with this job. Hidden information and exact ability order may remain uncertain.</p>
+        </div>
+      </form>
+    </section>
+    <section id="progress-view" class="workspace hidden" aria-live="polite"><p class="eyebrow">REVIEW IN PROGRESS</p><h1 id="progress-title">Preparing your recording</h1><p id="progress-message">Uploading…</p><div class="progress-track"><div id="progress-fill"></div></div><p id="progress-number">0%</p><p class="helper">You can return to this page on the same device while this job is retained.</p></section>
+    <section id="report-view" class="hidden" aria-labelledby="report-title">
+      <div class="report-top"><div><p class="eyebrow">MATCH REVIEW</p><h1 id="report-title">Your review</h1><p id="report-context"></p></div><div class="actions"><a class="secondary" id="download-report" download="capitology-review.json">Download report</a><button class="secondary" id="new-review">Review another match</button><button class="secondary" id="delete-review">Delete this job</button></div></div>
+      <div class="review-layout"><div class="video-column"><video id="player" controls playsinline preload="metadata"></video><div class="timebar"><span id="video-time">00:00</span><span id="duration"></span></div><div id="limits" class="notice"></div><form id="feedback-form" class="feedback"><h2>Correct this review</h2><p class="helper">Tell us what the sampled frames missed. A correction is saved with this job for review; it does not change the report automatically.</p><label>Issue <select id="feedback-kind"><option value="wrong_player">Wrong player or hero</option><option value="wrong_pov">Wrong point of view</option><option value="missed_information">Missed visible information</option><option value="intentional_choice">Intentional choice</option><option value="other">Other</option></select></label><label>At recording time <input id="feedback-time" placeholder="MM:SS" required></label><label>What happened? <textarea id="feedback-note" maxlength="1000" required></textarea></label><button class="secondary" type="submit">Save correction</button><p id="feedback-status" role="status"></p></form></div><div class="findings-column"><div class="summary"><h2>Next-match cues</h2><ol id="cues"></ol><div id="patterns"></div></div><h2 id="findings-heading">Moments to review</h2><div id="findings"></div></div></div>
+      <details class="method"><summary>How this review was made</summary><p id="method"></p><p id="scope"></p></details>
+    </section>
+    <section id="error-view" class="workspace hidden" role="alert"><p class="eyebrow">REVIEW UNAVAILABLE</p><h1>We couldn’t complete this review</h1><p id="error-message"></p><button class="secondary" id="retry">Start another upload</button></section>
+  </main>
+</body>
+</html>
