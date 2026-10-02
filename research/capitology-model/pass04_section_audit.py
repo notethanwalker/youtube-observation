@@ -29,13 +29,42 @@ FULL_READ = {
     "LpxT2dykNK0": {2, 3},
     "MYW1ztAeDQc": {3, 5},
     "1UNctVbRS3M": {3, 4, 5, 6, 7, 8},
+    "jSCHyAWoUjc": {1, 3, 4, 5},
+    "M8393UkZxjY": {1, 2, 3, 4, 7, 8},
+    "t1dnez3yuZ4": {1, 2, 5},
+    "Y4ORvoqZ1P0": {3, 4, 5},
+    "sqtmsbHxrLE": {1, 3, 4, 5, 6},
+    "LSrm0ocaS1Q": {2, 5, 6},
+    "AcAxvnAEYpg": {1, 2, 3, 4},
+    "1OvQ5PAK0w0": {3, 4, 5, 6, 7},
+    "2X_yEWyNms0": {2, 3},
+    "TOaKp3Z44ho": {2, 3, 4, 5},
+    "ln2t2rl1KYw": {2, 3, 5, 6, 7},
+    "aNBstKtsPms": {3, 4, 5},
+    "vu4KmVKp2f0": {2},
+    "x5ej22cA7G0": {1, 4, 5},
+    "xabIcyolpJA": {3},
+    "GIY_4hD9_M8": {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18},
+    "n-t2m7R_Gho": {1, 2, 3, 6, 7},
+    "cXnFhS2l47g": {2, 3, 4, 5, 7, 8, 9},
+    "GYBpp0KM5-Q": {3, 4, 6},
+    "N5fHwbNE-SQ": {1, 3, 4, 5},
+    "prUv2eNrGD0": {1, 2, 3, 4, 7, 9, 10},
+    "ijlmDdVIdtk": {2, 3, 4},
+    "AtmKIdmLLQ8": {1, 2, 3, 5, 6},
+    "GKkzCd9cvUg": {4, 5},
+    "KlcWDgdXrZk": {3, 5},
+    "x2jNJeKiMUU": {1, 2, 3, 4},
+    "Hl-nV1aF1yE": {4, 5},
+    "FjoWkH6Sl1k": {1, 2, 3, 6},
+    "iLX7uqsC1jE": {1, 2, 3, 4, 6},
 }
 
 
 def main():
     claims = [json.loads(line) for line in (ROOT / "pass04_claims.jsonl").open()]
     sections = [json.loads(line) for line in (ROOT / "pass03_segments.jsonl").open()]
-    assert sum(map(len, FULL_READ.values())) == 58
+    assert sum(map(len, FULL_READ.values())) == 180
     section_keys = {(s["video_id"], s["segment_number"]) for s in sections}
     assert all((v, n) in section_keys for v, nums in FULL_READ.items() for n in nums)
     rows = []

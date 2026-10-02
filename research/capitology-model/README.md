@@ -1,6 +1,6 @@
 # Capitology Overwatch Model Project
 
-Status: Pass 3 completed on 2026-10-01. Pass 4 strategic claim extraction is in progress: the initial sweep and further section review have 139 provisional claims from 51 of 54 uploads; two Shorts and an announcement yielded no stable model claim. Of 292 transcript sections, 58 have a full Pass 4 caption read, 112 have sampled claim windows only, and 122 remain unread for Pass 4. No gameplay footage has been validated.
+Status: Pass 3 completed on 2026-10-01. Pass 4 strategic claim extraction is in progress: the initial sweep and further section review have 203 provisional claims from 51 of 54 uploads; two Shorts and an announcement yielded no stable model claim. Of 292 transcript sections, 180 have a full Pass 4 caption read and 112 have sampled claim windows only. No gameplay footage has been validated.
 
 Goal: reconstruct Ethan "Capitology" Walker's model of Overwatch from his YouTube corpus, while preserving evidence, contradictions, evolution over time, and the distinction between serious analysis and entertainment.
 

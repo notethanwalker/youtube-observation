@@ -9,16 +9,16 @@ Started 2026-10-02 UTC. This is a manually reviewed, transcript-grounded **initi
 | Known uploads | 54 |
 | Uploads sampled for claims | 51 |
 | Uploads reviewed without a stable model claim | 3 |
-| Provisional atomic claims | 139 |
-| Years represented | 2023: 16 claims; 2024: 46; 2025: 48; 2026: 29 |
-| Pass 3 sections with a full Pass 4 caption read | 58 of 292 |
+| Provisional atomic claims | 203 |
+| Years represented | 2023: 16 claims; 2024: 46; 2025: 97; 2026: 44 |
+| Pass 3 sections with a full Pass 4 caption read | 180 of 292 |
 | Additional sections with sampled claim windows only | 112 of 292 |
-| Sections without a Pass 4 read yet | 122 of 292 |
+| Sections without a Pass 4 read yet | 0 of 292 |
 | Video frames reviewed | 0 |
-| Claims requiring high visual review | 107 |
-| Claims with low transcript confidence | 3 |
+| Claims requiring high visual review | 161 |
+| Claims with low transcript confidence | 4 |
 
-The 51 claim-bearing uploads were **not** reviewed exhaustively. A section marked `sampled_claim_window_only` has a timestamped claim but has not had a full section read; it must not count as complete. The two short reaction clips have too little caption context for a stable tactical claim; the announcement concerns the channel's content plans. This is a broad sample across early definitions, role examples, composition and draft discussion, pro reviews, later clarifications, and learning advice. It is not a frequency estimate of the whole corpus. The speaker announced a 2026 shift toward more general public videos and a separate venue for some team-specific analysis; public channel coverage therefore cannot be treated as a uniform sample of his thinking over time (`UC8D2vBDf_0`, 00:00:04–00:05:12).
+The 51 claim-bearing uploads were **not** reviewed exhaustively. Every section has at least a sampled claim window or a full caption read; a section marked `sampled_claim_window_only` still needs a full read and must not count as complete. The two short reaction clips have too little caption context for a stable tactical claim; the announcement concerns the channel's content plans. This is a broad sample across early definitions, role examples, composition and draft discussion, pro reviews, later clarifications, and learning advice. It is not a frequency estimate of the whole corpus. The speaker announced a 2026 shift toward more general public videos and a separate venue for some team-specific analysis; public channel coverage therefore cannot be treated as a uniform sample of his thinking over time (`UC8D2vBDf_0`, 00:00:04–00:05:12).
 
 ## Files
 
@@ -54,7 +54,7 @@ These relationships are navigation notes, not the final `model.md` synthesis. No
 
 ## Next Pass 4 work
 
-1. Continue the 122 sections marked `not_yet_reviewed`, prioritizing long videos such as `GIY_4hD9_M8` and mixed watch-party material. Then give the 112 sampled-only sections a full read. Use `pass04_section_audit.csv` to keep the denominator visible. The initial sweep covered every upload, not every section.
+1. Give the 112 sections marked `sampled_claim_window_only` a full read. Use `pass04_section_audit.csv` to keep the denominator visible. The full-read sweep of the formerly unreviewed sections included the long mixed watch-party `GIY_4hD9_M8`.
 2. Expand underrepresented exceptions, failed examples, role and composition matchups, and deliberate counterexamples. Revisit the 2024–2025 intervening uploads before making temporal evolution claims.
 3. For every new claim, include a timestamp interval and condition; separate guest speech and quoted material from Capitology's own endorsement.
 4. Audit the ledger against the caption events and make a second read of ambiguous ASR. Only after transcript coverage is complete should Pass 4 be called complete.
