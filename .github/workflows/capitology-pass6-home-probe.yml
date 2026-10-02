@@ -59,15 +59,20 @@ jobs:
               if ($storyboardOk) { break }
             }
             $clipOk = $false
+            $sourceOk = $false
             if (Get-Command ffmpeg.exe -ErrorAction SilentlyContinue) {
               $clip = Join-Path $output 'section.mp4'
               & $yt @jsArgs --no-playlist --no-progress @activeCookies -f 'bv*[height<=480]/b[height<=480]/best[height<=480]' --download-sections "*$start-$end" --merge-output-format mp4 --force-overwrites -o $clip $url
               $clipOk = ($LASTEXITCODE -eq 0) -and (Test-Path $clip) -and ((Get-Item $clip).Length -gt 0)
+            } else {
+              $source = Join-Path $output 'source.%(ext)s'
+              & $yt @jsArgs --no-playlist --no-progress @activeCookies -f 'bv*[height<=480]/b[height<=480]/best[height<=480]' --force-overwrites -o $source $url
+              $sourceOk = ($LASTEXITCODE -eq 0) -and ((Get-ChildItem $output -Filter 'source.*' | Measure-Object).Count -gt 0)
             }
-            $manifest = @{video_id=$videoId; start_seconds=$start; end_seconds=$end; storyboard=$storyboardOk; clip=$clipOk}
+            $manifest = @{video_id=$videoId; start_seconds=$start; end_seconds=$end; storyboard=$storyboardOk; clip=$clipOk; source=$sourceOk}
             $manifest | ConvertTo-Json | Out-File (Join-Path $output 'manifest.json') -Encoding utf8
-            if (-not $storyboardOk -and -not $clipOk) { throw 'Neither storyboard nor clip was retrieved' }
-            Write-Host ('Storyboard: ' + $storyboardOk + '; clip: ' + $clipOk)
+            if (-not $storyboardOk -and -not $clipOk -and -not $sourceOk) { throw 'No visual media was retrieved' }
+            Write-Host ('Storyboard: ' + $storyboardOk + '; clip: ' + $clipOk + '; source: ' + $sourceOk)
           } finally {
             if ($cookiePath -and (Test-Path $cookiePath)) { Remove-Item $cookiePath -Force }
           }
