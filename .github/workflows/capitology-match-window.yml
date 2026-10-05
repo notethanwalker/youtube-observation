@@ -1,0 +1,113 @@
+name: Capitology Match Window
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/capitology-match-window.yml'
+      - 'requests/capitology-match-window.json'
+
+permissions:
+  contents: read
+
+jobs:
+  capture-window:
+    runs-on: [self-hosted, Windows, X64]
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Capture bounded match window
+        shell: powershell
+        env:
+          YOUTUBE_COOKIES_B64: ${{ secrets.YOUTUBE_COOKIES_B64 }}
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $r = Get-Content requests/capitology-match-window.json -Raw | ConvertFrom-Json
+          $videoId = [string]$r.video_id
+          $start = [int]$r.start_seconds
+          $end = [int]$r.end_seconds
+          $height = [int]$r.max_height
+          $frameInterval = [int]$r.frame_interval_seconds
+          $label = [string]$r.label
+          if ($videoId -notmatch '^[A-Za-z0-9_-]{11}$') { throw 'Invalid video ID' }
+          if ($start -lt 0 -or $end -le $start -or ($end-$start) -gt 1200) { throw 'Invalid bounded window' }
+          if ($height -notin @(360,480,720)) { throw 'Invalid height' }
+          if ($frameInterval -lt 1 -or $frameInterval -gt 30) { throw 'Invalid frame interval' }
+
+          $output = Join-Path $PWD 'match_window_output'
+          $framesDir = Join-Path $output 'frames'
+          New-Item -ItemType Directory -Path $framesDir -Force | Out-Null
+
+          $yt = Join-Path $env:RUNNER_TEMP 'capitology-match-window-yt-dlp.exe'
+          Invoke-WebRequest -Uri 'https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe' -OutFile $yt
+
+          $runnerRoot = Split-Path (Split-Path $env:RUNNER_TEMP -Parent) -Parent
+          $node = Join-Path $runnerRoot 'externals\node24\bin\node.exe'
+          if (-not (Test-Path $node)) { $node = Join-Path $runnerRoot 'externals\node20\bin\node.exe' }
+          if (-not (Test-Path $node)) { throw 'No runner Node executable found' }
+          $jsArgs = @('--js-runtimes', ('node:' + $node), '--remote-components', 'ejs:github', '--no-cache-dir')
+
+          $toolDir = Join-Path $env:RUNNER_TOOL_CACHE 'capitology-match-window-ffmpeg'
+          $ffmpeg = Get-ChildItem $toolDir -Filter ffmpeg.exe -Recurse -ErrorAction SilentlyContinue | Select-Object -First 1 -ExpandProperty FullName
+          if (-not $ffmpeg) {
+            New-Item -ItemType Directory -Path $toolDir -Force | Out-Null
+            $ffmpegZip = Join-Path $env:RUNNER_TEMP 'capitology-match-window-ffmpeg.zip'
+            Invoke-WebRequest -Uri 'https://github.com/yt-dlp/FFmpeg-Builds/releases/latest/download/ffmpeg-master-latest-win64-gpl-shared.zip' -OutFile $ffmpegZip
+            Expand-Archive -LiteralPath $ffmpegZip -DestinationPath $toolDir -Force
+            $ffmpeg = Get-ChildItem $toolDir -Filter ffmpeg.exe -Recurse | Select-Object -First 1 -ExpandProperty FullName
+          }
+          if (-not $ffmpeg) { throw 'FFmpeg missing' }
+          $ffmpegDir = Split-Path $ffmpeg -Parent
+
+          $cookiePath = $null
+          $authModes = @('anonymous')
+          if ($env:YOUTUBE_COOKIES_B64) {
+            $cookiePath = Join-Path $env:RUNNER_TEMP 'capitology-match-window-cookies.txt'
+            [System.IO.File]::WriteAllBytes($cookiePath, [Convert]::FromBase64String($env:YOUTUBE_COOKIES_B64))
+            $authModes += 'cookies'
+          }
+
+          $url = 'https://www.youtube.com/watch?v=' + $videoId
+          $clip = Join-Path $output 'new-junk-city-31m44s-44m22s.mp4'
+          $ok = $false
+          try {
+            foreach ($mode in $authModes) {
+              if (Test-Path $clip) { Remove-Item $clip -Force }
+              $authArgs = @()
+              if ($mode -eq 'cookies') { $authArgs = @('--cookies', $cookiePath) }
+              Write-Host ('Bounded download attempt: ' + $mode)
+              $section = '*' + $start + '-' + $end
+              & $yt @jsArgs --ffmpeg-location $ffmpegDir --no-playlist --no-progress --no-warnings --force-overwrites @authArgs -f "bv*[height<=$height]/b[height<=$height]/best[height<=$height]" --download-sections $section --merge-output-format mp4 -o $clip $url
+              if ($LASTEXITCODE -eq 0 -and (Test-Path $clip) -and (Get-Item $clip).Length -gt 10000) { $ok = $true; break }
+            }
+            if (-not $ok) { throw 'Bounded YouTube download failed' }
+
+            & $ffmpeg -hide_banner -loglevel error -y -i $clip -vf "fps=1/$frameInterval" -q:v 2 (Join-Path $framesDir 'frame_%04d.jpg')
+            if ($LASTEXITCODE -ne 0) { throw 'Frame extraction failed' }
+
+            $manifest = @{
+              label=$label
+              video_id=$videoId
+              source_url=$url
+              original_start_seconds=$start
+              original_end_seconds=$end
+              duration_seconds=($end-$start)
+              max_height=$height
+              frame_interval_seconds=$frameInterval
+              clip='new-junk-city-31m44s-44m22s.mp4'
+              frame_count=@(Get-ChildItem $framesDir -Filter '*.jpg').Count
+              clip_size_bytes=(Get-Item $clip).Length
+            }
+            $manifest | ConvertTo-Json -Depth 5 | Set-Content (Join-Path $output 'manifest.json') -Encoding UTF8
+          } finally {
+            if ($cookiePath -and (Test-Path $cookiePath)) { Remove-Item $cookiePath -Force -ErrorAction SilentlyContinue }
+          }
+
+      - name: Upload bounded review artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: capitology-match-window-${{ github.run_id }}
+          path: match_window_output/
+          retention-days: 7
+          if-no-files-found: error
+          compression-level: 0
