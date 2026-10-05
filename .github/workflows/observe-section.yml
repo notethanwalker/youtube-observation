@@ -9,6 +9,10 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: observe-youtube-section
+  cancel-in-progress: true
+
 jobs:
   capture-section:
     runs-on: [self-hosted, Windows, X64]
