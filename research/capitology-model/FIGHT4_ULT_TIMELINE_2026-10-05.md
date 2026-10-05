@@ -8,10 +8,10 @@ Method:
 
 ## Verified order
 
-1. **Stalk3r — Doomfist Meteor Strike**
-   - Activates between 42:06.25 and 42:06.50.
-   - HUD shows Meteor Strike active from ~42:06.50 until ~42:14.50, then ult charge resets at ~42:14.75.
+1. **Stalk3r — Sojourn Overclock**
+   - Activates first, around ~42:06.5.
    - This is the FIRST ultimate in the sequence.
+   - Prior identification of Stalk3r as Doomfist was incorrect.
 
 2. **FunnyAstro — Lucio Sound Barrier**
    - Activates between 42:07.75 and 42:08.00.
@@ -48,12 +48,12 @@ Method:
 - Youbi reaches Pulse Bomb only late and does not use it in the checked window.
 
 ## Critical corrections to prior analysis
-- Stalk3r is Doomfist, not Sojourn.
-- Stalk3r uses Meteor Strike first.
-- Sound Barrier comes second and occurs while Meteor Strike is active.
-- Orbital Ray comes after Beat, while Meteor Strike is still active.
+- Stalk3r is Sojourn.
+- Stalk3r uses Overclock first.
+- Sound Barrier comes second and is best read as TM's response to the incoming Sojourn Overclock / first engage.
+- Orbital Ray comes after Beat.
 - Therefore the early response chain is:
-  **Meteor Strike -> Sound Barrier -> Orbital Ray**
+  **Overclock -> Sound Barrier -> Orbital Ray**
   not
   **Orbital Ray -> Sound Barrier**.
 
@@ -64,3 +64,13 @@ For every serious fight:
 3. mark which ults are direct responses,
 4. record team spacing at each activation,
 5. only then infer strategic intent.
+
+
+## Critical model-safety correction
+A prior pass confused Stalk3r's Sojourn with Doomfist. This is not an acceptable hero-identification failure mode, especially where visual identity cues could be conflated with race or skin tone.
+
+Required safeguard:
+- Never infer hero identity from a player's appearance, skin tone, or vague facial resemblance.
+- Hero identity must come from direct HUD-icon matching against the canonical hero-icon reference set, plus cross-checking against the lobby composition when available.
+- If icon confidence is not high, mark identity uncertain and do not do hero-specific reasoning.
+- Composition consistency check: if a claimed hero does not exist in the observed lobby, treat that as a hard contradiction and re-verify before continuing.
