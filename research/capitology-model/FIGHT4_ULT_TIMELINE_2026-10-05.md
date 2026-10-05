@@ -74,3 +74,40 @@ Required safeguard:
 - Hero identity must come from direct HUD-icon matching against the canonical hero-icon reference set, plus cross-checking against the lobby composition when available.
 - If icon confidence is not high, mark identity uncertain and do not do hero-specific reasoning.
 - Composition consistency check: if a claimed hero does not exist in the observed lobby, treat that as a hard contradiction and re-verify before continuing.
+
+
+## Human adjudication — why Overclock distance matters
+CR opens with **Stalk3r's Sojourn Overclock from far away**.
+
+This creates a high-level decision problem for TM rather than an immediate forced fight:
+
+### TM option A — kite
+- Back away from Overclock.
+- Potentially survive without spending a defensive ultimate.
+- Cost: concede space / likely give CR point control.
+- Consequence: TM must later retake from a worse objective position.
+
+### TM option B — match with a defensive ultimate
+- Use Sound Barrier / Transcendence-type resource to survive the enemy ult.
+- General high-level principle: when countering an offensive ult with a defensive ult, the defending team often wants to **use the defensive ult to close distance and kill**, rather than merely absorb damage.
+- If CR were already close, TM could Beat and immediately run them down.
+- Because CR starts Overclock from far away, TM cannot automatically convert Beat into a kill; there is too much space.
+
+### Key concept: uncertainty window
+Using Overclock from range creates a **position of uncertainty** for TM:
+- kite and give up space,
+- or spend Beat without a guaranteed close-range punish.
+
+This kind of uncertainty is common in high-level Overwatch and is a major reason exact ult order + team spacing at activation must be reconstructed accurately.
+
+### Model lesson
+Do not evaluate an ult only by whether it gets kills.
+A ranged offensive ult can be valuable because it forces an opponent into a bad choice between:
+- resource expenditure,
+- positional concession,
+- or objective loss.
+
+When a defensive ult answers an offensive ult, always ask:
+1. how far apart are the teams?
+2. can the defending team use the defensive ult to close distance and threaten kills?
+3. if not, is the defensive ult only buying survival while still conceding space?
