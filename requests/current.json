@@ -1,15 +1,11 @@
 {
-  "url": "https://youtu.be/Hqd-_oncTlc?is=8_tjr0SWwZbO_MjU",
+  "url": "https://youtu.be/hY_Kwg0wG6M?is=xRtYCtY06ZgepEKE",
   "preset": "motion",
   "max_height": 720,
-  "request_nonce": "2026-09-22T07:36:00-05:00",
-  "identity": {
-    "anchor_seconds": [
-      10
-    ],
-    "description": "Target is the user. Target wears black and begins on bottom near center frame around 0:10. Track the target continuously in full frame and re-verify identity and top/bottom orientation after every scramble, inversion, reversal, occlusion, overlap, exit/re-entry, cut, or camera discontinuity. Do not infer identity from prominence or technical style."
-  },
+  "request_nonce": "2026-10-05T07:00:00-05:00",
   "analysis_context": {
-    "note": "Apply the established jiu-jitsu analysis protocol: identity-first tracking, dense visual checks around exchanges, observable fact separated from inference, specific named techniques only when visually supported, follow sequences from entry through endpoint, and account for training intent, effort asymmetry, deliberate concession of first-line defenses, and positional continuity."
+    "label": "New Junk City",
+    "target_window": "31:44-44:22",
+    "note": "Capitology Build 1.1 match review. Preserve neutral observation first, then strategic interpretation, then mapping to current transparent Capitology concepts. Do not force-fit concepts; surface unknowns and competing hypotheses."
   }
 }
