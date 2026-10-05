@@ -69,3 +69,16 @@ TM also deserves credit: TVNT identifies the split and proactively disrupts the 
 See also:
 - research/capitology-model/HERO_ICON_REFERENCE.md
 - research/capitology-model/Capitology_Correction_Layer_Training_2026-10-05.md (if present in project/library)
+
+
+## Fight outcome / why later phase is low-leverage
+Human adjudication:
+- This fight is mostly decided by the failed initial interaction.
+- After the failed pinch, CR is left in awkward positions and does not have strong ultimates for a clean second plan.
+- TM can then use Ramattra ultimate plus Sojourn ultimate to force CR backward.
+- TM finds a kill on CR's Bastion when he drops.
+- CR could theoretically fully kite the ults and attempt a re-engage, or make a chance play, but both are probably low-percentage options.
+- Therefore, the useful coaching/research value is concentrated in the opening setup + Juno-ult interaction rather than overanalyzing the later cleanup.
+
+Model lesson:
+When an early interaction materially destroys position and resource quality, distinguish the decisive interaction from later low-agency cleanup. Do not assign equal analytical weight to every phase of the fight.
