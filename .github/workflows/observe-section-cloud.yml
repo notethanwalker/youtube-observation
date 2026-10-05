@@ -1,0 +1,80 @@
+name: Observe YouTube Section Cloud
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'requests/section-cloud.json'
+
+permissions:
+  contents: read
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install media tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+          python3 -m pip install --quiet --upgrade 'yt-dlp[default]'
+
+      - name: Capture target section
+        env:
+          YOUTUBE_COOKIES_B64: ${{ secrets.YOUTUBE_COOKIES_B64 }}
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          r=json.loads(Path('requests/section-cloud.json').read_text())
+          Path('/tmp/url').write_text(r['url'])
+          Path('/tmp/start').write_text(r['start'])
+          Path('/tmp/end').write_text(r['end'])
+          Path('/tmp/height').write_text(str(r.get('max_height',720)))
+          PY
+          URL="$(cat /tmp/url)"
+          START="$(cat /tmp/start)"
+          END="$(cat /tmp/end)"
+          HEIGHT="$(cat /tmp/height)"
+          mkdir -p section_output/frames
+          COOKIE_ARGS=()
+          if [ -n "$YOUTUBE_COOKIES_B64" ]; then
+            printf '%s' "$YOUTUBE_COOKIES_B64" | base64 --decode > "$RUNNER_TEMP/youtube_cookies.txt"
+            chmod 600 "$RUNNER_TEMP/youtube_cookies.txt"
+            COOKIE_ARGS=(--cookies "$RUNNER_TEMP/youtube_cookies.txt")
+          fi
+          ok=0
+          for client in default web_safari android_vr; do
+            EXTRA=()
+            if [ "$client" != default ]; then EXTRA=(--extractor-args "youtube:player_client=$client"); fi
+            rm -f section_output/section.mp4
+            if yt-dlp --no-playlist --no-progress --no-warnings               "${COOKIE_ARGS[@]}" "${EXTRA[@]}"               -f "bv*[height<=$HEIGHT]/b[height<=$HEIGHT]/best[height<=$HEIGHT]"               --download-sections "*$START-$END" --merge-output-format mp4 --force-overwrites               -o section_output/section.mp4 "$URL"; then
+              if ffprobe -v error -show_entries format=duration -of csv=p=0 section_output/section.mp4 > section_output/duration.txt; then
+                ok=1
+                break
+              fi
+            fi
+          done
+          if [ "$ok" != 1 ]; then exit 1; fi
+          ffmpeg -hide_banner -loglevel error -y -i section_output/section.mp4             -vf 'fps=1/5,scale=960:-2' -q:v 3 section_output/frames/frame_%04d.jpg
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          r=json.loads(Path('requests/section-cloud.json').read_text())
+          d={'label':r.get('label'),'url':r['url'],'start':r['start'],'end':r['end'],
+             'duration_seconds':float(Path('section_output/duration.txt').read_text().strip()),
+             'frame_sampling':'one frame every five seconds'}
+          Path('section_output/manifest.json').write_text(json.dumps(d,indent=2)+'\n')
+          PY
+
+      - name: Upload section artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: new-junk-city-cloud-${{ github.run_id }}
+          path: section_output/
+          retention-days: 7
+          compression-level: 0
+          if-no-files-found: error
