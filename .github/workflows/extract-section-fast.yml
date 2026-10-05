@@ -1,0 +1,65 @@
+name: Extract New Junk City Fast
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'requests/extract-section-fast.json'
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+
+      - name: Download prior raw artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: raw-source-hY_Kwg0wG6M-37313113814
+          path: raw
+          run-id: 37313113814
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fast cut and sparse frames
+        run: |
+          mkdir -p output/frames
+          SRC="$(find raw -type f | head -n1)"
+          test -n "$SRC"
+          ffmpeg -hide_banner -loglevel error -y -ss 1904 -i "$SRC" -t 758 -an -c:v copy output/new-junk-city-31m44s-44m22s.mp4
+          ffprobe -v error -show_entries format=duration -of csv=p=0 output/new-junk-city-31m44s-44m22s.mp4 > output/duration.txt
+          ffmpeg -hide_banner -loglevel error -y -i output/new-junk-city-31m44s-44m22s.mp4 -vf 'fps=1/10,scale=960:-2' -q:v 3 output/frames/frame_%04d.jpg
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          d={
+            "label":"New Junk City",
+            "video_id":"hY_Kwg0wG6M",
+            "source_start_seconds":1904,
+            "source_end_seconds":2662,
+            "source_start":"31:44",
+            "source_end":"44:22",
+            "clip_duration_seconds":float(Path("output/duration.txt").read_text().strip()),
+            "frame_sampling":"one frame every ten seconds",
+            "cut_mode":"stream copy"
+          }
+          Path("output/manifest.json").write_text(json.dumps(d,indent=2)+"\n")
+          PY
+
+      - name: Upload target artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: new-junk-city-fast-${{ github.run_id }}
+          path: output/
+          retention-days: 7
+          compression-level: 0
+          if-no-files-found: error
