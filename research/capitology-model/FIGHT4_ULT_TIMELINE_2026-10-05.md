@@ -111,3 +111,35 @@ When a defensive ult answers an offensive ult, always ask:
 1. how far apart are the teams?
 2. can the defending team use the defensive ult to close distance and threaten kills?
 3. if not, is the defensive ult only buying survival while still conceding space?
+
+
+## Human adjudication — why Orbital Ray gets little conversion
+After CR opens with long-range Sojourn Overclock and TM answers with Sound Barrier, Vigilante uses Orbital Ray.
+
+Key read:
+- TM already has enough space to kite before Ray starts.
+- Beat gives TM the temporary durability to survive CR's first pressure while continuing to retreat.
+- Lucio speed and the existing distance let TM leave Ray's strongest fight area rather than stand and brawl inside it.
+- Orbital Ray therefore wins CR space / point access, but does not force a kill.
+- TM spreads and retreats away from the beam path rather than matching CR in the close fight Ray wants.
+- CR's outside pressure does not make those retreat paths expensive enough; nobody is positioned well enough to catch TM where Ray is pushing them.
+
+Useful abstraction:
+> Ray becomes mostly a positional ult rather than a kill ult when the opponent has enough distance, speed, survivability, and retreat geometry to kite its path.
+
+Important nuance:
+- Pulse Bomb in the following phase is a relatively hit-or-miss ult and should not be overinterpreted.
+- The important structural question is why a high-value ultimate like Orbital Ray failed to convert despite CR's pressure.
+
+## Current Fight 4 understanding
+1. Stalk3r opens with long-range Sojourn Overclock, creating an uncertainty choice for TM.
+2. TM answers with Sound Barrier.
+3. Because the teams are still far apart, TM cannot simply Beat and immediately kill CR; the distance preserves CR from that punishment.
+4. Vigilante adds Orbital Ray.
+5. TM kites the Ray using space + Beat durability + Lucio speed, conceding space but avoiding the close fight.
+6. HeeSang's Pulse Bomb does not meaningfully decide the structural read.
+7. MAX later uses Cage Fight to remove the remaining space.
+8. TVNT answers with Annihilation in the now-compressed close-range fight.
+9. Simple later reaches/uses Coalescence as another late resource layer.
+
+Status: satisfactory for current training pass; deeper Cage/Annihilation inspection can resume later if useful.
