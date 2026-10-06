@@ -1,0 +1,98 @@
+name: Capture YouTube Audio
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'requests/audio_current.json'
+
+permissions:
+  contents: read
+
+jobs:
+  capture_audio:
+    runs-on: [self-hosted, Windows, X64]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install portable yt-dlp
+        shell: powershell
+        run: |
+          $toolDir = Join-Path $env:RUNNER_TEMP "youtube-audio-tools"
+          if (Test-Path $toolDir) { Remove-Item $toolDir -Recurse -Force }
+          New-Item -ItemType Directory -Path $toolDir | Out-Null
+          $yt = Join-Path $toolDir "yt-dlp.exe"
+          Invoke-WebRequest -Uri "https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe" -OutFile $yt
+          "YT_DLP_EXE=$yt" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+
+      - name: Resolve request
+        id: request
+        shell: powershell
+        run: |
+          $r = Get-Content requests/audio_current.json -Raw | ConvertFrom-Json
+          $url = ([string]$r.url).Trim()
+          if (-not ($url -match '^https?://(www\.)?(youtube\.com|youtu\.be)/')) { throw "Unsupported YouTube URL" }
+          "url=$url" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+
+      - name: Restore optional cookies
+        shell: powershell
+        env:
+          YOUTUBE_COOKIES_B64: ${{ secrets.YOUTUBE_COOKIES_B64 }}
+        run: |
+          if ($env:YOUTUBE_COOKIES_B64) {
+            $cookiePath = Join-Path $env:RUNNER_TEMP "youtube_cookies.txt"
+            [System.IO.File]::WriteAllBytes($cookiePath,[Convert]::FromBase64String($env:YOUTUBE_COOKIES_B64))
+            "YOUTUBE_COOKIE_FILE=$cookiePath" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+          }
+
+      - name: Download best audio
+        id: audio
+        shell: powershell
+        run: |
+          $url = "${{ steps.request.outputs.url }}"
+          $meta = & $env:YT_DLP_EXE --no-warnings --dump-single-json --skip-download --ignore-no-formats-error $url | ConvertFrom-Json
+          $videoId = [string]$meta.id
+          $stem = Join-Path $env:RUNNER_TEMP ("guitar-vst-audio-" + $videoId)
+          $attempts = @(
+            @{ Name='cookies-default'; Cookies=$true; Client=$null },
+            @{ Name='cookies-android'; Cookies=$true; Client='android' },
+            @{ Name='cookies-web-safari'; Cookies=$true; Client='web_safari' },
+            @{ Name='anonymous-default'; Cookies=$false; Client=$null },
+            @{ Name='anonymous-android'; Cookies=$false; Client='android' },
+            @{ Name='anonymous-web-safari'; Cookies=$false; Client='web_safari' },
+            @{ Name='anonymous-web-embedded'; Cookies=$false; Client='web_embedded' }
+          )
+          $found = $null
+          foreach ($a in $attempts) {
+            Get-ChildItem ($stem + ".*") -ErrorAction SilentlyContinue | Remove-Item -Force
+            $args = @('--no-warnings')
+            if ($a.Cookies -and $env:YOUTUBE_COOKIE_FILE) { $args += @('--cookies',$env:YOUTUBE_COOKIE_FILE) }
+            if ($a.Client) { $args += @('--extractor-args',('youtube:player_client=' + $a.Client)) }
+            $args += @('-f','ba/bestaudio/best','-o',($stem + '.%(ext)s'),$url)
+            Write-Host ('Audio attempt: ' + $a.Name)
+            & $env:YT_DLP_EXE @args
+            if ($LASTEXITCODE -eq 0) {
+              $found = Get-ChildItem ($stem + ".*") -ErrorAction SilentlyContinue | Where-Object { $_.Length -gt 0 } | Select-Object -First 1
+              if ($found) { break }
+            }
+          }
+          if (-not $found) { throw 'All audio download strategies failed' }
+          "AUDIO_FILE=$($found.FullName)" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+          "video_id=$videoId" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
+          Write-Host ('Audio captured: ' + $found.FullName)
+
+      - name: Upload raw audio artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: guitar-vst-audio-${{ steps.audio.outputs.video_id }}-${{ github.run_id }}
+          path: ${{ env.AUDIO_FILE }}
+          retention-days: 7
+          compression-level: 0
+          if-no-files-found: error
+
+      - name: Cleanup
+        if: always()
+        shell: powershell
+        run: |
+          if ($env:YOUTUBE_COOKIE_FILE) { Remove-Item $env:YOUTUBE_COOKIE_FILE -Force -ErrorAction SilentlyContinue }
+          if ($env:AUDIO_FILE) { Remove-Item $env:AUDIO_FILE -Force -ErrorAction SilentlyContinue }
