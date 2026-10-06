@@ -175,7 +175,34 @@ jobs:
           Write-Host ('Successful download strategy: ' + $downloadStrategy)
           Write-Host ('Temporary source: ' + $sourcePath)
 
+          # Guitar-VST/audio-analysis support: capture the best available audio stream
+          # separately. The visual source above is intentionally video-only.
+          $audioStem = Join-Path $env:RUNNER_TEMP ("youtube-observation-audio-" + $videoId)
+          Get-ChildItem ($audioStem + ".*") -ErrorAction SilentlyContinue | Remove-Item -Force
+          $audioDownloaded = $false
+          $audioPath = $null
+          foreach ($a in $attempts) {
+            Write-Host ('Audio download attempt: ' + $a.Name)
+            Get-ChildItem ($audioStem + ".*") -ErrorAction SilentlyContinue | Remove-Item -Force
+            $audioArgs = @('--no-warnings')
+            if ($a.Cookies) { $audioArgs += @('--cookies', $env:YOUTUBE_COOKIE_FILE) }
+            if ($a.Client) { $audioArgs += @('--extractor-args', ('youtube:player_client=' + $a.Client)) }
+            $audioArgs += @('-f', 'ba/bestaudio/best', '-o', ($audioStem + '.%(ext)s'), $url)
+            & $env:YT_DLP_EXE @audioArgs
+            if ($LASTEXITCODE -eq 0) {
+              $candidate = Get-ChildItem ($audioStem + ".*") -ErrorAction SilentlyContinue | Where-Object { $_.Length -gt 0 } | Select-Object -First 1
+              if ($candidate) {
+                $audioPath = $candidate.FullName
+                $audioDownloaded = $true
+                break
+              }
+            }
+          }
+          if (-not $audioDownloaded) { throw 'All YouTube audio download strategies failed' }
+          Write-Host ('Temporary audio source: ' + $audioPath)
+
           "SOURCE_FILE=$sourcePath" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+          "AUDIO_FILE=$audioPath" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
           "video_id=$videoId" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
           "title=$title" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
           "ext=$ext" | Out-File -FilePath $env:GITHUB_OUTPUT -Encoding utf8 -Append
@@ -191,6 +218,15 @@ jobs:
           compression-level: 0
           if-no-files-found: error
 
+      - name: Upload temporary audio artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-audio-${{ steps.capture.outputs.video_id }}-${{ github.run_id }}
+          path: ${{ env.AUDIO_FILE }}
+          retention-days: 1
+          compression-level: 0
+          if-no-files-found: error
+
       - name: Remove temporary capture credentials
         if: always()
         shell: powershell
@@ -200,6 +236,9 @@ jobs:
           }
           if ($env:SOURCE_FILE) {
             Remove-Item $env:SOURCE_FILE -Force -ErrorAction SilentlyContinue
+          }
+          if ($env:AUDIO_FILE) {
+            Remove-Item $env:AUDIO_FILE -Force -ErrorAction SilentlyContinue
           }
 
   process:
