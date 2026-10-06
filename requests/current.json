@@ -1,10 +1,10 @@
 {
-  "url": "https://www.youtube.com/watch?v=8SwlrOMydiY",
+  "url": "https://www.youtube.com/watch?v=sYOj56wtZo4",
   "preset": "standard",
   "max_height": 720,
-  "request_nonce": "guitar-vst-prototype-3",
+  "request_nonce": "guitar-vst-prototype-4",
   "analysis_context": {
-    "label": "Periphery Wax Wings Mark Holcomb playthrough",
+    "label": "Misha X isolated guitar demo",
     "project": "guitar vst",
     "objective": "Extract candidate guitar audio for a MIDI-controlled seven-string prototype. Preserve source provenance; prioritize exposed guitar events suitable for palm-mute, sustain, dead-note, release, chord, or attack samples."
   }
