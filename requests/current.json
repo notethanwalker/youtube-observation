@@ -1,11 +1,11 @@
 {
-  "url": "https://youtu.be/hY_Kwg0wG6M?is=xRtYCtY06ZgepEKE",
-  "preset": "motion",
+  "url": "https://www.youtube.com/watch?v=IfmB4UAg18g",
+  "preset": "standard",
   "max_height": 720,
-  "request_nonce": "2026-10-05T07:00:00-05:00",
+  "request_nonce": "guitar-vst-prototype-1",
   "analysis_context": {
-    "label": "New Junk City",
-    "target_window": "31:44-44:22",
-    "note": "Capitology Build 1.1 match review. Preserve neutral observation first, then strategic interpretation, then mapping to current transparent Capitology concepts. Do not force-fit concepts; surface unknowns and competing hypotheses."
+    "label": "APWD tone breakdown",
+    "project": "guitar vst",
+    "objective": "Extract candidate guitar audio for a MIDI-controlled seven-string prototype. Preserve source provenance; prioritize exposed guitar events suitable for palm-mute, sustain, dead-note, release, chord, or attack samples."
   }
 }
