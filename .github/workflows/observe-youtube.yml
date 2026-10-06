@@ -1,6 +1,9 @@
 name: Observe YouTube
 
 on:
+  push:
+    paths:
+      - 'requests/current.json'
   workflow_dispatch:
     inputs:
       url:
