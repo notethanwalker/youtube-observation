@@ -37,9 +37,12 @@ def ytdlp_base(client: str | None, cookies_file: str | None):
 
 
 def client_candidates(cookies_file: str | None):
+    # YouTube's logged-in tv_downgraded/default client can intermittently fail with
+    # "The page needs to be reloaded". Android currently provides a useful
+    # non-SABR fallback before the limited web_embedded client.
     if cookies_file:
-        return [None, 'web_embedded']
-    return [None, 'web_embedded', 'android_vr', 'ios']
+        return [None, 'android', 'web_embedded']
+    return [None, 'android', 'web_embedded', 'android_vr', 'ios']
 
 
 def write_format_diagnostic(url: str, cookies_file: str | None, client: str | None, path: Path):
