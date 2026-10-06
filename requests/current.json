@@ -1,10 +1,10 @@
 {
-  "url": "https://www.youtube.com/watch?v=IfmB4UAg18g",
+  "url": "https://www.youtube.com/watch?v=WMzFHpdqpKg",
   "preset": "standard",
   "max_height": 720,
-  "request_nonce": "guitar-vst-prototype-1",
+  "request_nonce": "guitar-vst-prototype-2",
   "analysis_context": {
-    "label": "APWD tone breakdown",
+    "label": "Periphery Zagreus guitar playthrough",
     "project": "guitar vst",
     "objective": "Extract candidate guitar audio for a MIDI-controlled seven-string prototype. Preserve source provenance; prioritize exposed guitar events suitable for palm-mute, sustain, dead-note, release, chord, or attack samples."
   }
