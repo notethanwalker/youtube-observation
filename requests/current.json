@@ -2,7 +2,7 @@
   "url": "https://www.youtube.com/watch?v=sYOj56wtZo4",
   "preset": "standard",
   "max_height": 720,
-  "request_nonce": "guitar-vst-prototype-4",
+  "request_nonce": "guitar-vst-misha-x-android-fallback-test",
   "analysis_context": {
     "label": "Misha X isolated guitar demo",
     "project": "guitar vst",
