@@ -1,11 +1,11 @@
 {
-  "url": "https://www.youtube.com/watch?v=sYOj56wtZo4",
+  "url": "https://www.youtube.com/watch?v=IfmB4UAg18g",
   "preset": "standard",
   "max_height": 720,
-  "request_nonce": "guitar-vst-misha-x-android-fallback-test",
+  "request_nonce": "guitar-vst-apwd-audio-capture-v1",
   "analysis_context": {
-    "label": "Misha X isolated guitar demo",
+    "label": "APWD tone breakdown",
     "project": "guitar vst",
-    "objective": "Extract candidate guitar audio for a MIDI-controlled seven-string prototype. Preserve source provenance; prioritize exposed guitar events suitable for palm-mute, sustain, dead-note, release, chord, or attack samples."
+    "objective": "Capture sample-ready audio plus visual observation data for prototype guitar sample extraction."
   }
 }
